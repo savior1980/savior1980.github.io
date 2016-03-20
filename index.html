@@ -14,13 +14,15 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+          {% if post.excerpt != null %}
         <p>{{ post.excerpt}}</p>
         <a href="{{ post.url | prepend: site.baseurl }}">Leer más</a>
+        {% endif %}
       </li>
 
     {% endfor %}
   </ul>
-  
+
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
