@@ -23,10 +23,11 @@ gems:
  - jekyll-coffeescript
  - jekyll-textile-converter
  - jekyll-paginate
+
 # Pages
 pages_list:
-  About: '/about'
-  Archive: '/archive'
+  About: '/about/'
+  Archive: '/archive/'
   Feed: '/feed.xml'
 
 paginate: 5
