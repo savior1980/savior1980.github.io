@@ -1,0 +1,15 @@
+---
+layout: post
+title: El torbellino de la presión
+date: '2015-01-23T00:00:00+00:00'
+permalink: http://resistancefutile.com/2015/01/23/el-torbellino-de-la-presion/
+---
+Mi último post es de Julio 2014, hace 6 meses y algo. Además es bastante ecléctico, por mentar algún cultismo que le vaya bien. La verdad tengo poco, muy poco o nada de tiempo para publicar por aquí, seguramente, los 66 que dice feedburner que todavía quedáis os sorprenderán estas líneas, pensaréis y este qué ha sido de él, con lo que él era en el mundo blogueril.
+
+Pues francamente, no tengo una respuesta muy elaborada a esa afirmación, más que el día a día me consume y en el fin de semana, cuando podría dar un poco más de rienda suelta a mis RSS y mis ganas de "enchufarme" online, en su lugar me pasa el finde en un momento y lo dedico a descansar (lo que puedo y lo que me dejan). 
+
+En el momento de leer estas líneas, los 42 (calculo) que quedáis leyendo, os preguntaréis por qué narices escribo esto. Bueno pues es a modo de catarsis, para rememorar aquellos tiempos (los pasados que mentaba en mi post anterior) y para poder liberar un poco de estrés. La presión, ese gran torbellino, una espiral descendente que te absorbe y te deja hecho un cisco, eso es de lo que quería hablar, porque es difícil salir de ciertas dinámicas que generan en cierta medida autodestrucción nerviosa. Llevo -unos meses, bueno no, llevo- unos años *bastante intensos*, en los que a nivel laboral intento dar el máximo de mí y a veces lo consigo y muchas otras veces no, pero creo que estoy llegando a un estado en el que la presión me puede. Hay momentos en los que lo mandaría todo a tomar por culo. Luego recapacitas y te das cuenta que todo lo que no te mata, te hace más fuerte y que de todo puedes aprender y sigues adelante, hasta la próxima ola del torbellino, otro revolcón más. 
+
+Seguramente muchos pensaréis que mi _workaholismo_ va en aumento, pero os equivocáis, intento a cada vuelta del torbellino ser mejor, aprender algo más, no dejarme llevar otra vez de la misma forma y avanzar. De momento, he zozobrado muchas veces, y las que me quedan por venir, pero nunca os diré que he fracasado, que quiero dejarlo, que echando la vista atrás no volvería a tomar este camino que me alejó de la consultoría para embarcarme en cierta aerolínea (que salía en la última página de La Vanguardia esta semana). Porque la presión es mala y las perspectivas son de que se avecina una tormenta de proporciones cósmicas, pero seguiremos adelante, lo noto y por eso intento empujar mi día a día y superar una vez más la presión que me asfixia.   
+
+Señores, el tiempo dirá cuando volveré a escribir por aquí estas idas de olla, seguramente de los 16 (calculo) que todavía estáis leyendo esto, quedareis 3 o 4 en mi feedburner, gracias por estar ahí. Si en algún momento, encuentro la forma de volver a postear más asiduamente, de volver a sentir el gusanillo de comunicar, de escribir para ser leído, de contar cosas interesantes, lo haré, buscaré la forma, pero de momento, no ha llegado la hora de volver, ahora toca *girar*.

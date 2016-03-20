@@ -1,0 +1,21 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [11/09/2007]
+date: '2007-09-11T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/09/11/mehagustadonomehagustado-11092007/
+---
+Hago un <strong>mehagustado</strong> especial ya que este finde ha sido un poco largo, hoy diada nacional de Catalunya es fiesta y ayer me lo pude pillar de puente así que he podido disfrutar de 4 días de "fiesta".
+
+- <strong>Mehagustado</strong> cada minuto de este largo finde, hacía mucho tiempo que no lo pasaba tan bien, que no tenía sensaciones tan positivas. Hemos podido ir comprando cosillas para el piso, hemos incluso dormido ahí hoy y ayer vinieron a cenar los amigotes del MundoReal&trade;, ha sido fabuloso.
+
+- <strong>Mehagustado</strong> <a href="http://cuatrodoce.com/?p=470">la primera semana de curro</a>, sinceramente ha sido bastante relajada, además el puente me ha servido para recargar las pilas a tope.
+
+- <strong>Mehagustado</strong> bastante las <a href="http://www.flickr.com/photos/lady-madonna/1353936893/">quedadas blogueras de este finde</a>, el comer en un coreano (nunca había ido) y poder pasar un rato entretenido jugando a bolos y viendo que <a href="http://www.flickr.com/photos/lady-madonna/1353918551/">no soy tan tan malo como pensaba</a>, hay <a href="http://cuatrodoce.com">gente</a> mucho peor que yo en este juego.
+
+- <strong>Nomehagustado</strong> la procrastinación salvaje que tengo ahora mismo en mi actividad bloguera, no he publicado nada ni en genbeta, ni en applesfera, ni aquí en el resistance pero es que entre ir al piso, quedar con la gente y tal vaya que no saco tiempo para todo.
+
+- <strong>Mehagustado</strong> muchísimo montar con <a href="http://childrenatyourfeet.com">Cristina</a> el <em>X-Wing de Lego</em> que de momento tenemos en expuesto en el mueble del salón... la nave es genial, aunque nos costó una pasta he de reconocerlo, pero montarla conjuntamente en nuestra terraza tomándonos una horchata y al final ver el resultado ha sido genial.
+
+- <strong>Nomehagustado</strong> comprobar que mi economía va de mal en peor, compras 4 cosas necesarias para vivir, una sartén, unos cuchillos, unas patatas para picar y un par de cervezas y te sacan 50 euros pero rápido, rápido. Dios, emanciparse es caro de la ostia.
+
+- <strong>Mehagustado</strong> encontrarme en el trabajo con una chica que conocí hace tiempo y que además me enteré que tenemos un amigo común, pues estudiaron juntos, hace gracia que pasen estas cosas, te hacen pensar que <a href="http://es.wikipedia.org/wiki/Seis_grados_de_separaci%C3%B3n">la teoría de los seis grados de separación</a> quizás no sea una tontería.

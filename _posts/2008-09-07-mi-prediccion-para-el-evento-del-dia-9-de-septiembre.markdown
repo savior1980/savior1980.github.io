@@ -1,0 +1,17 @@
+---
+layout: post
+title: Mi predicción para el evento del día 9 de Septiembre
+date: '2008-09-07T00:00:00+00:00'
+permalink: http://resistancefutile.com/2008/09/07/mi-prediccion-para-el-evento-del-dia-9-de-septiembre/
+---
+<del datetime="2008-09-08T21:32:38+00:00">Mi predicción es que estaré en Mallorca puteado hasta el extremo, me perderé la keynote, no podré actualizar el firmware del iPod Touch e iPhone a la versión 2.1, y fijo que tampoco podré descargar iTunes 8 y ver todas sus novedades. 
+
+A las malas, cuando llegue a la habitación para sobar (a la una de la noche aprox.) me enchufaré el modem 3G para pegarle un repaso a la cobertura que hayan hecho los compis de <a href="http://applesfera.com">Applesfera</a> <del datetime="2008-09-08T06:30:27+00:00">y los geniales Macrumors  (es la mejor opción para seguir la keynote y lo sabéis)</del>. Seguramente allí veré los ya filtrados iPod Nano 4G, quizás una renovación del iPod Touch, aunque esto último quizás no me alegre demasiado, que se desfasen tus gadgets nunca hace gracia.  
+
+No habrá nuevos Macminis, tampoco nada de nuevas Cinema Displays, ni nuevos procesadores, ni nada de nada del panorama Mac, eso más adelante. MacTablet? pero alguien sigue con ese rumor a estas alturas? </del>
+
+<strong>Actualización</strong>: LZ me informa en los comentarios que Macrumors no seguirá el evento esta vez, así que nada, iremos a los lugares habituales, applesfera, appleweblog.es, tuaw, engadget, macuser...
+
+<strong>Actualización 2</strong>: Al final, me han cancelado la reunión en Mallorca mañana, así que iré a la isla el miércoles solamente... <del datetime="2008-09-09T21:07:15+00:00">lo quan implica que podré seguir la keynote sin problema!</del>
+
+<strong>Actualización 3</strong>: Pues parece que de pitoniso nada, me he quedado sin keynote por curro infinito, me la he perdido enterita, una pena porque veo que ha estado bastante bien, se ha presentado todo lo que se esperaba pero en resumen creo que ha sido de las mejores últimamente.

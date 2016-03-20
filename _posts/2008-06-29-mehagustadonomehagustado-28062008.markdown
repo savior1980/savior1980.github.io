@@ -1,0 +1,17 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [28/06/2008]
+date: '2008-06-29T00:00:00+00:00'
+permalink: http://resistancefutile.com/2008/06/30/mehagustadonomehagustado-28062008/
+---
+-<strong>Mehagustado</strong> que esta es la penúltima semana que paso la mitad de los días en Palma, en dos semanas el proyecto continuará completamente en Barcelona teniendo que hacer reuniones puntuales en baleares, así que bueno, estoy ya esperando ese cambio de ritmo con los brazos abiertos.
+
+- <strong>Mehaencantado</strong> el juego <a href="http://www.smashbros.com/es/index.html">Smash Bros. Brawl</a> para la Wii. Increíble lo que engancha ese juego, un beat'em up brutal, con un nivel de dificultad adecuado, en el que se pueden hacer combos espectaculares y se le puede sacar mucho jugo. Ha sido lo que más horas me ha sacado este finde.
+
+- <strong>Mehagustado</strong> celebrar el santo de mi hermano ayer, fue bastante entrañable con toda la família reunida, la verdad que da gusto cuando todo transcurre bien y todo el mundo lo pasa en grande. Le regalamos un disco duro multimedia y la verdad que le gustó mucho al chaval, lo encontró muy práctico.
+
+- <strong>Nomehangustado</strong> nada las series <a href="http://www.nbc.com/30_Rock/">30Rock</a> y <a href="http://www.bbc.co.uk/drama/stateofplay/">State of Play</a>, muy sosas las dos, sin nada de punch sobre todo la segunda donde me he pegado una sobada de las buenas.
+
+- <strong>Mehagustado</strong> el precio del nuevo iPhone, 100 euros por la versión de 8 GB la verdad que se me antoja interesante, además los planes de datos asociados no son muy caros, creo que en vomistar falta gente. A ver si pasan rápido estas dos semanas que quedan para poder tenerlo en nuestras manos.
+
+- <strong>Mehagustado</strong> que ahora ya por fin está actualizado y es plenamente compatible con la versión actual de WP el theme <a href="http://www.teddyhwang.com/resources/leopardadmin/">Leopard Admin</a> para el editor interno del blog, la verdad es que la interfaz 2.5 no terminaba de cuadrarme mucho y ahora con este tema lo tengo todo a mano y con estilo.

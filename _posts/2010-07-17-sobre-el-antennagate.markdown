@@ -1,0 +1,17 @@
+---
+layout: post
+title: Sobre el "Antennagate"
+date: '2010-07-17T00:00:00+00:00'
+permalink: http://resistancefutile.com/2010/07/17/sobre-el-antennagate/
+---
+<a href="http://resistancefutile.com/wp-content/Captura-de-pantalla-2010-07-17-a-las-20.52.11.png"><img src="http://resistancefutile.com/wp-content/Captura-de-pantalla-2010-07-17-a-las-20.52.11.png" alt="" title="Antennagate" width="298" height="188" class="derecha_borde" /></a>Me parece que a estas alturas todo el mundo conoce el affair "Antennagate" que preocupa y mucho a todos los que quieren comprarse un iPhone. Creo que la conferencia de prensa de ayer lejos de alejar dudas acrecentó las sospechas. A todos los que queráis compraros un iPhone 4 yo os digo HACEDLO. He tenido un iPhone 4 en mis manos y realmente para provocar el problema de cobertura, tienes que proponertelo. Apretando fuertemente con la mano la parte izquierda del iPhone 4, y tas algunos segundos (ni dos, ni tres, al menos 30) verás que las líneas de cobertura empiezan a hacer el tonto y a bajar. 
+
+Ahora eso sí, en lugar de decir que se trata de un problema extendido, de que no són los únicos que lo tienen, hombre, no hubiese estado de más alguna explicación de por qué sucede, qué medidas van a tomar para corregirlo, etc. A mí, la rueda de prensa me pareció un chiste de mal gusto.
+
+Pero que nadie os la dé con queso, hacer que baje la cobertura es bastante jodido, os lo digo yo que he tenido uno en mis manos como demuestra la foto hecha a continuación.
+
+<a href="http://www.flickr.com/photos/savior1980/4765185533/" title="Primera vez con un iPhone 4 by Savior1980, on Flickr"><img src="http://farm5.static.flickr.com/4134/4765185533_9d28315435.jpg" width="500" height="332" alt="Primera vez con un iPhone 4" /></a>
+
+Y es que el momento de las preguntas de prensa donde un periodista les pregunta si los tres presentes llevan bumper en sus iPhones 4 y ninguno lo lleva es indicativo de que se trata de un problema menor, magnificado y amplificado por los medios pero que para nada hace que el teléfono sea inusable como quieren hacernos ver algunos.
+
+Cuando dije que era muy improbable que el efecto del cuerpo influyese sobre las antenas está visto que me equivoqué, en parte, realmente sí puedes ejercer una influencia, pero macho en un agarre normal, en condiciones normales, es muy difícil que pierdas cobertura por el efecto de la presión ejercida por tu mano (y el contacto con la antena).

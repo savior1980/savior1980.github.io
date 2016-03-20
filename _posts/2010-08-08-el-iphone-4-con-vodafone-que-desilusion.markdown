@@ -1,0 +1,12 @@
+---
+layout: post
+title: El iPhone 4 con Vodafone, qué desilusión
+date: '2010-08-08T00:00:00+00:00'
+permalink: http://resistancefutile.com/2010/08/08/el-iphone-4-con-vodafone-que-desilusion/
+---
+Después de tomar la decisión de "largarme a Vodafone":http://resistancefutile.com/2010/08/04/sigo-sin-saber-como-obtener-un-iphone-4/, la historia sobre el iPhone 4 no termina aquí. El lunes fui a la tienda vodafone y me dijeron que el sábado día 7 iban a recibir. MENTIRA. Me fui allí a las 8 de la mañana para ser el primero en llegar a la tienda. Me encontré con la chica que me dijo que sí iban a tener sólo que esta vez me decía que NO tendrían el sábado y que no sabía si recibirían el marte, el miércoles, el jueves o el viernes. Hay que joderse. Así que perdí la mañana en Barcelona para nada, menos mal que al mediodía habíamos quedado, teníamos planes para hacer porque marcarme el viajecito para volver con las manos vacías y peor de lo que estaba, vamos me hubiese hecho una gracia tremenda.
+
+Bueno, después que me digan que no van a tener, digo estoy jodido, porque los de movistar son gilipollas y yo no puedo hacer la portabilidad a vodafone porque no hay stock. Pero por la tarde, me avisa "@Jorx":http://twitter.com/jorx que han abierto la tienda on-line de vodafone con el iPhone 4, así que no dudo un momento en ir pero el modelo e 16GB no está disponible, así que igualmente he realizado la portabilidad, _on-line_, con el modelo de 32GB. Que me sale por un pico: *399 eurazos*. 100 más de lo que esperaba gastarme (yo quería el de 16GB) y 150 más de lo que me hubiese costado por puntos con movistar de haberme aplicado la promoción. Bueno y puestos a contar, 310 euros más que lo que el martes me aseguraron los señores de movistar cuando llamé por vigesimoquinta vez. 
+
+No obstante, a ver si ahora conseguimos invertir las tornas: que sea movistar quién me llame y me haga ofertas para que no ejecute la portabilidad. En cuyo caso está clarísimo lo que voy a pedirles. Y si no bajan del burro (no sé cuantas veces habré usado esta frase en las últimas semanas), pues ya tengo la portabilidad hecha, me lo envían a casa y no tengo más problema que pagar un pastizal por mi nuevo iPhone 4.
+

@@ -1,0 +1,23 @@
+---
+layout: post
+title: Formas y maneras
+date: '2015-05-29T00:00:00+00:00'
+permalink: http://resistancefutile.com/2015/05/29/formas-y-maneras/
+---
+Estimado cliente,
+
+Sentimos comunicarle que debido a un problema con el fabricante, no nos ha sido posible enviarle el producto que usted adquirió el pasado día 22 de Abril y que prometimos enviarle entre el 15 y el 20 de Mayo. 
+
+Lamentamos este hecho que ha sido totalmente ajeno a nuestra voluntad y le informamos que hemos tomado medidas para que en breve le pueda ser enviado su artículo. En cuanto tengamos una fecha de entrega en firme no dude que se lo comunicaremos puntualmente. 
+
+Le hacemos entrega de un cupón de descuento del 10% (TOCATELOSCOJONESYBAILA) por si en el futuro desea volver a realizar un compra en nuestro portal, del que también actualizaremos la fecha de entrega una vez nos sea comunicada.
+
+Gracias por confiar en corus-keyboards, 
+
+--
+
+¿Vosotros habéis recibido un e-mail como el de arriba? ¿No? Pues yo tampoco. Me parece poco serio y poco profesional que te gastes más de 100 pavos en un artículo y ni siquiera se dignen a informarte, o a contestar los dos correos que les has enviado a su buzón de atención al cliente, en fin que les vaya bonito.
+
+Por si no os habéis enterado de qué va este _rant_, en "mi anterior post":http://resistancefutile.com/2015/04/26/y-por-que-me-he-comprado-un-teclado-mecanico-nordico-y-sin-teclas-de-cursor/ explicaba cómo me había costado decidirme en comprar un teclado mecánico, pues ya sabéis. Desde luego si estos tíos no me contestan hoy, el lunes les hago el chargeback y que vengan a buscarme que les explicaré encantado cómo hay que hacer las cosas.
+
+*Actualización 02/06/2015*: Por fin el servicio de atención al cliente se ha dignado en contactarme para informarme que procedían a hacer un refund completo del importe (tras yo darles a escoger: o me dais una fecha de shipping o me devolvéis la pasta por las buenas o por las malas). Que les zurzan amigos. Me tiro a por el filco que aunque es más caro y un pelín más feo, tiene configuración en español y no es al 60%, es tenkeyless así que tiene teclas de cursor (que era uno de mis mayores temores al comprar el Pok3r el si terminaría acostumbrándome, ya que el teclado numérico lo uso cero pero las teclas de cursor constantemente).

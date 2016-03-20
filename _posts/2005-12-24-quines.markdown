@@ -1,0 +1,7 @@
+---
+layout: post
+title: Quines
+date: '2005-12-24T00:00:00+00:00'
+permalink: http://resistancefutile.com/2005/12/24/quines/
+---
+Como todos sab&#233;is ya, soy bastante friki (prefiero el t&#233;rmino geek, pero no entrar&#233; en pol&#233;mica).<br />Recorriendo los tags de la gente en <a href="http://del.icio.us/popular/">del.icio.us</a>, he encontrado uno que me ha interesado bastante: las <a href="http://www.madore.org/~david/computers/quine.html">Quines</a>. <br /><br />O sea una Quine, es un programa que imprime en tiempo de ejecuci&#243;n todo su c&#243;digo. Como el que se muestra a continuaci&#243;n extra&#237;do de wikipedia:<br />#include<stdio.h><br />char*i="\\#include<stdio.h>",n='\n',q='"',*p=<br />"%s%cchar*i=%c%c%s%c,n='%cn',q='%c',*p=%c%c%s%c,<br />*m=%c%c%s%c%c;%s%c",*m=<br />"int main(){return!printf(p,i+1,n,q,*i,i,q,*i,q,n,q,p,q,n,q,m,q,n,m,n);}";<br />int main(){return!printf(p,i+1,n,q,*i,i,q,*i,q,n,q,p,q,n,q,m,q,n,m,n);}<br /><br />Brutal.

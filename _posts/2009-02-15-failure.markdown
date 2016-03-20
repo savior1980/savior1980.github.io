@@ -1,0 +1,7 @@
+---
+layout: post
+title: Failure
+date: '2009-02-15T00:00:00+00:00'
+permalink: http://resistancefutile.com/2009/02/15/failure/
+---
+<p class="frase">Failure is always an option</p><p align="right">-- slogan que he visto <a href="http://store.northshoreshirts.com/faisalopt.html">en la camiseta</a> de Adam Savage de los mythbusters, qué gran frase</p>

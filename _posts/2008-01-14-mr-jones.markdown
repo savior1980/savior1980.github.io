@@ -1,0 +1,9 @@
+---
+layout: post
+title: Mr. Jones
+date: '2008-01-14T00:00:00+00:00'
+permalink: http://resistancefutile.com/2008/01/14/mr-jones/
+---
+<p class="chorus">Because something is happening here
+But you don't know what it is
+Do you, Mister Jones?</p><p align="right">-- <a href="http://en.wikipedia.org/wiki/Ballad_of_a_Thin_Man">Ballad of a thin man</a>, una de las mejores canciones del maestro Dylan, muy presente en mi día a día.</p>

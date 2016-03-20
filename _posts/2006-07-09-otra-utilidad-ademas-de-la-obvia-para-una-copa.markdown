@@ -1,0 +1,9 @@
+---
+layout: post
+title: Otra utilidad (además de la obvia) para una copa
+date: '2006-07-09T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/07/09/otra-utilidad-ademas-de-la-obvia-para-una-copa/
+---
+<img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/wineglass.png" border="0" alt="" />Pues sí además de servir para empinar el codo una copa boca a bajo y con nuestro móvil dentro puede servirnos de pequeño amplificador casero, para hacer más direccional y amplificado nuestro tono de llamada, por favor abstenerse los que tengáis al Fary, María Isabel o Bustamante, si se amplificara la voz de alguno de estos seres, no está calculado las repercusiones a nivel mundial que ello podría conllevar. Sed sensatos (aunque cómo se puede tener sensatez si se tienen a esos freaks en tu móvil :S),
+
+(Vía <a href="http://lifehacker.com/software/cell-phones/macgyver-tip-amplify-your-cell-phone-with-a-wine-glass-185078.php">LifeHacker</a>)

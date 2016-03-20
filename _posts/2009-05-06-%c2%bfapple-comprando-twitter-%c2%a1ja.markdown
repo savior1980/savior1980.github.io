@@ -1,0 +1,9 @@
+---
+layout: post
+title: ¿Apple comprando twitter? ¡Ja!
+date: '2009-05-06T00:00:00+00:00'
+permalink: http://resistancefutile.com/2009/05/06/%c2%bfapple-comprando-twitter-%c2%a1ja/
+---
+<p class="frase">Apple, la empresa con ningún blog de empleados, comprando Twitter sería como un pirata Somalí patrocinando una conferencia de leyes marítimas</p><p align="right">-- <a href="http://twitter.com/guykawasaki/status/1708263709">Guy Kawasaki</a> ante los recientes rumores que <a href="http://www.techcrunch.com/2009/05/05/twitter-mania-google-got-shut-down-apple-rumors-heat-up/">Apple se está planteando comprar Twitter</a></p>
+
+(Vía <a href="http://www.uberbin.net/archivos/minipost/apple-comprando-twitter-en-suenos.php">Denken über</a>)

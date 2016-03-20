@@ -1,0 +1,11 @@
+---
+layout: post
+title: La física que rodea a Oliver y Benji
+date: '2006-07-17T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/07/17/la-fisica-que-rodea-a-oliver-y-benji/
+---
+<a href="http://fisica.urbenalia.com/humor/oliver/?selact=12"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/1600/big_banner_supercampeones.jpg" border="0" alt="" /></a>No ha habido ninguna vez que rememorando viejas series de animación con los colegas, no entre en escena la mítica Campeones (conocida popularmente por "Oliver y Benji") y la gente no se ponga a discutir los topicazos de la serie: que si el campo era curvo, que si se estaban 3 capítulos para chutar a puerta, que sí la pelota rompía la red y se pegaba a la pared... e inevitablemente alguien siempre nos dice que hay una web en la que calculan físicamente esos parámetros y calculan la longitud del campo ayudándose de la curvatura de la Tierra y demás. 
+
+Esa web, en contra de lo que creía NO es un mito, existe bajo <a href="http://fisica.urbenalia.com/humor/oliver/?selact=12">este enlace</a>... me he quedado sin palabras, juzgad vosotros mismos.
+
+(Vía <a href="http://www.emezeta.com/articulos/la-fisica-de-oliver-y-benji">Emezeta</a>)

@@ -1,0 +1,9 @@
+---
+layout: post
+title: TNG Time
+date: '2006-12-24T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/12/24/tng-time/
+---
+<img style="float:right; margin:0 0 10px 10px;" src="http://bp3.blogger.com/_PnWHf0Wv0BI/RY7ONX_uqJI/AAAAAAAAADY/GCkgLVxfyKY/s1600/Imagen+1.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5012170164484876434" />Si quieres poner en el Dashboard un widget para marcar el paso del tiempo a lo trekkie, <a href="http://audersetz.net/projects/tngtime.php">TNG Time</a> se convertirá en un recurso indispensable para ti. Como podéis ver en la imagen, el widget hace uso de los controles LCARS que os presenté en <a href="http://resistancefutile.blogspot.com/2006/11/controles-lcars-para-net.html">esta entrada</a> no hace mucho y la verdad es que mola cantidad, le da un toque la mar de distintivo a vuestro Dashboard.
+
+(Vía <a href="http://www.macupdate.com/info.php/id/23547">MacUpdate</a>)

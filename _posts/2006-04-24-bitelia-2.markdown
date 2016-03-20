@@ -1,0 +1,17 @@
+---
+layout: post
+title: Bitelia
+date: '2006-04-24T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/04/24/bitelia-2/
+---
+El nuevo blog de software de <a href="http://hipertextual.com">hipertextual</a> ya ha salido a la luz: <a href="http://bitelia.com">Bitelia</a>. Quizás reconozcáis alguno de sus autores.
+
+Ésta era la sorpresa que os tenía preparada. Espero que os guste y lo disfrutéis, de momento sólo puedo deciros que la gente que colaboramos estamos muy animados con el proyecto y que esperamos que pueda convertirse en una referencia en el terreno de los blogs de software en español.
+
+Llevo toda esta semana pasada colaborando en <span style="font-weight:bold;">Bitelia</span>, por lo que en principio si no habéis notado que haya cambios en el Resistance, no los habrá en un futuro...
+
+Nada más, deseádme suerte!
+
+<span style="font-weight:bold;">Nota</span>: El post sobre Bitélicos, me pareció una inciativa interesante, no escribí el post por interés os lo aseguro, seguramente aunque no colaborara en el blog sí lo haría en el grupo de flickr.
+
+<span style="font-weight:bold;">Nota 2</span>: Blogger is down, he estado todo el día sin poder publicar por un megafallo en el servicio. Repito: cada vez estoy más descontento con el servicio de Blogger.

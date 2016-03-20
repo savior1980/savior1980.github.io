@@ -1,0 +1,17 @@
+---
+layout: post
+title: Feed icon
+date: '2005-12-24T00:00:00+00:00'
+permalink: http://resistancefutile.com/2005/12/24/feed-icon/
+---
+<a href="http://feedicons.com"><img alt="" border="0" src="http://photos1.blogger.com/blogger/6639/1972/320/feed-icon-32x32.jpg" style="display:block; margin:0px auto 10px; text-align:left;cursor:pointer; cursor:hand;"/></a><a href="http://feedicons.com">
+</a>
+
+Se est&#225; creando pol&#233;mica con el icono del feed <a href="http://es.wikipedia.org/wiki/RSS_%28formato%29">RSS</a>!!! o sea, la base de la pol&#233;mica es una vez m&#225;s Microsoft (porque siempre estan en todas las pol&#233;micas), puesto que ha anunciado que lo adoptar&#225; para representar el contenido sindicado, para de esta forma "estadarizar" con un icono todo lo referente a contenido sindicable.
+
+<span class="fullpost">Btw, el icono de la pol&#233;mica &#233;s el que lleva el Firefox por defecto para marcar contenido sindicado, siendo distinto en caso de Safari (navegador Mac) o en Opera. Pues la pol&#233;mica radica en el uso de este icono.
+
+Bien pues hay dos facciones: una que dice que no hay que usar un icono espec&#237;fico para marcar el contenido sindicado, que tiene que haber libertad, multiculturalidad, etc y otra facci&#243;n que defiende que se use el icono para as&#237; de esta manera acabar de estandarizar y popularizar el est&#225;ndar RSS.
+
+Yo me cuento a favor de los &#250;ltimos, es decir apoyo a que se contribuya a estandarizar y popularizar el RSS, y si hay un icono para ello pues vale mucho mejor, pero dejando claro una cosa: independientemente de que Microsoft se posicione. O sea me da igual que hayan escogido este icono, lo que me da rabia es que hasta que Microsoft no se posiciona aqu&#237; van cada uno por su lado, y cuando lo hace, se crea pol&#233;mica. Vamos a ser serios, cu&#225;l es la idea fundamental? el principio b&#225;sico?... es marcar un est&#225;ndar para el RSS, no? pues a ello gente...
+</span>

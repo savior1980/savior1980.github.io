@@ -1,0 +1,25 @@
+---
+layout: post
+title: Recursividad en del.icio.us
+date: '2006-11-29T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/11/29/recursividad-en-delicious/
+---
+<a href="http://del.icio.us"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/x/blogger2/4553/2422/1600/227055/1106091421.png" border="0" alt="" /></a><a href="http://del.icio.us">del.icio.us</a>
+
+<a href="http://del.icio.us/url/46efc577b7ddef30d1c6fd13311b371e">Peronas que enlazan a del.icio.us</a> (entre las que me cuento, qué estupidez!)
+
+<a href="http://del.icio.us/url/b944c5e478a1e32dc71af722951498e3">Personas que enlazan a las personas que enlazan del.icio.us</a>
+
+<a href="http://del.icio.us/url/3ddb685e75e1bd74363748355dc30d2d">Personas que enlazan a las personas que enlazan a las personas que enlazan del.icio.us</a>
+
+<a href="http://del.icio.us/url/e2ca7a0b59613504f3b0658a1b519b33">Personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan del.icio.us</a>
+<a href="http://del.icio.us/url/27209b794819a0dce0e3e970be2d1789">
+Personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan del.icio.us</a>
+
+<a href="http://del.icio.us/url/cd0b24de440fe51b2797b125a33b60e0">Personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan del.icio.us</a>
+<a href="http://del.icio.us/url/102ab8bb6becc7d3eac87f4c2707d0a9">
+Personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan a las personas que enlazan del.icio.us</a>
+
+El tejido subespacial está a puntito de romperse.
+
+(Vía <a href="http://www.kottke.org/06/11/delicious-will-eat-itself">kottke</a>)

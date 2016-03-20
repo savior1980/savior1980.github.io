@@ -1,0 +1,24 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [22/07/2007]
+date: '2007-07-22T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/07/23/mehagustadonomehagustado-22072004/
+---
+- <strong>Mehagustado</strong> el transcurso de este finde, me lo he pasado genial: ayer tuvimos comida en Altafulla con <a href="http://unamito.blogspot.com/">Unamito</a>, <a href="http://www.inkilino.com/">Inikilino</a>, Susana (la mujer de Jaime), <a href="http://childrenatyourfeet.com">Cristina</a>, servidor y las tres hijas de Unamito (un encanto las tres), discutimos un poco temas relacionados con la campusmac y la verdad que estuvo genial, tanto la comida como la sobremesa posterior. Por la noche tuvimos cena con unos amigos del MundoReal&trade; y luego fuimos a un chiringuito en la playa. Hoy también ha sido especial, hemos visto algunos capítulos de "A dos metros bajo tierra" y hemos ido a ver muebles de jardín para el nuevo piso, hemos hecho una barbacoa con mis padres y he cocinado yo (léase preparar la barbacoa, quemarle en el pié a mi hermano en el intento y luego darle vueltas a la carne).
+
+- <strong>Mehagustado</strong> poder probar las cosillas nuevas que trae la interfaz de <a href="http://www.apple.com/macosx/leopard/">Leopard</a> en el MBP de <strong>Unamito</strong>, un lujazo, lo de los stacks realmente muy chulo, el coverflow va finísimo y el nuevo Dock está bastante chulo, ya que no puedo probarlo en mi iBook, mira me conformo con verlo como funciona en mi próximo Mac, sí voy a comprarme (no sé cuando) un MBP casi seguro.
+
+- <strong>Mehagustado</strong> encontrarme el viernes con algunos conocidos de la anterior empresa, a la que vuelvo en Septiembre. Realmente da gusto ver que algunos compañeros siguen al pié del cañón y les va la mar de bien.
+
+-  <strong>Siguegustándome</strong> mucho la cuarta temporada de <a href="http://es.wikipedia.org/wiki/Star_Trek:_Voyager">Star Trek Voyager</a>, incluso algún capítulo que es en plan pastel, está bien arreglado, con situaciones entretenidas.
+
+- <strong>Nomehagustado</strong> el inicio de la tercera temporada de "<a href="http://es.wikipedia.org/wiki/Six_Feet_Under_(serie)">A dos metros bajo tierra</a>", o sea qué han hecho con esta serie? La tercera temporada es lamentable, surrealista, todos los personajes dan una mezcolanza entre asco y pena, todo el mundo está deprimido, hay cantidad de personajes que "sobran" literalmente y hay situaciones bastante cogidas por los pelos. Espero que mejore algo, ojalá digan en algún capítulo, "No hoygan, la temporada es una sueño de alguien no es real y vuelvan al final de la segunda".
+
+- <strong>Nomehagustado </strong>en absoluto que <a href="http://es.wikipedia.org/wiki/Xavier_Bosch">Xavier Bosch</a> y a quién le debo la inspiración por escribir estos Mehagustado/Nomehagustado (es una sección de su programa en la que los colaboradores van explicando situaciones que les gustan o no) deje su programa matinal en <a href="http://www.rac1.org/">RAC 1</a>. Y sobretodo, lo que <strong>mehagustado </strong>menos todavía es que <a href="http://www.amicsrac1.net/webprog/webprog.php?p=TD">Jordi Basté</a>, periodista que sigo de hace años, ya en su etapa de Catalunya Radio, le sustituya. No me cuadra, lo siento pero no puedo concebir un programa nocturno de deportes sin la presencia de Basté. Tampoco le veo enfrentándose a lo que supone un programa matinal de información, entrevistas y curiosidades. Tendremos que ver cómo evolucionan a partir de Septiembre.
+
+- <strong>Nomehagustado</strong> el tema de <a href="http://alexliam.net/2007/07/21/censored/">la portada del jueves</a> ni todos los <a href="http://www.alchapar.com/?p=326">dimes y diretes</a> que ha generado en muchísimos ámbitos. Yo soy republicano y me encanta que se mofen de la monarquía, disfruto con ello, sin embargo la portada me parece de bastante mal gusto, la verdad. Aunque ya digo, el <strong>nomehagustado</strong> va por todo el revuelo que se ha generado a un hecho que no debería revestir tanto interés.
+
+- <strong>Nomehagustado</strong> tener que redactar mi <a href="http://resistancefutile.com/2007/07/22/carta-de-dimision/">carta de dimisión</a>, es algo que no mola en absoluto hacer, mientras la escribes piensas en todo lo bueno que tienes y en la "putada" y nótese el entrecomillado, que les haces a tus responsables.
+
+- Y hablando de dimisiones, <strong>nomehagustado</strong> la dimisión de <a href="http://es.wikipedia.org/wiki/Josep_Piqu%C3%A9">Josep Piqué</a> al frente del Partido Popular de Catalunya. Pienso que era un tipo que encajaba muy bien allí, tenía una línea más o menos moderada y era un tío más o menos coherente con sus razonamientos, consciente del entorno particular de Catalunya. Es una pena que <a href="http://www.danielsirera.blog.com.es/">los que le van a sustituirle</a>, en mi opinión tengan una ideología a priori (luego veremos) mucho más girada a la derecha.
+

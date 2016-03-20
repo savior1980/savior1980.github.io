@@ -1,0 +1,13 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [18/03/2007]
+date: '2007-03-18T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/03/19/mehagustadonomehagustado-18032007/
+---
+- <span style="font-weight:bold;">Nomehangustado</span> los capítulos de BSG y House de esta semana, muy chorras los dos. En cambio mehagustado mucho lo que llevo visto de la temporada 3 de Star Trek Enterprise, vamos no tiene nada que ver con las anteriores, la verdad que vale la pena empezar la serie en el último capítulo de la temporada 2.
+
+- <span style="font-weight:bold;">Mehagustado</span> que esta semana estaré de vacaciones y así podré hacer mil y una cosas que siempre llevo postponiendo por falta de tiempo, a ver si lo aprovecho a tope, que 5 días pasan volando y el finde que viene tenemos planeado un viajecito a Valencia.
+
+- Una de las cosas que tengo en mente es dejar Blogger de una puta vez y pillarme un dominio y hosting para seguir con la fiebre que está habiendo de dejar blogsome y blogger por algo más profesioná. En este sentido <del datetime="2007-03-19T16:17:25+00:00"><span style="font-weight:bold;">Nomehagustado</span> el tema del nuevo hosting y la gestión que tiene con los dominios, tenemos algunos problemillas de organización que debemos solucionar</del>, solucionado, ahora ya lo tenemos todo bien montado. Y bueno que hay un curro detrás del montar un blog en WP bastante importante, venga chato traduce todos los literales, retoca el diseño, monta las categorías, importa los posts, buenoooo ya me estoy estresando.
+
+- <span style="font-weight:bold;">Mehagustado</span> la respuesta que hemos tenido de la gente apuntándose a la quedada en Barcelona, moooola, ya veréis que pasaremos un rato genial.

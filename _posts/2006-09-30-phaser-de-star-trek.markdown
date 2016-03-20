@@ -1,0 +1,11 @@
+---
+layout: post
+title: Phaser de Star Trek
+date: '2006-09-30T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/09/30/phaser-de-star-trek/
+---
+<a href="http://www.amazon.com/Star-Trek-40th-Anniversary-Phaser/dp/B000GPWS4K/ref=pd_sxp_f_pt/102-6545429-6744904?ie=UTF8"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/phaser2.jpg" border="0" alt="" /></a>Hace poco fue <a href="http://www.microsiervos.com/archivo/peliculas-tv/star-trek-40-aniv.html">un aniversario muy especial</a>, se cumplieron los 40 años de la Serie Star Trek TOS, en la que vimos al entrañable Spock, al intrépido Kirk, al eficiente Scotty y tantos otros míticos personajes que conformaron una de las más prolíficas y seguidas sagas dentro del mundo de la ciencia ficción.
+
+Para conmemorar el evento hay infinidad de grandes artículos por toda la blogosfera, entre los que destaco el que publicaron en <a href="http://es.gizmodo.com/2006/09/09/star_trek_40_anos_de_gadgets_k.html">Gizmodo ES</a>, el que hicieron hace poco en <a href="http://geeksaresexy.blogspot.com/2006/09/star-trek-just-turned-40.html">Geeks Are Sexy</a>, la galería que podéis encontrar en <a href="http://blog.wired.com/startrek40/">Wired</a> y el artículo que le dedicó <a href="http://www.davidgp.com/2006/09/09/1157801760000.html">davidgp</a>.
+
+Me entero vía Gizmodo que Amazon ha sacado <a href="http://www.amazon.com/Star-Trek-40th-Anniversary-Phaser/dp/B000GPWS4K/ref=pd_sxp_f_pt/102-6545429-6744904?ie=UTF8">un phaser</a> reproducción del que usaban en la serie original, toda una maravilla a un precio de <span style="font-weight:bold;">$22.95</span> Al verlo casi se me cae la lagrimilla...

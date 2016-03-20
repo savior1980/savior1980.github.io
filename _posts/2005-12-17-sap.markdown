@@ -1,0 +1,26 @@
+---
+layout: post
+title: SAP
+date: '2005-12-17T00:00:00+00:00'
+permalink: http://resistancefutile.com/2005/12/17/sap/
+---
+<a href="http://www.sap.com"><img alt="" border="0" src="http://upload.wikimedia.org/wikipedia/en/e/ea/SAP_logo.png" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 220px;"/></a><a href="http://www.sap.com">
+</a>
+
+
+
+
+Qu&#233; es SAP?
+
+Si observamos la definici&#243;n en la wikipedia: <a href="http://es.wikipedia.org/wiki/SAP">SAP</a> veremos que SAP es el acr&#243;nimo de Systeme, Anwendungen und Produkte (Sistemas, Aplicaciones y Productos).
+
+Pero Dani Mart&#237;nez (gran experto en temas de SAP MM i FI) y yo ten&#237;amos otras versiones:
+
+- SAP: Secta de Adictos al Poder
+- SAP: Sociedad de Alcoh&#243;licos Privados
+- SAP: Sociedad del Altruismo y la Prostituci&#243;n
+- SAP: Sois Astutos y Putas (hablando de programadores)
+- SAP: Sociedad Aberrante de Puercos
+...
+
+Escribe la tuya!

@@ -1,0 +1,27 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [01/02/2009]
+date: '2009-02-01T00:00:00+00:00'
+permalink: http://resistancefutile.com/2009/02/02/mehagustadonomehagustado-01022009/
+---
+- <strong>Nomehagustado</strong> entrar en un nuevo proyecto laboral sin tener mucho conocimiento y sobre todo sin una idea todavía clara de qué se espera de nosotros y cómo vamos a tirar adelante lo que el cliente nos pide. A veces es mejor tirar adelante y luego ya va cuadrando todo pero no sé por qué tengo malas vibraciones, me da a mí que como vayamos tirando si pillamos velocidad y nos demos cuenta tarde que el freno no va fino, nos estampemos contra la pared. Veremos esta semana como pinta.
+
+- <strong>Mehagustado</strong> que <a href="http://resistancefutile.com/2009/01/31/medion-akoya-leopard-fail/">al final mi hermano ha decidido volver a instalar Leopard en el Medion de mi padre</a> en lugar de instalar Windows XP, la pega es que no pueden actualizarlo e instalarle iLife 09, pero bueno de momento están más o menos contentos, quizás debamos actualizar algún driver de vídeo más por que dice que le hace un poco el tonto, si esta semana no lo vuelven a notar no lo tocaremos pero si no, igual la semana que viene hacemos una copia en TimeMachine y luego probamos a instalar algo más o a actualizarlo o algo.
+
+- <strong>Mehagustado</strong> volver a instalar <a href="http://www.applesfera.com/2009/02/01-gmail-notifr-035-soporta-multiples-cuentas">Gmail Notifr</a> y cambiarle los iconos que lleva por sustitutos del pack <a href="http://macthemes2.net/forum/viewtopic.php?id=16792168">Clean</a>. 
+
+- <strong>Mehagustado</strong> volver a Safari después de mucho tiempo, la verdad es que tras probar que <a href="http://www.genbeta.com/2009/01/30-gmail-offline-primera-toma-de-contacto">Gmail por fin se integra con Gears</a> y ver que en las betas de Firefox 3.1 no está soportado estaré una temporada con la brújula maquera en lugar de con el panda rojo, que una vez saquen la versión estable y con compatibilidad con Gears me plantearé retomar. De momento la única jodienda con Safari es que en <a href="http://applesfera.com">Applesfera</a> no tengo la barra de estilos (allí hay una versión de WP más antigua) y que <a href="http://www.thinkwasabi.com/2009/01/14/glims-vitaminas-para-safari/">Glims</a> al restaurar sessión no guarda las pestañas de Gmail, pero el resto es perfecto.
+
+- <strong>Mehagustado</strong> que una semana más el Barça sigue ganando partidos, el de hoy ha sido difícil, un rival duro, un campo pequeño, las ocasiones no salían... y al final llegó Messi que con <a href="http://es.youtube.com/watch?v=oNZM7wEfhFk">dos golazos</a> hizo el gol 5000 del Barça en Liga y nos dió tres puntitos más que nos acercan al título que cada vez menos gente duda que se nos pueda escapar.
+
+- <strong>Mehangustado</strong> las tres compras que he hecho en la iTunes Store esta tarde: un jueguecillo tipo Command&Conquer para el iPhone que se llama <a href="http://www.warfareincorporated.com/">Warfare Inc.</a> y luego dos discos del boss: el nuevo disco <a href="http://www.hipersonica.com/2008/11/17-working-on-a-dream-lo-nuevo-de-bruce-springsteen-y-la-e-street-band">Working on a dream</a> sin DRM y con calidad que lo flipas ( y por cierto que de la versión que me bajé de los torrents me faltaba la canción "Suprise, surprise") y otro con 4 canciones que interpretó en su gira "Magic" con otros artistas como por ejemplo Roger Mcguinn de los The Byrds junto al que cantó <a href="http://es.youtube.com/watch?v=nUworKXBzdE">"Turn,TurnTurn</a>" que seguro habréis escuchado en la banda sonora de Forrest Gump, el disco se llama <em>Magic Tour Highlights</em>.
+
+- <strong>Nomehagustado</strong> que estuviese todo el finde lloviendo, ha llovido muchísimo estos días aquí y ya me empieza a agobiar un poco.
+
+- <strong>Mehagustado</strong> muchísimo el capítulo de BSG de esta semana, ha sido una vuelta al ruedo de muchos aspectos que he echado de menos en los primeros episodios, volvemos a la acción a los personajes con lucha interna, a situaciones límite... me encanta esta serie. Lástima que no he visto mucho más a parte de dos o tres capítulos de Fringe que va perdiendo gas a cada capítulo y luego también he visto una especie de película de "ladrones y serenos" con un pseudoatraco a un banco en Knight Rider que sinceramente podrían haberse ahorrado. Por cierto, Knight Rider solo hay que verla para vaticinar sin miedo a equivocarse que no va a tener segunda temporada, de hecho debe tener problemas de presupuesto porque en el capítulo anterior al del atraco se han cepillado a la mitad de la plantilla de actores protagonistas.
+
+- <strong>Nomehagustado</strong> no poder ir a la Yoda&Blogs, espero que los que han podido asistir se lo hayan pasado en grande y a ver si el Bilbo Wasabi, la próxima cita a finales de este mes también resulta un éxito, aunque no tengo ninguna duda que con los anfitriones que hay por esas tierras, bien nos lo vamos a pasar seguro.
+
+- <strong>Nomehagustado</strong> pillar el viernes un trancazo increíble que todavía me dura, a ver si mañana ya se me pasa porque me ha tenido el finde de rodillas sonandome los mocos.
+
+- <strong>Nomehagustado</strong> tener que cancelar la cita del viernes con el dentista para el siguiente por temas de curro, la verdad es que deseaba acabar de una vez con las visitas y tener ya el tema listo, bueno tendremos que esperar un poco más.

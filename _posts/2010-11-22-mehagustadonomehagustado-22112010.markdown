@@ -1,0 +1,21 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [22/11/2010]
+date: '2010-11-22T00:00:00+00:00'
+permalink: http://resistancefutile.com/2010/11/22/mehagustadonomehagustado-22112010/
+---
+- *Mehagustado* ganar un poco más de tiempo esta semana en el curro. Ha sido todo bastante estresante y una semana de esas intensas, pero al final hemos podido ir cumpliendo las cosas e ir encaminando los temas que teníamos pendientes hasta que al final parece que la cosa va tomando forma, ahora se trata de no dormirse y perseguir lo que nos queda, que no es poco. Pero está claro que *nomehagustado* que todo haya sido fruto de la casualidad, aunque uno pone todo de su parte para que las cosas salgan a veces pasan "imprevistos" que le benefician a uno en cambio otras veces esas cosas solo te perjudican.
+
+- *Mehagustado* ver la victoria más abultada del Barça en competición oficial que yo recuerde, 0-8, increíble uno de esos partidos que no se olvidará fácilmente. Una pena que el Madrid también golee en casa contra el Athletic, en fin, el próximo partido de liga es decisivo y se juega en el Camp Nou y espero que el Barça haga un gran partido. 
+
+- *Mehagustado* comprar la aplicación Watts, así tengo mucho más control sobre las baterías de los portátiles.
+
+- *Mehagustado* mucho la exposición de fotografía que he visto hoy en la que participa @malegrya... Free Urban en el Centre Cívic Jardins de la Pau en Prat del Llobregat. Había fotos chulísimas. 
+
+- *Mehagustado* celebrar el 30 cumpleaños de un amigo del MundoReal&trade; este sábado. Fue una cena bastante divertida.
+
+- *Nomehagustado* que en periodo electoral noto que todo el mundo está un poco más a la defensiva, no sé es una sensación que tengo pero parece que a la gente le gusta discutir más, polemizar, buscar los tres pies al gato, es una época extraña.
+
+- *Nomehangustado* por regla general las series esta semana, el capítulo de "the Walking Dead" se venía venir a la legua. Y empezó *nogugstándome* el de SGU pero fue un capítulo la mar de bien llevado, que fue de menos a más y que terminó gustándome bastante.
+
+- *Mehagustado* bastante el juego Age of Zombies, de halfbricks, sin embargo el Rage de id software... qué queréis que os diga, tampoco es nada del otro mundo, incluso diría que *nomehagustado*. Ah y también *mehagustado* superar mi récord en el Monster Dash, hice en la versión para el iPad 6000 y pico metros, no lo volveré a hacer jamás.

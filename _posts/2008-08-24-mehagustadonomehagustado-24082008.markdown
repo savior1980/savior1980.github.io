@@ -1,0 +1,23 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [24/08/2008]
+date: '2008-08-24T00:00:00+00:00'
+permalink: http://resistancefutile.com/2008/08/25/mehagustadonomehagustado-24082008/
+---
+- <strong>Nomehagustado</strong> la peli <a href="http://www.filmaffinity.com/es/film726254.html">"21 Black Jack"</a>, pese a que me la recomendase mi hermano. Previsible, sosa, con situaciones muy tontas, personajes muy estereotipados, hechos muy difíciles de creer, vamos que no perdáis tiempo de vuestras vidas viendo a un Kevin Spacey y un Lawrence Fishburne de segundones en pleno declive. 
+
+- <strong>Mehagustado</strong> descubrir al grupo <a href="http://www.thekillersmusic.com/">The Killers</a>, los dos CDs que tengo son muy buenos, no sé con cual de los dos quedarme. El nuevo de Offspring está bastante bien (sin llegar a brillar) y el de Weezer bueno en la línea de los últimos (no demasiado bien, con algún fogonazo) y además <strong>mehagustado</strong> mucho que la gente en <a href="http://twitter.com">twitter</a> me recomendara canciones y grupos estilo Foo Fighters, de estas recomendaciones (a parte de recomendarme The Killers y <a href="http://www.atreyurock.com/">Atreyu</a>) me quedo con los <a href="http://www.biffyclyro.com/">Biffy Clyro</a> y su disco "Puzzle", pura adrenalina.
+
+- <strong>Mehagustado</strong> quedar para comer ayer con <a href="http://childrenatyourfeet.com/">Cris</a>, <a href="http://okokitsme.blogspot.com/">OkOk</a>, <a href="http://lordzoltan.gafapasta.com/">Lord Zoltan</a>, <a href="http://blog.intoxicado.net/">Toxico</a> y <a href="http://www.hierbabuenablog.es/">Hierbabuena</a>. La comida estuvo genial y la charla muy animada.
+
+- <strong>Mehagustado</strong> mucho el nuevo disco que hemos pillado en PC-City (como media blogosfera) un <a href="http://www.pccity.es/disco_duro_western_digital_my_book_pro_edition_ii_2_tb_60010354_p.html">MyBook Pro II</a>, 2TB, 2 puertos Firewire@800, velocidad en estado puro a la hora de las transferencias de archivos (asusta, de verdad) y es increíblemente silencioso. No como mi ventilador <a href="http://resistancefutile.com/2008/08/19/review-del-belkin-cooling-laptop-pad/">Belkin</a> que tiene un poco amargada a Cris (sí, ya sabéis que es un poco <em>tikismikis</em>).
+
+- <strong>Nomehagustado</strong> no encontrar un puto reloj despertador decente para el iPod, me gustan los de iHome pero nomegusta nada el único que he podido ver en nuestro país el iH8, en cambio el <a href="http://www.xataka.com/2008/08/11-ihome-ih41-despertador-para-ipod-touch">iH41</a> está muy bien y el <a href="http://www.ihomeaudio.com/products.asp?product_id=10245&dept_id=1006">iH12</a> también me gusta pero no hay manera de verlos ni en eBay ni en amazon ni en ningún sitio.
+
+- <strong>Nomehagustado</strong> que España perdiese hoy el partido contra USA, pienso que merecíamos más, ha sido una lástima. En global el papel de España tampoco es que haya estado muy allá, no hemos tenido grandes éxitos, tampoco hemos destacado en el medallero, vamos unas olimpiadas muy discretas sin pena ni gloria. Y no sé por qué se empeñan en decir que Madrid 2016 tiene opciones si lo más seguro es que se monten fuera del continente europeo para sacar más pasta, esto es un puto negocio, ni olimpismo, ni fraternidad ni nada hombre. Por cierto, eso sí mención especial para <a href="http://es.wikipedia.org/wiki/Usain_Bolt">Usain Bolt</a> y <a href="http://es.wikipedia.org/wiki/Michael_Phelps">Michael Phelps</a>, vaya dos bestias pardas.
+
+- <strong>Mehagustado</strong> mucho <a href="http://lordzoltan.gafapasta.com/?p=704">el dibujo que me ha dedicado el amigo Zoltan</a> y en general la idea de la isla del Dr. Zoltanga. 
+
+- <strong>Nomehagustado</strong> liarla con <a href="http://doublecommand.sourceforge.net/">Double Command</a> un software de remapeo del teclado para Mac. Veréis resulta que de buenas a primeras la última beta4 del programa ha dejado de ser compatible con mi MacBook Pro, causándome que el sistema vaya bastante mal y que no se reinciase (o sea al darle a Restart se queda pajarito). Lo he conseguido arreglar (parece) instalando la beta1 de la aplicación tras desinstalar la que tenía. Lo único que uso del programa es la posibilidad de hacer forward delete con shift+backspace, así se me hace muchísimo más cómodo ya que sólo uso una mano para el borrado hacia adelante y me olvido de tener que pulsar el dichoso <em>fn</em>
+
+- <strong>Nomehagustado</strong> que he aprovechado poco el tiempo esta semana, espero que la que viene, que es la última que tengo de vacaciones me cunda un poco más. Tengo mil historias que hacer así que más me vale no irme por las ramas. 

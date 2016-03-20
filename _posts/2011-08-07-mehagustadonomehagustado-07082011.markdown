@@ -1,0 +1,31 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [07/08/2011]
+date: '2011-08-07T00:00:00+00:00'
+permalink: http://resistancefutile.com/2011/08/07/mehagustadonomehagustado-07082011/
+---
+- *Mehagustado* acabar el proyecto en el que estaba metido de hace un año. Al final ha ido todo bien y ahora bueno, me toca lidiar con otras guerras. Ha sido una experiencia muy satisfactoria, he aprendido mucho, me he curtido mucho y he conseguido muchas metas volantes, importantes de cara al futuro. 
+
+- *Nomehagustado* que me queda otra semana de curro antes de pillar vacaciones, las necesito... y tengo unas ganas inhumanas de irme de viaje a Londres. Desaparecer unos días y olvidarme de todo. Para luego volver con energías renovadas en Septiembre y enfocarme a nuevos retos.
+
+- *Mehagustado* la segunda temporada de Fringe, aunque el final es un poco increíble, también *meestágustado* lo que he visto de la tercera, voy por el capítulo 9 y es que el rollo de realidades alternativas siempre me ha tirado. Ah, también *mehagustado* el último de Falling Skies, la serie se vuelve más interesante.
+
+- *Mehagustado* mucho comer hoy en casa de mis padres, mi madre ha hecho una pierna de cordero que estaba para chuparse los dedos... tremendísima.
+
+- *Mehagustado* bastante la aplicación 22 días, para marcar hitos que van a pasar en un futuro, te va mostrando la cuenta atrás hasta el evento que marcas. Quizás *megustaría* mejorarla con algunos retoques que conviertan la aplicación en algo más flexible a la hora de introducir citas, pero en líneas generales me convence bastante.
+
+- *Nomehagustado* ver la volatilidad de opinión de algunas personas, es algo que me pone bastante nervioso, si te comprometes a algo hay que seguir hasta el final. Hay que dar la cara si no estás de acuerdo, pero no presentarse, no dar ninguna excusa y huir no son actitudes que le beneficien a uno. Hay que recapacitar y hay gente que eso les cuesta más que a otros. 
+
+- *Nomehagustado* tampoco que a veces las relaciones entre personas tocan a su fin y en esa situación es muy difícil estar. No sólo porque uno mismo lo pasa mal si no porque los que están a su alrededor también sufren las consecuencias. De momento lo que sí se puede hacer es apoyar en todo lo que se pueda.  
+
+- De momento *mehagustado* Safari 5.1, es el navegador que uso por defecto en el MacBook Pro. En el Air todavía sigo usando Opera Next y tengo que reconocer que hay algunas cosas buenas y otras malas, echo mucho de menos el tab stacking por ejemplo pero he ganado que al no ser una versión tan beta las cosas son mucho más estables.
+
+- *Nomeestágustado* cómo se está desarrollando el tema de la crisis financiera. Creo que el problema es muy muy serio y no se está haciendo lo suficiente para poner remedio. Pero bueno, al ciudadano medio eso no parece importarle y ahí es donde tenemos el mayor problema, todo el mundo pasa, todo el mundo mira para sí, todos vamos trampeando de hace un montón de tiempo pero nadie, ninguno, propone medidas para cambiar de rumbo. Me da la sensación que vamos a toda pastilla contra un muro y las medidas que se toman son las de poner el muro más lejos. Señores si el muro está más lejos, la ostia será mayor, nos dará tiempo a pisar el pedal todavía más.
+
+- *Mehagustado* iCloud.com o lo poco que he visto de él. En cambio, *nomehagustado* en absoluto que perdiese todos mis contactos de iCloud por un cambio que hice en las cuentas, además una vez restaurados los contactos, *nomegustó* tampoco que se duplicasen, tuve que ir borrándolos de la agenda del Mac y de iCloud. Suerte que en el iPhone, al sincronizarse de éste último, todo se arregló felizmente. Hay un cacao con el tema de iCloud que asusta.
+
+- *Nomehagustado* no tener claro si comprar o no un Cinema Display... por un lado me muero de ganas y para mi configuración actual sería un paso positivo... pero por otro pienso en lo que vale y en que tendría que andar con adaptadores de Thunderbolt a DVI y a mini-displayport... cosa que me toca bastante las narices. Y ahora no me voy a comprar un nuevo Mac porque me apetezca. Mi MacBook Pro, tendrá tres años y habrá sufrido ya un cambio de gráfica pero sigue portándose perfectamente como ordenador principal. 
+
+- *Mehagustado* la peli del Capi, aunque sea uno de los superhéroes que peor me caen, la peli está entretenida y la escenar-trailer post créditos tiene una pinta genial, sólo por eso vale la pena.
+
+- *Nomehagustado* que nos queda menos de una semana para la Supercopa y sinceramente veo al Barça muy muy mal, de las peores pretemporadas que recuerdo. Que salga el entrenador y diga que ya no se hacen pretemporadas, que se hacen giras, es para alarmarse. Veremos cómo va pero la Supercopa es una competición fatal para los intereses del Barça. Si la ganamos será un título menor, sin nada de importancia. Si la perdemos será el mayor título de la temporada y una competición de prestigio internacional. Y además nos lo venderán que esto afecta psicológicamente a los jugadores bla-ble-bli-bla-bli-ble... en fin que yo renunciaría. Sacaría a Deloufeu, Pinto y Keirrison oye que se la queden.

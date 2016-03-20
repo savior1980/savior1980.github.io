@@ -1,0 +1,9 @@
+---
+layout: post
+title: London...
+date: '2007-12-05T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/12/05/london/
+---
+<img src='http://resistancefutile.com/wp-content/tower-bridge-night.jpg' class="centro_borde" alt='Puente de Londres' />
+
+<a href="http://resistancefutile.com/2007/10/29/viernes/">Aquél</a> no. Este sí.

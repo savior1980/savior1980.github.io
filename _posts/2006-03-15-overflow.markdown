@@ -1,0 +1,11 @@
+---
+layout: post
+title: Overflow
+date: '2006-03-15T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/03/15/overflow/
+---
+Hace d&iacute;as que me baj&eacute; <a href="http://www.stuntsoftware.com/software/Overflow/index.html">Overflow</a> (15$). Es una aplicaci&oacute;n Mac que nos sirve para descongestionar nuestro poblado Dock de aplicaciones, distribuy&eacute;ndolos en una ventana "bezel" emergente, desde d&oacute;nde se llaman sin problema.
+
+He ah&iacute; una muestra de las aplicaciones que han desaparecido de mi Dock y que han "migrado" hac&iacute;a los c&aacute;lidos recept&aacute;culos de <a href="http://www.stuntsoftware.com/software/Overflow/index.html">Overflow</a>.
+
+Pon a r&eacute;gimen tu Dock!

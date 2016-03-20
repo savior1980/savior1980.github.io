@@ -1,0 +1,11 @@
+---
+layout: post
+title: Línea de flotación de las redes sociales
+date: '2010-08-08T00:00:00+00:00'
+permalink: http://resistancefutile.com/2010/08/08/linea-de-flotacion-de-las-redes-sociales/
+---
+<img src="http://resistancefutile.com/wp-content/ZZ690AAC97.jpg" alt="" title="Linea de flotacion" width="620" height="363" class="centro" />Voy a darmelas de gurú e ilustrar un concepto fundamental en las redes sociales de hoy en día. Vale no, pero os explicaré un comportamiento que tengo desde hace mucho tiempo : NO SCROLEO(dícese del acto de hacer scroll, es decir mover la barra de desplazamiento vertical en sentido Sur), sobre todo con Google Buzz, pero puedo aplicarlo a muchas más redes sociales, facebook (cuando de uvas a peras entro a mirar qué hay), Linked In, flickr, Google Reader, y así un largo etcétera, incluso muchas veces me ocurre con Twitter.
+
+Para ilustrar este bonito concepto he cogido una captura de mi Buzz. Seguramente, al ver que tengo la ostia de mensajes en buzz para leer, entraré en el enlace desde Gmail y allí se cargará la pantalla que veis, las dos primeras entradas, las leeré. La de Hybrix, tiene una probabilidad muy alta de quedarse sin leer, pues está en la que yo llamo la *línea de flotación de las redes sociales* (chaaaaa-chaaaaaán). Es un territorio a partir del cual la probabilidad de leer una noticia es *muy* escasa. Mucho. De hecho, en este ejemplo particular, vería que el compartido es de Hybrix y como sé que es un paleto no seguiría adelante (jejeje, es broma hombre, como sé que es un fotógrafo excelente y viendo que se trata de una foto suya en flickr, no me hubiese perdido por nada una fotaco que ha hecho el tío). 
+
+Pero después de esa línea de flotación existe la NADA, el resto no lo voy a leer a no ser que no tenga absolutamente nada más que hacer e incluso en ese caso es difícil que siga adelante. Quizás, alguna vez buceo hacia abajo y si algún titular me llama la atención quizás puedo clicar, pero francamente la probabilidad que haga ese desplazamiento es infinitesimal. La cuestión es ¿soy un bicho raro o a muchos les pasa lo mismo? ¿Hay algún algoritmo de SEO para quedarse arriba en Google Buzz/otras redes? Reflexionemos.

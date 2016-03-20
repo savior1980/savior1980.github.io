@@ -1,0 +1,11 @@
+---
+layout: post
+title: Incompatibilidad entre Customize Plugin y WP 2.7
+date: '2008-12-13T00:00:00+00:00'
+permalink: http://resistancefutile.com/2008/12/13/customize-plugin-y-wp-27/
+---
+<img src="http://resistancefutile.com/wp-content/zz47a15162.jpg" alt="Customize FAIL" title="Customize FAIL" width="473" height="287" class="centro" />Parece que hay una incompatibilidad entre el plugin <a href="http://www.jide.fr/english/downloads/customize/">Customize</a> que lleva mi theme (feshy2.0) y el WP 2.7. La incompatibilidad es muy sutil: simpelmente algunas de las cosas que lleva la parte de edición y administración de posts están deshabilitadas, no aparece la barra para insertar imágenes en los posts y algún que otro javascript dentro del panel de edición no funciona.
+
+Para que vuelva todo a la normalidad tan sólo tenemos que desactivar el plugin, no perderemos nada (o al menos yo no lo he notado) de la apariencia del blog y sin embargo mantendremos todas las opciones de edición.
+
+Otra cosa que no consigo hacer es el uso de Gears con el nuevo WP 2.7, si bien en Safari es coser y cantar, en Firefox 3.1 no tengo manera de activar Gears, así que de momento creo que me pasaré a Safari para editar el blog, ya que irá mucho más rápido.

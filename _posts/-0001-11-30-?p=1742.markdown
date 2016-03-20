@@ -1,0 +1,11 @@
+---
+layout: post
+title: Al loro! Que no les embauquen con el jailbreak de la 4.0
+date: -0001-11-30T00:00:00+00:00
+permalink: http://resistancefutile.com/?p=1742
+---
+... que me los embaucan, les dicen que se puede activar la multitarea y no se puede! Bueno corrijo sí se puede, pero no va nada bien. 
+
+Vayamos por partes, he hecho el jailbreak con "redsn0w":http://wikee.iphwn.org/howto:rsbeta en la versión del iPhone OS 4.0 b1. Esto puedo hacerlo porque tengo mi iPhone 3G dado de alta como desarrollador y tengo la 4.0, si no tienes alguna de estas 3 cosas (iPhone3G,UIDD desarrollador y 4.0) no sigas, no vas a poder sufrir lo que yo.
+
+El principal motivo del jailbreak era evaluar la viabilidad de la multitarea en un iPhone 3G. Bueno eso y probar a activar alguna cosa en el iPhone OS que Apple no activa en el iPhone 3G *porque no le sale de las narices*, por ejemplo el indicador de batería.

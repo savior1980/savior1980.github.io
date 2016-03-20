@@ -1,0 +1,15 @@
+---
+layout: post
+title: Más videos impresionantes de Parallels
+date: '2006-05-23T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/05/23/mas-videos-impresionantes-de-parallels/
+---
+<img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/anyversion-icon-32x32-32bit.png" border="0" alt="" />Acabo de ver <a href="http://www.deadculture.org/mint/pepper/orderedlist/downloads/download.php?file=http%3A//www.deadculture.org/video/OSX_XP_pt1.mov">otro</a> <a href="http://www.deadculture.org/mint/pepper/orderedlist/downloads/download.php?file=http%3A//www.deadculture.org/video/OSX_XP_pt2.mov">vídeo</a> impresionante de <a href="http://www.parallels.com/">Parallels</a>: corriendo en un iMac Intel con doble pantalla, en una teníamos el sistema operativo de Microsoft y en otro el Tiger.
+
+Realmente impresionante y vistoso... dos sistemas operativos a la vez, ¿Qué será lo próximo? ¿Una imagen de un <a href="http://en.wikipedia.org/wiki/BSOD">BSOD</a> y un <a href="http://en.wikipedia.org/wiki/Kernel_panic">Kernel Panic</a> a la vez? 
+
+Supongo que la simultaneidad en este caso será difícil que se produzca, ya que el Kernel Panic arrastraría el BSOD, digo yo, ya que Mac OS X es el sisema operativo sobre el que corre Parallels.
+
+Y ¿Por Qué será que nos impresionan tanto estos vídeos?
+
+(Vía <a href="http://digg.com/apple/OS_X_XP_running_side-by-side_using_dual-display_and_Parallels_%28VIDEO%29">digg</a>)

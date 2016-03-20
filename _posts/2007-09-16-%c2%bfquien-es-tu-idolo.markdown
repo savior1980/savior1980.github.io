@@ -1,0 +1,13 @@
+---
+layout: post
+title: ¿Quién es tu ídolo?
+date: '2007-09-16T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/09/16/%c2%bfquien-es-tu-idolo/
+---
+<img src='http://resistancefutile.com/wp-content/220px-stevejobs_macworld2005.jpg' class="derecha_borde" alt='Steve Jobs' />Hoy mientras conducía de casa de mis padres a mi nuevo pisito (no quiero agobiaros con las 10000 cosas que nos quedan por hacer, esto es como el <a href="http://es.wikipedia.org/wiki/S%C3%ADsifo">mito de sísifo</a> o algo parecido) oigo que en la radio en un <a href="http://www.rac1.org/?cat=20&mc=1">programa de RAC 1 "Vía lliure"</a> (Vía libre) preguntaban a los oyentes si tenían algún mito, cuando lo que querían decir supongo es un ídolo, alguien de referencia, es decir cuando eres super fan de un tío/tía que admiras profundamente.
+
+Un tipo ha dicho que para él, un mito es el "Señor Stewart" que es el mote con el que cariñosamente llamaba a <a href="http://es.wikipedia.org/wiki/Woody_Allen">Woody Allen</a>, su director fetiche, del que decía que había visto todas sus películas y que le llenaba de orgullo y satisfacción que hubiera decidido rodar la última en Barcelona, lo de Sr. Stewart viene porque su nombre real es <em>Allen Stewart Königsberg</em>. Otra señora ha dicho que su ídolo era <a href="http://es.wikipedia.org/wiki/Katharine_Hepburn">Catherine Hepburn</a>, de la cual destacaba que era una gran actriz y que además su vida personal era digna de mención porque había tenido una vida bastante libre y plena. 
+
+Yo rápidamente tras escuchar a esto dije bueno y ¿Cuál es tu ídolo? ¿A quién admiras? Y me vino un nombre a la cabeza: <a href="http://es.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a> (bueno en realidad primero pensé en <a href="http://solo.infames.org">ti</a> ya lo sabes). Él se hizo a si mismo, es un luchador, es una persona que siempre ha querido hacer cosas grandes y que se ha desvivido siempre por dar cosas  nuevas al mundo, por lanzar productos útiles de cara al público, el Mac, el iMac, el iPod, el iPhone... y además pasando por dificultades muy jodidas como que le expulsaran de la compañía que fundó o de tipo personal con su enfermedad que superó. El señor Jobs se mantiene al frente de Apple y está cada día al pié del cañón, es un tipo implicado en lo que a su compañía se refiere y siempre ha tenido un objetivo: <strong>MEJORAR</strong>. Mejorar lo que existe y ofrecer soluciones nuevas es por eso que admiro su saber hacer y su estilo de vida.
+
+Luego llamó otra oyente del programa y dijo que su ídolo era el feo de los <a href="http://www.youtube.com/watch?v=gc5xk9wVA0o">hermanos Calatrava</a> y otra más descubrió que sus ídolos son el <a href="http://www.duodinamico.com/">Dúo Dinámico</a> pero eso es otra historia.

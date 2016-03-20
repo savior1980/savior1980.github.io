@@ -1,0 +1,15 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [11/02/2007]
+date: '2007-02-11T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/02/12/mehagustadonomehagustado-11022007/
+---
+- <span style="font-weight:bold;">Mehagustado</span> que las cosas vayan serenándose en el trabajo, mañana y pasado vuelvo al cliente en el que estaba para terminar de finiquitar los temas pendientes y bueno a partir del miércoles a seguir haciéndome a la idea del nuevo cliente y de los nuevos proyectos que vayan surgiendo. También estoy acostumbrándome a no seguir la actualidad de mis feeds RSS de buenas a primeras pues en el nuevo cliente la conexión está muy restringida. Es por ese motivo también que seguramente postearé menos en los blogs, veremos este mes como va la historia.
+
+- <span style="font-weight:bold;">Nomehagustado</span> un pequeño malentendido que hubo esta semana con el responsable del anterior cliente y tampoco <span style="font-weight:bold;">Nomehagustado</span> que el viernes hablara yo con mi gerente para no sacar nada en claro, es como hablarle a una pared, vaya puta mierda de empresa en la que me metí... a ver si hago un cambio de rumbo pero ya.
+
+- <span style="font-weight:bold;">Mehagustado</span> mucho <a href="http://uneasysilence.com/archive/2007/02/9574/">esta camiseta</a>, tengo que recuperar mi <span style="font-style:italic;">Tshirtaholismo</span> y ahora que se acerca la primavera estar atento a sitios como <a href="http://threadless.com">Threadless</a> y demás a ver si sacan promociones y me compro alguna camisetilla chula.
+
+- <span style="font-weight:bold;">Nomehagustado</span> nada <a href="http://www.imdb.com/title/tt0454919/">Pulse</a>, de hecho entra en el top10 de las peores películas que habré visto, aunque esté Wes Craven detrás y aunque quizás a <a href="http://kalimerozone.blogspot.com">Kalimero</a> le moleste el comentario por ser quién es la protagonista, pero es que la película es un <span style="font-weight:bold;">truño</span> enorme, además de ser lentísima, insulsa, incoherente, penosa, triste, inverosímil, ¿sigo?
+
+- <span style="font-weight:bold;">Mehagustado</span> el capítulo de <span style="font-weight:bold;">Dexter</span> que he visto hoy (el sexto) y sobretodo el último de <span style="font-weight:bold;">Heroes</span>, que es brutal, realmente genial y se descubren más cosas de las relaciones entre héroes además de un guiño muy bueno a Star Trek TOS. También me gustó mucho la conclusión de la primera temporada de <span style="font-weight:bold;">Star Trek Enterprise</span> y sobretodo gente hay que verla en versión original, que el doblaje al español es bastante malo, esa voz de Archer a la Adama, no le pega nada de nada.

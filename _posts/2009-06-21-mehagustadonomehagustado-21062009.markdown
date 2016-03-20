@@ -1,0 +1,27 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [21/06/2009]
+date: '2009-06-21T00:00:00+00:00'
+permalink: http://resistancefutile.com/2009/06/22/mehagustadonomehagustado-21062009/
+---
+- <strong>Mehagustado</strong> volver al ruedo, después de dos semanitas de tranquilidad he vuelto al anterior cliente para inciar un nuevo proyecto, más ambicioso, que seguramente me tendrá muy liado las semanas que se aproximan, veremos si somos capaces de mantener un buen ritmo de curro y podemos sacar adelante el proyecto. Lo que <strong>nomehagustado</strong> es que pienso que los demás podrían tirar un poco más del carro, que algunas veces parece que tengo que luchar no solo contra la complejidad del proyecto y contra mis tareas en sí, si no contra más adversidades, eso no mola en absoluto aunque igual tiene un gran componente la mentalidad con la que afronte yo mismo las situaciones así que toca mentalizarse.
+
+- <strong>Mehagustado</strong> mucho Opera 10 beta, lo establecí como predeterminado creo que fue el jueves y hasta hoy no lo he vuelto a cambiar por la nueva versión de Shiretoko (optimizada par Intel). Sin duda es un gran navegador, con control de sesiones, con un "1password integrado", tiene diccionario de autocorrección al español, muestra la botonera de Wordpress y de lightpress, va realmente rápido y fluido, tiene gran cantidad de skins aunque la verdad es que sólo <strong>mehangustado</strong> los dos que vienen por defecto. Vamos que lo he cambiado otra vez por Shiretoko puesto que recientemente han sacado nueva versión release candidate de la 3.5, que si no igual todavía seguiría con él. En el curro, donde uso Windows creo que voy a dejarlo una temporada más.
+
+- <strong>Nomehagustado</strong> leer que el Madrid también se ha metido en el fichaje de Mascherano, al que intenta fichar el Barça de hace unos días. Bien empecemos por el principio, se ve que el Barça y Villa tienen un preacuerdo que viene del mes de Febrero, pero la semana pasada el Madrid se inmiscuyó haciendo una oferta tentadora al jugador. Gol del Madrid, parece que el jugador vería con mejores ojos recalar en el club blanco. Desde el mes de Abril que el Barça sigue los pasos de Franck Ribéry, pues de hace unas semanas que el Madrid no hace más que preguntar al Bayern por su fichaje. Y ahora ocurre lo mismo con Mascherano, si es que como le decía a <a href="http://twitter.com/savior1980/status/2256616134">Pedro10 por twitter</a> a ver si el Barça se interesa por Bogarde y el Madrid lo termina fichando porque macho, así no mola.
+
+- <strong>Nomehangustado</strong> la inmensa mayoría de clientes para Twitter de Mac. <a href="http://resistancefutile.com/2009/04/30/el-por-que-me-he-pasado-a-destroy-twitter/">Sigo aferrado a Destroy Twitter</a>, el único que me gusta un poco es Tweetie, pero tiene publi y hay algunas cosas a nivel de interfaz que no terminan de gustarme. También he probado TweetDeck para el iPhone y he de decir que está bastante bien, pero sigo prefiriendo Twitterfon (aunque la última versión es bastante buggy en la 3.0) y Twitterrific (aunque la publi ocupe el 90% de la pantalla). 
+
+- <strong>Mehagustado</strong> pasar el finde en casita, ayer fuimos al Badebaño y al IKEA de Montigalà y compramos algunos utensilios de cocina (unas tijeras, una paleta, un cuenco...) comimos allí y luego fuimos a comprar al Carre4. Hoy ha sido un domingo de perreo total, el finde nada destacable.
+
+- <strong>Nomehagustado</strong> no acabar de ver Star Trek Generations, espero que algún día veamos esos 43 minutos que faltan. Mehagustado la primera temporada de Clone Wars, los episodios los hay mejores y los hay peores, los que son malos son muy muy malos, pero los que son buenos vale mucho la pena su visionado.
+
+- <strong>Mehagustado</strong> que Cristina tenga por fin su iPhone (bueno, no lo tiene ahora si no que en teoría esta semana lo tendrá), así que de momento me da cierta envidia y cuando lo tenga y me lo restregue por la cara, me dará todavía más, pero en fin, me queda el consuelo que desde fuera no se nota cuál es cuál y que el año que viene me tocará renovarlo a mí e invertiremos los papeles.
+
+- <strong>Megustará</strong> tener el miércoles festivo (Sant Joan) y poder descansar un poco entre semana, soy de la firme convicción que el miércoles debería ser festivo siempre, con un día de relax entre semana pienso que seríamos todos más productivos. Aunque tuviésemos dos lunes, el lunes y el jueves.
+
+- <strong>Mehagustado</strong> encontrar la manera usando Automator de sustituir de forma semiautomática los recursos, iconos y otras modificaciones que tengo en varias aplicaciones. Ahora tengo un flujo de trabajo para poder realizar estas sustituciones de recursos de manera muy sencilla y flexible. En breve un <em>screencast</em> de como hacerlo.
+
+- <strong>Mehagustado</strong> ir superando mis récords en Flight Control, que son muy pésimos todavía, pero bueno 79 aviones aterrizados in a row, me avalan y sigo preguntándome qué hará a este juego tan adictivo macho. 
+
+- <strong>Mehangustado</strong> mucho los <a href="http://www.xataka.com/perifericos/wd-silicondrive-iii-ya-llegan-los-primeros-ssd-de-western-digital">discos SSD de Western Digital</a>. Yo digo que dentro de poco tocará renovar el disco y la RAM de mi MBP y a ver si se me va la mano y me agencio uno de estos, aunque por ahora no está disponible el precio y seguramente serán totalmente desproporcionados.

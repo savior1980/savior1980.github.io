@@ -1,0 +1,15 @@
+---
+layout: post
+title: |-
+  jo cant sa lluna i s´estrella
+  sa jungla i es bosc ...
+date: '2006-09-20T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/09/20/jo-cant-sa-lluna-i-s%c2%b4estrellasa-jungla-i-es-bosc/
+---
+<p class="chorus">jo cant sa lluna i s´estrella
+sa jungla i es bosc animat
+es tren, es vaixell, s´avioneta
+i es teu submarí aquí aparcat
+jo cant sa fruita vermella
+i quan acabi riuré
+galapots, nenúfars, princeses, oh yeah!</p><p align="right">-- <a href="http://www.catradio.cat/cerveri/c_2.htm">Wa Yeah!</a> de Antònia Font, cuando oigo <a href="http://www.zshare.net/audio/wa-yeah-mp3.html">esta canción</a> les pregunto a los que dicen que el valenciano es una lengua distinta del catalán, el mallorquín qué es?</p>

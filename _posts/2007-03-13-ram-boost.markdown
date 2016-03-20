@@ -1,0 +1,9 @@
+---
+layout: post
+title: RAM Boost
+date: '2007-03-13T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/03/13/ram-boost/
+---
+Esto es lo que ocurre si a tu iBook G4 le compras un módulo de 1GB PC2700@333MHz de 200 pins ampliándole al máximo (1.5GB) la memoria RAM.
+
+<img style="display:block; margin:0px auto 10px; text-align:center;" src="http://bp2.blogger.com/_PnWHf0Wv0BI/RfclgD1l8qI/AAAAAAAAAI0/6rostOKfO10/s1600/Imagen+1.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5041539540580692642" />Es decir poder tener memoria de sobra para correr las principales aplicaciones que uso en el día a día. La RAM que he elegido ha sido un módulo kingston que me ha costado <span style="font-weight:bold;">89 euros</span> (iva incluido) en PC Green. Esto sumado a la actualización a 10.4.9 hace que el sistema literalmente vuele, vale realmente la pena actualizarse la RAM si tienes menos de un giga.

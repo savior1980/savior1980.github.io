@@ -1,0 +1,10 @@
+---
+layout: post
+title: This one's for the freaks...
+date: '2007-10-24T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/10/24/this-ones-for-the-freaks/
+---
+<p class="chorus">This one's for the freaks
+Beaten down and lost
+The shy and withdrawn
+Or just out of touch</p><p align="right">-- <a href="http://www.youtube.com/watch?v=tpKDLA54_88">Canción</a> que me encanta del último album de <a href="http://www.manicstreetpreachers.com">Manic Street Preachers</a> dedicada a sus fans y a todos los <em>freaks</em> en general, un <a href="http://en.wikipedia.org/wiki/Underdog_(competition)" >underdog</a> es alguien a quien le colgarías el cartel de "perdedor" en una primera impresión</p>

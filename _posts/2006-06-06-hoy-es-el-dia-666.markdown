@@ -1,0 +1,15 @@
+---
+layout: post
+title: Hoy es el día 666
+date: '2006-06-06T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/06/06/hoy-es-el-dia-666/
+---
+<a href="http://es.wikipedia.org/wiki/Seiscientos_sesenta_y_seis"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.12.jpg" border="0" alt="" /></a>En varios blogs he visto publicada la noticia: hoy es 06/06/2006. Hay cantidad de referencias al 666, el número de la Bestia en multitud de sitios.
+
+Una de las entradas que más me ha gustado es <a href="http://zifra.blogalia.com//historias/40583">esta de Cambalache</a>, dónde nos ponen curiosidades sobre este número, tan especial.
+
+Me ha impactado mucho que 666 sea la suma de los cuadrados de los 7 primeros primos :S
+
+666 = 2² + 3² + 5² + 7² + 11² + 13² + 17²
+
+Inquietante!

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Google AJAX Search para Blogger Beta
+date: '2006-10-19T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/10/19/google-ajax-search-para-blogger-beta/
+---
+<a href="http://resistancefutile.blogspot.com/2006/06/nueva-interfaz-de-bsquedas-de-google.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/googlesearch.png" border="0" alt="" /></a>Por fin lo he conseguido, ya está disponible el componente de búsquedas <a href="http://code.google.com/apis/ajaxsearch/documentation/">Google AJAX Search</a> incorporado al <a href="http://resistancefutile.blogspot.com/2006/09/resistance-20.html">Resistance 2.0</a>. Este componente tiene las ventajas de desplegarse dinámicamente y de incorporar más serivicos de búsqueda externos, es decir, podréis realizar búsquedas del término en otros blogs o buscar vídeos relacionados en Google Video desde el mismo componente. Además se ve perfectamente en el nuevo IE7, al contrario de lo que pasaba <a href="http://resistancefutile.blogspot.com/2006/06/nueva-interfaz-de-bsquedas-de-google.html">anteriormente</a>, que no era compatible.
+
+Para incorporar la API a Blogger Beta sin mucho esfuerzo ni conocimientos avanzados de HTML/Javascript os lo explico a continuación. Primero deberéis registraros bajo <a href="http://code.google.com/apis/ajaxsearch/signup.html">este enlace</a>, tras personalizar un poco la función OnLoad que os proporciona Google (aun no sabiendo Javascript es bastante sencillo e intuitivo si teneis nociones de OOP) y que deberéis incoroporar entre vuestro tag de Head, nos quedaba la problemática que al incorporar la opción onload="OnLoad()" en el tag de Body, la navbar cascaba. Bien, lo que he hecho es un walkaraound (por hablar fancy ya que se trata de una chapuza en toda regla) al problema y es poner en un widget HTML de Blogger Beta el siguiente código (sin los espacios en las tags, claro):
+
+<span style="font-style:italic;">< img width="10px" src=" cualquier url de imagen válida " onload="OnLoad()" />
+< div id="searchcontrol"/ >< /div >  </span>
+
+Fin del asunto, se desplega el componente como toca en el widget y no hay más problema, en realidad es mejor ya que queda encapsulado en un widget que podréis mover, editar y personalizar con el editor visual de Blogger Beta. Como ya os dije en  la entrada orginal, podéis enviarme un correo si tenéis dudas o lo que sea: <span style="font-weight:bold;">savior1980[@]gmail.com
+</span>

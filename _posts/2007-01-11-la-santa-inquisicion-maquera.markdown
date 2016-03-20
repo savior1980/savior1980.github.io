@@ -1,0 +1,12 @@
+---
+layout: post
+title: La Santa Inquisición Maquera
+date: '2007-01-11T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/01/12/la-santa-inquisicion-maquera/
+---
+Días como hoy efectivamente pienso que los maqueros somos una secta. Y lo digo abiertamente y claramente: la mayoría estamos mal de la cabeza. Pongo <a href="http://www.applesfera.com/2007/01/11-mas-de-10-cosas-que-no-molan-del-iphone">10 cosas malas del iPhone en Applesfera</a> y se convierte en la entrada más comentada del blog, 80 y pico comentarios alguno realmente genial:
+<blockquote>salva eres un hereje de la manzanita, no te mereces escribir en applesfera si no te gusta el iphone, lo siento. Todo lo de apple es perfecto,y mas aun si lo presenta Steve en una keynote. Como se nota que nokia te ha comprado</blockquote><p>Sólo he tenido que borrar uno que me insultaba directamente a machete y sin anestesia pero es que muchos no dan tan siquiera un argumento que se sostenga mínimamente y que sirva de discusión, como el anterior que creo lo voy a imprimir tamaño póster y a colgar en mi habitación. Pero reflexionemos en las sabias palabras de alvaro, el autor del anterior comentario, así que todo lo de Apple es perfecto y si publico 10 cosas que objetivamente podrían haberse mejorado en el iPhone y encima doy mi opinión en la que digo atención al matiz: que <span style="font-weight:bold;">si ahora me tocara decidir NO sé que diría, que probablemente diría que NO me lo compro</span> (que es muy distinto de decir: no me lo voy a comprar, el teléfono es una mierda, quien se lo compre es gilipollas u otros similares que se deben haber interpretado) ah, <span style="font-weight:bold;">entonces eres un hereje</span>. A la hoguera. Yo, que tengo 3 Macs PPC y me acabo de comprar un Newton, por el placer de tener algo Apple que fue un elemento mítico de la historia de la compañía. </p>Y si hago un post con 10 cosas buenas del iPhone? Ah entonces soy un fanboy y un sectario. 
+
+No me queda más que añadir: <span style="font-weight:bold;">I love this game</span>.
+
+<span style="font-weight:bold;">Actualización</span>: los comentarios de Dani y Juan Carlos Alchapar son acertadísimos :D

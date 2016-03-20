@@ -1,0 +1,17 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [16/07/2006]
+date: '2006-07-16T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/07/16/mehagustadonomehagustado-16072006/
+---
+- <strong>Nomehagustado</strong> la peli <a href="http://imdb.com/title/tt0348150/">Superman Returns</a>, vaia película más ñoña, aburrida y fatal, o sea, lamentable en mayúsculas, una decepción enorme, no sé ya cómo más calificarla. A media película uno tiene la sensación de que nada ha ocurrido, Superman vuelve, al igual que Clark Kent, y no explican casi nada de su viaje de 5 años... y después está que es el héroe más burro que uno pueda encontrar, si la personalidad de Cíclope en X-Men os pareció idiota, Superman es incluso peor. Si sois fans del tipo con una S enorme en el pecho, no paguéis la entrada para ir a ver la peli, no vale la pena.
+
+- <strong>Mehagustado</strong> como viene siendo habitual, el fantástico <a href="http://cuatrodoce.blogsome.com/2006/07/15/podcast-8-ya-disponible/" title="Podcast 8 ya disponible">podcast nº 8 de Cuatrodoce</a>, Pedro eres un crack te lo digo de corazón. A ver si la gente que tiene tiempo material (yo no tengo lo juro) se implica más en la creación de podcasts, seria bueno oír alguna vez un podcast de alguien como Hugo, Rub o el Dr. Wasabi.
+
+- <strong>Nomehagustado</strong> tener que enfrentarme al miedo que supone <a href="http://resistancefutile.blogspot.com/2006/07/soy-ipodmanaco-y-temerario-s-lo-soy.html" title="permanent link">bajar a la vía del tren para recuperar mi iPod</a>, no se lo recomiendo a nadie.
+
+- <strong>Mehagustado</strong> enormemente el plug-in para Safari, <a href="http://haoli.dnsalias.com/Saft/">Saft</a> que me permite guardar sesiones y reordenar tabs (y más cosas que sería largo de explicar). Tanto es así que aunque me cueste horrores reconocerlo: he apartado el Red Panda de mi vida maquera, lo siento Firefox, lo nuestro no puede ser, cada vez me pides más memoria y aunque sea muy cómodo utilizarte he encontrado alguien que me da lo que necesito: rapidez, ligereza y ahora, con Saft, personalización... Safar es mi brújula, y lo siento animalito... te llamaré, de vez en cuando para recordar viejos tiempos pero por ahora lo nuestro es imposible.
+
+- <strong>Mehagustado</strong> que se valore mi trabajo en el mundo blogosférico, <a href="http://resistancefutile.blogspot.com/">Resistance is futile</a> ha entrado en <a href="http://www.alianzo.com/ranking-blogs/comunidad/catalunya">el número 65 del ránking de Alianzo para Catalunya</a>, tengo un ritmo de visitas que os agradezco de todo corazón,  amén de que este blog me ha permitido conocer grandes personas como <strong>Pedro, Hugo, Dr. Wasabi, Nacho, Vedia, merovingio, eltercero y muchos más</strong> que me dejo en el tintero. Además colaboro en dos blogs como son <a href="http://bitelia.com">Bitelia</a> y <a href="http://es.appleweblog.com">Appleweblog</a> que van creciendo día a día y de momento Eduardo Arcos creo que está contento con mi trabajo, lo cual es siempre bueno.
+
+- <strong>Nomehagustado</strong> por el contrario sentirme un poco desamparado en mi trabajo del Mundo Real&trade;, parece que la cosa va a mejor, no obstante, tengo unas ganas tremendas de empezar las vacaciones, tre-men-das. Tampoco me gustó en la misma línea que me contaran que en mi antiguo trabajo las subidas hayan ido tan mal, si curras como un condenado para que te suban e ir creciendo encuentro una estafa que esa subida no corresponda en nada a tu nivel de esfuerzo.

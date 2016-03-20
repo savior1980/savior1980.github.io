@@ -1,0 +1,35 @@
+---
+layout: post
+title: piX, un benchmark a lo geek
+date: '2007-01-06T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/01/06/pix-un-benchmark-a-lo-geek/
+---
+<a href="http://www.coriolis.ch/en/pix/"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp1.blogger.com/_PnWHf0Wv0BI/RZ-SfGb4_5I/AAAAAAAAAEU/X9j91xGaGkI/s320/pix_logo.jpg" alt="" id="BLOGGER_PHOTO_ID_5016889572915216274" border="0" /></a>
+<a href="http://www.coriolis.ch/en/pix/">piX</a> es una pequeña aplicación para Mac OS X, muy ligera, gratuita y binario universal que <span style="font-weight:bold;">calculará las cifras de Pi que nosotros le especifiquemos</span>, detallándonos al final de la operación todo el resultado y el tiempo invertido en el cálculo.
+
+Tal como apunta el autor de la aplicación, podría convertirse en un benchmark un poco geek. Podríamos ver en distintos Macs cuál es el tiempo invertido para calcular 100.000 cifras de Pi (un número bastante considerable), por tanto invito a cualquiera que tenga un Mac que nos diga cuál es el tiempo que le tarda en calcular 100.000 cifras del número Pi, ya que no cuesta nada, se pierden pocos segundos y al final podemos crear una tabla de resultados bastante chula, por cierto el tiempo invertido se muestra al final de todos los dígitos calculados, éste es el resultado <s>en los 2 macs que ahora mismo tengo en mi poder</s> de todos los participantes:
+
+PPC:
+- <span style="font-weight:bold;">PowerBook G4 1,5GHz</span> 1,25gb de RAM: <span style="font-weight:bold;">8,450</span> segundos (¡Gracias Roberto!)
+- <span style="font-weight:bold;">Powerbook G4 1,5Ghz</span>, 768 RAM: <span style="font-weight:bold;">8,560</span> segundos (¡Gracias Mr. alchapar!)
+- <span style="font-weight: bold;">iBook G4 1.42 GHz</span>, 512 RAM, Tiger: <span style="font-weight: bold;">9.890</span> segundos
+- <span style="font-weight:bold;">iBook G4 1,2GHz</span> con 768 MB: <span style="font-weight:bold;">10,590</span> segundos (¡Gracias Oscar!)
+- <span style="font-weight:bold;">PowerMac G4 466MHz</span> 512 MB de RAM: <span style="font-weight:bold;">39,390</span> segundos (¡Gracias Lady!)
+- <span style="font-weight:bold;">PowerMac G3 350MHz pitufo</span>, 640 RAM, Tiger: <span style="font-weight:bold;">52,630</span> segundos (¡Gracias Rafa!)
+- <span style="font-weight: bold;">iMac G3 333MHz</span>, 288 RAM, Panther: <span style="font-weight: bold;">60,030</span> segundos
+
+MacIntel:
+- <span style="font-weight:bold;">MacBook Pro C2D 2,33Ghz</span> y 2GB de RAM: <span style="font-weight:bold;">3,790</span> segundos (¡Gracias don Pedro!)
+- <span style="font-weight:bold;">MacBook Pro C2D 2,33Ghz</span> 2 Gb RAM, 17": <span style="font-weight:bold;">3,800</span> segundos (¡Gracias WildKiter!)
+- <span style="font-weight:bold;">iMac C2D 2,16 GHz</span> y 2GB de RAM: <span style="font-weight:bold;">4,040</span> segundos (¡Gracias Pablo!)
+- <span style="font-weight:bold;">MacBook Pro C2D 2,16Ghz</span>: <span style="font-weight:bold;">4,080</span> segundos (¡Gracias Jorge!)
+- <span style="font-weight:bold;">MacBook C2D 2GHz</span> 2GB RAM: <span style="font-weight:bold;">4.430</span> segundos (¡Gracias austerhouse!)
+- <span style="font-weight:bold;">MacBook CoreDuo 2GHz</span> 2GB Ram:  <span style="font-weight:bold;">5,170</span> segundos (¡Gracias Sr. Flic!)
+- <span style="font-weight:bold;">iMac Intel Core Duo 2Ghz</span>  1Gb Ram <span style="font-weight:bold;">5,180</span> segundos (¡Gracias Xune!)
+- <span style="font-weight:bold;">MacBook Pro, Core Duo 2GHz</span>, 1GB RAM: <span style="font-weight:bold;">5.180</span> segundos (¡Gracias Sergi!)
+- <span style="font-weight:bold;">MacBook, Core Duo 2GHz</span>, 1GB RAM: <span style="font-weight:bold;">5.180</span> segundos (¡Otra vez Gracias Rafa!)
+
+Otras arquitecturas:
+- <span style="font-weight:bold;">Akira Haraguchi</span>, ser humano: <span style="font-weight:bold;">16 horas</span>. 100.000 digitos de pi de memoria (¡Gracias por la aportación neok!)
+
+(Vía <a href="http://www.macupdate.com/info.php/id/23645">MacUpdate</a>)

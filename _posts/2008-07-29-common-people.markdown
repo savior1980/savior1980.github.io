@@ -1,0 +1,13 @@
+---
+layout: post
+title: Common People
+date: '2008-07-29T00:00:00+00:00'
+permalink: http://resistancefutile.com/2008/07/29/common-people/
+---
+<p class="chorus">You'll never live like common people,
+you'll never do what common people do,
+you'll never FAIL like common people,
+you'll never watch your life slide out of view,
+and dance and drink and screw,
+because there's nothing else to do.</p>
+<p align="right">-- <a href="http://www.youtube.com/watch?v=_EMd9zyJLgA">Common People de Pulp</a>, mucho mejor que el <a href="http://www.youtube.com/watch?v=eISBTBwWKeE">cover</a>  del <em>capitán Kirk</em> en <a href="http://en.wikipedia.org/wiki/Has_Been">Has Been</a> </p>

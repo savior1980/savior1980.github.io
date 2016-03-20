@@ -1,0 +1,9 @@
+---
+layout: post
+title: Los 10 edificios más altos
+date: '2006-05-21T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/05/21/los-10-edificios-mas-altos/
+---
+<a href="http://www.dailybuzzer.com/amazing-high-skyscrapers-photos"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/Imagen%201.4.png" border="0" alt="" /></a>Me encanta mirar los edificios más altos del planeta, de hecho, me encantan los rascacielos, quizás sea un arquitecto frustrado, no sé, pero lo cierto es que disfruto viendo obras de ingeniería tan importantes y tan altas... 
+
+Por eso he disfrutado viendo <a href="http://www.dailybuzzer.com/amazing-high-skyscrapers-photos">esta entrada</a> dónde se recogen fotos de los 10 rascacielos más altos del mundo y he podido comprobar que el Empire State sigue estando en el top 10, en la posición 9, pero ahí está (foto de la derecha). Curioso ver que gran cantidad de los edificios más altos del mundo reside en Asia y que en contra de lo que creía las conocidas Torres Petronas en Kuala Lumpur no son los edificios más altos del mundo, sino que ocupan la 2ª y 3ª posiciones cediendo el primer puesto a la Taipei 101 Tower (Taiwan) que tiene la friolera de 510 metros de altura.

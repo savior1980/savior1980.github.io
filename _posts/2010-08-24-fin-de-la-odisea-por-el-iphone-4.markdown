@@ -1,0 +1,18 @@
+---
+layout: post
+title: Fin de la odisea por el iPhone 4
+date: '2010-08-24T00:00:00+00:00'
+permalink: http://resistancefutile.com/2010/08/24/fin-de-la-odisea-por-el-iphone-4/
+---
+<a href="http://resistancefutile.com/wp-content/150668464.jpg"><img src="http://resistancefutile.com/wp-content/150668464.jpg" alt="" title="Por fin iPhone 4" width="260" height="350" class="derecha_borde" /></a>Por fin tengo mi nuevo iPhone 4. Ayer recibí un mensaje muy genérico del 1004 diciendo que ya tenía los puntos cargados, también entré en canal cliente y verifiqué de nuevo que tenía la oferta aplicada. Así que estuve por la tarde intentando localizar un distribuidor movistar para realizar el canje, sin éxito. Decidí que hoy me levantaría temprano e iría a la tienda movistar de Ronda San Pere, en Barcelona donde históricamente @tonimaquero y @ladymandona han tenido éxito en conseguir sus iPhones. 
+
+Paso por delante a eso de las 8:20 y no había nadie en la cola, me digo que soy un gañán y que tanto esfuerzo no valdrá para nada, pero en fin me resigno a probarlo, meto el coche en el párking del triangle, me voy al Starbucks de Rambla Catalunya a por un Frappu y un NYC Bagel y me dirijo a la tienda. Había dos tíos en la cola ya a eso de las 8:35, poco después a las 8:40 se nos une un cuarto personaje (todavía no he conseguido descifrar su acento, pero venezolano o colombiano, no sé). Así éramos 4, comentando lo jodido que es hacerse con uno, etc, etc. Los 4 en la misma situación que la mía: no les aplicaron los puntos, hicieron portabilidad y les contraofertaron.
+
+Espera que te esperarás hasta las 10:05 que abren la tienda. Lo primero que nos dicen: tenemos 3 iPhone 4 solamente, y yo resoplo de alegría, al final delante mío los dos chicos sólo uno quería el iPhone así que el tipo de acento indeterminado se queda con el último. Es una putada porque la gente que ha llegado a la tienda a las 8:50 y se ha tirado hora y cuarto de cola se ha ido con las manos vacías. Puta mierda de distribución en serio, me ha dado mucha rabia por ellos.
+
+Lo primero es que te encasquetan el puto módem USB, que no quiero para nada, pero no hay forma de hacerles bajar del burro. Así que nada, le doy el código que solicité en canal cliente y la tipa lo mira en el sistema y cómo el chico delante mío se ha pillado el "último" iPhone de 16GB, yo me agencio uno de 32GB, por el módico precio de *145* euros, que está absolutamente genial. Trincando la permanencia a 24 meses eso sí, de eso no me escapo. Bueno después de estar 45 minutos de pié esperando que me lo activasen y tal resulta que mi iPhone tiene jodida la pantalla. ( Hago un inciso, a la tía se le ha caído cuando lo sacaba de la caja encima de la mesa sobre unos papeles, si por ese golpecito se ha jodido la pantalla, vamos apañaos ). Yo ya estaba con las manos en la cabeza y con los ojos inyectados en sangre cuando la tía me dice que el iPhone está defectuoso, por suerte, pueden cambiármelo. Entonces me encuentro con @tonimaquero y le comento toda la jugada, se queda un poco perplejo de que lo que ocurre y de que me salga el iPhone por ese precio y al final, la tía me da el iPhone activado y nos vamos de la tienda. Ya tengo iPhone 4 y me dispongo a ir al Fnac a pillarme una funda.
+
+Al final después de mucho mirar me decido por una "Belkin Grip Vue Tint":http://www.belkin.com/IWCatProductPage.process?Product_Id=512159 que de momento me convence bastante hasta que pille el bumper negro de Apple. 
+
+He llegado a casa, lo he sincronizado y ahora mismo estoy con la aplicación para solicitar el Bumper a Apple. La odisea toca a su fin.
+

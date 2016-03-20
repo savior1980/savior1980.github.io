@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'QueryTunes: QuickSilver+iTunes geekery'
+date: '2007-01-27T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/01/27/querytunes-quicksilveritunes-geekery/
+---
+El otro día vi <a href="http://theappleblog.com/mint/pepper/orderedlist/downloads/download.php?file=http%3A//theappleblog.com/mint/pepper/orderedlist/downloads/download.php%3Ffile%3Dhttp%253A//www.theappleblog.com/wp-content/uploads/Quicksilvertunes.mov">un gran screencast</a> en <a href="http://theappleblog.com/2007/01/25/quicksilver-screencast-tags-playlists/">esta entrada</a> de The Apple Blog, mostrando dos scripts para combinar Quicksiilver e iTunes, <a href="http://tunetag.com/?p=5">TuneTag</a> y <a href="http://ai.vancouver.wsu.edu/~wallaces/professional/development.html">QueryTunes</a>, resultándome bastante completo el segundo <strong>QueryTunes</strong>, que me gustaría recomendar a todos los fans de la creación de playlists en iTunes.
+<img style="display:block; margin:0px auto 10px; text-align:center;" src="http://bp0.blogger.com/_PnWHf0Wv0BI/Rbt4M9w0gzI/AAAAAAAAAG8/tzEKYoUxJy8/s1600/Imagen+1.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5024741973395014450" />QueryTunes permite mediante un comando entrado vía quicksilver ( y por tanto más que accesible) crear una playlist con unos criterios de selección dentro de vuestra biblioteca bastante complejos. Además lo hará sin crear smartlists ni nada por el estilo, simplemente, dejará una lista como resultado que contendrá el filtro que hayamos dispuesto, podemos filtrar con la letra a: para el artista o g: para el genero y usar los operadores lógicos and, or, etc. Aseguraos de tener iTunes abierto, eso sí si es que lo porbáis. Para hacerlo, tenéis que bajaros el script y ponerlo en la librería/scripts para que quicksilver sea capaz de leerlo.
+
+Aunque más que todo eso mejor ver el screencast que aun siendo sosete, estar en inglés y no dejar ninguna perla del estilo "esto lo subimos a flic", la verdad que resulta la mar de didáctico, sobretodo al final cuando muestra Querytunes, que bueno, aunque no es nada del otro mundo y tenga más de un fallo, no está mal del todo.

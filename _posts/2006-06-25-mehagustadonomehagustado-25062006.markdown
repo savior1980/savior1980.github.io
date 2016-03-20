@@ -1,0 +1,15 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [25/06/2006]
+date: '2006-06-25T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/06/26/mehagustadonomehagustado-25062006/
+---
+- <span style="font-weight:bold;">Mehagustado</span> que se haya lanzado <a href="http://es.appleweblog.com/">Appleweblog</a> y que haya tenido una buena acogida, es otro blog vertical centrado en el mundo Apple y que tiene unos colaboradores muy buenos, excepto yo que soy bastante mediocre, Miguel y Manu son unos cracks, además el proyecto está creciendo y en fase de expansión, todos estamos muy ilusionados por el tema.
+
+- <span style="font-weight:bold;">Mehagustado</span> mucho la primera temporada de <a href="http://www.imdb.com/title/tt0412142/">House</a> y todo lo que conlleva el acto litúrgico de ver esta serie: sofá, televisor, algo para picar y lo mejor de todo, la compañía de miLady.
+
+- <span style="font-weight:bold;">Nomehagustado</span> en absoluto un episodio que vimos la noche de la <a href="http://www.sgci.mec.es/au/sanjuan.htm">verbena de Sant Joan</a>, donde unos críos se afanaban en bombardear literalmente con petardos un par de borrachos bajo la complaciente mirada de sus padres, qué vergüenza, dónde vamos a ir a parar? Mi hijo le tira petardos a un tipo por la calle y almenos esa noche no enciende un solo petardo más y además le obligo a tirar los que le queden a la basura.
+
+- <span style="font-weight:bold;">Nomehagustado</span> que se me partiera el diente otra vez y que otra vez el dentista me hiciera un parche hasta el mes que viene, en que me arreglará espero el tema de una vez por todas.
+
+- <span style="font-weight:bold;">Nomehagustado</span> que en el curro haya tanto nervisosismo y se me quieran atribuir unas culpas que no tengo con respecto al sistema de enrutamiento que desarrollé, a veces pienso que quizás lo que me iría mejor es volver a la consultoría y perder mucho tiempo y esfuerzo pero estaría seguramente más valorado y tendría muchas más posibilidades de crecer, aunque, rápidamente descarto la idea porque ese rollo tampoco me va y no podría mantener mi vida blogosférica.

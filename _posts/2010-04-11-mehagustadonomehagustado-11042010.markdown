@@ -1,0 +1,27 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [11/04/2010]
+date: '2010-04-11T00:00:00+00:00'
+permalink: http://resistancefutile.com/2010/04/12/mehagustadonomehagustado-11042010/
+---
+- *Mehagustado* mucho celebrar el 30 cumpleaños de un colega del MundoReal&trade; fue muy bien, le sorprendió la fiesta que le organizamos, le gustaron los regalos y todo fue la mar de bien. 
+
+- Por supuesto, que *mehagustado* mucho que el FC Barcelona haya ganado 0-2 al Madrid, en su campo, recuperando el liderato y afianzándose en él. Quedan 21 puntos en juego en esta liga, debemos amarrar los próximos partidos e ir a tope, si nos relajamos, sufriremos. 
+
+- *Mehagustado* bastante la beta del iPhone OS 4.0 para mi iPhone 3G, todavía hay bastantes cosas que no funcionan, espero que en breve lancen nuevas betas que corrijan los pequeños fallos que se encuentran en esta versión. Los dos más relevantes serían los que implican el fondo de pantalla (que no va del todo bien) y la sincronización de apps cuando están en folders, es como si iTunes no los encontrase. Una de las cosas que más *mehagustado* es la inclusión del catalán como idioma en el sistema operativo de Apple, tremendo.
+
+- *Mehagustado* mucho el capi de Lost de esta semana, ha sido realmente genial. Las demás series, como Accidentally, SGU, FlashLOL, V... ni fú ni fá.
+
+- *Nomehagustado* que ahora el proyecto va tomando una gran envergadura y una velocidad muy bestia, espero que con esfuerzo y dedicación vayamos enderezando todo.
+
+- *Nomehagustado* que los servers del We Rule caigan cada dos por tres, además yo no sé si al resto le pasa pero no puedo edificar nada desde hace mogollón de tiempo.
+
+- *Mehagustado* mucho celebrar un Sunday & Sushi en el restaurante "Masaya":http://www.dining-barcelona.com/restaurante-barcelona-Masaya-742-4.html. Nos hemos comido un sushi buenísimo, un japo que realmente vale la pena ir. Lástima que sea un poco pequeño. También ha estado bien el frappuccino posterior en el Starbucks de Diagonal, donde he descubierto la "doble pasada" para los batidos (quedan super suaves y divinos) y hemos conocido "una niña graciosísima":http://www.flickr.com/photos/savior1980/4512126048/ de la que he sacado un par de fotos. Por cierto, más fotos de sushi, hechas en su mayoría con el filtro macro, en "el photostream de mi cuenta de flickr":http://www.flickr.com/photos/savior1980/.
+
+- *Nomegustará* que esta semana ya toca ir a tope en el curro y trabajar de lunes a viernes todos los días, va a ser duro después de tantas vacaciones.
+
+- *Mehagustado* recordad canciones de otras épocas en un CD que se ha currado el amigo que celebramos su cumpleaños ayer. Nos dio a cada uno un CD con banda sonora que representa distintas épocas, realmente chulo. Debo pensar qué voy a hacer cuando celebre el mío en menos de un mes :S
+
+- *Nomehagustado* que en las últimas betas de Opera para Mac no funciona demasiado bien la integración con Spaces a ver cuándo lanzan una versión estable de una vez por todas.
+
+- *Mehagustado* mucho celebrar mi 6º aniversario con Cristina, fuimos a comer al Nishiki, el mejor japo de Mataró y pasamos una velada genial.

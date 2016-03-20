@@ -1,0 +1,13 @@
+---
+layout: post
+title: Regreso al futuro con TimeMachine
+date: '2008-04-04T00:00:00+00:00'
+permalink: http://resistancefutile.com/2008/04/04/delorean/
+---
+<img src="http://resistancefutile.com/wp-content/zz08998a4f.jpg" alt="" title="zz08998a4f" width="432" height="270" class="centro_borde" />
+
+Hace unos días <a href="http://childrenatyourfeet.com">Cristina</a> y servidor nos decidimos a probar <strong>TimeMachine</strong>. Teníamos un disco de 320GB sin usar, preparado para ser formateado y usado con el gestor de copias de seguridad que lleva integrado Mac OS X 10.5, así que lo probamos y de momento al menos yo estoy encantado.
+
+Realmente, es un añadido al sistema que no puedo calificar de otra forma que no sea <em>brillante</em>. La interfaz está super conseguida, las copias son bastante rápidas y pasada la primera vez se realizan en un periquete. Quizás le falte alguna opción más de configuración pero nada que no pueda suplirse con software de terceras partes. 
+
+Me gustará ver cuando incorporan a Windows / Linux algo tan sencillo y vistoso como el gestor de copias de Mac OS X y que conste que no lo digo como agravio comparativo si no porque me parece que algo así simple y bonito debería integrarse en todos los sistemas operativos. Es que realmente te puedes despreocupar de lo que ocurra en tu disco, sabes que si tienes copias en tu disco externo, estás a salvo.

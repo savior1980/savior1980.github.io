@@ -1,0 +1,19 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado[04/10/2009]
+date: '2009-10-04T00:00:00+00:00'
+permalink: http://resistancefutile.com/2009/10/04/mehagustadonomehagustado04102009/
+---
+- *Mehagustado* que el Barça sea líder en solitario de primera división, de momento les sacamos 3 puntos a los rivales directos: Sevilla y Madrid. A ver qué ocurre la siguiente jornada donde nosotros visitamos el siempre difícil campo de Mestalla y ellos reciben al Valladolid (Madrid) y van A Coruña a jugarle al Depor (Sevilla).
+
+- *Nomehagustado* mi ritmo laboral esta semana pasada, muy poco productiva cuando debería haber sido todo lo contrario. Creo que esta semana será dura y deberemos aprovecharla a tope... no sé cómo saldrán las cosas, espero que salga todo bien.
+
+- *Nomehagustado* <del datetime="2009-10-04T22:01:06+00:00">no poder celebrar la partidita de hedgewars que tenemos pendiente. A ver si el finde que viene podemos celebrarla, me funden y a tomar por saco</del> que me hayan fundido y a tomar por saco.
+
+- *Mehagustado* el segundo episodio de Flash Forward, bastante más que el piloto, ya se van viendo esa manera de presentar los hechos tan a la "Lost" que tanto fastídia a Cristina, creo que dentro de pocos capítulos tendré que negociar con ella porque se rajará y es que hay algo que tiene razón, es una serie que va a por la audiencia descaradamente, no es que tenga unos personajes nada profundos ni una historia muy sólida. Accidentally in Purpose es una sitcom que no pinta mal del todo pero el segundo capi fue tremendamente aburrido. A ver si esta semana vemos el de House que dicen que arranca con fuerza.
+
+- *Nomegusta* "el nuevo Exposé de Snow Leopard":http://www.applesfera.com/curiosidades/si-no-te-gusta-el-expose-de-sl-tranquilo-no-eres-el-unico, es algo que odio de todo corazón, la ordenación de las ventanas es que me produce daño a la vista. Quiero que vuelva el Exposé de toda la vida, ojalá traigan en otra actualización la posibilidad de revertir el funcionamiento. <del datetime="2009-10-04T20:59:09+00:00">También *Mehagustado* volver a Coversutra, después de pasar por Coverstream y otras muchas opciones, pienso que Coversutra es realmente una gran aplicación para controlar iTunes. Aunque espero que los de Coversutra se pongan las pilas y arreglen los _fallicos_ que tiene la versión actual en Snow Leopard</del> Acabo de ver que ya está disponible desde hace un par de días una "nueva versión de Coverstream":http://www.coverstream.net/ que pienso probar esta semana, creo que voy a quedarme con Coverstream en lugar de Coversutra, ya me había acostumbrado... De hecho acabo de eliminar del Dock Coversutra. De momento *nomeestágustando* haberme pasado a Safari como navegador por defecto, estaba usando Chromium hasta ahora con muy buenos resultados, pero el tener pequeñas imperfecciones todavía y al estar "Glims":http://www.machangout.com/ ya en versión definitiva para Safari a 64bits me han hecho cambiarme a la brújula, aunque seguramente no por mucho tiempo (soy un poco culo inquieto en cuanto a navegador se refiere).
+
+- *Nomehagustado* tampoco mucho la aplicación Awaken para el iPhone... espero que en futuras actualizaciones la mejoren incluyendo al menos la posibilidad de una cuenta atrás que mole. La que ya me he pasado y recomiendo es Alive4ever, un arcade de zombies rollo RPG, con controles a lo Minigore que es bastante decente. Sí que *mehagustado* la app de Dropbox y eso de que sea gratuita todavía más. Espero con los dientes largos las actualizaciones de Minigore y Tweetie, que aunque seguramente me tocará rascarme los bolsillos sendas actualizaciones valdrán mucho la pena.
+
+- Cada vez *megugstamás* el nuevo disco de Muse, que por cierto es el que tiene más seeds en Mininova. El formato iTunes LP está bien pero no lo he usado mucho, de hecho todavía me falta por ver los vídeos que trae.

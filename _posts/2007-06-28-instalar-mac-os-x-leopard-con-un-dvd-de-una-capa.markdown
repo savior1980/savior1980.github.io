@@ -1,0 +1,21 @@
+---
+layout: post
+title: Instalar Mac OS X Leopard con un DVD de una capa
+date: '2007-06-28T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/06/28/instalar-mac-os-x-leopard-con-un-dvd-de-una-capa/
+---
+He estado probando de <strong>instalar Leopard</strong>, la versión esta que podéis encontrar en los torrents, ya sabéis, esta copia de seguridad que podéis bajaros si y sólo si tenéis la original que se entregó en la WWDC. Bien pues quería instalarla en mi iBook G4 para probar un poco las nuevas funcionalidades que se incluyeron en esta nueva versión.
+
+Hasta ahora no había podido enchufar ninguna imagen de Leopard y había probado cantidad de opciones. Mi principal preocupación y con la que también me he topado es que al restaurar la imagen del DVD a una partición del disco externo, éste no arrancaba. Y el disco está bien particionado con formato de arranque correcto, siguiendo incluso las instrucciones del amigo Sopmac en sus amables screencasts, pero imposible. Además la gente normalmente se pasa la imagen a un DVD de doble capa y tira millas, o incluso otros que se lo montan para conectar su Mac a otro por Firewire y usar la grabadora a doble capa del segundo. Yo os propongo a continuación el método que me ha funcionado, el de grabar Leopard en un DVD convencional y arrancar desde allí pulsando "c" en el arranque. Todo este método es una traducción más o menos literal de <a href="http://www.canhesaythat.com/?p=75">este gran artículo</a> que encontré por ahí y que es el que me ha sacado del atolladero.
+
+<strong>Paso 1</strong>: Suponiendo que tengáis la imagen del DVD, veréis que ocupa 6GB, lo que queda un poco grande para un DVD de capa simple, debemos quitar algunas cosillas para aligerarlo y de esta forma conseguir que quepa. Abrimos la utilidad de discos y deberemos crear una imagen de disco de 8GB y otra de 4.7GB, así que tenéis que tener ese espacio en disco para todo el proceso, para ello id al menú "Imagen", "Nueva Imagen en blanco" y seleccionad la medida máxima, (8.0 GB) y llamarla <strong>leopard</strong> por ejemplo. Una vez hecho se os montará la imagen en la sidebar. Clicad en la opción "Restaurar" y arrastrad la imagen original como origen y la imagen montada de leopard (no su .dmg, si no la que queda montada) como destino. Pulsad "Restaurar" y esperad a que finalice el proceso, que tarda unos 10 minutos.
+
+<strong>Paso 2</strong>: Montad el resultado, abrid la imagen <strong>leopard </strong>en Finder y Eliminad la carpeta XCode Tools. Seguidamente id a <em>System/Installation/Packages</em> y suprimid asimismo los drivers para las impresoras Cannon, Epson, Hewlett PAckard, Lexmark y Xerox, todas con extensión .<strong>dpkg</strong>, con esto habréis liberado suficiente espacio para poder grabar la imagen en un DVD de una capa. Vaciad la Papelera y desmontad la imagen <strong>leopard</strong>.
+
+<strong>Paso 3</strong>: Ahora crearemos otra Imagen de disco como lo hicimos en el paso 1 pero esta vez la llamaremos <strong>boot</strong> y su tamaño será de 4.7GB. Una vez creada se montará y si no lo hacemos nosotros Y repetimos el proceso anterior: Restauraremos la imagen leopard sobre la imagen montada boot, pulsamos restaurar y esperamos los 10 minutejos que tardará. Seguidamente desmontaremos la imagen boot.
+
+<strong>Paso 4</strong>: Ahora grabaremos el DVD de capa simple, colocadlo en la grabadora y con la misma utilidad de discos seleccionad la imagen boot y grabad sobre el DVD con las opciones por defecto. Dejad el DVD en la grabadora una vez finalizado el proceso y Reiniciad.
+
+<strong>Paso 5</strong>: Pulsad la tecla "c" para arrancar desde el DVD que acabáis de grabar. Veréis que TARDA UN HUEVO en arrancar. A mí me ha tardado del orden de un cuarto de hora en sacar la primera ventana de la instalación. Y recordad que la ventana "Install Summary" debéis clicar en "Personalizar" para desmarcar en la instalación los drivers de las impresoras. Y a partir de aquí la instalación se hace normalmente.
+
+Y cuando haya terminado la instalación y os deis cuenta que <strong>todo lo que habéis hecho no sirve para nada puesto que a vuestro iBook no le sale de las narices arrancar desde un disco externo vía Firewire, podéis tiraros por la ventana</strong>, yo casi lo hice antes de escribir este post.

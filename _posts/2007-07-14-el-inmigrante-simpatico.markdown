@@ -1,0 +1,13 @@
+---
+layout: post
+title: El inmigrante simpático
+date: '2007-07-14T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/07/14/el-inmigrante-simpatico/
+---
+Ayer iba yo por Gran Vía cuando de repente aparece un individuo de rasgos del <a href="http://es.wikipedia.org/wiki/Magreb">Magreb</a> aparece a mi derecha dándome un susto de muerte, pues apareció de la nada justo a mí derecha, nótese que no me asustó que fuera extrajero, sino que yendo yo pensando en mis cosas, apreció de repente.
+
+Me preguntó la hora, a lo que muy amablemente respondí y le enseñé el reloj, siempre que alguien me pregunta la hora y máxime siendo extranjero, le enseño el peluco, porque si no entiende lo que le digo, puede él mismo ver qué hora es y saciar su duda. Cuando estuve en Alemania agradecía que lo hicieran así. Eran las 15:00 de la tarde y la siguiente frase que me dice es: "espero que no té importe que alguien de otra cultura hable contigo, porque hay gente que..." y deja la frase en el aire como dando a entender que hay mucho racista suelto y tal. Se presenta como Muhammed estudiante de literatura (no especifica más, así que entiendo que quiere decir filología hispánica) y me dice que su familia está lejos y que ha venido aquí a estudiar literatura en la universidad porque le interesa mucho, me pregunta por mi profesión a lo que respondo que soy consultor y como veo que no sabe qué es eso, le digo: informático, a lo que me responde con una sonrisa. 
+
+En este momento, lo confieso, pienso "Ésta es una de esas conversaciones en las que te acaban pidiendo dinero" y efectivamente, el inmigrante no me decepciona: su semblante pasa de la simpatía a la amargura en décimas de segundo, me dice que lleva dos días durmiendo en el aeropuerto y que si tengo dinero para prestarle para que pueda llamar a su familia y que le manden más dinero para poder costearse una pensión. Le digo que no llevo dinero que quizás algo de suelto y me dice que aunque sea poco él lo apreciará, que irá a un locutorio que no quiere hablar en una cabina. Le digo mira, sólo tengo esto (en este momento he cogido el suelto del monedero) y se lo entrego, había un euro y pico, que digo yo que para una llamada le es más que suficiente.
+
+El tío me mira con cara de asco y desprecio y me suelta "Qué desconfiado eres, qué triste" y se va mientras yo reemprendo mi marcha hacia Pz Catalunya preguntándome lo siguiente "Si no le llego a dar nada, me suelta un sopapo?" Menos mal que era simpático.  

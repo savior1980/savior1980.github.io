@@ -1,0 +1,11 @@
+---
+layout: post
+title: 'Se acerca Halloween: disfraces geek'
+date: '2006-10-21T00:00:00+00:00'
+permalink: http://resistancefutile.com/2006/10/21/se-acerca-halloween-disfraces-geek/
+---
+<a href="http://www.polymerarmory.com/starwars.htm"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Bossside_jpg.jpg" border="0" alt="" /></a>
+El bueno de <s>Francisco</s> <a href="http://neokia.wordpress.com">neok</a>, me pasa <a href="http://www.polymerarmory.com/starwars.htm">un enlace</a> para que me compre un disfraz de soldado clon, la verdad que <span style="font-weight:bold;">mehagustado</span> mucho, está muy conseugido, una lástima que el precio sea "a consultar", un tema que voy a abordar en otro post, cuando ponen precio a consultar, por qué coño lo hacen? de qué se esconden? de que sea jodidamente caro? pues lo pones y punto, das la cara, en fin, que me voy por las ramas... que el disfraz de soldado clon este es realmente espectacular además puedes elegir entre distintos tipos de arma a juego. Perfecto para convenciones donde todo dios va disfrazado y no hacerlo te haría sentir estúpido, por muy paradoja que esto pueda parecer, festivales tipo <a href="http://resistancefutile.blogspot.com/2006/09/dragoncon-2006.html">Dragon*Con</a>, etc...
+
+<a href="http://www.makezine.com/blog/archive/2006/10/incredible_tran.html?CMP=OTC-0D6B48984890"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Imagen%201.1.jpg" border="0" alt="" /></a>
+Otro disfraz megageek, más amateur y que seguro que sorprenderá a más de uno es el de StarScream... de piedra me he quedado al ver <a href="http://www.makezine.com/blog/archive/2006/10/incredible_tran.html?CMP=OTC-0D6B48984890">este post en MAKE</a>, bueno, no sé, soberbio. Y por si fuera poco repiten con <a href="http://www.makezine.com/blog/archive/2006/10/optimus_prime_c.html">este otro de Optimus Prime</a>, que también es digno de ganarse no un aplauso si no toda una ovación por mi parte, ya sabéis que la temática Transformers me motiva especialmente. A ver si en carnavales me curro un disfraz wapo como estos y voy luciendo mi frikismo por ahí.

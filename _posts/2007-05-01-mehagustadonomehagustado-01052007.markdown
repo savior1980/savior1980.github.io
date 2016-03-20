@@ -1,0 +1,19 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [01/05/2007]
+date: '2007-05-01T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/05/01/mehagustadonomehagustado-01052007/
+---
+Como me he pillado los 4 días de puente, para mí hoy es como si fuera domingo así que ya sabéis: domingo noche toca mehagustado, os lo pongo a continuación:
+
+- <strong>Mehangustado</strong> mucho los capítulos de <strong>Heroes</strong> (01x19 y 01x20) que hemos visto esta semana, sencillamente brutales, sobretodo el segundo que transcurre en el futuro. También <strong>mehagustado</strong> el capítulo de <strong>HIMYM</strong> y la primera temporada y el principio de la segunda de <strong>Star Trek Voyager</strong>.
+
+- <strong>Nomehagustado</strong> que me queda poco para hacer un deploy de proyecto y estos 4 días me he dormido bastante en los laureles y no he aprovechado para avanzar nada, así que estos 3 días que tengo, en concreto mañana y pasado, tendré que apretar el acelerador.
+
+- <strong>Mehangustado</strong> mucho los últimos podcasts de <a href="http://sopmacsl.com/2007/04/30/podcast-n11-un-ano-de-podcast/">Samuel</a> (gracias por las menciones crack) que cumple un año de podcaster y de <a href="http://cuatrodoce.com/?p=426">Pedro Aznar</a>, por cierto este último estará ahora preparando la maleta <a href="http://cuatrodoce.com/?p=427">para venir a Barcelona</a>, le deseo lo mejor en la compañía en la que empieza, allí fue donde empecé mi carrera profesional como consultor.
+
+- <strong>Mehagustado</strong> <a href="http://www.freewebarcade.com/game/the-last-stand/">este juego en flash</a>, diréis que es soso, diréis que es aburrido pero no sé qué me ha enganchado a la silla hasta hartarme de matar zombies.
+
+- <strong>Mehagustado</strong> mucho Coda, ya lo expliqué en <a href="http://resistancefutile.com/2007/04/29/i-love-coda/">esta entrada</a>, también mehagustado expresar <a href="http://resistancefutile.com/2007/04/29/to-switch-or-not-to-switch-10-reasons/">10 motivos</a> por los que elegir Mac OS X es un acierto.
+
+- <strong>Nomehagustado</strong> que el señor Ballmer vuelva a dar la nota con <a href="http://www.applesfera.com/2007/05/01-ballmer-vuelve-a-criticar-el-iphone">unas declaraciones francamente discutibles</a>. Pero en cambio <strong>mehagustado</strong> que <a href="http://www.applesfera.com/2007/05/01-confirmado-steve-jobs-subira-al-escenario-en-la-wwdc07">se confirme la presencia de Steve Jobs en una keynote</a> de inauguración de la WWDC y que se especule con que <a href="http://www.applesfera.com/2007/05/01-iphone-para-europa-con-3g-y-de-vodafone">el iPhone sea 3G y distribuido por Vodafone</a> en Europa.

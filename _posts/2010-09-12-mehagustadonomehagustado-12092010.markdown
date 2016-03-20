@@ -1,0 +1,25 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [12/09/2010]
+date: '2010-09-12T00:00:00+00:00'
+permalink: http://resistancefutile.com/2010/09/13/mehagustadonomehagustado-12092010/
+---
+- *Mehagustado* ir a cenar el viernes con @tonimaquero, @malegrya, @ladymandona, mi hermano y su novia en el Machiroku, la cena estuvo muy bien y la cervecita posterior en el drapaire también. También *mehagustado* hoy ir a comer a casa de mis padres y tener más cosas en claro del viajecito a London para el puente de la purísima, parece que volveré al hotel que fui la primera vez que estuve en London, allà por tercero de BUP con el colegio. Qué tiempos aquellos.
+
+- *Mehagustado* la Apple Store de La Maquinista, la primera del Estado, aunque eso sí, me agobié un poco porque había muchísima gente, no tenían fundas para el iPhone 4 y encima les acababan de llegar los nuevos iPods y no los tenían en exposición, tres detalles que *nomegustaron* demasiado. Al igual que *nomegustó* nada en absoluto perderme el follón que se organizó para la apertura de la tienda y que desgraciadamente me perdí por estar en Berlín.
+
+- Del viaje a Berlín, *megustó* bastante encontrarme y conocer en persona distintas personalidades del mundo blogueril y periodístico, en especial conocer a Nacho Palou de los "microsiervos":http://microsiervos.com, nos conocíamos a través del blog y el mail pero nunca coincidimos. También conocí a "Juan Castromil y a CarolineD":http://www.clipset.net/ y a muchos otros, algunos con los que ya coincidí en San Diego y otros como "Txaume o Whiskito":http://xataka.com a los que solo saludé de pasada en algún EBE. Bueno y a parte de eso, tuve el inmenso placer de ir a cenar y explicarnos mil y una batallitas sobre el erasmus (él está terminando su experiencia berlinesa) con el gran "Víctor Pimentel":http://blog.victorpimentel.com/ En cambio *nomegustó* la IFA, qué se le va a hacer. Por un lado es una de las mayores ferias del mundo de productos electrónicos de consumo, y eso hay que reconocerlo, está muy bien organizado y hay mucha participación. Pero en sí es agobiante: espacios demasiado grandes, con demasiadas cosas, demasiados estands, demasiada información. Uno va ahí y se satura. En fin, el viaje ni frío ni calor, momentos de mucho agobio como el primer día y momentos en los que me lo he pasado la mar de bien como en el segundo día.
+
+- *Nomehagustado* que el Barça pierda su primer partido de liga en el estadio y contra el Hércules. Un rival que sinceramente vino aquí, se encontró con un gol al cuarto de hora y luego un equipo que no supo sobreponerse, al que le pudo la ansiedad y con el que el Hércules supo jugar como si fuera un muñeco, cerrando muy bien atrás y lanzando peligrosas contras. Realmente el equipo necesita madurar mucho y ya no queda mucho margen de error.
+
+- *Mehagustado* mucho poder estrenar las vibram 5 fingers que me compré en eBay, realmente geniales y muy cómodas. Aunque eso sí, a nadie dejan indiferente.
+
+- *Mehagustado* bastante ir a cenar al nuevo piso de un amigo de toda la vida del MundoReal&trade; que se independiza, toda una muestra de valor. El piso, genial, a ver si este martes vuelvo a ver con él el partido de champions del Barça. 
+
+- *Siguesingustarme* el proyecto actual, no acabo de estar cómodo, no sé cómo definirlo o qué ejemplo concreto dar o si es la suma de muchas pequeñas cosas, pero no estoy a gusto. Así como en el anterior proyecto curraba a muerte pero en cambio tenía muchas otras ventajas y aprendí muchísimo, en este es justo lo contrario. Y no me mola la situación. En fin, esta semana me tocará emplearme a fondo, tengo que volver a repasar ciertos temas y centrarme en llevar este proyecto lo mejor que sepa.
+
+- *Mehagustado* que mi hermano me echase la bronca por no publicar el *mehagustado* la semana pasada y por no subir fotos a flickr, pues ea, aquí tienes el *mehagustado* de rigor de esta semana y ya he subido cantidad de fotos a flickr del viaje a Carcassonne, me quedan unas pocas de este viaje y procesar las de Berlín.
+
+- *Megustará* este viernes ir al concierto de eels, tengo muchísimas ganas de cantar alguna de las canciones del genio Mark Everett. El último CD, "Tomorrow morning" está bastante bien, mucho mejor que "End Times", el segundo de la triología que inció el potente "Hombre Lobo". En la sala bikini vamos a tirarle de la barba al bueno del señor anguila :P y hablando de temas musicales me he comprado vía iTunes los CD de Train Save me San Francisco (vale ya sé que el single Hey soul sister es de hace unos meses pero es ahora cuando lo he descubierto y *meencanta*) y el de Brandon Flowers "Flamingo", que es mucho más flojo que cualquiera de The Killers.
+
+- *Nomehagustado* que me hackeen la cuenta de la iTunes Store americana y me la vacíen, 15 dólares que se ventilaron. Suerte que hoy el servicio técnico se ha puesto en contacto conmigo y parece que van a retornarme el dinero. Pero vaya sustaco, estoy por comprar gift Cards de iTunes y quitar la tarjeta, al menos de esa forma tienes un límite. La próxima vez que vaya a la Apple Store (qué bien suena eso sabiendo que hay una a 30km de mi casa) me compraré algunas.

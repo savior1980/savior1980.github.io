@@ -1,0 +1,27 @@
+---
+layout: post
+title: Mehagustado/Nomehagustado [15/07/2007]
+date: '2007-07-15T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/07/16/mehagustadonomehagustado-15072007/
+---
+- <strong>Mehagustado</strong> ir a mirar muebles con <a href="http://childrenatyourfeet.com">Cristina</a>, señal que el ir a vivir juntos anda cerca, que nos gusta pasar tiempo juntos decidiendo qué muebles elegiremos y distribuir esos espacios vacíos que conforman nuestro futuro primer piso, que aunque siendo como es de alquiler, nos lo estamos tomando con muchas ganas.
+
+- <strong>Nomehagustado</strong> que hoy casi me quedo sin fuel, si es que a veces la <a href="http://es.wikipedia.org/wiki/Procrastinaci%C3%B3n">procrastinación</a> juega malas pasadas y le puede pegar un susto a uno: yo esperando que las gasolineras estén abiertas y que va, cerraban a las 22h, con lo que he llegado de milagro a casa de Cristina y he podido repostar en una gasolinera al lado de su casa que sabíamos que estaba abierta 24x7.
+
+- <strong>Nomehagustado</strong> que lo señores que controlan los accesos a Barcelona decidan por que sí cortar 2 de los tres carriles de una vía importante de entrada y sabiendo que es domingo por la noche y que es "operación vuelta" ya que los findes las carreteras van a tope, a joderse y a provocar retención, si además vas con el tanque de gasolina casi a 0, os aseguro que te crecen ciertas protuberancias alrededor de la garganta.
+
+- <strong>Mehagustado</strong> mucho el <em>workshop</em> que hicimos en el curro el viernes... fue super didáctico, aprendí muchísimas cosas, sobretodo me pillé una idea bastante general de <a href="http://www.microsoft.com/spain/biztalk/default.mspx">Biztalk</a> y <a href="http://www.microsoft.com/spain/office/products/sharepoint/default.mspx">Sharepoint</a>, dos tecnologías <a href="http://microsoft.com">M$</a> que no conocía y que parecen bastante interesantes.
+
+- <strong>Mehagustado</strong> que me hagan una oferta para volver a la gran consultora que fue mi puerta de entrada en el mundo de la consultoría, sin embargo <strong>nomehagustado</strong> que me como la cabeza demasiado sobre si es o no es buena idea aceptarla, seguramente acabaré aceptando porque las condiciones de la oferta, molan, sin embargo, volver a hacer infinitas horas es un tema que me preocupa, esperemos que esta vez tenga más suerte con la asignación de proyecto y me toque un Kinder sorpresa: algo nuevo, una sorpresa y un chocolate. O bueno el chocolate es marrón, no? pues quita quita, que no me emarronen (mucho) vamos.
+
+- <strong>Mehangustado</strong> mucho mucho los capítulos de <a href="http://es.wikipedia.org/wiki/Star_Trek:_Voyager">ST Voyager</a> que he visto estos días... la cuarta temporada, vamos es genial, pero ni más ni menos, hoy el buenazo del doctor ha tenido que lidiar con unos romulanos y entregar por fin el mensaje al cuadrante alpha de que la Voyager sigue en el cuadrante delta luchando por sobrevivir y llegar a la Tierra.
+
+- <strong>Nomehagustado</strong> que ayer al volver de fiesta me topara con una polilla enorme en mi habitación, si hay algo que me produce pánico y repulsión a partes iguales son las polillas, tolero casi cualquier tipo de bicho (menos una tarántula grande como mi mano, que también he tenido la desgracia de conocerla) y cuando al volver de fiesta cansadete te pasen estas cosas, pues es un mal rollo tíos.
+
+- <strong>Nomehagustado</strong> la Season Finale de la segunda temporada de <a href="http://adosmetrosbajotierra.warnerbros.com/flash/">"A dos metros bajo tierra" </a>bastante sosa y predecible, esperemos que el incio de la tercera sea más entretenido. 
+
+- <strong>Mehagustado</strong> enterarme que el señor <a href="http://kalimerozone.blogspot.com/2007/07/sorpresa-n1-poprosa.html">Kalimero</a> entre a formar parte de la red de WSL, en el blog <a href="http://poprosa.com">poprosa</a> sobre noticias del corazón, un blog que seguro va a despegar y va a ser muy notorio, tiempo al tiempo.
+
+- <strong>Nomehagustado</strong> olvidarme mi iPod Shuffle 3 veces esta semana, los trayectos sin música son un agobio.
+
+- <strong>Mehagustado</strong> mucho mucho, el tema <a href="http://interfacelift.com/themes-mac/details.php?id=182">canum</a> para <strong>ShapeShifter</strong>, de momento es el que tengo ahora mismo  y creo que se va a quedar conmigo bastante tiempo. <a href="http://interfacelift.com/themes-mac/details.php?id=168">Cold</a> está muy bien y es muy sobrio, el problema es que ciertos textos con fondo blanco o gris no se leían y personalizarlo es un poco dificil, con canum tengo minimalismo, uniformidad y claridad. Recomiendo bastante (si tienes ram de sobra) probar <a href="http://unsanity.com/haxies/shapeshifter">Shapeshifter</a> y alguno de los temas que tiene, están realmente bien.

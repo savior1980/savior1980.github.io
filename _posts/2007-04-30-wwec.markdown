@@ -1,0 +1,7 @@
+---
+layout: post
+title: WWEC
+date: '2007-04-30T00:00:00+00:00'
+permalink: http://resistancefutile.com/2007/04/30/wwec/
+---
+<p class="frase">Word Wide Envelope Conference</p><p align="right">-- Samuel nos informa del nuevo evento de fabricantes de sobres en su <a href="http://sopmacsl.com/2007/04/30/podcast-n11-un-ano-de-podcast/">nuevo podcast Nº11</a></p>
