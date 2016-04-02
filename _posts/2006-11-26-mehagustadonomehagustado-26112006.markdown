@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [26/11/2006]
 date: '2006-11-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/27/mehagustadonomehagustado-26112006/
+permalink: 2006/11/27/mehagustadonomehagustado-26112006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> mucho mucho <a href="http://www.desdelatribuna.com/2006/11/26/cuando-crees-que-has-visto-todo/">el gol de Ronaldinho</a> de ayer, como comentaron varios periodistas en la radio, yo soy de los que celebran los goles saltando, gritando, gesticulando, etc. tras el gol del astro brasileño, me quedé clavado en mi butaca, con las manos en la cabeza y diciendo bajito: "Pero qué coño ha hecho este tío!", hay que verlo.
 

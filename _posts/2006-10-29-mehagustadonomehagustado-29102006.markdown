@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [29/10/2006]
 date: '2006-10-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/29/mehagustadonomehagustado-29102006/
+permalink: 2006/10/29/mehagustadonomehagustado-29102006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> infinitamente <a href="http://resistancefutile.blogspot.com/2006/10/el-boss-es-el-mejor.html">el concierto del Boss</a>, fue de menos a más, epro ese tío es un crack, le tengo una gran admiración, puede tocar country, folk, o canto gregoriano, en un escenario es imparable.
 

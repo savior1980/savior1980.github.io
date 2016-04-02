@@ -2,7 +2,7 @@
 layout: post
 title: El dia en que jodí mi iPod Touch jugando con iJailbreak
 date: '2008-03-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/20/el-dia-en-que-jodi-mi-ipod-touch-jugando-con-ijailbreak/
+permalink: 2008/03/20/el-dia-en-que-jodi-mi-ipod-touch-jugando-con-ijailbreak/
 ---
 <img src='/assets/zz4ed1c44e.png' alt='ijailbreak me dio por saco' class="derecha" />Pues señoras y señores acabo de restaurar mi iPod Touch, desde 0, lo tengo peladito y limpio de aplicaciones, canciones, vídeos y demás cachivaches que tenía en él. A continuación paso a relataros la cronología de los hechos:
 

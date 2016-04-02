@@ -2,7 +2,7 @@
 layout: post
 title: Al loro! Que no les embauquen con el jailbreak de la 4.0
 date: -0001-11-30T00:00:00+00:00
-permalink: http://resistancefutile.com/?p=1742
+permalink:?p=1742
 ---
 ... que me los embaucan, les dicen que se puede activar la multitarea y no se puede! Bueno corrijo sí se puede, pero no va nada bien. 
 

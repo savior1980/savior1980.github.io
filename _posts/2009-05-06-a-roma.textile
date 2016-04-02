@@ -2,6 +2,6 @@
 layout: post
 title: A Roma
 date: '2009-05-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/05/06/a-roma/
+permalink: 2009/05/06/a-roma/
 ---
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/EY7wInhFW_Y&hl=es&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/EY7wInhFW_Y&hl=es&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [31/01/2010]
 date: '2010-01-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/02/01/mehagustadonomehagustado-31012010/
+permalink: 2010/02/01/mehagustadonomehagustado-31012010/
 ---
 - *Mehagustado* mucho estrenar mi nuevo objetivo, el "Tokina 12-24":http://resistancefutile.com/2010/01/30/pequena-review-al-tokina-12-24-f4/, estoy encantadísimo con él.
 

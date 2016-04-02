@@ -2,7 +2,7 @@
 layout: post
 title: ASCII Maps
 date: '2006-05-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/03/ascii-maps-2/
+permalink: 2006/05/03/ascii-maps-2/
 ---
 Muy geek hay que ser para currarse <a href="http://www.asciimaps.com/">una alternativa ASCII</a> en plan parodia del servicio Google Maps totalmente operativa, con sus búsquedas y su información correcta... impresionante.
 

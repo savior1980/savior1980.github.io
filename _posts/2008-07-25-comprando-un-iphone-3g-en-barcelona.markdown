@@ -2,7 +2,7 @@
 layout: post
 title: Comprando un iPhone 3G en Barcelona
 date: '2008-07-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/25/comprando-un-iphone-3g-en-barcelona/
+permalink: 2008/07/25/comprando-un-iphone-3g-en-barcelona/
 ---
 <img src="/assets/aifontrifi.png" alt="" title="aifontrifi" width="500" height="288" class="alignnone size-full wp-image-1144" />
 

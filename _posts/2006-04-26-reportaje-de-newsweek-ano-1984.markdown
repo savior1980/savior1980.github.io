@@ -2,7 +2,7 @@
 layout: post
 title: Reportaje de Newsweek, año 1984
 date: '2006-04-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/26/reportaje-de-newsweek-ano-1984/
+permalink: 2006/04/26/reportaje-de-newsweek-ano-1984/
 ---
 <a href="http://toastbucket.com/apple1984ad/index.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/helloMacres.jpg" border="0" alt="" /></a>Corría el año <span style="font-weight:bold;">1984 </span>cuando <a href="http://www.newsweekespanol.com.mx/">Newsweek</a> (versión inglesa) publicó un extenso artículo de 16 páginas sobre un ordenador nuevo llamado <span style="font-weight:bold;">Macintosh</span>.
 

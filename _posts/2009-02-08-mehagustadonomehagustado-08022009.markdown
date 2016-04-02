@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [08/02/2009]
 date: '2009-02-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/02/09/mehagustadonomehagustado-08022009/
+permalink: 2009/02/09/mehagustadonomehagustado-08022009/
 ---
 - <strong>Mehagustado</strong> bastante ir descubriendo Evernote, una aplicación que como aquel que dice hace dos días no daba dos duros por ella y en cambio a través de ir usándola varios días uno se da cuenta del potencial que tiene. Y gratix hoygan. Podéis encontrar consejos y trucos en <a href="http://www.thinkwasabi.com/tag/101usosdeevernote/">una sección del blog ThinkWasabi</a>.
 

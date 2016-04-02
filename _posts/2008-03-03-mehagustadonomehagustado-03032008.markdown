@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [03/03/2008]
 date: '2008-03-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/03/mehagustadonomehagustado-03032008/
+permalink: 2008/03/03/mehagustadonomehagustado-03032008/
 ---
 - <strong>Mehagustado</strong> comprarme por fin el MacBook Pro. Me he comprado el modelo intermedio, el de 2.5GHz con el disco duro de menor capacidad pero más rápido,
 

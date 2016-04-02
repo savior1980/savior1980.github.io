@@ -2,7 +2,7 @@
 layout: post
 title: Soy multinavegador
 date: '2006-04-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/01/soy-multinavegador/
+permalink: 2006/05/01/soy-multinavegador/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/SurfWeb.jpg" border="0" alt="" />Soy <span style="font-style:italic;"><span style="font-weight:bold;">multinavegador</span></span>: uso indistintamente más de un navegador a la vez. Ahora mi manía se está expandiendo: en el trabajo (uso WinXp) navego con <a href="http://www.mozilla-europe.org/es/products/firefox/">Firefox</a> casi siempre y últimamente uso <a href="http://www.opera.com/download/windows/">Opera</a>, a veces, para tareas concretas como postear aquí o en <a href="http://bitelia.com">Bitelia</a>.
 

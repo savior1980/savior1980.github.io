@@ -5,7 +5,7 @@ title: |-
   It was always burning
   Sin...
 date: '2006-12-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/04/we-didnt-start-the-fireit-was-always-burningsin/
+permalink: 2006/12/04/we-didnt-start-the-fireit-was-always-burningsin/
 ---
 <p class="chorus">We didn't start the fire
 It was always burning

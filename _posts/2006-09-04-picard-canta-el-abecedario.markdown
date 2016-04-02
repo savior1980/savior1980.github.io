@@ -2,7 +2,7 @@
 layout: post
 title: Picard canta el abecedario
 date: '2006-09-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/04/picard-canta-el-abecedario/
+permalink: 2006/09/04/picard-canta-el-abecedario/
 ---
 Por favor <a href="http://www.youtube.com/watch?v=lRgnrsFwenI">el vídeo</a> siguiente puede herir la sensibilidad de los <span style="font-style:italic;">trekkies</span> que se encuentren en la sala, si tienes un mínimo aprecio por el capitán de la flota estelar Jean-Luc Picard, no te atrevas a pulsar Play, yo lo he hecho y ahora me arrepiento...
 

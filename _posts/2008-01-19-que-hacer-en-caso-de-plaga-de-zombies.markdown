@@ -2,7 +2,7 @@
 layout: post
 title: Qué hacer en caso de plaga de Zombies
 date: '2008-01-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/19/que-hacer-en-caso-de-plaga-de-zombies/
+permalink: 2008/01/19/que-hacer-en-caso-de-plaga-de-zombies/
 ---
 <img src='/assets/zz30f421fb.jpg' alt='zombies may be flamable' class="derecha" />Brutales estas <a href="http://www.flickr.com/photos/victoralexandre/2193614078/in/pool-geeks">dos</a> <a href="http://www.flickr.com/photos/victoralexandre/2193613678/in/pool-geeks">imágenes</a> que encontré en flickr en la pool <a href="http://www.flickr.com/groups/geeks/pool/">/geeks</a>. 
 

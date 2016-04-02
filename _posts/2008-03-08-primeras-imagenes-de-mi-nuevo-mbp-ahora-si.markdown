@@ -2,7 +2,7 @@
 layout: post
 title: Primeras imágenes de mi nuevo MBP (ahora sí)
 date: '2008-03-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/08/primeras-imagenes-de-mi-nuevo-mbp-ahora-si/
+permalink: 2008/03/08/primeras-imagenes-de-mi-nuevo-mbp-ahora-si/
 ---
 <img src='/assets/zz77c1dc71.jpg' alt='MBP Pegasus' class="centro_borde" />
 

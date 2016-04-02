@@ -2,7 +2,7 @@
 layout: post
 title: A lomos del Segway (II)
 date: '2007-08-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/09/a-lomos-del-segway-ii/
+permalink: 2007/08/09/a-lomos-del-segway-ii/
 ---
 <img src='/assets/1_24_segway_i2.jpg' alt='segway' class="derecha" />La segunda vez que me monto en un <a href="http://www.segway.com/">Segway</a> y me lo he pasado bomba (la primera fue para la <a href="http://resistancefutile.com/2007/05/13/fb-barcelona-2007/">F&B 07</a>). En una de las actividades extra de la <a href="http://www.campusmac.info">CampusMac</a>, han alquilado los Segways de <a href="http://www.spainglides.com/">bcnglides</a> para hacer un recorrido nocturno y probar de dar un paseo con estos fabulosos vehículos motorizados.
 

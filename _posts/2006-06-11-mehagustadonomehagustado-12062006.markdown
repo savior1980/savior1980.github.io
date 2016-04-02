@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [12/06/2006]
 date: '2006-06-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/12/mehagustadonomehagustado-12062006/
+permalink: 2006/06/12/mehagustadonomehagustado-12062006/
 ---
 - <span style="font-weight:bold;">Nomehagustado</span> nada que otra vez en una discusión con un miembro de mi família me diga que está enfadado conmigo pero que reflexione y que mañana hablamos, que gilipollez, ostia, es de tontos decir: no, no, estoy enfadado eh, pero tu tienes que saber porqué, pues no joder, soy idiota, que pasa, no puedes decrime de qué se trata? ahora tengo que comerme la olla hasta mañana? Suerte que ya hace tiempo que me la suda cacho este tipo de tonterías.
 

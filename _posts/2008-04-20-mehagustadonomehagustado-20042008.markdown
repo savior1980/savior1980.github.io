@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [20/04/2008]
 date: '2008-04-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/20/mehagustadonomehagustado-20042008/
+permalink: 2008/04/20/mehagustadonomehagustado-20042008/
 ---
 - <strong>Mehagustado</strong> bastante el tercer capítulo de la cuarta temporada de Battle Star Galactica. Muchas cosas importantes para el devenir de la trama se dan cita en este capítulo, emocionante como pocos y con un final al más puro estilo BSG.
 

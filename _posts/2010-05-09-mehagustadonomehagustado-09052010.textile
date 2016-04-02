@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [09/05/2010]
 date: '2010-05-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/05/10/mehagustadonomehagustado-09052010/
+permalink: 2010/05/10/mehagustadonomehagustado-09052010/
 ---
 - *Nomehagustado* tener un cansancio encima espectacular, necesito unos días de reposo, en serio el ritmo que llevo no es normal.
 

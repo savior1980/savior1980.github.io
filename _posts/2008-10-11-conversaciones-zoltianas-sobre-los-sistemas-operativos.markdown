@@ -2,7 +2,7 @@
 layout: post
 title: Conversaciones zoltianas sobre los sistemas operativos
 date: '2008-10-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/11/conversaciones-zoltianas-sobre-los-sistemas-operativos/
+permalink: 2008/10/11/conversaciones-zoltianas-sobre-los-sistemas-operativos/
 ---
 <strong>Salva</strong>: ODIO WINDOZE Y SUS ACTUALIZACIONES AUTOMATICAS. LO ODIO
 <strong>lordzoltan</strong>: ..... o.0

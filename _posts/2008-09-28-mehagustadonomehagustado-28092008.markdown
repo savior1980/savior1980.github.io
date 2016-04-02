@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [28/09/2008]
 date: '2008-09-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/28/mehagustadonomehagustado-28092008/
+permalink: 2008/09/28/mehagustadonomehagustado-28092008/
 ---
 - <strong>Nomehagustado</strong> que pese a tener un fantástico miércoles festivo (es la Mercè, la fiesta mayor de Barcelona) esta semana ha sido especialmente dura en el ámbito laboral, con muchos altibajos y con muchos cabos sueltos. Además agarraos que vienen curvas, mañana tengo una reunión hiperimportante en el cliente y en las siguientes semanas veremos como evolucionan ciertos temas que me preocupan y mucho.
 

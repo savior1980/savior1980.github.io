@@ -2,7 +2,7 @@
 layout: post
 title: Winamp para Mac
 date: '2007-06-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/23/winamp-para-mac/
+permalink: 2007/06/23/winamp-para-mac/
 ---
 <img class="derecha" src='/assets/zz751093e8.png' alt='winampmac' />Me gusta mucho iTunes 7, creo que es un muy buen reproductor musical para Mac OS X, sin lugar a dudas es una opción muy correcta que ofrece bastantes prestaciones y se comporta de forma bastante más estable que su versión para Windows. Pero creo que en el mundo windowsero, es decir que para Windows hay un reproductor bastante mejor: Winamp. 
 

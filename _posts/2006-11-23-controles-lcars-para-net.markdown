@@ -2,7 +2,7 @@
 layout: post
 title: Controles LCARS para .NET
 date: '2006-11-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/23/controles-lcars-para-net/
+permalink: 2006/11/23/controles-lcars-para-net/
 ---
 <a href="http://www.codeproject.com/useritems/lcars_net_controls.asp"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/x/blogger2/4553/2422/320/222934/lcars.png" border="0" alt="" /></a>Que <a href="http://www.codeproject.com/">codeproject.org</a> es una comunidad de desarrolladores de .NET donde se puede encontrar de todo lo sabíamos. Pero que se puedan encontrar cosas tan frikis como <a href="http://www.codeproject.com/useritems/lcars_net_controls.asp">una librería de controles LCARS</a> (sí, sí, los que  vemos en las interfaces de computadoras de las naves estelares de Star Trek) es realmente sorprendente.
 

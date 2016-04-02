@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [10/12/2006]
 date: '2006-12-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/10/mehagustadonomehagustado-10122006/
+permalink: 2006/12/10/mehagustadonomehagustado-10122006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> ampliar <a href="http://www.flickr.com/photos/savior1980/318898744/">mi colección de Macs</a> con un <a href="http://www.flickr.com/photos/strongershen/207930397/">PowerMac G4</a>, que va realmente bien, le he instalado Tiger y oye, perfecto, exposé sin saltos ni nada, fluido todo y eso con los 16megas de tarjeta gráfica y <s>384</s> 512 de RAM (tranquilos chicos, los refuerzos están en camino, tengo un p3 criando polvo del que voy a reaprovechar <s>bastantes cosillas</s> de momento un módulo de 128 de RAM y <s>a ver si en unos días le monto uno de los discos duros que tenía el p3</s> <a href="http://resistancefutile.blogspot.com/2006/12/mis-unidades.html">ya está montado</a>).
 

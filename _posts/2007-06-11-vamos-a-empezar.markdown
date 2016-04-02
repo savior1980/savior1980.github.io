@@ -2,7 +2,7 @@
 layout: post
 title: Vamos a empezar...
 date: '2007-06-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/11/vamos-a-empezar/
+permalink: 2007/06/11/vamos-a-empezar/
 ---
 Esta WWDC'07, la cubro yo <a href="http://www.applesfera.com/en-vivo/">en directo para Applesfera</a>, con la inestimable colaboración de mis compañeros claro, pero el que actualizará el post seré yo, así que todos los errores y demás atribuirmelos a mí! Dios qué nervios!
 

@@ -2,7 +2,7 @@
 layout: post
 title: Quiero un simulador de Force Dynamics
 date: '2006-04-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/30/quiero-un-simulador-de-force-dynamics/
+permalink: 2006/04/30/quiero-un-simulador-de-force-dynamics/
 ---
 Increíble simulador de <a href="http://force-dynamics.com/">Force Dynamics</a> del que os pongo un vídeo del simulador en acción con el Richard Burns Rally... para fliparlo mucho.
 

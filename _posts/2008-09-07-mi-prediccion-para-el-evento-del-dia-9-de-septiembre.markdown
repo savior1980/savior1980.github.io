@@ -2,7 +2,7 @@
 layout: post
 title: Mi predicción para el evento del día 9 de Septiembre
 date: '2008-09-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/07/mi-prediccion-para-el-evento-del-dia-9-de-septiembre/
+permalink: 2008/09/07/mi-prediccion-para-el-evento-del-dia-9-de-septiembre/
 ---
 <del datetime="2008-09-08T21:32:38+00:00">Mi predicción es que estaré en Mallorca puteado hasta el extremo, me perderé la keynote, no podré actualizar el firmware del iPod Touch e iPhone a la versión 2.1, y fijo que tampoco podré descargar iTunes 8 y ver todas sus novedades. 
 

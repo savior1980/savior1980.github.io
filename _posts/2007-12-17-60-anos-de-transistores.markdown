@@ -2,7 +2,7 @@
 layout: post
 title: 60 años de transistores
 date: '2007-12-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/17/60-anos-de-transistores/
+permalink: 2007/12/17/60-anos-de-transistores/
 ---
 <img src='/assets/60px-bjt_pnp_symbol_casesvg.png' alt='transistor BJT' class="derecha"/>El 16 de diciembre de 1947, John Bardeen, Walter Brattain y William Shockley hicieron un descubrimiento que revolucionaría la tecnología a una escala que no serían capaces de imaginar. Ellos inventaron el transistor, un elemento básico en la circutería de cualquier sistema electrónico que usemos en el día a día.
 

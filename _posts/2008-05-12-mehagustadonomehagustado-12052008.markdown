@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [12/05/2008]
 date: '2008-05-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/05/13/mehagustadonomehagustado-12052008/
+permalink: 2008/05/13/mehagustadonomehagustado-12052008/
 ---
 - <strong>Mehagustado</strong> estar estos tres días de mini-relax (en Barcelona hoy es fiesta, segunda pascua), así que he podido desconectar bastante de todo y descansar / jugar a la Wii como un poseso (al Mario Kart le quedan dos telediarios xD). Lo que nomehagustado es que se ha tirado todo el finde lloviendo, esperemos que la semana que viene haga mejor tiempo y llueva donde debe (en los embalses, crucemos los dedos).
 

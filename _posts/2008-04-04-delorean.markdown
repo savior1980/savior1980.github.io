@@ -2,7 +2,7 @@
 layout: post
 title: Regreso al futuro con TimeMachine
 date: '2008-04-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/04/delorean/
+permalink: 2008/04/04/delorean/
 ---
 <img src="/assets/zz08998a4f.jpg" alt="" title="zz08998a4f" width="432" height="270" class="centro_borde" />
 

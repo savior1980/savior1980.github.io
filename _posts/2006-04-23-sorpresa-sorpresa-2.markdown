@@ -2,7 +2,7 @@
 layout: post
 title: Sorpresa, sorpresa
 date: '2006-04-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/23/sorpresa-sorpresa-2/
+permalink: 2006/04/23/sorpresa-sorpresa-2/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.8.jpg" border="0" alt="" />A <a href="http://cuatrodoce.blogsome.com/2006/04/22/el-lunes-hay-sorpresa/">Pedro</a>, se le ha retrasado un día la sopresa, por tanto os la anunciará el Martes próximo. Sin embargo en mi caso os puedo adelantar un par de sorpresas hoy y otra mañana.
 

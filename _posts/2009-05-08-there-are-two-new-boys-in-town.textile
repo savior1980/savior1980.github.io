@@ -2,7 +2,7 @@
 layout: post
 title: There are two new boys in town
 date: '2009-05-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/05/08/there-are-two-new-boys-in-town/
+permalink: 2009/05/08/there-are-two-new-boys-in-town/
 ---
 <a href="http://www.flickr.com/photos/savior1980/3517402489/" title="Two new boys in town by salva7flickr, on Flickr"><img src="http://farm4.static.flickr.com/3364/3517402489_ee585589f7.jpg" width="500" height="375" alt="Two new boys in town" class="centro_borde" /></a>Al final decidí no comprar en <a href="http://ebay.es">ebay</a> el monitor ACD de 20" de segunda mano que me ofrecían gracias a los comentarios de muchos en twitter y al énfasis de miLady que me animaba a no comprarlo. Así que lo que hice fue reaprovechar el monitor <a href="http://images.google.es/images?hl=es&q=LG%20194WT&um=1&ie=UTF-8&sa=N&tab=wi">LG 194WT</a> que tenía conectado al PowerMacG4 y enchufarlo al MacBook Pro, también le arrebaté el teclado (uno de los blanquitos de metacrilato) y los enchufé al MacBook Pro. He de aclarar que la pantalla del MacBook Pro está en perfectas condiciones y que el teclado funciona perfectamente salvo que tengo la tecla A un poco suelta, simplemente quise otra configuración a raíz de ver que podía hacerme con un Apple Cinema Display. 
 

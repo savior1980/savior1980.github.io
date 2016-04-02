@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [18/03/2007]
 date: '2007-03-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/19/mehagustadonomehagustado-18032007/
+permalink: 2007/03/19/mehagustadonomehagustado-18032007/
 ---
 - <span style="font-weight:bold;">Nomehangustado</span> los capítulos de BSG y House de esta semana, muy chorras los dos. En cambio mehagustado mucho lo que llevo visto de la temporada 3 de Star Trek Enterprise, vamos no tiene nada que ver con las anteriores, la verdad que vale la pena empezar la serie en el último capítulo de la temporada 2.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [15/03/2009]
 date: '2009-03-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/03/15/mehagustadonomehagustado-15032009/
+permalink: 2009/03/15/mehagustadonomehagustado-15032009/
 ---
 - <strong>Mehagustado</strong> bastante la victoria hoy del Barça, hemos controlado el partido en todo momento, hemos marcado dos goles y hemos hecho que Diego Alves, el portero rival, se luciera en tres ocasiones clarísimas de gol. Cuando el equipo está enchufado, desarma al rival y es una fiesta verles jugar, sabes que tarde o temprano marcaran, juegue quien juegue, hoy Bojan era delantero centro titular y ha marcado los dos goles, el Barça tremendo y más vivo que nunca en las tres competiciones.
 

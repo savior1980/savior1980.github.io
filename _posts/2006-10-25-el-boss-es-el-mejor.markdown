@@ -2,7 +2,7 @@
 layout: post
 title: El Boss es el mejor
 date: '2006-10-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/25/el-boss-es-el-mejor/
+permalink: 2006/10/25/el-boss-es-el-mejor/
 ---
 Podría hacer un post explicando las maravillas del concierto al que tuve la suerte de asistir ayer, pero he encontrado una imagen que resume bastante bien las sensaciones que nos transmitió el Boss.
 

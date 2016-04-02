@@ -2,7 +2,7 @@
 layout: post
 title: ShapeShifter, el paraíso del deskmoder
 date: '2007-07-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/19/shapeshifter-el-paraiso-del-deskmoder/
+permalink: 2007/07/19/shapeshifter-el-paraiso-del-deskmoder/
 ---
 <img src='/assets/zz6c0cad14.png' alt='shapeshifter 2.4' class="derecha" />Ya de mis épocas de windowsero, me encantaba el tema del <em>deskmoding</em>. Cuando me pasé a Mac OS X, la interfaz del sistema fue lo que más me gustó, pero es cierto que una vez vas usándolo, te das cuenta de que todo podría estar más unificado (hecho que corrigen en <a href="http://www.apple.com/macosx/leopard/">Leopard</a> donde las ventanas de las distintas aplicaciones presentan unos mismos rasgos visuales). 
 

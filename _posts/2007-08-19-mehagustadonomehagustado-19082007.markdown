@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [19/08/2007]
 date: '2007-08-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/19/mehagustadonomehagustado-19082007/
+permalink: 2007/08/19/mehagustadonomehagustado-19082007/
 ---
 - <strong>Nomehagustado</strong> volver al curro, además estos dos días que he estado allí han sido bastante, bastante improductivos la verdad. A ver si la semana que viene me pongo las pilas.
 

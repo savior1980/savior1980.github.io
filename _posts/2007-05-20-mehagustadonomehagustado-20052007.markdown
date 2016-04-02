@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [20/05/2007]
 date: '2007-05-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/20/mehagustadonomehagustado-20052007/
+permalink: 2007/05/20/mehagustadonomehagustado-20052007/
 ---
 - <strong>Nomehagustado</strong> la peli <a href="http://www.imdb.com/title/tt0443706/">Zodiac</a>, muy sosa, faltada de ritmo, con poco que ofrecer. Supongo que después de ver la buena crítica que se le había hecho me esperaba mucho más.
 

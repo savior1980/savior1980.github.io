@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/05/2006]
 date: '2006-05-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/14/mehagustadonomehagustado-14052006/
+permalink: 2006/05/14/mehagustadonomehagustado-14052006/
 ---
 - <span style="font-weight:bold;">Nomehagustado</span> que mi jefe me tirara el movil de mantenimiento encima de la mesa y en tono despectivo despreciara mi servicio de monitorización de sistemas. Puede que hubiera un fallo que llevó al monitor a notificar un fallo más de lo debido, pero no son formas. Además después de reunirme ocn mis antiguos compañeros de trabajo veo que ellos también lo tienen complicado y mis amigos también tienen vidas laborales super estresantes, lo que me lleva a pensar: "En todas partes cuecen habas" y no está bien.
 

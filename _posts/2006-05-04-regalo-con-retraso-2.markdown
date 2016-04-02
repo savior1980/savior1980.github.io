@@ -2,7 +2,7 @@
 layout: post
 title: Regalo con retraso
 date: '2006-05-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/04/regalo-con-retraso-2/
+permalink: 2006/05/04/regalo-con-retraso-2/
 ---
 Ha llegado un regalo con retraso... desde Bélgica!
 

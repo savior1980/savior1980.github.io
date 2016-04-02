@@ -2,7 +2,7 @@
 layout: post
 title: 'Nontiendo: El extraño caso de los combos rebeldes'
 date: '2007-03-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/07/nontiendo-el-extrano-caso-de-los-combos-rebeldes/
+permalink: 2007/03/07/nontiendo-el-extrano-caso-de-los-combos-rebeldes/
 ---
 Y aquí un poco más de mi paranoia personal galopante, servida en una dosis a palo seco, como tiene que ser:
 

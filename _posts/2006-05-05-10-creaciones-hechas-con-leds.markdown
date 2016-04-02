@@ -2,7 +2,7 @@
 layout: post
 title: 10 creaciones hechas con LED's
 date: '2006-05-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/05/10-creaciones-hechas-con-leds/
+permalink: 2006/05/05/10-creaciones-hechas-con-leds/
 ---
 En TechEblog hacen uno de sus particulares posts recopilatorios dónde muestran 10 creaciones extrañas. En este caso es un post dedicado a <a href="http://www.techeblog.com/index.php/tech-gadget/top-10-coolest-led-creations">10 extravagancias hechas con LEDs</a>.
 

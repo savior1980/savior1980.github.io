@@ -2,7 +2,7 @@
 layout: post
 title: Falta insistencia y sobran idioteces
 date: '2006-06-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/27/falta-insistencia-y-sobran-idioteces/
+permalink: 2006/06/27/falta-insistencia-y-sobran-idioteces/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/70014580.jpg" border="0" alt="" />Tercer post consecutivo de la categoría Paranoia Personal, pero es que últimamente me pasa cada cosa que es para fliparlo.
 

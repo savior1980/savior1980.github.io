@@ -2,7 +2,7 @@
 layout: post
 title: Situación Actual
 date: '2006-07-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/11/situacion-actual/
+permalink: 2006/07/11/situacion-actual/
 ---
 <span style="font-weight:bold;">Así es como me encuentro</span>: desilusionado, abatido. 
 <span style="font-weight:bold;">Motivo principal</span>: el curro. 

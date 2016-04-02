@@ -2,7 +2,7 @@
 layout: post
 title: Una llamada incómoda
 date: '2008-01-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/03/una-llamada-incomoda/
+permalink: 2008/01/03/una-llamada-incomoda/
 ---
 <img src='/assets/imagestelephone.jpg' alt='Telefonazo marrón' class="derecha" />La verdad es que no llevo ni dos horas en el curro tras las minivacaciones de Navidad y ya he recibido lo que denominaríamos una llamada de esas que ponen los pelos de punta, una de esas llamadas que buscan claramente y sin tapujos <strong>enmarronarte</strong>.
 

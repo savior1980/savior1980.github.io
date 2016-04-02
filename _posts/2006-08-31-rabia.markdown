@@ -2,7 +2,7 @@
 layout: post
 title: Rabia
 date: '2006-08-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/31/rabia/
+permalink: 2006/08/31/rabia/
 ---
 Rabia es un sentimiento muy fuerte, algo que te atormenta durante bastante rato, te colapsa, no te deja pensar en otra cosa. Rabia es cuando le explicas a alguien un problema que te ocurre, una situación quotidiana que te afecta y se ríe de tí. Rabia es cuando expones una situación complicada y nadie te hace caso.
 

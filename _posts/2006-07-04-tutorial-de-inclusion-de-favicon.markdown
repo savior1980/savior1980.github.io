@@ -2,7 +2,7 @@
 layout: post
 title: Tutorial de inclusión de favicon
 date: '2006-07-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/04/tutorial-de-inclusion-de-favicon/
+permalink: 2006/07/04/tutorial-de-inclusion-de-favicon/
 ---
 <img style="display:block; margin:0px auto 10px; text-align:center;" src="http://photos1.blogger.com/blogger/6639/1972/1600/tmp10_dup_7e5a42d8dbf1a1a8d756bc6abffc185a.png" border="0" alt="" />
 Para la inclusión de un favicon (ese icono que véis en junto a la URL del blog) hay que seguir los siguientes pasos:

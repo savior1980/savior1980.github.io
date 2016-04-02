@@ -2,7 +2,7 @@
 layout: post
 title: Con todos ustedes, el Bolsiplus
 date: '2007-05-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/20/con-todos-ustedes-el-bolsiplus/
+permalink: 2007/05/20/con-todos-ustedes-el-bolsiplus/
 ---
 Increíble lo que nos llega a veces al correo de contacto de genbeta, como he comentado muchas veces por activa y por pasiva recibimos correos más que surrealistas. Hoy es el turno de Ildefonso, inventor del Bolsiplus, que nos contacta para presentarnos un nuevo gadget que promete revolucionar nuestra vida cotidiana, véanlo ustedes mismos en el siguiente <a href="http://www.youtube.com/watch?v=spq1Ui-snyw">vídeo</a>:
 

@@ -2,7 +2,7 @@
 layout: post
 title: La misteriosa tarjeta de Telefónica
 date: '2008-08-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/08/15/la-misteriosa-tarjeta-de-telefonica/
+permalink: 2008/08/15/la-misteriosa-tarjeta-de-telefonica/
 ---
 Os debía una historia de cuando conseguí el iPhone 3G y es que no he contado la anécdota que me pasó con la chica encargada del iPhone en el distribuidor de movistar en el que conseguí el terminal. 
 

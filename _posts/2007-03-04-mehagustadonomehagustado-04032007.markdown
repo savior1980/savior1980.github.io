@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [04/03/2007]
 date: '2007-03-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/04/mehagustadonomehagustado-04032007/
+permalink: 2007/03/04/mehagustadonomehagustado-04032007/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> muchísimo este fin de semana, me lo he pasado genial, el <a href="http://childrenatyourfeet.blogspot.com/2007/03/groundhog-day.html">Sushi Day</a> que pasamos con Cristina ayer, preparando sushi (estaba delicioso, le mejor que habré probado sin duda) y viendo <a href="http://www.tv.com/day-break/show/58017/summary.html">Day Break</a>, el tío continua atrapado y la verdad que ya cansa un poco tanta repetición temporal y para seguir con el tema hoy hemos visionado las dos primeras partes de <a href="http://www.imdb.com/find?s=all&q=back%20to%20the%20future">Regreso al Futuro</a>, un finde con matices de time-travel total, ha sido muy geek, muy divertido y en definitiva memorable digno de desear que ser repitiera en un bucle temporal infinito.
 

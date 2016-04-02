@@ -2,7 +2,7 @@
 layout: post
 title: ¿Quiere ser usted un perdedor?
 date: '2006-11-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/27/%c2%bfquiere-ser-usted-un-perdedor/
+permalink: 2006/11/27/%c2%bfquiere-ser-usted-un-perdedor/
 ---
 Mi entrada número 720 (4Pi) va a ir de bajón total: me siento bastante hecho polvo y como en parte tengo un blog para desahogarme, aviso a navegantes: esta entrada va a ser larga, tediosa y al acabarla igual os entran instintos asesinos y queréis asesinar a vuestra mascota, así que antes de seguir encerradla con llave, no querría ser responsable de la muerte de ningún animalito.  Es una lástima sacrificar el post 4π por una rabieta, pero es que tengo que hacerlo,  he de echaros el rollo.
 

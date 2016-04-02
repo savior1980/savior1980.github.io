@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [09/11/2008]
 date: '2008-11-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/11/10/mehagustadonomehagustado-09112008/
+permalink: 2008/11/10/mehagustadonomehagustado-09112008/
 ---
 - <strong>Nomehagustado</strong> el viernes tener que quedarme en casita, me encontraba muy mal: garganta apretada, sensación de cansancio y agobio, dolor de cabeza... así que tuve que faltar a mis deberes laborales, por suerte no pasó a mayores y el sábado por la tarde  ya estaba en perfectas condiciones físicas y mentales para el fin de semana.
 

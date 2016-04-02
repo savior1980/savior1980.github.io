@@ -2,7 +2,7 @@
 layout: post
 title: Pequeños cambios
 date: '2006-08-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/20/pequenos-cambios/
+permalink: 2006/08/20/pequenos-cambios/
 ---
 Esta mañana me he entretenido a tocar un poco la plantilla. Básicamente introducir 3 cambios que tenía en mente:
 <ul><li><span style="font-weight:bold;">Cambios en el Blogroll</span>: he introducido nuevos blogs en el blogroll, si el blogroll es para interconectar blogs y para mostrar los que más te gustan, los que esperas con ansia que sus autores pulbiquen contenidos por que te encantan, creo que no me dejo ninguno, ahora el blogroll está bastante más actualizadete</li><li><span style="font-weight:bold;">Elimino sección de Eventos</span>: la sección de eventos tuvo sentido un tiempo, mientras usé <a href="http://upcoming.org">upcoming</a>, sin embargo cuando puse Google Calendar ya no me convenció demasiado y pensé que haría falta eliminarla, debido a que he ampliado el blogroll, era la primera en caer, un día de estos me encargaré de la sección de links, que también está un poco obsoleta</li><li><span style="font-weight:bold;">Alta en Feedburner</span>: me he dado de alta en Feedburner, básicamente por poder incluir la cajita que me dice el número de lectores RSS que tengo... aunque claro, van con relación al <a href="http://feeds.feedburner.com/resistance/is/futile">nuevo feed</a>, o sea que de momento no es muy útil si la gente que me lee no se pasa al <a href="http://feeds.feedburner.com/resistance/is/futile">nuevo feed de feedburner</a>, de momento ya está actualizado <a href="http://feeds.feedburner.com/resistance/is/futile">el link de sindicación</a> del blog, pero bueno ahora falta que la gente se lo actualice en sus lectores.</li></ul>

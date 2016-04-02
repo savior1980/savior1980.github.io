@@ -2,7 +2,7 @@
 layout: post
 title: Ryu vs DuckHunt
 date: '2006-07-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/17/ryu-vs-duckhunt/
+permalink: 2006/07/17/ryu-vs-duckhunt/
 ---
 El vídeo que os pongo a continuación muestra una colorida variación del mítico <a href="http://en.wikipedia.org/wiki/Duck_Hunt">Duck Hunt</a> para NES liderado por Ryu uno de los más populares personajes de <a href="http://en.wikipedia.org/wiki/Street_Fighter">Street Fighter</a>. No tiene desperdicio.
 

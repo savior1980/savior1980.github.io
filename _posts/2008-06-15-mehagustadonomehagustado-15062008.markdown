@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [15/06/2008]
 date: '2008-06-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/15/mehagustadonomehagustado-15062008/
+permalink: 2008/06/15/mehagustadonomehagustado-15062008/
 ---
 - <strong>Mehagustado</strong> poder quedar con Alex esta semana y hacer unas birras, hablado de tiempos pasados, de tiempos futuros, en fin que estuvo muy bien, da gusto quedar con alguien que hace tiempo que no ves y que tienes muchas cosas que comentarle, mola porque te cuentes las penas, las alegrías y bueno al final extraes conclusiones de todo.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [21/12/2008]
 date: '2008-12-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/12/22/mehagustadonomehagustado/
+permalink: 2008/12/22/mehagustadonomehagustado/
 ---
 - <strong>Mehagustado</strong> estar por fin de vacaciones. Todavía tengo que hacer algunas cosillas, rematar algunos temas del curro pero al final la idea es que estoy oficialmente de vacaciones hasta el día 7. 
 

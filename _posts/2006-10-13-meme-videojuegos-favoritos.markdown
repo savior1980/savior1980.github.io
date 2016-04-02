@@ -2,7 +2,7 @@
 layout: post
 title: Meme videojuegos favoritos
 date: '2006-10-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/13/meme-videojuegos-favoritos/
+permalink: 2006/10/13/meme-videojuegos-favoritos/
 ---
 Este meme lo inició <a href="http://javimoya.com/blog/2006/10/05/mis-videojuegos-favoritos/">Javi Moya</a>, esto me produce especial repelús (el presunto gurú, autor de hmmm ha caído dos veces de mi agregador de feeds y no habrá una tercera: no le aguanto), sin embargo haré el meme porque el que me lo pasa en realidad es <a href="http://eltercero.blogsome.com/2006/10/13/videojuegos-favoritos/">eltercero</a>, que además de tenerle aprecio, le he pasado varios memes y siempre ha respondido muy bien y además la temática me atrae, pues he sido un jugón, no lo voy a negar. Al lío:
 

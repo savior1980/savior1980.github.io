@@ -2,7 +2,7 @@
 layout: post
 title: Mighty lo nuestro no puede continuar
 date: '2006-11-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/05/mighty-lo-nuestro-no-puede-continuar/
+permalink: 2006/11/05/mighty-lo-nuestro-no-puede-continuar/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger2/4553/2422/320/original_mighty_mouse.jpg" border="0" alt="" />
 Una de las peores compras que he hecho nunca es el Mighty Mouse de Apple. Al mes de tenerlo ya fallaba, pero es que últimamente cada día hay que ponerlo del revés, agitar la bolita, apretarla, rezar dos Avemarías y con suerte empezaba a funcionar la bolita otra vez.

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [17/10/2010]
 date: '2010-10-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/10/18/mehagustadonomehagustado-17102010/
+permalink: 2010/10/18/mehagustadonomehagustado-17102010/
 ---
 - *Nomehagustado* tener que trabajar a tope en la semana con el puente el martes. El lunes y el miércoles curré a saco y el resto de días casi no tuve tiempo de respirar. Ains, y las semanas próximas todavía parece que serán más ajetreadas.
 

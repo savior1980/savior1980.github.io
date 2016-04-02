@@ -2,7 +2,7 @@
 layout: post
 title: Mi NNW me saluda
 date: '2006-11-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/14/mi-nnw-me-saluda/
+permalink: 2006/11/14/mi-nnw-me-saluda/
 ---
 Esto es lo que ocurre al no conectarte a internet por varios días...
 

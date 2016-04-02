@@ -2,7 +2,7 @@
 layout: post
 title: Cansado
 date: '2008-09-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/30/cansado/
+permalink: 2008/09/30/cansado/
 ---
 Estoy muy cansado nenes, noto que empiezo otra vez a estressarme demasiado. El curro me absorbe, todo me agobia, tomo mucho café, flirteo con el tabaco y tengo los nervios a flor de piel. No soy yo, he cambiado mi cordial sonrisa por una mueca de sarcasmo. 
 

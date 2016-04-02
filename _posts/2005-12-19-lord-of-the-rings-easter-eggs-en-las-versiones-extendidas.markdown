@@ -2,7 +2,7 @@
 layout: post
 title: 'Lord of the Rings: Easter Eggs en las versiones extendidas!'
 date: '2005-12-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/19/lord-of-the-rings-easter-eggs-en-las-versiones-extendidas/
+permalink: 2005/12/19/lord-of-the-rings-easter-eggs-en-las-versiones-extendidas/
 ---
 <a href="http://www.lordoftherings.net/"><img alt="" border="0" src="http://www.affichescinema.com/insc_l/lord_rings1.jpg" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 120px;"/></a><a href="http://www.lordoftherings.net/">
 </a>

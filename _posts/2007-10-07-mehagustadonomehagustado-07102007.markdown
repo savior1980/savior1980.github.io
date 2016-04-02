@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [07/10/2007]
 date: '2007-10-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/07/mehagustadonomehagustado-07102007/
+permalink: 2007/10/07/mehagustadonomehagustado-07102007/
 ---
 - <strong>Mehagustado</strong> muchisimo pasar este finde en el pisito con Cristina y además que creo que hemos avanzado un poco, hemos comprado un par de sillas de despacho, hemos comprado una plancha y a punto hemos estado de comprar un mueblecito para el baño (al final lo devolvimos porque el que nos vendieron era demasiado pequeñajo). También he llevado allí más ropa y a ver si de cara al finde que viene ya hacemos la mudanza a lo bestia.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [29/07/2007]
 date: '2007-07-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/29/mehagustadonomehagustado-29072007/
+permalink: 2007/07/29/mehagustadonomehagustado-29072007/
 ---
 - <strong>Mehangustado</strong> mucho las fiestas de mi pueblo, <strong>Mataró</strong>, llamadas <a href="http://es.wikipedia.org/wiki/Les_Santes">"Les Santes"</a> (las santas) en honor de Santa Juliana y Santa Semproniana. El miércoles fui con los amigotes a ver como empezaban, el viernes vi de pasada los fuegos artificiales, hoy hemos visto "La Mumarota" y me dijeron los conciertos de <em>Lax'n busto y Pignoise</em> estuvieron bastante bien. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Meme Springsteen
 date: '2006-09-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/21/meme-springsteen/
+permalink: 2006/09/21/meme-springsteen/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger2/4553/2422/320/bruceSongsImage.jpg" border="0" alt="" /><span style="font-weight:bold;">Forfy</span> de MadWorld me pasa un <s>marrón</s> meme bastante curioso, se trata de contestar un cuestionario con los títulos de las canciones de alguno de tus grupos favoritos. Él elige en <a href="http://forfy.blogspot.com/2006/09/definitely-meme.html">su post</a> a Oasis, al igual que <a href="http://inadaptado.wordpress.com/2006/09/05/memeandola/">Inadaptado</a>, otros han elegido U2 (<a href="http://kalimerozone.blogspot.com/2006/09/otro-meme-y-van_19.html">kalimero's zone</a>), Pulp (<a href="http://micronesiaenelcerebelo.blogspot.com/2006/09/interludio-intersecciones.html">micronesia en el cerebelo</a>), Siniestro Total (<a href="http://noelio.blogia.com/2006/092001-meme-siniestro.php">El Emperador de los helados</a>) y yo como no podía ser de otro modo elijo al Boss, al mítico Springsteen para responder las preguntas del cuestionario que os pongo a continuación, enlazo las letras de las canciones, bendito seas <a href="http://www.brucespringsteen.net">brucespringsteen.net</a>:
 

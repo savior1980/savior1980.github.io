@@ -2,7 +2,7 @@
 layout: post
 title: Propellerman, su identidad secreta
 date: '2008-06-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/29/propellerman-su-identidad-secreta/
+permalink: 2008/06/29/propellerman-su-identidad-secreta/
 ---
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/zXg8aQax78o"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/zXg8aQax78o" type="application/x-shockwave-flash" wmode="transparent" width="425" height="344"></embed></object>
 

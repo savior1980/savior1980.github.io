@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [30/01/2011]
 date: '2011-01-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/01/30/mehagustadonomehagustado-30012011/
+permalink: 2011/01/30/mehagustadonomehagustado-30012011/
 ---
 - Este jueves *Megustó* bastante conocer unos señores que están montando una _start-up_, me contaron su idea, me hicieron firmar un NDA (por lo que no os puedo explicar nada de nda) y creo que tienen un futuro bastante prometedor, la idea es buena, creo que puede funcionar y el sector por el que se mueven creo que es el apropiado, _chapeau_ para ellos eso es lo que necesitamos muchos una idea, un objetivo y lanzarnos al vacío, el problema es saber si debajo hay agua o el batacazo, en su caso a mí me da la sensación que será lo primero. 
 

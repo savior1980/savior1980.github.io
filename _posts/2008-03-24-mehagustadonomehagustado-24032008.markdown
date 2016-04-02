@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [24/03/2008]
 date: '2008-03-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/24/mehagustadonomehagustado-24032008/
+permalink: 2008/03/24/mehagustadonomehagustado-24032008/
 ---
 - <strong>Mehagustado</strong> mucho poder descansar plenamente esta semana santa. Era algo que necesitaba con urgencia tener días de vacaciones para mí, para hacer tareas del hogar, para postear un poco más, para viciarme como un enano al CoD y al NFS Carbon (ambos me los he cepillado).
 

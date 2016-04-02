@@ -2,7 +2,7 @@
 layout: post
 title: Frases del podcast 9 de sopmacsl
 date: '2006-12-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/05/frases-del-podcast-9-de-sopmacsl/
+permalink: 2006/12/05/frases-del-podcast-9-de-sopmacsl/
 ---
 No he podido reprimirme esta vez, un post con lo mejor del podcast, esas frases para repetirlas en plan informal, ya sabéis voz seria y despacio:
 

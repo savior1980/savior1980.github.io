@@ -2,7 +2,7 @@
 layout: post
 title: Sobre las antenas del iPhone 4 y su pérdida de cobertura
 date: '2010-06-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/06/24/sobre-las-antenas-del-iphone-4-y-su-perdida-de-cobertura/
+permalink: 2010/06/24/sobre-las-antenas-del-iphone-4-y-su-perdida-de-cobertura/
 ---
 <object width="600" height="345"><param name="movie" value="http://www.youtube.com/v/dJ-b56MdVjo&hl=es_ES&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dJ-b56MdVjo&hl=es_ES&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="345"></embed></object>
 Lo que nadie enseña en este vídeo es que el tipo lleva una pulsera "PowerBalance":http://www.powerbalance.com/, el holograma es la clave para la pérdida de cobertura, no lo entendéis hombre.

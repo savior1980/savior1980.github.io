@@ -2,7 +2,7 @@
 layout: post
 title: Altavoces en forma de cubo de Rubik
 date: '2006-11-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/02/altavoces-en-forma-de-cubo-de-rubik/
+permalink: 2006/11/02/altavoces-en-forma-de-cubo-de-rubik/
 ---
 Que si Duet, Creature, Hartman... ¡venga ya! Ahora lo que se lleva son los altavoces con formas raras, eh, cuanto más mejor, despilfarrando creatividad por doquier y con formas sobrias y elegantes, pero en cambio, si sois unos apasionados del cubo de Rubik, deberéis haceros con estos altavoces que véis a continuación.
 

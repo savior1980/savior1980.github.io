@@ -2,7 +2,7 @@
 layout: post
 title: Cómics precuela de Star Trek en formato iPhone App
 date: '2009-03-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/03/22/comics-precuela-de-star-trek-en-formato-iphone-app/
+permalink: 2009/03/22/comics-precuela-de-star-trek-en-formato-iphone-app/
 ---
 <img src="/assets/zz7c3eaa1c.jpg" alt="Comics Star Trek" title="Comics Star Trek" width="505" height="340" class="centro" />Parece ser que <strong>la peli de JJ Abrams sobre el universo Star Trek calienta motores a WARP 9</strong>, según parece acaban de salir 3 aplicaciones para el iPhone de iVerse Media que contienen 3 cómics de 90 páginas cada uno en los que se explica la transición entre la última peli de Star Trek, <a href="http://es.wikipedia.org/wiki/Star_Trek_X:_N%C3%A9mesis">Némesis</a> y la siguiente entrega de la saga a cargo de Bad Robot y estudios Paramount. Parece que el hilo conductor es el antagonista de la película, un Romulano llamado Nero que se las verá con Picard y compañía en el futuro.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [27/04/2008]
 date: '2008-04-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/28/mehagustadonomehagustado-27042008/
+permalink: 2008/04/28/mehagustadonomehagustado-27042008/
 ---
 - <strong>Mehagustado</strong> poder disfrutar de un día de vacaciones después de tanto estrés en el curro estos días. Además la semana que viene pinta tranquila, con un sólo viajecito y un puente que seguramente podré hacer, con lo que bueno después del temporal de trabajo de estos días, no viene mal unos días de relax.
 

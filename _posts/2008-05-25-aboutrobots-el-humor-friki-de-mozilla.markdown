@@ -2,7 +2,7 @@
 layout: post
 title: about:robots, el humor friki de mozilla
 date: '2008-05-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/05/25/aboutrobots-el-humor-friki-de-mozilla/
+permalink: 2008/05/25/aboutrobots-el-humor-friki-de-mozilla/
 ---
 <img src="/assets/zz68162b35.jpg" alt="" title="zz68162b35" width="464" height="312" class="alignnone size-full wp-image-1110" />
 

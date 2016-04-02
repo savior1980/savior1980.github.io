@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/12/2008]
 date: '2008-12-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/12/14/mehagustadonomehagustado-14122008/
+permalink: 2008/12/14/mehagustadonomehagustado-14122008/
 ---
 - Empezamos el antepenúltimo Mehagustado del 2008 diciendo que <strong>mehagustado</strong> enormemente el partidazo del Barcelona ayer contra el Madrid. Al final no cayó la ristra de goles que se esperaba la culerada, sin embargo disfrutamos con el partido cosa mala, vamos a 12 puntos del Madrid que va sexto de la liga, a 8 puntos de segundo y tercero a los que hemos machacado 4-0 y 0-3 respectivamente, en fin creo que no se puede pedir más a nivel futblístico. Ojalá en 2009 las cosas sigan funcionandonos igual de bien.
 

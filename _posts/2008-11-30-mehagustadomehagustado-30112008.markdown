@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [30/11/2008]
 date: '2008-11-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/11/30/mehagustadomehagustado-30112008/
+permalink: 2008/11/30/mehagustadomehagustado-30112008/
 ---
 - <strong>Nomehagustad</strong>o que esta semana en el curro eh tenido bastantes tareas y he ido un poco ahogado de trabajo, esta semana será peor porque necesito mucho tiempo para hacer unas pruebas y si sopla el viento de cara intentaremos hacer un primer despliegue a producción lo cual nos llevará tiempo y esfuerzo.
 

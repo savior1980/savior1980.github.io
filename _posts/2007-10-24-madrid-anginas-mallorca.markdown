@@ -2,7 +2,7 @@
 layout: post
 title: Madrid - Anginas - Mallorca
 date: '2007-10-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/24/madrid-anginas-mallorca/
+permalink: 2007/10/24/madrid-anginas-mallorca/
 ---
 Este lunes viajé a Madrid, tuve una reunión por la mañana y luego me encontré con un dolor de cabeza bastante importante, como tenía billete de puente aéreo y había acabado mis tareas, volví un poco más temprano a casa, para comprobar que el dolor de cabeza se había vuelto unas anginas brutales. 
 

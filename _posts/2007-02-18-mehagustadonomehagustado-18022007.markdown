@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [18/02/2007]
 date: '2007-02-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/02/18/mehagustadonomehagustado-18022007/
+permalink: 2007/02/18/mehagustadonomehagustado-18022007/
 ---
 - <span style="font-weight:bold;">Nomehagustado</span> la peli Ghost Rider. Es bastante mala sin lugar a dudas y presenta alguna incongruencia argumental bastante potente. La estética y los efectos especiales <span style="font-weight:bold;">mehangustado</span>, pero es que en líneas generales el resultado de la peli es bastante pobre.
 

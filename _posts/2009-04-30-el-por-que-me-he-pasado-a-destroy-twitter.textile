@@ -2,7 +2,7 @@
 layout: post
 title: Por qué me he pasado a Destroy Twitter
 date: '2009-04-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/04/30/el-por-que-me-he-pasado-a-destroy-twitter/
+permalink: 2009/04/30/el-por-que-me-he-pasado-a-destroy-twitter/
 ---
 <a href="https://destroytwitter.com/">Destroy Twitter</a> es un cliente para Twitter basado en la plataforma Adobe AIR. Y la razón para empezar a usarlo en Windows fue descubrir que twhirl dejaba de evolucionar, hace tiempo <a href="http://www.genbeta.com/linux/destroy-twitter-el-enesimo-cliente-de-twitter-hecho-con-air">revisé DT para genbeta</a> y me gustó bastante, así que le dí otra oportunidad y me encantó. 
 

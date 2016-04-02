@@ -2,7 +2,7 @@
 layout: post
 title: Tetris tamaño gigante
 date: '2006-07-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/04/tetris-tamano-gigante/
+permalink: 2006/07/04/tetris-tamano-gigante/
 ---
 <a href="http://www.woostercollective.com/2006/07/another_crate_piece_from_melbourne.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/tetriscrates.jpg" border="0" alt="" /></a>Esta fantástica recreación de Tetris en vivo y en directo en el Mundo Real&trade;, se trata de un proyecto de "street art" geek creado en Melbourne, Australia utilizando cajas de leche, podemos ver más fotos <a href="http://www.woostercollective.com/2006/07/another_crate_piece_from_melbourne.html">aquí</a>. 
 

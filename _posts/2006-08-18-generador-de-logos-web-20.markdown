@@ -2,7 +2,7 @@
 layout: post
 title: Generador de Logos Web 2.0
 date: '2006-08-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/18/generador-de-logos-web-20/
+permalink: 2006/08/18/generador-de-logos-web-20/
 ---
 Para Generar un logo como mandan los cánones en la popular Web 2.0, con sus reflejos, su sufjio "Beta" en forma estrellada y sus colores azulados mezclados con rositas al más puro estilo flickr, tenéis <a href="http://msig.info/web2.php">este generador web</a> que dado un texto que tendréis que rellenar en un pequeño formulario os generará un banner como el que véis a continuación.
 <img src="http://msig.info/web2v2/(reflect)ResistancrBETA.png" alt="Generated Image" />

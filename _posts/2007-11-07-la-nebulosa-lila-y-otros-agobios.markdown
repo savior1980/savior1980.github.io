@@ -2,7 +2,7 @@
 layout: post
 title: La nebulosa lila y otros agobios
 date: '2007-11-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/08/la-nebulosa-lila-y-otros-agobios/
+permalink: 2007/11/08/la-nebulosa-lila-y-otros-agobios/
 ---
 <img src='/assets/imacs.png' alt='imacs.png' class="derecha" /> Creo que la anterior presentación de los Macs era mucho más fresca que esta. Así de claro. Ese blanco puro combinado con ese genial wallpaper con tonos azules, hacía que toda la estética Mac fuera única y además no era una combinación nada cansina.
 

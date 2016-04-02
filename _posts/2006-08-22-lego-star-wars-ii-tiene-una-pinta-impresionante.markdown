@@ -2,7 +2,7 @@
 layout: post
 title: LEGO Star Wars II tiene una pinta impresionante
 date: '2006-08-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/22/lego-star-wars-ii-tiene-una-pinta-impresionante/
+permalink: 2006/08/22/lego-star-wars-ii-tiene-una-pinta-impresionante/
 ---
 <a href="http://www.lucasarts.com/games/legostarwarsii/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.27.jpg" border="0" alt="" /></a>
 Pocas veces he escrito sobre videojuegos, ya hace tiempo que no le doy al vicio en serio. Sin embargo Lego Star Wars es distinto... fue de los últimos juegos que me enganché perdidamente, es buenísimo, divertidísimo y conjuga dos de mis pasiones más geeks: LEGO y Star Wars, qué más puedo pedir?

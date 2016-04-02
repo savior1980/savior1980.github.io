@@ -2,7 +2,7 @@
 layout: post
 title: ¿iPod Touch o iPhone?
 date: '2007-09-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/12/%c2%bfipod-touch-o-iphone/
+permalink: 2007/09/12/%c2%bfipod-touch-o-iphone/
 ---
 <img src='/assets/ipodtouch450.jpg' alt='ipod touch' class="centro" />
 

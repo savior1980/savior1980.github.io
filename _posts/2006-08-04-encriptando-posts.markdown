@@ -2,7 +2,7 @@
 layout: post
 title: Encriptando posts
 date: '2006-08-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/04/encriptando-posts/
+permalink: 2006/08/04/encriptando-posts/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/Imagen%202.3.png" border="0" alt="" />Recientemente ví un post vía <a href="http://lifehacker.com/software/web-publishing/encrypt-text-on-your-web-pages-190658.php">LifeHacker</a> en el que proponían mediante un código javascript la posibilidad de encriptar un texto web y con link para "Desencriptar" que automáticamente te pide la clave para mágicamente transformar esos carácteres sin sentido a texto plano otra vez. Incluso, <a href="http://veenix.blogspot.com/2006/07/encrypted-blog-posts.html">dan las pautas a seguir</a> para incluirlo en blogger o en demás sitios web y parece que no es extramademente complicado implementar, sin embargo se me plantea una duda. ¿Por qué voy a querer encriptar algo en mis posts?
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [21/09/2008]
 date: '2008-09-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/22/mehagustadonomehagustado-21092008/
+permalink: 2008/09/22/mehagustadonomehagustado-21092008/
 ---
 - <strong>Nomehagustado</strong> nada estar en Palma de lunes a jueves, máxime cuando las reuniones no han salido todo lo bien que se podía esperar y el proyecto no tira como debería. Hay que ponerse las pilas pero ya. Esta semana estaré 3 días en Barcelona un día festivo (fiesta mayor de BCN) y lo que resta pal finde en Mallorca... a tope.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Long Road to Ruin
 date: '2008-04-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/11/long-road-to-ruin/
+permalink: 2008/04/11/long-road-to-ruin/
 ---
 <p class="chorus">Running through hell, heaven can wait...
 Long road to ruin there in your eyes

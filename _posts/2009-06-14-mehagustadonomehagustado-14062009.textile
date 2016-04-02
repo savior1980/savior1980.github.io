@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/06/2009]
 date: '2009-06-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/06/15/mehagustadonomehagustado-14062009/
+permalink: 2009/06/15/mehagustadonomehagustado-14062009/
 ---
 - <strong>Mehagustado</strong> estar una semana más de relax en la oficina, allí he hecho cosillas, he tenido tiempo de preparar temas, de ir al fnac, de comer en el starbucks, de ver gente conocida, en fin todo lo bueno se acaba yo calculo que esta semana ya cambiaremos el chip y me tocará otra vez en cliente.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Feed icon
 date: '2005-12-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/24/feed-icon/
+permalink: 2005/12/24/feed-icon/
 ---
 <a href="http://feedicons.com"><img alt="" border="0" src="http://photos1.blogger.com/blogger/6639/1972/320/feed-icon-32x32.jpg" style="display:block; margin:0px auto 10px; text-align:left;cursor:pointer; cursor:hand;"/></a><a href="http://feedicons.com">
 </a>

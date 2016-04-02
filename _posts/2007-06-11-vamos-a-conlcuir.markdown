@@ -2,7 +2,7 @@
 layout: post
 title: Vamos a conlcuir...
 date: '2007-06-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/11/vamos-a-conlcuir/
+permalink: 2007/06/11/vamos-a-conlcuir/
 ---
 <img class="centro" src='/assets/leopard.png' alt='Leopard keynote timo' />
 

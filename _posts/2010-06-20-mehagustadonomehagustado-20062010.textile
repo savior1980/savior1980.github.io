@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [20/06/2010]
 date: '2010-06-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/06/21/mehagustadonomehagustado-20062010/
+permalink: 2010/06/21/mehagustadonomehagustado-20062010/
 ---
 - *Megusta* que sólo me queden 3 días de curro intenso hasta coger una semana y media de vacaciones, Sant Joan, puente y preparativos para el viaje de la próxima semana.
 

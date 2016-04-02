@@ -2,7 +2,7 @@
 layout: post
 title: Las implicaciones del retraso de Leopard para Octubre
 date: '2007-04-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/13/las-implicaciones-del-retraso-de-leopard-para-octubre/
+permalink: 2007/04/13/las-implicaciones-del-retraso-de-leopard-para-octubre/
 ---
 <img src="/assets/cylon23.jpg" width="187" height="187" alt="cylon23.jpg" class="derecha" />Apple de forma oficial comunicó ayer que <a href="http://www.applesfera.com/2007/04/13-leopard-oficialmente-retrasado-hasta-octubre">Leopard se retrasa hasta Octubre</a>, cuando lleva desde Agosto del año pasado, en la WWDC'06 prometiendo un lanzamiento de cara a la primavera. Al principio se creyó que el 21 de Marzo salía a la venta, luego los ánimos fueron relajándose y se aceptó que hasta el 21 de Junio técnicamente estábamos en primavera y que quizás en la WWDC'07 en las que se planificaron unas jornadas de demostración de Leopard se haría oficial el lanzamiento del nuevo sistema operativo. Incluso Apple desmintió un rumor que auguraba ese presunto retraso hasta Ocubre, pues bien ayer Apple retrasó oficialmente el lanzamiento para Octubre achacándolo a que han tenido que destinar muchos recursos para poder lanzar el iPhone en Junio, una excusa que tiene muchos matices y muchas implicaciones.
 <!--more-->

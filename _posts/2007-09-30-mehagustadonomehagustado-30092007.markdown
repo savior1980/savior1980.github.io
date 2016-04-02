@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [30/09/2007]
 date: '2007-09-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/30/mehagustadonomehagustado-30092007/
+permalink: 2007/09/30/mehagustadonomehagustado-30092007/
 ---
 - <strong>Nomehangustado</strong> las nuevas temporadas ni de Heroes, ni de HIMYM (salvo los 30 segundos finales) ni de Family Guy (el capítulo especial de Star Wars, bastante bastante sosete).
 

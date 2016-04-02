@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [08/12/2008]
 date: '2008-12-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/12/08/mehagustadonomehagustado-08122008/
+permalink: 2008/12/08/mehagustadonomehagustado-08122008/
 ---
 - <strong>Mehagustado</strong> mucho pasar 2 días y medio en Vielha con 10 amigotes. El buen rollo genial, he hecho mucho el perro, he jugado horrores a la Wii con los colegas (el mario kart está que hecha humo) y en general lo he pasado genial. Vielha, Garós y Arties los tres pueblecitos en los que he estado mehangustado mucho, esa zona es de difícil acceso (4 horitas de coche desde BCN) pero al final el paisaje recompensa. 
 

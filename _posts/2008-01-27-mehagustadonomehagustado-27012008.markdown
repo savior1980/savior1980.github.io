@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [27/01/2008]
 date: '2008-01-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/27/mehagustadonomehagustado-27012008/
+permalink: 2008/01/27/mehagustadonomehagustado-27012008/
 ---
 - <strong>Mehagustado</strong> desvirtualizar un poco y grabar un <a href="http://childrenatyourfeet.com/2008/01/27/coulantcastes/">coulantcast.es</a> ayer, poco a poco vamos recuperando a ese gran tipo que es <a href="http://cuatrodoce.com">Pedro Ansar</a> que el pobre lleva una temporada tensa en todos los sentidos. Grata también la charla con <a href="http://josedelcorral.es">Jose del Corral</a> y con <a href="http://iyube.com">Yube</a>. Estelar el <a href="http://flickr.com/photos/lady-madonna/2224036292/">Kibuka</a> con sus especialidades de maki y un fabuloso <em>bloody mary</em> con el que abrí la velada. 
 

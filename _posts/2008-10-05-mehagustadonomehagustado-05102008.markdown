@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [05/10/2008]
 date: '2008-10-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/05/mehagustadonomehagustado-05102008/
+permalink: 2008/10/05/mehagustadonomehagustado-05102008/
 ---
 - <strong>Mehagustado</strong> mucho el finde tranquilito en casita, me ha servido para descansar y retomar fuerzas de cara a la próxima semana que será de esas moviditas a nivel laboral.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Incluso los Heroes tienen un pasado...
 date: '2007-02-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/02/06/incluso-los-heroes-tienen-un-pasado/
+permalink: 2007/02/06/incluso-los-heroes-tienen-un-pasado/
 ---
 Este anuncio es el que hacía la agresiva Niki Sanders en los noventa.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [16/12/2007]
 date: '2007-12-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/16/mehagustadonomehagustado-16122007/
+permalink: 2007/12/16/mehagustadonomehagustado-16122007/
 ---
 - <strong>Mehagustado</strong> que día 14 este blog cumplió su segundo aniversario. Esta vez no he tenido tiempo de grabar un podcast, ni tampoco tengo preparado ningún as en la manga, tengo pensado un cambio de plantilla y una actualización de WP, pero lo dejo para cuando tenga un poco más de tiempo. Muchas gracias a todos los que leéis mis desvaríos, mis opiniones y mis quejas, gracias por dar sentido a estas líneas que escribo cuando puedo, gracias por comentar en los <strong>mehagustado</strong> aunque yo pocas veces responda, gracias.
 

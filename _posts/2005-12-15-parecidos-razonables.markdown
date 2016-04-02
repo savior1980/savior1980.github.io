@@ -2,7 +2,7 @@
 layout: post
 title: Parecidos Razonables
 date: '2005-12-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/15/parecidos-razonables/
+permalink: 2005/12/15/parecidos-razonables/
 ---
 Hallo leute! Guten Tag! (Buenas gente! Buenos d&#237;as!)
 

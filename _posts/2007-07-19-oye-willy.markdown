@@ -2,6 +2,6 @@
 layout: post
 title: Oye Willy
 date: '2007-07-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/19/oye-willy/
+permalink: 2007/07/19/oye-willy/
 ---
 <p class="frase">Oye Willy, creo que voy a comerme al gato! Ha!</p><p align="right">-- En incontables ocasiones <a href="http://es.wikipedia.org/wiki/ALF">Alf</a>, el entrañable alienígena que nos acompañó en nuestra infancia y que últimamente (y no sé porqué) recuerdo con frecuencia</p>

@@ -2,7 +2,7 @@
 layout: post
 title: Star Wars mezclado con el Mundo Real™
 date: '2006-07-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/14/star-wars-mezclado-con-el-mundo-real%e2%84%a2/
+permalink: 2006/07/14/star-wars-mezclado-con-el-mundo-real%e2%84%a2/
 ---
 En <a href="http://www.linternaute.com/photo_numerique/diaporama-image/cedric-delsaux/1.shtml">esta galería</a> hay un recopilatorio de fotos bastante geek hecho por el fotógrafo <a href="http://www.wantedparis.com/delsaux/portfolio.php/manufacturers_id/2/language/en?osCsid=9074437ae1d10cb61b3a911b45679147/DELSAUX/CEDRIC/">Cedric Deslaux</a> (tiene <a href="http://www.cedricdelsaux.com/">su web</a> under construction). 
 

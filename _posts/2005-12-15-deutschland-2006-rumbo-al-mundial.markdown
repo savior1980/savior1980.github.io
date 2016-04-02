@@ -2,7 +2,7 @@
 layout: post
 title: 'Deutschland 2006: Rumbo al Mundial'
 date: '2005-12-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/15/deutschland-2006-rumbo-al-mundial/
+permalink: 2005/12/15/deutschland-2006-rumbo-al-mundial/
 ---
 <a href="http://www.stadiumguide.com/germany2006.htm"><img alt="" border="0" src="http://photos1.blogger.com/blogger/6639/1972/320/GERMANY2006.jpg" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;"/></a><a href="http://www.stadiumguide.com/germany2006.htm">
 </a>

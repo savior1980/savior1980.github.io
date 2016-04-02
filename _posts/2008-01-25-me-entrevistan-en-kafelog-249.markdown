@@ -2,7 +2,7 @@
 layout: post
 title: Me entrevistan en Kafelog 24.9
 date: '2008-01-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/25/me-entrevistan-en-kafelog-249/
+permalink: 2008/01/25/me-entrevistan-en-kafelog-249/
 ---
 <img src='/assets/0249.jpg' alt='Kafelog' class="centro"/>
 

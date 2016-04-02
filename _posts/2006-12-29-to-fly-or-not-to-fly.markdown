@@ -2,7 +2,7 @@
 layout: post
 title: To fly or not to fly
 date: '2006-12-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/29/to-fly-or-not-to-fly/
+permalink: 2006/12/29/to-fly-or-not-to-fly/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://bp2.blogger.com/_PnWHf0Wv0BI/RZRiHn_uqLI/AAAAAAAAADw/QmHc2vOh2kI/s320/contrails_001.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5013740168305092786" /><span style="font-weight:bold;">To fly or not to fly (macfly!)</span>... así estoy yo. En teoría mañana por la mañana cojo un avión del aeropuerto de Girona con destino Estocolmo con <span style="font-weight:bold;">varios colegas</span> y con una ganas de pasarlo de miedo en la berbena de fin de año en <span style="font-weight:bold;">tierras nórdicas</span> que no podéis imaginar. Sin embargo todo a punta a que no podré volar: los aviones matinales de ayer y hoy han sido <span style="font-weight:bold;">cancelados</span> debido al <span style="font-weight:bold;">mal tiempo</span> y todas las predicciones parecen decir que mañana continuará la <span style="font-weight:bold;">niebla</span> que inunda el aeropuerto y que no deja operar a <span style="font-weight:bold;">Ryanair</span>. 
 

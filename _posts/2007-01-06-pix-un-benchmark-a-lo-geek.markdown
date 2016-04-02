@@ -2,7 +2,7 @@
 layout: post
 title: piX, un benchmark a lo geek
 date: '2007-01-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/06/pix-un-benchmark-a-lo-geek/
+permalink: 2007/01/06/pix-un-benchmark-a-lo-geek/
 ---
 <a href="http://www.coriolis.ch/en/pix/"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp1.blogger.com/_PnWHf0Wv0BI/RZ-SfGb4_5I/AAAAAAAAAEU/X9j91xGaGkI/s320/pix_logo.jpg" alt="" id="BLOGGER_PHOTO_ID_5016889572915216274" border="0" /></a>
 <a href="http://www.coriolis.ch/en/pix/">piX</a> es una pequeña aplicación para Mac OS X, muy ligera, gratuita y binario universal que <span style="font-weight:bold;">calculará las cifras de Pi que nosotros le especifiquemos</span>, detallándonos al final de la operación todo el resultado y el tiempo invertido en el cálculo.

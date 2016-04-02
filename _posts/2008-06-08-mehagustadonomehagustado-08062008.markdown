@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [08/06/2008]
 date: '2008-06-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/09/mehagustadonomehagustado-08062008/
+permalink: 2008/06/09/mehagustadonomehagustado-08062008/
 ---
 - <strong>Nomehagustado</strong> que el blog se esté conviertiendo en una letanía de mehagustados, la verdad que es necesario que ponga más contenido. Intentaré que esto no se convierta del resistance is futile al nomehagustado is futile.
 

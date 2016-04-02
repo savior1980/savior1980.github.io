@@ -2,7 +2,7 @@
 layout: post
 title: No dejes que un geek disfrace a tu bebé
 date: '2006-05-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/02/no-dejes-que-un-geek-disfrace-a-tu-bebe/
+permalink: 2006/05/02/no-dejes-que-un-geek-disfrace-a-tu-bebe/
 ---
 Si dejas a tu crío en manos de un geek para que le haga un disfraz de carnaval pueden ocurrile cosas como ésta:
 

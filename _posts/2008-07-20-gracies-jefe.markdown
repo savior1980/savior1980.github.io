@@ -2,7 +2,7 @@
 layout: post
 title: Gràcies, "jefe"
 date: '2008-07-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/20/gracies-jefe/
+permalink: 2008/07/20/gracies-jefe/
 ---
 <img src="/assets/foto_300208_cas.jpg" alt="" title="Bruce " width="368" height="200" class="centro_borde" />
 

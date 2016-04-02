@@ -2,7 +2,7 @@
 layout: post
 title: Google AJAX Search para Blogger Beta
 date: '2006-10-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/19/google-ajax-search-para-blogger-beta/
+permalink: 2006/10/19/google-ajax-search-para-blogger-beta/
 ---
 <a href="http://resistancefutile.blogspot.com/2006/06/nueva-interfaz-de-bsquedas-de-google.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/googlesearch.png" border="0" alt="" /></a>Por fin lo he conseguido, ya está disponible el componente de búsquedas <a href="http://code.google.com/apis/ajaxsearch/documentation/">Google AJAX Search</a> incorporado al <a href="http://resistancefutile.blogspot.com/2006/09/resistance-20.html">Resistance 2.0</a>. Este componente tiene las ventajas de desplegarse dinámicamente y de incorporar más serivicos de búsqueda externos, es decir, podréis realizar búsquedas del término en otros blogs o buscar vídeos relacionados en Google Video desde el mismo componente. Además se ve perfectamente en el nuevo IE7, al contrario de lo que pasaba <a href="http://resistancefutile.blogspot.com/2006/06/nueva-interfaz-de-bsquedas-de-google.html">anteriormente</a>, que no era compatible.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Va de navegadores
 date: '2005-12-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/17/va-de-navegadores/
+permalink: 2005/12/17/va-de-navegadores/
 ---
 Buenas gente,
 

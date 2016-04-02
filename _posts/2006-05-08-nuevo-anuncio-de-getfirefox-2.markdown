@@ -2,7 +2,7 @@
 layout: post
 title: Nuevo anuncio de getfirefox
 date: '2006-05-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/08/nuevo-anuncio-de-getfirefox-2/
+permalink: 2006/05/08/nuevo-anuncio-de-getfirefox-2/
 ---
 Atrevido anuncio de la campaña getFirefox... 
 

@@ -2,7 +2,7 @@
 layout: post
 title: El Microsoft Sufície
 date: '2007-06-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/03/el-microsoft-suficie/
+permalink: 2007/06/03/el-microsoft-suficie/
 ---
 <img class="centro" src='/assets/imagen-2.png' alt='suficie' />
 

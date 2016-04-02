@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [28/05/2006]
 date: '2006-05-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/28/mehagustadonomehagustado-28052006-2/
+permalink: 2006/05/28/mehagustadonomehagustado-28052006-2/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> mucho <a href="http://resistancefutile.blogspot.com/2006/05/25-de-mayo-da-del-orgullo-friki.html">el día del orgullo del friki</a>, me ha encantado participar en esta meme multitodinaria dónde hemos podido ver ejemplos de frikis auténticos, frikis de todo tipo, me encantó que haya tanta gente dispuesta a enseñar sin reparos sus objetos preferidos. Además he tenido una aceptación muy buena en la gente que les pasaba el meme, me ha hecho gracia todo de cabo a rabo, desde la invitación de Nacho a la colaboración en masa de todo el mundo.
 

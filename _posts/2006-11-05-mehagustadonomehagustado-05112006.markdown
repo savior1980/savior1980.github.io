@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [05/11/2006]
 date: '2006-11-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/05/mehagustadonomehagustado-05112006/
+permalink: 2006/11/05/mehagustadonomehagustado-05112006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> que ya queda menos para el SIMO, qué bien nos lo pasaremos, ya veréis será fabuloso, pero hay que organizarse a ver si durante esta semana ponemos una serie de milestones o trazamos entre todos una hoja de ruta.
 

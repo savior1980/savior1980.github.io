@@ -2,7 +2,7 @@
 layout: post
 title: Aberraciones.NET
 date: '2007-05-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/30/aberracionesnet/
+permalink: 2007/05/30/aberracionesnet/
 ---
 <img class="derecha" src='/assets/ghost.png' alt='ghost' />Hoy he estado mirando la composición del portal que tienen montado en el cliente en ASP con VB.NET i uno de los "arquitectos" me ha estado explicando la estructura que tienen y de la manera que trabajan, se le veía muy contento de tener un portal tan bien hecho. A modo de ejemplo os pongo para los que entendáis de estas cosas alguno de los parámetros del proyecto, cuidado, no hay ningún error tipográfico en adelante: El número máximo de usuarios son 300 no concurrentes, el proyecto tiene <strong>150 dlls</strong> realizadas en <strong>VS 2003</strong>, <strong>alguna de las cuales tiene más de 40MB</strong>,  consta de <strong>varias soluciones</strong> entrelazadas por referencias, las soluciones no corresponden a un nivel o capa, si no que hay de todo, en cada solución pueden hallarse elementos de distinta composición del portal, la <strong>capa de presentación tiene más de 12 dlls distintas</strong>, se usa una <strong>herramienta de terceros poco flexible para acceder a datos</strong>, hay veces que <strong>insertan SQL a machete para hacer determinadas consultas</strong>, el montante del proyecto (código fuente más binarios más referencias) <strong>ocupa 1.15GB de espacio en disco</strong>, en producción se usan 3 servidores en paralelo para que aguante toda la carga.
 

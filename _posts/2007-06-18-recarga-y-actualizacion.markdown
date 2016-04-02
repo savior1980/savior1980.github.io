@@ -2,7 +2,7 @@
 layout: post
 title: Recarga y Actualización
 date: '2007-06-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/19/recarga-y-actualizacion/
+permalink: 2007/06/19/recarga-y-actualizacion/
 ---
 A veces hasta los cylons tienen que recargarse y actualizarse...
 

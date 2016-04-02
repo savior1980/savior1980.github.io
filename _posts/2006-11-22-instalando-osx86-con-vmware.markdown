@@ -2,7 +2,7 @@
 layout: post
 title: Instalando OSX86 con VMWare
 date: '2006-11-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/22/instalando-osx86-con-vmware/
+permalink: 2006/11/22/instalando-osx86-con-vmware/
 ---
 Hace tiempo que quería probar el tema de tener Mac OS X en un PC convencional. Primeramente decir que lo quería probar con fines de ver el rendimiento y hacer pruebas, en ningún caso para usarlo de forma asidua. Siguiendo a pies juntillas lo que se nos dice en <a href="http://www.aegisryan.com/2005/09/11/simplest-installation-of-mac-osx86-in-vmware/">esta guía</a>, tienes Tiger "corriendo" en un santiamén (nótese el entrecomillado). Es necesario tener 7.28GB libres de disco duro, 1.28 GB para el archivo comprimido (que se descarga muy bien de Bittorrent, encontraréis el enlace al torrent en la guía que os enlazo) y 6GB para la máquina virtual.
 

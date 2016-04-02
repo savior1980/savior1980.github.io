@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [28/10/2007]
 date: '2007-10-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/28/mehagustadonomehagustado-28102007/
+permalink: 2007/10/28/mehagustadonomehagustado-28102007/
 ---
 - <strong>Mehagustado</strong> mucho Leopard, el nuevo sistema operativo de Apple es una evolución bastante correcta de Tiger. Tampoco es como para tirar cohetes, pero ofrece más ventajas que Tiger, es más vistoso gráficamente y lleva utilidades como Time Machine, la mar de interesantes. 
 

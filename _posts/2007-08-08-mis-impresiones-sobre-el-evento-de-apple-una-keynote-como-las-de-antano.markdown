@@ -2,7 +2,7 @@
 layout: post
 title: 'Mis impresiones sobre el evento de Apple: Una keynote como las de antaño'
 date: '2007-08-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/09/mis-impresiones-sobre-el-evento-de-apple-una-keynote-como-las-de-antano/
+permalink: 2007/08/09/mis-impresiones-sobre-el-evento-de-apple-una-keynote-como-las-de-antano/
 ---
 <img src='/assets/1040784567_71e0aec4ed.jpg' alt='keynat' class="derecha_borde" /><strong>Aviso a navegantes o <em>leyentes</em></strong>: Este post va a ser un coñazo de la ostia, me dedicaré a dejarme llevar por mi vena <strong>fanboy</strong> y empezaré a mostrarme poco objetivo y muy parcial pero es que esta <em>keynote</em> <strong>mehagustado</strong> mucho, así que todo aquél que no tenga una foto de Jobs y de vez en cuando sacrifique manzanas delante suya que no siga leyendo, en cambio aquél que quiera comprobar el nivel al que llega mi fanatismo, que lea enterita la entrada extendida.
 <!--more-->

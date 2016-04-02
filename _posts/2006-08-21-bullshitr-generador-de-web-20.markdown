@@ -2,6 +2,6 @@
 layout: post
 title: Bullshitr, generador de Web 2.0
 date: '2006-08-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/21/bullshitr-generador-de-web-20/
+permalink: 2006/08/21/bullshitr-generador-de-web-20/
 ---
 <a href="http://emptybottle.org/bullshit/">Bullshitr</a> es una parodia a los tópicos en la recién creada burbuja Web 2.0. Da unas pautas para crear tu sitio Web 2.0 y acabar forrándote en un flisflasnicolás. Tan sólo será necesario anotar alguna de las frases que nos genera el formulario, ir a <a href="http://andrewwooldridge.com/myapps/webtwopointoh.html">este otro generador</a> de nombres/ideas para la web 2.0, para seguidamente ir al generador de logos que vimos en <a href="http://resistancefutile.blogspot.com/2006/08/generador-de-logos-web-20.html">esta entrada</a>, publicar el sitio y después de un tiempo y un paso indeterminado (???) en el que se supone que deberemos realizar promoción del sitio, Yahoo nos comprará nuestro recién creado servicio web 2.0 y a vivir que son dos días xD.

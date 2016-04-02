@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [16/07/2006]
 date: '2006-07-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/16/mehagustadonomehagustado-16072006/
+permalink: 2006/07/16/mehagustadonomehagustado-16072006/
 ---
 - <strong>Nomehagustado</strong> la peli <a href="http://imdb.com/title/tt0348150/">Superman Returns</a>, vaia película más ñoña, aburrida y fatal, o sea, lamentable en mayúsculas, una decepción enorme, no sé ya cómo más calificarla. A media película uno tiene la sensación de que nada ha ocurrido, Superman vuelve, al igual que Clark Kent, y no explican casi nada de su viaje de 5 años... y después está que es el héroe más burro que uno pueda encontrar, si la personalidad de Cíclope en X-Men os pareció idiota, Superman es incluso peor. Si sois fans del tipo con una S enorme en el pecho, no paguéis la entrada para ir a ver la peli, no vale la pena.
 

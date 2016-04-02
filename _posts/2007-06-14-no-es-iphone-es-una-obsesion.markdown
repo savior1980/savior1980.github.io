@@ -2,7 +2,7 @@
 layout: post
 title: No es iPhone es una obsesión
 date: '2007-06-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/14/no-es-iphone-es-una-obsesion/
+permalink: 2007/06/14/no-es-iphone-es-una-obsesion/
 ---
 En <a href="http://www.vacioperfecto.com/2007/06/12/%c2%bfpor-que-un-safari-for-windows/">este post de Vacio Perfecto</a> me dan un argumento la mar de plausible para explicar la aparición de Safari para Windows: el <strong>iPhone</strong>. Según parece el iPhone se sincroniza con Safari para descargar bookmarks y otra información, de la misma manera se supone que el iPod se sincroniza con iTunes para agregar música y videos. De esta manera los usuarios de Windows que quieran un iPhone no tienen excusa: hay las mismas funcionalidades para el teléfono en un sistema u otro y para los desarrolladores se ofrece toda una experiencia extra facilitando una versión para el sistema operativo más usado: Windows.
 

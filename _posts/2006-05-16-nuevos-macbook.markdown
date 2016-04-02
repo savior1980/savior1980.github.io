@@ -2,7 +2,7 @@
 layout: post
 title: Nuevos MacBook
 date: '2006-05-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/16/nuevos-macbook/
+permalink: 2006/05/16/nuevos-macbook/
 ---
 <a href="http://www.apple.com/es/macbook/macbook.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/mb-isight-white-050906.jpg" border="0" alt="" /></a>Pues sí, oficialmente han salido los nuevos MacBooks, sustitutos de los iBooks y además cono ese nombre: MacBooks (que ya he dicho por activa y por pasiva que no me gusta que le cambien el nombre pero en fin, habrá que acatar lo que dice la iglesia Apple).
 

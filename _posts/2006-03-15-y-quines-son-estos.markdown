@@ -2,7 +2,7 @@
 layout: post
 title: Y qui&eacute;nes son estos?
 date: '2006-03-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/03/15/y-quines-son-estos/
+permalink: 2006/03/15/y-quines-son-estos/
 ---
 <a href="http://www.skwat.be/applewars/" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}">
 <img alt="" border="0" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/109651380_1c4a89b738_m.jpg"/>

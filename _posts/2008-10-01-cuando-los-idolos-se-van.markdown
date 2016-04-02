@@ -2,7 +2,7 @@
 layout: post
 title: Cuando los ídolos se van
 date: '2008-10-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/01/cuando-los-idolos-se-van/
+permalink: 2008/10/01/cuando-los-idolos-se-van/
 ---
 Hay veces que afortunadamente en el mundo profesional te encuentras con gente muy buena, con gente excelente, gente que a nivel profesional siempre querrías tener en tu equipo. 
 

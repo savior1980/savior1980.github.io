@@ -2,7 +2,7 @@
 layout: post
 title: Darth Sidious en busca de trabajo
 date: '2006-08-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/03/darth-sidious-en-busca-de-trabajo/
+permalink: 2006/08/03/darth-sidious-en-busca-de-trabajo/
 ---
 Y seguimos con las parodias de Star Wars, en primer lugar <a href="http://www.pixelydixel.com/2006/08/chad-vader-encargado-de-dia.html">un post</a> que vi en Pixel y dixel, sobre las aventurillas del hemano pequeño de Lord Vader, Chad, como encargado de un supermercado, no os perdías los dos episodios de Chad Vader, hilarantes.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [15/04/2007]
 date: '2007-04-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/15/mehagustadonomehagustado-15042007/
+permalink: 2007/04/15/mehagustadonomehagustado-15042007/
 ---
 - <strong>Mehagustado</strong> mucho la segunda temporada de <a href="http://resistancefutile.com/2007/04/09/le-gen-dary/">HIMYM</a>, una pasada de serie, en serio os la recomiendo. También <strong>mehangustado</strong> los dos primeros capítulos de <a href="http://www.imdb.com/title/tt0248654/">A dos metros bajo tierra</a>.
 

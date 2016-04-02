@@ -2,7 +2,7 @@
 layout: post
 title: Dimensiones de naves estelares
 date: '2006-08-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/22/dimensiones-de-naves-estelares/
+permalink: 2006/08/22/dimensiones-de-naves-estelares/
 ---
 Albert, autor de Cartas desde Ningún Lugar, nos descubre una web llamada <a href="http://www.merzo.net/">Starship Dimensions</a> dónde se nos comparan las dimensiones de las principales naves estelares del mundo de la ciencia ficción, están todas: Moya de Farscape,la Estrella de la Muerte de Star Wars (foto impresionante!), la flota estelar de Star Trek al completo o las diferentes naves de Babylon 5, ejército de las sombras incluído.
 

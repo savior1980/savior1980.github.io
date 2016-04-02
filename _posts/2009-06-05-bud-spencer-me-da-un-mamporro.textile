@@ -2,7 +2,7 @@
 layout: post
 title: Bud Spencer me da un mamporro
 date: '2009-06-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/06/06/bud-spencer-me-da-un-mamporro/
+permalink: 2009/06/06/bud-spencer-me-da-un-mamporro/
 ---
 <embed src='http://www.videolog.tv/ajax/codigoPlayer.php?id_video=438001&v=27/5b/438001&v_hd=27/5b/438001_HD&relacionados=N&default=S&lang=null&cor_fundo=000000&swf=1&width=424&height=318'  width='424' height='318' type='application/x-shockwave-flash' AllowScriptAccess='always' allowFullScreen='true' ></embed>
 

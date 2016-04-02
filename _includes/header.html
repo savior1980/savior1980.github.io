@@ -17,7 +17,6 @@
         {% for my_page in site.pages %}
           {% if my_page.title == 'About' or my_page.title =='Archive' or my_apge.title =='Feed' %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          <a href="{{ page.url }}index.html#disqus_thread" data-disqus-identifier="{{page.url}}"></a>
           {% endif %}
         {% endfor %}
       </div>

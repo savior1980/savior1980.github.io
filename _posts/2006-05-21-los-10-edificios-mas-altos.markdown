@@ -2,7 +2,7 @@
 layout: post
 title: Los 10 edificios más altos
 date: '2006-05-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/21/los-10-edificios-mas-altos/
+permalink: 2006/05/21/los-10-edificios-mas-altos/
 ---
 <a href="http://www.dailybuzzer.com/amazing-high-skyscrapers-photos"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/Imagen%201.4.png" border="0" alt="" /></a>Me encanta mirar los edificios más altos del planeta, de hecho, me encantan los rascacielos, quizás sea un arquitecto frustrado, no sé, pero lo cierto es que disfruto viendo obras de ingeniería tan importantes y tan altas... 
 

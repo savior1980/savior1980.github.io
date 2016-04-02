@@ -2,7 +2,7 @@
 layout: post
 title: Mr. Jones
 date: '2008-01-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/14/mr-jones/
+permalink: 2008/01/14/mr-jones/
 ---
 <p class="chorus">Because something is happening here
 But you don't know what it is

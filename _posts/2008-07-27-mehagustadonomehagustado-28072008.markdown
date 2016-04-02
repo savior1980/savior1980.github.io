@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [28/07/2008]
 date: '2008-07-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/27/mehagustadonomehagustado-28072008/
+permalink: 2008/07/27/mehagustadonomehagustado-28072008/
 ---
 - <strong>Mehagustado</strong> que otro año sean "les Santes", las fiestas de mi pueblo en Mataró y aunque este año yo he participado poquito, sí que el ambiente que se respira aquí estos días es muy especial.
 

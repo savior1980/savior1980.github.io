@@ -2,7 +2,7 @@
 layout: post
 title: El 7 ese gran número
 date: '2006-05-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/28/el-7-ese-gran-numero/
+permalink: 2006/05/28/el-7-ese-gran-numero/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.11.jpg" border="0" alt="" />El 7 es un número que me encanta, por ser primo y por <a href="http://resistancefutile.blogspot.com/2005/12/por-que-el-7.html">otras razones</a>.
 

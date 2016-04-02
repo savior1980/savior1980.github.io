@@ -2,7 +2,7 @@
 layout: post
 title: Can't flic this!
 date: '2007-05-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/07/cant-flic-this/
+permalink: 2007/05/07/cant-flic-this/
 ---
 <img class="centro_borde" src='/assets/485633024_8bd2a411d4.png' alt='flickr' />
 

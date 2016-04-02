@@ -2,7 +2,7 @@
 layout: post
 title: Live together, die alone
 date: '2010-05-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/05/24/live-together-die-alone/
+permalink: 2010/05/24/live-together-die-alone/
 ---
 <img src="/assets/images.jpeg" alt="" title="images" width="135" height="135" class="derecha" />Hoy ha terminado una de las mejores series que habré visto: *Lost*. El _season finale_ de la última temporada de Lost no ha dejado a nadie indiferente. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: I've walked "Las Ramblas", but not with real inten...
 date: '2006-04-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/24/ive-walked-las-ramblas-but-not-with-real-inten/
+permalink: 2006/04/24/ive-walked-las-ramblas-but-not-with-real-inten/
 ---
 <p class="chorus">I've walked "Las Ramblas", but not with real intent
 

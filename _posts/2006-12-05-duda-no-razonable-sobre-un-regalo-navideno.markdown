@@ -2,7 +2,7 @@
 layout: post
 title: Duda no razonable sobre un regalo navideño
 date: '2006-12-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/05/duda-no-razonable-sobre-un-regalo-navideno/
+permalink: 2006/12/05/duda-no-razonable-sobre-un-regalo-navideno/
 ---
 Una nueva entrega de "diálogos surrealistas", entre un compañero de trabajo que tenía unas dudas para comprar un regalo para navidad:
 

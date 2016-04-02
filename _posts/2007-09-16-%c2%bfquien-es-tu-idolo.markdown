@@ -2,7 +2,7 @@
 layout: post
 title: ¿Quién es tu ídolo?
 date: '2007-09-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/16/%c2%bfquien-es-tu-idolo/
+permalink: 2007/09/16/%c2%bfquien-es-tu-idolo/
 ---
 <img src='/assets/220px-stevejobs_macworld2005.jpg' class="derecha_borde" alt='Steve Jobs' />Hoy mientras conducía de casa de mis padres a mi nuevo pisito (no quiero agobiaros con las 10000 cosas que nos quedan por hacer, esto es como el <a href="http://es.wikipedia.org/wiki/S%C3%ADsifo">mito de sísifo</a> o algo parecido) oigo que en la radio en un <a href="http://www.rac1.org/?cat=20&mc=1">programa de RAC 1 "Vía lliure"</a> (Vía libre) preguntaban a los oyentes si tenían algún mito, cuando lo que querían decir supongo es un ídolo, alguien de referencia, es decir cuando eres super fan de un tío/tía que admiras profundamente.
 

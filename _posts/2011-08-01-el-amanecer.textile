@@ -2,9 +2,9 @@
 layout: post
 title: El amanecer
 date: '2011-08-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/08/01/el-amanecer/
+permalink: 2011/08/01/el-amanecer/
 ---
-<p class="chorus">A cuatro patas del guateque, 
+<p class="chorus">A cuatro patas del guateque,
 de retirada a casa,
 con toa la guasa,
 tú con tu vestido de gasa,

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [28/06/2008]
 date: '2008-06-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/30/mehagustadonomehagustado-28062008/
+permalink: 2008/06/30/mehagustadonomehagustado-28062008/
 ---
 -<strong>Mehagustado</strong> que esta es la penúltima semana que paso la mitad de los días en Palma, en dos semanas el proyecto continuará completamente en Barcelona teniendo que hacer reuniones puntuales en baleares, así que bueno, estoy ya esperando ese cambio de ritmo con los brazos abiertos.
 

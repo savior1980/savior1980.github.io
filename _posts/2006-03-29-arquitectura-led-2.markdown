@@ -2,7 +2,7 @@
 layout: post
 title: Arquitectura LED
 date: '2006-03-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/03/29/arquitectura-led-2/
+permalink: 2006/03/29/arquitectura-led-2/
 ---
 Sorpresa may&uacute;scula me he llevado consultando esta ma&ntilde;ana entre mis feeds cuando bajo el t&iacute;tulo de "Aquitectura LED" se me aparece la torre Agbar de Barcelona en los morros. Ni idea ten&iacute;a que la iluminaci&oacute;n de la torre proviene de 4.500 luces L3 RGB que est&aacute;n controladas por un &uacute;nico ordenador. Ya que paso por debajo casi cada d&iacute;a, a ver si un d&iacute;a de estos entro y lo manipulo un poco, no? Que &uacute;ltimamente est&aacute;n sosetes con la luz.
 

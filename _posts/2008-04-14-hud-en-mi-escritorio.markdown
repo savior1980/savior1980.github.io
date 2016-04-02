@@ -2,7 +2,7 @@
 layout: post
 title: El festival del HUD en mi escritorio
 date: '2008-04-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/14/hud-en-mi-escritorio/
+permalink: 2008/04/14/hud-en-mi-escritorio/
 ---
 <img src="/assets/zz1562ce19.jpg" alt="" title="Festival del HUD" width="500" height="312" class="centro_borde" />
 

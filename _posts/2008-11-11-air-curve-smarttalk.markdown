@@ -2,7 +2,7 @@
 layout: post
 title: Air Curve + SmartTalk
 date: '2008-11-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/11/12/air-curve-smarttalk/
+permalink: 2008/11/12/air-curve-smarttalk/
 ---
 <a href="http://www.flickr.com/photos/savior1980/3023565298/" title="Air Curve + SmartTalk by salva7flickr, on Flickr"><img src="http://farm4.static.flickr.com/3188/3023565298_59d6de26a2.jpg" width="333" height="500" alt="Air Curve + SmartTalk" class="centro_borde" /></a>
 

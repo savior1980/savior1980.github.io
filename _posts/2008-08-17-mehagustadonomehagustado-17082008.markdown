@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [17/08/2008]
 date: '2008-08-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/08/18/mehagustadonomehagustado-17082008/
+permalink: 2008/08/18/mehagustadonomehagustado-17082008/
 ---
 - <strong>Mehagustado</strong> mucho estar esta semana de vacaciones y pasarla en casa con Cristina, ha sido todo perfecto, nos lo hemos pasado bien y no nos hemos aburrido en absoluto. 
 

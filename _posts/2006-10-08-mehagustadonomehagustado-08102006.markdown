@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [08/10/2006]
 date: '2006-10-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/08/mehagustadonomehagustado-08102006/
+permalink: 2006/10/08/mehagustadonomehagustado-08102006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> la película <a href="http://spanish.imdb.com/title/tt0371257/">Tránsito</a> (Stay) de Ewan McGregor, es distinta y tiene un final inesperado, bastante extraño, toda la película es una ida de olla muy grande, como una gran paja mental que arrastra al confundido espectador hasta el sorpresivo final. Es un poco lenta a veces y como digo, muy rara, pero está bien.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Actualizado a WP 2.3.2
 date: '2008-01-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/05/actualizado-a-wp-232/
+permalink: 2008/01/05/actualizado-a-wp-232/
 ---
 Acabo de actualizar la versión de <strong>WordPress a la 2.3.2</strong> (antes tenía la 2.2) y la verdad es que esoty muy contento con el cambio. La actualización ha ido muy bien porque además la ha hecho practicamente toda <a href="http://childrenatyourfeet.com">miLady</a>, me ha ayudado mucho porque ella <a href="http://childrenatyourfeet.com/2008/01/02/ano-nuevo-blog-nuevo/">ya actualizó su blog</a> esta semana.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Tensión
 date: -0001-11-30T00:00:00+00:00
-permalink: http://resistancefutile.com/?p=1487
+permalink:?p=1487
 ---
 En la sala hay dos personas, un hombre y una mujer sentados cara a cara en dos sillas de despacho, grises, les separa una mesa rectangular de madera de abedul con patas metálicas y de dimensiones estándar para ubicarla en una oficina.  Mientras él tamborilea con los dedos sobre la mesa, ella le mira con semblante desafiante. Diríamos que el joven ronda la treintena y ella es visiblemente mayor sin llegar a poder considerarse un desfase generacional entre ellos, él tiene un aspecto relajado, está sentado cómodamente y dibuja media sonrisa en los labios, mostrando cordialidad.
 

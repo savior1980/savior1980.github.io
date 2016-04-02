@@ -2,7 +2,7 @@
 layout: post
 title: Back to the 80s
 date: '2009-02-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/02/01/back-to-the-80s/
+permalink: 2009/02/01/back-to-the-80s/
 ---
 <img src="/assets/zz05fc7bf0.jpg" alt="Back to 80s" title="Back to 80s" width="339" height="345" class="centro" />
 Sometimes I feel like I wanna go back to my childhood :P

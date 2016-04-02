@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [30/03/2008]
 date: '2008-03-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/30/mehagustadonomehagustado-30032008/
+permalink: 2008/03/30/mehagustadonomehagustado-30032008/
 ---
 - <strong>Nomehagustado</strong> que el viernes me presentara a una reunión con el cliente que debió ser un mero trámite y en cambio fue de esas en las que salió todo al revés y además en gran medida por culpa mía.
 

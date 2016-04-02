@@ -2,7 +2,7 @@
 layout: post
 title: Nuevas categorías en Blogger Beta disponibles (para plantillas antiguas)
 date: '2006-09-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/15/nuevas-categorias-en-blogger-beta-disponibles-para-plantillas-antiguas/
+permalink: 2006/09/15/nuevas-categorias-en-blogger-beta-disponibles-para-plantillas-antiguas/
 ---
 Tras migrar a Blogger Beta con de momento pocas ventajas, ahora tenemos una novedad importante: aunque tengamos plantilla antigua han habilitado las labels (cateogorías) para nuestro uso y disfrute. He categorizado los posts hasta que labelr, dejó de funcionar al hacer el cambio a la nueva versión Beta de Blogger. Los posts categorizados con labelr, los iré categorizando de nuevo a medida que disponga de tiempo, pensad que 590 posts no los actualizo de un día para otro así que... paciencia.
 

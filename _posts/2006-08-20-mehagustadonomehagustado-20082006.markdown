@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [20/08/2006]
 date: '2006-08-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/20/mehagustadonomehagustado-20082006/
+permalink: 2006/08/20/mehagustadonomehagustado-20082006/
 ---
 - <span style="font-weight:bold;">Mehangustado</span> las vacaciones, han sido 3 semanas fantásticas, con emociones, con la família, con miLady, he terminado de ver la segunda temporada de House, he participado en <a href="http://resistancefutile.blogspot.com/2006/08/cronica-del-seguimiento-de-la-keynote.html">el seguimiento de la WWDC</a>, he desconectado completamente, lo he pasado genial, he ido al Pirineo, a Tossa, a Cunit y aún me queda Mallorca y otra semanita de vacaciones en Septiembre. También compré los billetes de avión para ir a pasar unos días a Madrid por el SIMO, del 10 al 13 de noviembre me tenéis en la capital para destrozar el estand de Microsoft.
 

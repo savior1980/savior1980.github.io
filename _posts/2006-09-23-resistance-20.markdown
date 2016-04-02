@@ -2,7 +2,7 @@
 layout: post
 title: Resistance 2.0
 date: '2006-09-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/23/resistance-20/
+permalink: 2006/09/23/resistance-20/
 ---
 Ya está disponible (por fin) el nuevo diseño del Resistance is Futile. He conseguido migrar la plantilla y espero que os guste este nuevo diseño en gris.
 

@@ -2,7 +2,7 @@
 layout: post
 title: M-O como papelera
 date: '2009-01-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/24/m-o-como-papelera/
+permalink: 2009/01/24/m-o-como-papelera/
 ---
 <img src="/assets/zz047d20ee.jpg" alt="M-O como papelera" title="M-O como papelera" width="501" height="155" class="centro" />Estaréis de acuerdo que uno de los robots más entrañables y graciosos de la peli Wall-e, es <a href="http://www.flickr.com/photos/wall-ebuilders/2602469908/">M.O.</a> ese robot limpiador que va persiguiendo a Wall-e y gritando "FOREIGN CONTAMINANT". Podéis descargar <a href="http://iconfactory.com/assets/home/quickpix/quickpix.dmg">un icono</a> del personaje en iconfactory hecho pr el gran Louie Mantia. 
 

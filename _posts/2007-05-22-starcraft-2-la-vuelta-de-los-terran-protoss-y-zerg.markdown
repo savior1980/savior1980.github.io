@@ -2,7 +2,7 @@
 layout: post
 title: StarCraft 2, la vuelta de los Terran, Protoss y Zerg
 date: '2007-05-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/22/starcraft-2-la-vuelta-de-los-terran-protoss-y-zerg/
+permalink: 2007/05/22/starcraft-2-la-vuelta-de-los-terran-protoss-y-zerg/
 ---
 <img class="derecha_borde" src='/assets/starcraft-ii_1179826573533.png' alt='starcraft2' />Pocas veces me habré enganchado tanto a un juego de estrategia como lo he hecho con StarCraft. Me pasé el original y el Brood Wars (la expansión) en mis tiempos de pcero viciado. Sólo ha habido otra saga que me haya enganchado tanto: Command & Conquer. Pero creo que StarCraft es mucho mejor. Y ahora nos toca ver lo que se avecina: la secuela que promete ser demoledora. 
 

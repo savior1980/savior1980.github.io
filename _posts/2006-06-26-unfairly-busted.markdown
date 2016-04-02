@@ -2,7 +2,7 @@
 layout: post
 title: Unfairly Busted
 date: '2006-06-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/27/unfairly-busted/
+permalink: 2006/06/27/unfairly-busted/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/logoajp.gif" border="0" alt="" />Ayuntamiento de Lloret de Mar envía notificación de sanción <span style="font-weight:bold;">a nombre de mi padre</span>, correspondiente a un aparcamiento en lugar de transporte público, con <span style="font-weight:bold;">importe inegociable de 40 euros</span> (es decir sin descuento aplicable, aún no sé porqué) con fecha del <span style="font-weight:bold;">26/06/2005</span> a las 7:00 de la mañana, del vehículo con matrícula X, Opel Astra GTC negro.
 

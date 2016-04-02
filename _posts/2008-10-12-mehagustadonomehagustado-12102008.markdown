@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [12/10/2008]
 date: '2008-10-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/12/mehagustadonomehagustado-12102008/
+permalink: 2008/10/12/mehagustadonomehagustado-12102008/
 ---
 - <strong>Mehagustado</strong> ir a comer hoy a casa de mis padres, me han contado sus minivacaciones en Roma, he recordado esos casi dos días que estuve yo (ya lo sé chicos, no vi Roma ni de coña, solo saboreé algunos lugares típicos) y al final hemos jugado a la Wii todos juntos. Ha estado bastante bien todo.
 

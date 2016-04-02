@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [03/02/2008]
 date: '2008-02-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/04/mehagustadonomehagustado-03022008/
+permalink: 2008/02/04/mehagustadonomehagustado-03022008/
 ---
 - <strong>Mehaencantado</strong> lo bien que lo he pasado este finde. Ha sido desconexión total, me he reído como hacía tiempo que no me reía y además he disfrutado cada minuto. Y os preguntaréis qué has hecho, dónde has ido... pues nada, en casa todo el santo fin de semana menos hoy por la noche que hemos ido a visitar a mi madre (la pobre ha cogido una pulmonía) y nos hemos quedado a cenar allí.
 

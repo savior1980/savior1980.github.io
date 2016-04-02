@@ -2,7 +2,7 @@
 layout: post
 title: Tema central de Star Wars tocado con un Banjo
 date: '2006-08-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/02/tema-central-de-star-wars-tocado-con-un-banjo/
+permalink: 2006/08/02/tema-central-de-star-wars-tocado-con-un-banjo/
 ---
 Retomamos los vídeos frikis que os iba posteando últimamente...
 <blockquote>Hey hey hey ladys and gentlemen, Welcome to the freak Banjo contest!!!

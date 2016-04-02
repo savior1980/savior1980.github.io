@@ -2,7 +2,7 @@
 layout: post
 title: August means holidays
 date: '2008-07-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/31/holiday/
+permalink: 2008/07/31/holiday/
 ---
 <img src="/assets/image018.jpg" alt="" title="rest" width="200" height="156" class="derecha_borde" />La verdad que no recuerdo si alguna vez en mi vida lobral he podido hacer todo el mes de agosto de vacaciones, pero esto año se han alineado los astros. Lo que prece imposible se ha cumplido: cuatro semanas enteras para dedicarme a mis cosas.
 

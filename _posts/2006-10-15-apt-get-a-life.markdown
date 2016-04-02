@@ -2,7 +2,7 @@
 layout: post
 title: Apt-Get a life
 date: '2006-10-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/15/apt-get-a-life/
+permalink: 2006/10/15/apt-get-a-life/
 ---
 Como dije anteriormente, soy un <span style="font-style:italic;">T-shirtaholic</span> y camisetas tan geek como ésta me encantan...
 

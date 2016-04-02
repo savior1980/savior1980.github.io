@@ -2,7 +2,7 @@
 layout: post
 title: El amigo Gos Brut
 date: '2006-07-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/05/el-amigo-gos-brut/
+permalink: 2006/07/05/el-amigo-gos-brut/
 ---
 Acabo de recibir un mail, para que haga una review de una aplicación web de facturación de un señor, que me firma con su nombre y apellido, pero que el correo es gosbrut@xxxx, dónde además xxxx es un conocido servicio de webmails.
 

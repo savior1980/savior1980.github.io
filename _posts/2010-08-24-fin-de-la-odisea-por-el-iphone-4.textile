@@ -2,7 +2,7 @@
 layout: post
 title: Fin de la odisea por el iPhone 4
 date: '2010-08-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/08/24/fin-de-la-odisea-por-el-iphone-4/
+permalink: 2010/08/24/fin-de-la-odisea-por-el-iphone-4/
 ---
 <a href="/assets/150668464.jpg"><img src="/assets/150668464.jpg" alt="" title="Por fin iPhone 4" width="260" height="350" class="derecha_borde" /></a>Por fin tengo mi nuevo iPhone 4. Ayer recibí un mensaje muy genérico del 1004 diciendo que ya tenía los puntos cargados, también entré en canal cliente y verifiqué de nuevo que tenía la oferta aplicada. Así que estuve por la tarde intentando localizar un distribuidor movistar para realizar el canje, sin éxito. Decidí que hoy me levantaría temprano e iría a la tienda movistar de Ronda San Pere, en Barcelona donde históricamente @tonimaquero y @ladymandona han tenido éxito en conseguir sus iPhones. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: De vuelta
 date: '2007-06-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/14/de-vuelta/
+permalink: 2007/06/14/de-vuelta/
 ---
 En mi corta pero prolífica experiencia profesional en el mundo de la consultoría he podido estar en dos tipos de empresas: por un lado tenemos las <strong>grandes consultoras</strong>, multinacionales que te exprimen y te exigen dar el 110% de ti mismo y por otro lado tenemos el resto que se dedican al <em>bodyshopping </em> en mayor o menor medida, el nivel de exigencia es bastante bajo y se respetan los horarios pero tus quehaceres diarios se reducen a hacer lo mismo siempre y ser "el último mono", en cuanto al tema de la carrera profesional ascendente sigue estos mismos patrones: si en las grandes empresas se te exige mucho, también se te recompensará con una carrera más creciente que en las demás donde seguramente puedes estar muchos años "estancado" en una determinada categoría y con un mismo tipo de responsabilidades/sueldo. 
 

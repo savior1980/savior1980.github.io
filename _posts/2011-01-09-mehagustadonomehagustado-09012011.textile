@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [09/01/2011]
 date: '2011-01-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/01/09/mehagustadonomehagustado-09012011/
+permalink: 2011/01/09/mehagustadonomehagustado-09012011/
 ---
 - *Nomehagustado* que las vacaciones de Navidad oficialmente terminan para mí, ahora me espera un mes de lo más movido. Tenemos cantidad brutal de trabajo por acometer. Este año va a ser duro, abrocharos los cinturones.
 

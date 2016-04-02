@@ -2,7 +2,7 @@
 layout: post
 title: Incompetencia en la tienda Vodafone
 date: '2007-06-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/25/incompetencia-en-la-tienda-vodafone/
+permalink: 2007/06/25/incompetencia-en-la-tienda-vodafone/
 ---
 <img class="derecha_borde" src='/assets/garrafone.jpg' alt='Vodafone o la incompetencia' />Llega un momento en la vida de toda persona que tiene que lidiar con la incompetencia, hoy he sido víctima de uno de uno de esos seres incompetentes en extremo y chulos que pa qué. Paso a comentaros brevemente lo que me ha ocurrido. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Conexión a internet 3G de Vodafone: Navega Plus + modem USB 3G E220'
 date: '2008-05-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/05/17/conexion-a-internet-3g-de-vodafone-navega-plus-modem-usb-3g-e220/
+permalink: 2008/05/17/conexion-a-internet-3g-de-vodafone-navega-plus-modem-usb-3g-e220/
 ---
 <img src='http://www.vodafone.es/particulares/internet/modem/att00015047/modemCV_small2.gif' alt='modem usb' class='derecha' />Hoy me he comprado el <strong>módem USB Huawei E220 de Vodafone</strong>, acompañado de un contrato <strong>Navega Plus</strong>. La historia es que los próximos dos meses estaré a caballo entre Mallorca y Barcelona, concretamente de lunes a miércoles allí y el resto de la semana aquí. En el hotel de marras donde he ido a parar, no hay conexión internet fuera de un robo a mano armada de swisscom (el bono más barato creo que son 2 horas de conexión a 128Kbps por el módico precio de 60 eurazos, que yo me pregunto quién cojones en su sano juicio lo contrataría) así que <strong>tenía que buscar una solución para poder tener conexión a internec</strong>.
 <!--more-->

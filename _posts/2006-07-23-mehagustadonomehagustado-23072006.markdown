@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [23/07/2006]
 date: '2006-07-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/23/mehagustadonomehagustado-23072006/
+permalink: 2006/07/23/mehagustadonomehagustado-23072006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> volver a hacer de las mías en eBay y creo que haberme adueñado de <a href="http://cgi.ebay.es/ws/eBayISAPI.dll?ViewItem&item=200008180562&ssPageName=ADME:B:EF:ES:2">un iMac G3 por 86 euros</a>, a ver si todo concluye de forma correcta. Bueno el ordenador no es gran cosa, pero el precio es bastante reducido, además, así ganaré un poco de espacio en mi mesa, y sí, sé que la opinión de algunos será: eso está para chatarra, pero oye un capricho es un capricho ¿no?.
 

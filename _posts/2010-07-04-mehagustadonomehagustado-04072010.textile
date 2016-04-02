@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [04/07/2010]
 date: '2010-07-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/07/05/mehagustadonomehagustado-04072010/
+permalink: 2010/07/05/mehagustadonomehagustado-04072010/
 ---
 - *Mehaencantado* el viaje a San Diego. Ha sido realmente genial poder estar 5 días en contacto directo con una empresa como es Qualcomm, en un evento superespectacular, descubriendo la ciudad de San Diego, en compañía de profesionales de la comunicación (de los que he aprendido mucho), conociendo gente y viendo de primera mano las novedades que vienen a partir de ahora en comunicaciones móviles. 
 

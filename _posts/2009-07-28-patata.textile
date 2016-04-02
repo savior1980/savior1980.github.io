@@ -2,7 +2,7 @@
 layout: post
 title: Patata
 date: '2009-07-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/07/29/patata/
+permalink: 2009/07/29/patata/
 ---
 <p class="chorus">Les patates velles s'arruguen de pell, 
 igual que tot "cristo" quan es torna vell. 

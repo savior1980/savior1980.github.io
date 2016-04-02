@@ -2,7 +2,7 @@
 layout: post
 title: Flame Wars
 date: '2008-09-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/20/flame-wars/
+permalink: 2008/09/20/flame-wars/
 ---
 <img src="/assets/zz597b039f.jpg" alt="" title="clone WP" width="175" height="233" class="derecha" />De un tiempo a esta parte, no sabría precisar más, he notado que la blogosfera en general anda un poco convulsa. La gente parece que ha dejado un poco las formas y si bien antes imperaba el buen rollismo y los valores de la República Galáctica, ahora la historia se lee perfectamente hacia donde va a ir, hacia el Imperio y el Lado Oscuro. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: El Telesketch más grande del mundo
 date: '2006-08-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/21/el-telesketch-mas-grande-del-mundo/
+permalink: 2006/08/21/el-telesketch-mas-grande-del-mundo/
 ---
 El <a href="http://es.wikipedia.org/wiki/Telesketch">Telesketch</a>, qué gran juguete, qué recuerdos me trae. El siguiente vídeo muestra la versión más grande que se conoce: una pantalla de cine. Existen en varios sitios pantallas de cine interactivas con el público, en <a href="http://es.futuroscope.com/">Futuroscope</a> pude ver algunos ejemplos (fui hace muchos años). 
 

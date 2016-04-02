@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [31/08/2008]
 date: '2008-08-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/01/mehagustadonomehagustado-31082008/
+permalink: 2008/09/01/mehagustadonomehagustado-31082008/
 ---
 - <strong>Nomehagustado</strong> que las vacaciones han llegado a su fin. Estaba yo de puta madre sin hacer nada en casa a gustito y ahora toca reengancharse al ritmo laboral pleno. Y además que vienen curvas por que en este nuevo período tienen que salir muy bien las cosas, por que me juego bastante y tengo que rendir al máximo. 
 

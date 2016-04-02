@@ -2,7 +2,7 @@
 layout: post
 title: Mi post 2Π
 date: '2006-05-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/01/mi-post-2%cf%80/
+permalink: 2006/05/01/mi-post-2%cf%80/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/Trigonometry.jpg" border="0" alt="" />Éste es mi post 2&Pi; ... hay gente que celebra especialmente que ha escrito el post número 100, o el 200 o el 300... yo por el contrario voy a celebrar el post 360, el 720, el 1080 y así, es decir en múltiplos de Pi ya que 360º son 2&Pi;.
 

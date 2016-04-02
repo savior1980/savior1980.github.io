@@ -2,7 +2,7 @@
 layout: post
 title: Life in technicolor ii
 date: '2009-05-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/05/12/life-in-technicolor-ii/
+permalink: 2009/05/12/life-in-technicolor-ii/
 ---
 <p class="chorus">Oh love don't let me go
 Won't you take me where the streetlights glow

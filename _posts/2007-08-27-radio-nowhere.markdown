@@ -2,7 +2,7 @@
 layout: post
 title: Radio Nowhere
 date: '2007-08-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/27/radio-nowhere/
+permalink: 2007/08/27/radio-nowhere/
 ---
 <p class="chorus">This is radio nowhere
 is there anybody alive out there?

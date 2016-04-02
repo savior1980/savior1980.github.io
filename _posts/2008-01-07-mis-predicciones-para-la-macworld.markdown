@@ -2,7 +2,7 @@
 layout: post
 title: Mis predicciones para la MacWorld
 date: '2008-01-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/07/mis-predicciones-para-la-macworld/
+permalink: 2008/01/07/mis-predicciones-para-la-macworld/
 ---
 <img src='/assets/macworld.png' alt='MacWorld' class="derecha" />Antes de empezar, tengo que decir que mis predicciones son bastante lamentables siempre, normalmente tengo un porcentaje de acierto bastante pésimo y por lo tanto considerad la posibilidad de hacer una actividad alternativa antes que leer esta entrada, pues creo que le sacaréis más provecho que leer mis paranoias sobre lo que se avecina en el próximo evento de Apple.
 

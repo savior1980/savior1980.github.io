@@ -2,7 +2,7 @@
 layout: post
 title: Instalando Windows Vista Ultimate en mi MacBook Pro. FAIL I
 date: '2008-03-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/23/instalando-windows-vista-ultimate-en-mi-macbook-pro-fail-i/
+permalink: 2008/03/23/instalando-windows-vista-ultimate-en-mi-macbook-pro-fail-i/
 ---
 <img src='/assets/zz2e0155ac.jpg' alt='MBP con vista' class="derecha" />Hola gente, esta mañana me he levantado con ganas de dar guerra a mi MacBook Pro y queriendo instalar Windows Vista Ultimate. He abierto el Asistente para Bootcamp. He particionado 20 GB de disco para el monstruo. He insertado el DVD de Windows Vista Ultimate (Dell pirated oem fuck you mr. gates by emule). Y puf no arranca, pantalla en negro y ahí te quedas. 
 

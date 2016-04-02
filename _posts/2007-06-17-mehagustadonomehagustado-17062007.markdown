@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [17/06/2007]
 date: '2007-06-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/17/mehagustadonomehagustado-17062007/
+permalink: 2007/06/17/mehagustadonomehagustado-17062007/
 ---
 - <strong>Mehagustado</strong> que se ha confirmado este viernes que tenemos piso, <a href="http://childrenatyourfeet.com">Lady Madonna</a> y el que os escribe nos iremos a vivir <a href="http://maps.google.es/maps?f=q&hl=es&q=cam%C3%AD+ral+518,+matar%C3%B3&sll=40.396764,-3.713379&sspn=14.450768,29.619141&ie=UTF8&ll=41.535298,2.441395&spn=0.001735,0.003616&t=h&z=18&om=1">a Mataró, en un pisito de alquiler</a>, donde podremos emanciparnos y seguir ahorrando de cara a un futuro, un paso realmente importante a todos los niveles y que nos genera <a href="http://childrenatyourfeet.com/2007/06/17/algo-para-celebrar/">una tremenda ilusión</a>.
 

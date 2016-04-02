@@ -2,7 +2,7 @@
 layout: post
 title: Mis unidades (2)
 date: '2007-04-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/29/mis-unidades-2/
+permalink: 2007/04/29/mis-unidades-2/
 ---
 <img class="derecha" src='/assets/imagen-12.png' alt='Mis unidades' />Si esta mañana Lady Madonna publicaba <a href="http://childrenatyourfeet.com/2007/04/29/dit-i-fet/">un post</a> mostrando las particiones que tenemos en el disco duro externo compartido y sus unidades de disco de su PowerMac G4, ahora yo hago lo mismo con el disco duro conectado a mi iBook y visualizando la unidad remota de mi iMac G3 (sí, el modelo Dirty) que llamé en su día "Colonial One". 
 

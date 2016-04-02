@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [07/02/2010]
 date: '2010-02-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/02/08/mehagustadonomehagustado-07022010/
+permalink: 2010/02/08/mehagustadonomehagustado-07022010/
 ---
 - *Mehagustado* bastante la aplicación Stanza, para meter libros en pdf al iPhone. Es gratis, tiene un cliente también gratuito para Mac y desde la aplicación del iPhone puedes bajar los libros que tengas en la aplicación para Mac. Vamos imprescindible. Classics está muy bien, pero con Stanza tienes una libertad acojonante.
 

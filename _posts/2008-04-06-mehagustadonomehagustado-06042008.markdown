@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [06/04/2008]
 date: '2008-04-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/06/mehagustadonomehagustado-06042008/
+permalink: 2008/04/06/mehagustadonomehagustado-06042008/
 ---
 - <strong>Mehagustado</strong> bastante el nuevo <a href="http://resistancefutile.com/2008/04/05/mi-timecapsule-se-llama-delorean/">TimeCapsule</a> que nos hemos agenciado con Cristina, junto con <a href="http://flickr.com/photos/lady-madonna/2388114850/">la second skin en rojo</a> para cuando tenga que transportar el MBP. Es muy silencioso y se calienta pero tampoco de forma exagerada, respaldar el sistema se hace de forma automática y sin que tengas que preocuparte de nada. Por contra, las opciones de configuración son un poco rebuscadas y el rendimiento es correcto para lo que tiene que ser, pero no es espectacular, me esperaba más. También <strong>mehagustado</strong> mucho <a href="http://resistancefutile.com/2008/04/04/delorean/">Time Machine</a>, un gestor de copias de seguridad bonito, automático y genial.
 

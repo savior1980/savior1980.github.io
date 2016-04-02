@@ -2,7 +2,7 @@
 layout: post
 title: Incompatibilidad entre Customize Plugin y WP 2.7
 date: '2008-12-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/12/13/customize-plugin-y-wp-27/
+permalink: 2008/12/13/customize-plugin-y-wp-27/
 ---
 <img src="/assets/zz47a15162.jpg" alt="Customize FAIL" title="Customize FAIL" width="473" height="287" class="centro" />Parece que hay una incompatibilidad entre el plugin <a href="http://www.jide.fr/english/downloads/customize/">Customize</a> que lleva mi theme (feshy2.0) y el WP 2.7. La incompatibilidad es muy sutil: simpelmente algunas de las cosas que lleva la parte de edición y administración de posts están deshabilitadas, no aparece la barra para insertar imágenes en los posts y algún que otro javascript dentro del panel de edición no funciona.
 

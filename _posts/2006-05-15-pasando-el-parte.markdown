@@ -2,7 +2,7 @@
 layout: post
 title: Pasando el parte
 date: '2006-05-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/16/pasando-el-parte/
+permalink: 2006/05/16/pasando-el-parte/
 ---
 En la línea de las últimas vídeo-parodias que recientemente he ido publicando... os imagináis como hubiera sido el diálogo entre Darth Vader y el Emperador Palpatine una vez el primero haya perdido la Estrella de la Muerte?
 

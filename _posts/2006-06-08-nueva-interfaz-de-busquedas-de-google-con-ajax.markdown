@@ -2,7 +2,7 @@
 layout: post
 title: Nueva interfaz de Búsquedas de Google con AJAX
 date: '2006-06-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/08/nueva-interfaz-de-busquedas-de-google-con-ajax/
+permalink: 2006/06/08/nueva-interfaz-de-busquedas-de-google-con-ajax/
 ---
 <a href="http://code.google.com/apis/ajaxsearch/documentation/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/google_ajax_search_api.png" border="0" alt="" /></a>He renovado la interfaz de búsqueda de este blog. Como podréis comprobar resulta mucho más agradable y útil al estar elaborada en AJAX y contar con los principales sitemas de búsqueda nuevos de Google, como Google Video o Google Blogs.
 

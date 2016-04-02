@@ -2,7 +2,7 @@
 layout: post
 title: Cambio de feed en Blogger Beta
 date: '2006-09-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/25/cambio-de-feed-en-blogger-beta/
+permalink: 2006/09/25/cambio-de-feed-en-blogger-beta/
 ---
 <img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Imagen%201.2.png" border="0" alt="" />Bueno que blogger Beta cambia cosillas, pues es normal, que actualicen y ofrezcan novedades hasta cierto punto también lo es. PERO QUE CAMBIEN LA URL DEL PUTO FEED SIN AVISAR no lo es. De acuerdo? Estamos. Yo no sé porqué hacen esto la verdad... pero en fin, es mejor que lo escriba en un post para que todos tengamos constancia de ello, ya que me he encontrado de todo, hay gente que el feed antiguo sigue funcionandoles bien, mientras que hay otros que debemos retocar el feed, me inclino a pensar que somos los que estamos "disfrutando" de las "ventajas" de la beta (se nota la ironía?).
 

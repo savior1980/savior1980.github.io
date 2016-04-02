@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [17/12/2006]
 date: '2006-12-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/17/mehagustadonomehagustado-17122006/
+permalink: 2006/12/17/mehagustadonomehagustado-17122006/
 ---
 - <span style="font-weight:bold;">Nomehagustado</span>, de hecho estoy bastante indignado por el hecho de que Ronaldinho haya quedado tercero en el Fifa World Player (un trofeo al mejor jugador del año) por debajo del ganador, Cannavaro que parece que ahora lo descubramos, un jugador que pasó sin pena ni gloria por media Calcio y que ahora tras ganar un mundial le premiamos, y ahora lo que ralla en el esperpento más auténtico: Ronaldinho ha quedado por debajo de Zidane que sin lugar a dudas fue un fuera de serie pero ni de broma el año pasado, donde jugó 4 partidosy todos del mundial. En la misma línea por supuesto <span style="font-weight:bold;">nomehagustado</span> que el Barça perdiera hoy el mundialito de clubs, en un partido demasiado gris en que los brasileños del Internacional tampoco es que hicieran muchos méritos para la victoria.
 

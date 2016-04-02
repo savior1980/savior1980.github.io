@@ -2,7 +2,7 @@
 layout: post
 title: There's something in the hype
 date: '2008-01-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/13/theres-something-in-the-hype/
+permalink: 2008/01/13/theres-something-in-the-hype/
 ---
 A escasos 3 días de la MacWorld el rumor y la especulación planean y se esparcen, se alimentan y se screcen entre las opiniones de la comunidad maquera en general. Las expectativas son realmente elevadas y artículos como <a href="http://www.applesfera.com/2008/01/11-gizmodo-la-macworld-2008-va-a-ser-increible">el de Gizmodo</a> diciendo que lo de la actualización a Penryn de los MacPro es la punta del iceberg realmente contribuyen a fomentar este interés desmesurado y exponencialmente ascendente de los usuarios frente a los posibles e hipotéticos nuevos productos de Apple.
 

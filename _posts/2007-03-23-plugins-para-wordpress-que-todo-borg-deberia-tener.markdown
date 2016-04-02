@@ -2,7 +2,7 @@
 layout: post
 title: Plugins para Wordpress que todo borg debería tener
 date: '2007-03-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/23/plugins-para-wordpress-que-todo-borg-deberia-tener/
+permalink: 2007/03/23/plugins-para-wordpress-que-todo-borg-deberia-tener/
 ---
 <img src="/assets/wp.png" width="116" height="114" alt="WP" class="derecha" />Lo prometido es deuda y aquí intentaré exponer la lista de plugins que he instalado en esta versión wordpressizada del Resistance.
 

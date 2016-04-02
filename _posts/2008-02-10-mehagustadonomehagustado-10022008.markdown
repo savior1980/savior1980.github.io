@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [10/02/2008]
 date: '2008-02-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/11/mehagustadonomehagustado-10022008/
+permalink: 2008/02/11/mehagustadonomehagustado-10022008/
 ---
 - <strong>Nomehagustado</strong> rotundo para lo que ha ocurrido en genbeta estos días. Hemos sufrido <a href="http://www.weblogssl.com/2008/02/07-ataque-de-ddos-a-genbeta">un ataque DDoS</a> que nos ha traído muchos dolores de cabeza, preocupación, frustración, impotencia, rabia y muchas otras sensaciones para nada buenas. Por contra hemos tenido la colaboración de un equipo técnico impecable (¡gracias de nuevo klaas!), <a href="http://www.merodeando.com/">Julio</a> y <a href="http://www.error500.net/">Antonio</a> no han descansado ni un minuto intentando llegar a una solución y sobre todo, hemos recibido el calor y el apoyo de la gente, cosa que de verdad apreciamos y <a href="http://www.genbeta.com/2008/02/10-gracias-gracias-y-gracias">os damos infinitamente las gracias</a>. Creo que <a href="http://sferazero.com">Óscar</a> dio en el clavo cuando dijo en la lista interna: "<em>Al menos ahora sabemos, con certeza, que tenemos una comunidad enorme, pero que no comenta tanto como puede ser la de Applesfera, VidaExtra o Motorpasión, pero ahí está.</em>" Y tanto que está ahí, sólo hay que ver la lista de gente que se ha solidarizado con nosotros. Muchas gracias de nuevo (no me cansaré de repetirlo). 
 

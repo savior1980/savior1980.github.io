@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [07/05/2006]
 date: '2006-05-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/07/mehagustadonomehagustado-07052006/
+permalink: 2006/05/07/mehagustadonomehagustado-07052006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> pese al día fatal que tuve, celebrar mi vigésimo sexto cumpleaños, que aunque el día me fue fatal e incluso me partí un diente, al final se fue arreglando. Las entradas para el concierto del Boss son un regalo genial y estoy ya contando los días para que llegue el día 14. Además ayer me regalaran mis amigos una medalla "al mejor informático", me hizo mucha gracia, sobretodo en la descripción, dónde pone: ..."Eres un As digital"... he revelado que soy geek entre mi grupo de amistades, iniciativa que recomiendo, ayer sin más me llamó un amigo pidiendo consejo para comprarse un iPod Nano, disfruté aconsejándole y que definitivamente se comprara el reproductor de Apple: un convereso más <span style="font-style:italic;">mwahahaha</span>.
 

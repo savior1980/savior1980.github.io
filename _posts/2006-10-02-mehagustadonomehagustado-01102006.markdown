@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/10/2006]
 date: '2006-10-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/02/mehagustadonomehagustado-01102006/
+permalink: 2006/10/02/mehagustadonomehagustado-01102006/
 ---
 - <span style="font-weight:bold;">Nomehagustado</span> que ayer no pudiese editar el post típico de cada semana debido a que Blogger Beta petó, no me dejaba acceder, ni tan siquiera cargaba la página de edición y el blog cargaba de milagro (y sin navbar, qué cosas). Esta noche actualizo el post como  toca.
 

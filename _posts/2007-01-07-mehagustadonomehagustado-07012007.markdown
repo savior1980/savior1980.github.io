@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [07/01/2007]
 date: '2007-01-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/07/mehagustadonomehagustado-07012007/
+permalink: 2007/01/07/mehagustadonomehagustado-07012007/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> que ha sido un gran día: 7 de enero del 2007, el 7 es un número primo que me motiva especialmente.
 

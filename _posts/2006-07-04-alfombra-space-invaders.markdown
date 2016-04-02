@@ -2,7 +2,7 @@
 layout: post
 title: Alfombra Space Invaders
 date: '2006-07-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/04/alfombra-space-invaders/
+permalink: 2006/07/04/alfombra-space-invaders/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/spaceinvaders_rug.jpg" border="0" alt="" />Fantástica muestra de frikismo la creación de una alfombra con motivos de los <a href="http://en.wikipedia.org/wiki/Space_Invaders">Space Invaders</a>, juego mítico entre los míticos y que despierta nuestra vena geek tan sólo ver algo relacionado con esta temática. Como casi todo gadget geek que posteo en este blog,  ahí va una historia de esas para no dormir:
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [21/10/2007]
 date: '2007-10-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/21/mehagustadonomehagustado-21102007/
+permalink: 2007/10/21/mehagustadonomehagustado-21102007/
 ---
 - <strong>Mehagustado</strong> estar con Cristina toda la semana en el nuevo pisito, vamos montando cosillas, vamos descubriendo como van los electrodomésticos, pero nomehagustado que no tenemos tiempo para mucho más, no puedo casi ni postear entre el pisito y el curro, tampoco puedo ver muchas series ni salir de fiesta ni... pero bueno a ver si se estabiliza un poco más el tema.
 

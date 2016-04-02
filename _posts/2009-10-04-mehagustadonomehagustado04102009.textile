@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado[04/10/2009]
 date: '2009-10-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/10/04/mehagustadonomehagustado04102009/
+permalink: 2009/10/04/mehagustadonomehagustado04102009/
 ---
 - *Mehagustado* que el Barça sea líder en solitario de primera división, de momento les sacamos 3 puntos a los rivales directos: Sevilla y Madrid. A ver qué ocurre la siguiente jornada donde nosotros visitamos el siempre difícil campo de Mestalla y ellos reciben al Valladolid (Madrid) y van A Coruña a jugarle al Depor (Sevilla).
 

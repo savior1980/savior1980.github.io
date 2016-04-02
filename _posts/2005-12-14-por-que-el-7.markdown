@@ -2,7 +2,7 @@
 layout: post
 title: Por que el 7?
 date: '2005-12-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/14/por-que-el-7/
+permalink: 2005/12/14/por-que-el-7/
 ---
 <strong>Actualizado 19/12/2005:</strong> El blog antes se llamaba http://resistance7is7futile.blogspot.com
 

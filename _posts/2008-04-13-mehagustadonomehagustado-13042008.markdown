@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [13/04/2008]
 date: '2008-04-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/14/mehagustadonomehagustado-13042008/
+permalink: 2008/04/14/mehagustadonomehagustado-13042008/
 ---
 - <strong>Nomehagustado</strong> estar todo el finde currandome unos documentos que tengo que revisar el lunes y entregar el martes. La verdad es que todo viene en parte por una confusión y por no entender claramente los próximos pasos del proyecto.
 

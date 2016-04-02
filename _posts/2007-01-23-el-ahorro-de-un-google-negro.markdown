@@ -2,7 +2,7 @@
 layout: post
 title: El ahorro de un Google negro
 date: '2007-01-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/23/el-ahorro-de-un-google-negro/
+permalink: 2007/01/23/el-ahorro-de-un-google-negro/
 ---
 <a href="http://ecoiron.blogspot.com/2007/01/black-google-would-save-3000-megawatts.html"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp2.blogger.com/_PnWHf0Wv0BI/RbYnqtw0gyI/AAAAAAAAAGw/fZUSe1uVtZg/s1600/gdark_small.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5023246049170719522" /></a>Recientemente ha transcendido en <a href="http://digg.com/tech_news/If_Google_Used_a_Black_background_Would_Save_3_000_Megawatts_a_Year">digg</a> un artículo sobre qué pasaría si Google pusiera su fondo negro, tan fácil como cambiar de #FFFF a #0000 en su código fuente, siempre según el artículo nos <span style="font-weight:bold;">ahorraríamos la friolera de 3000 MegaWatios al año</span>.
 

@@ -2,7 +2,7 @@
 layout: post
 title: DiskSpy 1.4
 date: '2006-05-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/09/diskspy-14/
+permalink: 2006/05/09/diskspy-14/
 ---
 <a href="http://seiryu.home.comcast.net/diskspy.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://www.macupdate.com/images/icons/9389.png" border="0" alt="" /></a>Una de las cosas que son muy estéticas pero poco prácticas (y un poco molestas) de Apple es que no incluyen ningún LED que muestre las operaciones de lectura/escritura en disco. Además los sonidos que emiten sus discos son bastante tenues, con lo que uno a veces no sabe si realmente "el ordenador trabaja" o no.
 

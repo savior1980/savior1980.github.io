@@ -2,7 +2,7 @@
 layout: post
 title: Generador de Mensajes de Error
 date: '2006-07-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/05/generador-de-mensajes-de-error/
+permalink: 2006/07/05/generador-de-mensajes-de-error/
 ---
 Un fantástico <a href="http://atom.smasher.org/error/">generador de mensajes de error</a> para que personalizes un bonito mensaje de Windows, o veas las creaciones que han expuesto como ejemplo en <a href="http://atom.smasher.org/error/gallery/">esta galería</a> (aún me  estoy riendo del "Uh-Oh. You're screwed"). 
 Hay varios modelos de iconos, se pueden crear diálogos de hasta 3 botones personalizando el mensaje en cada botón y si están habilitados o no. Os posteo uno que he generado yo mismo (y si pincháis en la imagen un bonus track):

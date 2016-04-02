@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [24/09/2006]
 date: '2006-09-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/24/mehagustadonomehagustado-24092006/
+permalink: 2006/09/24/mehagustadonomehagustado-24092006/
 ---
 - <span style="font-weight:bold;">Mehangustado</span> mucho las muestras de apoyo y los comentarios a favor del nuevo diseño que incluso ha tenido su primer <a href="http://www.applesfera.com/2006/09/24-shiira-20-beta-una-nueva-version-asombrosa">"product placement"</a>, muchas gracias a todos, intentaré solucionar ese error que algunos me habéis dicho que sucede en Safari, sabéis es muy extraño, no consigo reproducirlo y en todo caso corresponde a un widget "estándar" de Blogger, el de Archivo creo, intentaré  mandar un mail a Blogger, avisando de eso y otros temas, como la incompatibilidad de Google Search con AJAX en las nuevas plantillas. 
 

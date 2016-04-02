@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [25/05/2008]
 date: '2008-05-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/05/25/mehagustadonomehagustado-25052008/
+permalink: 2008/05/25/mehagustadonomehagustado-25052008/
 ---
 - <strong>Mehagustado</strong> Indiana Jones 4, la verdad que era lo que me esperaba: una peli entretenida con los elementos principales de la saga y un protagonista en estado puro. El argumento era un poco pobre, es cierto, pero al fin y al cabo uno va a ver como Indy se escapa de los malos malosos (deja correr a los rusos, los nazis parecen hermanitas de la caridad casi) y descubre ruinas perdidas y tesoros escondidos. Así que muy satisfecho.
 

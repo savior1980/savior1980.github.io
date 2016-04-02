@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [Especial Nochevieja 2007]
 date: '2007-12-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/31/mehagustadonomehagustado-especial-nochevieja-2007/
+permalink: 2007/12/31/mehagustadonomehagustado-especial-nochevieja-2007/
 ---
 Este mehagustado va a ser un poco atípico, va a versar sobre el transcurso de todo el año en general y por tanto quizás a algunos les puede parecer más peñazo de lo habitual, en cualquier caso intentaré ser breve y condensar la información al máximo (sí,sí, veremos cuando termine de escribir el post)
 

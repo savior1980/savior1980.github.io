@@ -2,7 +2,7 @@
 layout: post
 title: Nuevo Google Reader
 date: '2006-09-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/29/nuevo-google-reader/
+permalink: 2006/09/29/nuevo-google-reader/
 ---
 El nuevo <a href="http://www.google.com/reader/view/">Google Reader</a>, es espectacular. He probado varios agregadores de feeds on-line (entre ellos los populares Bloglines y alesti) y tengo que decir que prefiero los de escritorio... hasta ahora. Le han hecho un lavado de cara más que notable, bueno casi es mejor decir que lo han renovado por completo. Empecemos.
 

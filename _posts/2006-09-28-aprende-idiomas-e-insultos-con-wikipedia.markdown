@@ -2,7 +2,7 @@
 layout: post
 title: Aprende idiomas (e insultos) con Wikipedia
 date: '2006-09-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/28/aprende-idiomas-e-insultos-con-wikipedia/
+permalink: 2006/09/28/aprende-idiomas-e-insultos-con-wikipedia/
 ---
 Si ya vimos en <a href="http://resistancefutile.blogspot.com/2006/08/wikicharts-lo-que-busca-la-gente-est.html">esta entrada</a> qué tipo de búsquedas eran las que encabezaban la lista de términos buscados en wikipedia, entre ayer y hoy descubro dos entradas curiosas.
 

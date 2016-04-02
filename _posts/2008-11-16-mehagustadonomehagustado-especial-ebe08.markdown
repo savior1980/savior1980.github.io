@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [Especial EBE08]
 date: '2008-11-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/11/17/mehagustadonomehagustado-especial-ebe08/
+permalink: 2008/11/17/mehagustadonomehagustado-especial-ebe08/
 ---
 - <strong>Mehaencantado</strong> en líneas globales el EBE'08, ha sido el vehículo para volver a reunirnos muchos bloggers de todo el país y compartir ideas, inquietudes, opiniones, en definitiva para compartir unos días todos juntos haciendo algo diferente.
 

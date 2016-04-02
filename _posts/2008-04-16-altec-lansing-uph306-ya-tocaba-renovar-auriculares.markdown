@@ -2,7 +2,7 @@
 layout: post
 title: 'Altec Lansing UPH306: Ya tocaba renovar auriculares'
 date: '2008-04-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/17/altec-lansing-uph306-ya-tocaba-renovar-auriculares/
+permalink: 2008/04/17/altec-lansing-uph306-ya-tocaba-renovar-auriculares/
 ---
 <img src="/assets/zz6e6541b4.jpg" alt="" title="altec lansing UPH306" width="275" height="221" class="derecha" /> Hace tiempo que tengo unos <a href="http://resistancefutile.com/2006/08/23/sennheiser-cx300-s/">Senheiser CX-300</a> que van con los tapones de silicona "desanivelaos" es decir que llevo uno más grueso que el otro porque <a href="http://resistancefutile.com/2007/12/10/mehagustadonomehagustado-09122007-version-london-baby-20/">perdí uno de ellos</a> y no tenía recambios. A parte que los cascos ya no son lo que eran dos años y medio más tarde, el uso, el desgaste ha hecho mella en ellos y últimamente notaba que aislaban muy poco y encima parecía que la música se oía en un tono más grave. Además que tenía que subir mucho más que en un principio el volumen de mi iPod. 
 

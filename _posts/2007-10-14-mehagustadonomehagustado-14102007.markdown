@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/10/2007]
 date: '2007-10-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/14/mehagustadonomehagustado-14102007/
+permalink: 2007/10/14/mehagustadonomehagustado-14102007/
 ---
 - <strong>Mehagustado</strong> empezar a vivir en el nuevo pisito, la verdad es que viviendo a tu bola tienes más libertad y tal y todo es de color de rosa y MENTIRA!!!! hay que currarselo un huevo! Y tienes problemas y te surgen complicaciones donde todo debería ser fácil y sencillo... pero bueno y el buen rollo que da decir "me voy a casa de mis padres a comer" o "que bien se está en casa" no te lo quita nadie.
 

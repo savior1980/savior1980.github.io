@@ -2,7 +2,7 @@
 layout: post
 title: 'I♥NYC: Un buen wallpaper'
 date: '2006-10-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/19/i%e2%99%a5nyc-un-buen-wallpaper/
+permalink: 2006/10/19/i%e2%99%a5nyc-un-buen-wallpaper/
 ---
 Éste sin lugar a dudas es un gran wallpaper que irá directo al directorio de wallpapers de mi iBook cuando llegue a casa. Uno de los aspectos que más me gustan de Mac OS X (y me diréis que es una chorrada) es la rotación de fondos de escritorio, es fabuloso tener muchos y que vayan rotando aleatoriamente.
 

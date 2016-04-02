@@ -2,7 +2,7 @@
 layout: post
 title: Monologo Navideño
 date: '2006-12-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/23/monologo-navideno/
+permalink: 2006/12/23/monologo-navideno/
 ---
 Victor Pimentel con su humor habitual me manda un enlace a un monólogo navideño de la campaña de J&B (empresa de la que  Víctor seguro es accionista, si no es así no se entiende el elevado consumo que hace del producto) y protagonizado por Raúl Cimas, la verdad es que está muy currado y me he partido la caja un buen rato...
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [08/07/2007]
 date: '2007-07-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/09/mehagustadonomehagustado-08072007/
+permalink: 2007/07/09/mehagustadonomehagustado-08072007/
 ---
 - <strong>Mehagustado</strong> que ayer 07/07/07 (como mola la fecha) pude tocar y trastear con un <strong>iPhone</strong>, pude convencerme que es un teléfono genial en cuanto a interfaz se refiere, la pantalla táctil, bueno no he visto nada igual y su comportamiento y respuesta son geniales. Como dice Pedro, ya estoy ahorrando para comprarme uno cuando salga, espero que sea antes de acabar el año. Os enlazo <a href="http://www.flickr.com/photos/lady-madonna/753024928/in/set-72157600712111648/">una de las fotos que más mehagustado</a>: poder ver mi blog en el Safari del iPhone, no tiene precio.
 

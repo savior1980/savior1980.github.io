@@ -2,7 +2,7 @@
 layout: post
 title: Los Macs de 2ª mano de cornado
 date: '2006-09-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/01/los-macs-de-2%c2%aa-mano-de-cornado/
+permalink: 2006/09/01/los-macs-de-2%c2%aa-mano-de-cornado/
 ---
 El vendedor de eBay que me vendió el iMac G3 y yo intercambiamos mails y la comunicación es bastante fluida, es un tipo bastante interesado en vender macs viejetes, actualmente tiene varios modelos, os lo pongo a continuación, de momento de la compra que le hice no puedo quejarme en absoluto, así que bueno si estáis interesados en algun modelo me dejáis un comentario o me enviáis un mail y yo os facilito su mail para que podáis negociar.
 

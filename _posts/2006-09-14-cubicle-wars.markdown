@@ -2,7 +2,7 @@
 layout: post
 title: Cubicle Wars
 date: '2006-09-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/14/cubicle-wars/
+permalink: 2006/09/14/cubicle-wars/
 ---
 Espectacular y geekeril <a href="http://www.youtube.com/watch?v=QeTuQDJDqdM">vídeo</a> el que os pongo a continuación sobre las típicas riñas en el trabajo, está en inglés pero es bastante entendible.
 

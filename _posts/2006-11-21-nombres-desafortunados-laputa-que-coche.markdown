@@ -2,7 +2,7 @@
 layout: post
 title: 'Nombres desafortunados: Laputa qué coche!'
 date: '2006-11-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/21/nombres-desafortunados-laputa-que-coche/
+permalink: 2006/11/21/nombres-desafortunados-laputa-que-coche/
 ---
 Me envían por correo un .ppt de estos que circulan de vez en cuando en nuestros buzones de entrada donde pueden verse varias imágenes de carteles con nombres desafortunados. En concreto aparecía el mítico restaurante chino "Tan Dao Vien " o el "Kagada Corp.", éste último ya se encargaron los Microsiervos en <a href="http://www.microsiervos.com/archivo/mundoreal/nombres-desafortunados-v.html">esta entrada</a> de desvelar el photoshopeo. 
 

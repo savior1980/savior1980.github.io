@@ -2,7 +2,7 @@
 layout: post
 title: Mini Pistola de Gauss
 date: '2006-05-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/01/mini-pistola-de-gauss-2/
+permalink: 2006/05/01/mini-pistola-de-gauss-2/
 ---
 Impresionante vídeo demo del principio físico de <a href="http://en.wikipedia.org/wiki/Coilgun">la pistola de gauss</a>, una explicación física sobre magnetismo y cinética, además contado por un profesor que habla igualito que Moss de IT crowd, he subido el vídeo a YouTube obtenido <a href="http://www.spikedhumor.com/articles/25888/Mini_Gaussian_Gun.html">de la fuente original</a> mediante la nueva <a href="https://addons.mozilla.org/firefox/2390/">extensión para firefox de Javi Moya</a> para extraer vídeos, que va de lujo y sí: hoy tengo insomnio y no sé porqué :P
 

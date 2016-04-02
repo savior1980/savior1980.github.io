@@ -4,7 +4,7 @@ title: |-
   Oh, what good is it to live
   With nothing left to g...
 date: '2007-01-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/30/oh-what-good-is-it-to-livewith-nothing-left-to-g/
+permalink: 2007/01/30/oh-what-good-is-it-to-livewith-nothing-left-to-g/
 ---
 <p class="chorus">Oh, what good is it to live
 With nothing left to give

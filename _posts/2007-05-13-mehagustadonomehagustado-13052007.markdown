@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [13/05/2007]
 date: '2007-05-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/13/mehagustadonomehagustado-13052007/
+permalink: 2007/05/13/mehagustadonomehagustado-13052007/
 ---
 - Un <strong>Mehagustado</strong> en grado superlativo para la quedada de este fin de semana. La <a href="http://resistancefutile.com/2007/05/13/fb-barcelona-2007/">frappuccinos&blogs</a> fue realmente bien, pudimos vernos las caras muchos bloggers, mantener conversaciones muy interesantes en persona, fue realmente genial.
 

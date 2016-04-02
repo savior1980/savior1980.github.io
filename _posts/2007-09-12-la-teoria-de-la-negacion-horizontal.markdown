@@ -2,7 +2,7 @@
 layout: post
 title: La teoría de la negación horizontal
 date: '2007-09-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/12/la-teoria-de-la-negacion-horizontal/
+permalink: 2007/09/12/la-teoria-de-la-negacion-horizontal/
 ---
 Bien os aviso que en este post me vuelvo a calzar la gorra de <strong>gurú de tres al cuarto</strong> y voy a disparar mi <em>paranoia personal galopante</em> para hacer un escrito poco convencional. Voy a hablar de ese detalle o situación que lo echa todo a perder.
 

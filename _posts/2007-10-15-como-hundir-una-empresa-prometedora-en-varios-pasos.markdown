@@ -2,7 +2,7 @@
 layout: post
 title: Como hundir una empresa prometedora en varios pasos
 date: '2007-10-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/15/como-hundir-una-empresa-prometedora-en-varios-pasos/
+permalink: 2007/10/15/como-hundir-una-empresa-prometedora-en-varios-pasos/
 ---
 Cuando salí de la universidad fiché por una gran consultoría. Allí duré casi año y medio hasta que harto de dos proyectos que habían ido bastante mal me salió la oportunidad de currar en un sitio bastante prometedor, donde estuve año y medio conocí a bastante gente de la que guardo cierto recuerdo, pero hoy quiero hablar de las circunstancias que me llevaron allí, de lo que allí había y de como salí de allí sin pena ni gloria.
 <!--more-->

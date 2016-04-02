@@ -2,7 +2,7 @@
 layout: post
 title: Guía rápida de supervivencia del consultor
 date: '2007-04-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/26/guia-rapida-de-supervivencia-del-consultor/
+permalink: 2007/04/26/guia-rapida-de-supervivencia-del-consultor/
 ---
 <img class="derecha" src='/assets/consultoria_internet_consultores.jpg' alt='guía rápida de consultoría' />Recientemente he visto en el blog del <a href="http://www.vidadeunconsultor.com">consultor anónimo</a>, que  propaga un documento llamado <a href="http://www.javierllinares.es/?p=162">"Guía rápida de supervivencia del consultor medio"</a> y que publica <a href="http://www.javierllinares.es">javier llinares</a>. Ayer me lo leí enterito (6 páginas que se leen rápido) y encontré muy <strong>acertado</strong> para todos los que nos dedicamos a esta profesión. 
 

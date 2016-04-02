@@ -2,7 +2,7 @@
 layout: post
 title: NOT(Salva)
 date: '2007-02-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/02/12/notsalva/
+permalink: 2007/02/12/notsalva/
 ---
 Sabéis, recuerdo cuando estudiba CISE II (Circuitos Y Sistemas Electrónicos II, asigantura de telekos) y estudiábamos las funciones lógicas, las puertas lógicas y todo el cotarro que luego se baraja en la electrónica digital, funciones AND, OR,  XOR y sus negadas NAND, NOR y XNOR. Y de eso va el post de la negación... y es que hoy estoy negativo. Muy negativo diría yo, lo veo todo negro: no me llaman de ningún sitio, la vivienda está por las nubes, mi sueldo da asco, mis aspiraciones son nulas y encima en el otro cliente me dice: "es que tío, das un perfil más de consultor, más de tío que se preocupa por los proyectos y por seguir ascendiendo y yo necesito un programador, así que hemos decidido con tu gerente que te de salida en otro proyecto más acorde a tu perfil" Hijodeputa... 
 

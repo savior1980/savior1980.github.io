@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [11/02/2007]
 date: '2007-02-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/02/12/mehagustadonomehagustado-11022007/
+permalink: 2007/02/12/mehagustadonomehagustado-11022007/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> que las cosas vayan serenándose en el trabajo, mañana y pasado vuelvo al cliente en el que estaba para terminar de finiquitar los temas pendientes y bueno a partir del miércoles a seguir haciéndome a la idea del nuevo cliente y de los nuevos proyectos que vayan surgiendo. También estoy acostumbrándome a no seguir la actualidad de mis feeds RSS de buenas a primeras pues en el nuevo cliente la conexión está muy restringida. Es por ese motivo también que seguramente postearé menos en los blogs, veremos este mes como va la historia.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mi Vodafone me tima
 date: '2007-08-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/06/mi-vodafone-me-tima/
+permalink: 2007/08/06/mi-vodafone-me-tima/
 ---
 <img class="derecha" src='/assets/garrafone.jpg' alt='Vodafone o la incompetencia' />Compré un móvil por ebay, un <a href="http://resistancefutile.com/2007/05/16/un-movil-una-vida/">LG KU800 Chocolate 3G</a>, el móvil venía con factura y con garantía, todo en su caja y estuve durante dos meses o tres muy contento con él. Hasta que se me cayó al suelo y el teclado táctil dejó de responder, así como la vibración. Lo llevé a reparar al punto de distribución donde me encontré con <a href="http://resistancefutile.com/2007/06/25/incompetencia-en-la-tienda-vodafone/">ese amable ser</a> que habita en ese sitio. 
 

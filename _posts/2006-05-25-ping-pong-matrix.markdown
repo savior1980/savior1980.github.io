@@ -2,7 +2,7 @@
 layout: post
 title: Ping-Pong Matrix
 date: '2006-05-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/25/ping-pong-matrix/
+permalink: 2006/05/25/ping-pong-matrix/
 ---
 Se ve que el vídeo es viejo (yo no lo conocía), pero <a href="http://resistancefutile.blogspot.com/2006/05/25-de-mayo-da-del-orgullo-friki.html">en un día como hoy</a> da igual que rescatemos cosas antiguas mientras sean muy frikis, así que os lo incluyo a continuación, no os lo perdáis:
 

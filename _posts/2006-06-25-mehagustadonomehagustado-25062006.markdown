@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [25/06/2006]
 date: '2006-06-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/26/mehagustadonomehagustado-25062006/
+permalink: 2006/06/26/mehagustadonomehagustado-25062006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> que se haya lanzado <a href="http://es.appleweblog.com/">Appleweblog</a> y que haya tenido una buena acogida, es otro blog vertical centrado en el mundo Apple y que tiene unos colaboradores muy buenos, excepto yo que soy bastante mediocre, Miguel y Manu son unos cracks, además el proyecto está creciendo y en fase de expansión, todos estamos muy ilusionados por el tema.
 

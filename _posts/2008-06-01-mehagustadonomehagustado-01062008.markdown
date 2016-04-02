@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/06/2008]
 date: '2008-06-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/02/mehagustadonomehagustado-01062008/
+permalink: 2008/06/02/mehagustadonomehagustado-01062008/
 ---
 - <strong>Mehagustado</strong> renovar el look a <a href="http://genbeta.com">genbeta</a>. La verdad que ha sido todo muy rápido, pero se ha conseguido renovar el look que tenía el blog, ahora es más fresco, más moderno, con un aire más web 2.0 y con un color rosita que no a todo el mundo le ha gustado. 
 

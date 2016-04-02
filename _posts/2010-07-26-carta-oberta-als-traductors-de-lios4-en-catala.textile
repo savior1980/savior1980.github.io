@@ -2,7 +2,7 @@
 layout: post
 title: Carta oberta als traductors de l'iOS4 (en català)
 date: '2010-07-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/07/26/carta-oberta-als-traductors-de-lios4-en-catala/
+permalink: 2010/07/26/carta-oberta-als-traductors-de-lios4-en-catala/
 ---
 Benvolguts senyors,
 

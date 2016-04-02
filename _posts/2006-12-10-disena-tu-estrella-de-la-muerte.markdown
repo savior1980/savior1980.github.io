@@ -2,7 +2,7 @@
 layout: post
 title: Diseña tu Estrella de la Muerte
 date: '2006-12-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/10/disena-tu-estrella-de-la-muerte/
+permalink: 2006/12/10/disena-tu-estrella-de-la-muerte/
 ---
 <a href="http://www.deathstardesigner.com/">DeathStar Designer</a> Un fabuloso juego online que te permite diseñar tu propia Estrella de la Muerte, incorporar las principales armas como el destructor planetario, diseñar su aspecto exterior incluso poniendo un alerón (esta opción es para los más tunning), escoger su color, entre los que se encuentran el negro sith o el rojo de los rebeldes y también se pueden distribuir áreas temáticas como saunas, parques de atracciones, muelles de carga, etc. sobre su superficie. Entretenido, ya que al final podréis comprobar lo patosos que sois diseñando con la review que os hace el mismo sitio. 
 

@@ -4,7 +4,7 @@ title: |-
   Im burning through the sky yeah!
   Two hundred degre...
 date: '2007-01-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/19/im-burning-through-the-sky-yeahtwo-hundred-degre/
+permalink: 2007/01/19/im-burning-through-the-sky-yeahtwo-hundred-degre/
 ---
 <p class="chorus">Im burning through the sky yeah!
 Two hundred degrees

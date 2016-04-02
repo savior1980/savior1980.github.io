@@ -2,7 +2,7 @@
 layout: post
 title: La caravana verde
 date: '2006-09-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/01/la-caravana-verde/
+permalink: 2006/09/01/la-caravana-verde/
 ---
 Vaya por delante que mi simpatía por los cámpings es cero, las caravanas son un instrumento infernal, lo siento si vosotros sois fans del caravaning, pero a mi me parece que más bien debería cambiarse el nombre por el de incomoding, o algo similar, porque la verdad que son muy incómodas por el poco espacio interior de que disponen, salvo claro la que os presento a continuación.
 

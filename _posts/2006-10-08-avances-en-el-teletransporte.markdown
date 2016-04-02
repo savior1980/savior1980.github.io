@@ -2,7 +2,7 @@
 layout: post
 title: Avances en el teletransporte
 date: '2006-10-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/08/avances-en-el-teletransporte/
+permalink: 2006/10/08/avances-en-el-teletransporte/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger2/4553/2422/1600/teleport.jpg" border="0" alt="" />En Dinamarca, científicos de la universidad de Copenhague han conseguido teletransportar billones de atomos a una distancia de medio metro más o menos. Según dicen se puede extender a más distancia ya que el portador de la información es la luz y bueno supongo que el gasto de energía debe ser descomunal, tema que parece obviarse.
 

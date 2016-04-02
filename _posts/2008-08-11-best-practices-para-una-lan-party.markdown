@@ -2,7 +2,7 @@
 layout: post
 title: Best practices para una LAN party
 date: '2008-08-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/08/11/best-practices-para-una-lan-party/
+permalink: 2008/08/11/best-practices-para-una-lan-party/
 ---
 Yo no es que haya asistido a muchas parties y por tanto, no soy el más indicado para hacer una entrada sobre lo que hay que hacer en un evento tipo campusmac o Lan party, pero sí que me permito el lujo de recopilar algunos consejos que considero básicos.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Ahora voy...
 date: '2006-05-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/01/ahora-voy/
+permalink: 2006/05/01/ahora-voy/
 ---
 "Espérate un momentín que ahora voy cariño..." espectacular, para mearse de risa este fantástico vídeo musical subtitulado al español que nos trae <span style="font-weight:bold;">caic</span> vía <a href="http://meneame.net/story.php?id=15116">menéame</a>...
 

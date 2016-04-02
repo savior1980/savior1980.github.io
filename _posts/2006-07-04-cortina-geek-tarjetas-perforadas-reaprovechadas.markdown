@@ -2,7 +2,7 @@
 layout: post
 title: 'Cortina geek: tarjetas perforadas reaprovechadas'
 date: '2006-07-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/04/cortina-geek-tarjetas-perforadas-reaprovechadas/
+permalink: 2006/07/04/cortina-geek-tarjetas-perforadas-reaprovechadas/
 ---
 Fantástica cortina que todo geek debería poner en su habitación: está hecha uniendo las antiguas tarjetas perforadas que eran la vía de entrada de datos en los ordenadores primigenios, así es, los primeros ordenadores cargaban programas destinados al cálculo, sobre todo y como medida de entrada leían los agujeros establecidos según un patrón en las tarjetas perforadas. Múchísimas más fotografías de estas cortinas en <a href="http://www.flickr.com/photos/jeffreygarman/sets/72157594153678035/">este set</a> de flickr de su autor, el geek <a href="http://www.flickr.com/photos/jeffreygarman/sets/72157594153678035/">Jeffery Garman</a> ¡Impresionante!
 

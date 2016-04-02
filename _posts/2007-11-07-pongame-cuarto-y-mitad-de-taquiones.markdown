@@ -2,7 +2,7 @@
 layout: post
 title: Póngame cuarto y mitad de Taquiones
 date: '2007-11-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/07/pongame-cuarto-y-mitad-de-taquiones/
+permalink: 2007/11/07/pongame-cuarto-y-mitad-de-taquiones/
 ---
 Los <strong>taquiones</strong> son partículas hipotéticas que tendrían velocidades <strong>superlumínicas</strong>. No se ha demostrado su existencia ya que nunca ha podido comprobarse de forma empírica que existan. En teoría dichas partículas tendrían cabida en la Ley de la Relatividad Especial de Einstein y poseerían una masa en reposo imaginaria, que haría cuadrar la ecuación de la energía siguiente:
 

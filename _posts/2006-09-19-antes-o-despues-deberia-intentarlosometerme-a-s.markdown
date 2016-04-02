@@ -4,7 +4,7 @@ title: |-
   Antes o después, debería intentarlo,
   someterme a s...
 date: '2006-09-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/19/antes-o-despues-deberia-intentarlosometerme-a-s/
+permalink: 2006/09/19/antes-o-despues-deberia-intentarlosometerme-a-s/
 ---
 <p class="chorus">Antes o después, debería intentarlo,
 someterme a su

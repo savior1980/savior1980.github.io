@@ -2,7 +2,7 @@
 layout: post
 title: Reacciones de un maquero después de instalar Windows Vista
 date: '2007-05-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/08/reacciones-de-un-maquero-despues-de-instalar-windows-vista/
+permalink: 2007/05/08/reacciones-de-un-maquero-despues-de-instalar-windows-vista/
 ---
 Acabo de instalar <strong>Windows Vista Ultimate</strong> en el PC de mi hermano. Más o menos voy a resumir lo más destacado, es decir las reacciones que ha tenido mi hermano frente a las que he tenido yo (por si alguien se pierde, ¡hola! el maquero soy yo):
 

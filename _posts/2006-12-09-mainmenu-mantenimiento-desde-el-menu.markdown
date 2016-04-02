@@ -2,7 +2,7 @@
 layout: post
 title: MainMenu, mantenimiento desde el menú
 date: '2006-12-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/09/mainmenu-mantenimiento-desde-el-menu/
+permalink: 2006/12/09/mainmenu-mantenimiento-desde-el-menu/
 ---
 <a href="http://www.santasw.com/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://bp2.blogger.com/_PnWHf0Wv0BI/RXqrZBXevNI/AAAAAAAAAA8/uXtW3t8PXbk/s320/Imagen+1.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5006502382127725778" /></a>Una de las cosas importantes que hay que hacer de vez en cuando en vuestros Macs son las tareas de mantenimiento, reparar permisos de vez en cuando y limpiar los logs ayudará a que vuestro sistema esté siempre listo para usar y dé el máximo de si. Comparativamente y salvando la enorme distancia que separa los dos mundos, es como hacer una puesta a punto de nuestro coche: reparamos los puntos claves de éste para que funcione perfectamente.
 

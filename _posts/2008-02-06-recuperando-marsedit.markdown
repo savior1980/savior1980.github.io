@@ -2,7 +2,7 @@
 layout: post
 title: Recuperando MarsEdit
 date: '2008-02-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/06/recuperando-marsedit/
+permalink: 2008/02/06/recuperando-marsedit/
 ---
 <img src="/assets/marsediticonlarge.png" alt="marseditIconLarge.png" border="0" width="128" height="128" class="derecha" />Estoy haciendo una prueba de publicaci&oacute;n con <a href="http://www.red-sweater.com/marsedit/">MarsEdit</a>, a ver si puedo apuntarlo a los blogs como genbeta o applesfera para publicar alguna entrada, pues siempre viene bien una v&iacute;a alternativa para publicar.
 

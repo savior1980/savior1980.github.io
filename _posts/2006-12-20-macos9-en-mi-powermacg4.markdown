@@ -2,7 +2,7 @@
 layout: post
 title: MacOS9 en mi PowerMacG4
 date: '2006-12-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/20/macos9-en-mi-powermacg4/
+permalink: 2006/12/20/macos9-en-mi-powermacg4/
 ---
 La prueba más estúpida y que nadie se plantea:
 

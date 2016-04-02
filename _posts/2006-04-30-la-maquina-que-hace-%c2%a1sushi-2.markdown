@@ -2,7 +2,7 @@
 layout: post
 title: La máquina que hace ¡sushi!
 date: '2006-04-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/30/la-maquina-que-hace-%c2%a1sushi-2/
+permalink: 2006/04/30/la-maquina-que-hace-%c2%a1sushi-2/
 ---
 <a href="http://www.sushi-master.com/usa/products/msr3000.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/MSR-3000W.jpg" border="0" alt="" /></a>Leo en <a href="http://blog.wired.com/lazygadgets/">Wired News</a> en una des sus fantásticas recopilaciones de gadgets (en concreto ésta va de 10 gadgets para vagos, como yo) que existe <a href="http://www.sushi-master.com/usa/products/msr3000.html">una máquina para hacer sushi!!</a>
 

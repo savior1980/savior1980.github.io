@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [07/11/2010]
 date: '2010-11-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/11/07/mehagustadonomehagustado-07112010/
+permalink: 2010/11/07/mehagustadonomehagustado-07112010/
 ---
 - *Nomehagustado* nada y me ha hecho muchísima rabia cargarme el vaso "geek" que regalé a Cristina hace 5 años. Qué rabia. 
 

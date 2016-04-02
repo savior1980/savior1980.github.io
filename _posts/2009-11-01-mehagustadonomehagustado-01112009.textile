@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/11/2009]
 date: '2009-11-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/11/02/mehagustadonomehagustado-01112009/
+permalink: 2009/11/02/mehagustadonomehagustado-01112009/
 ---
 - *Nomehagustado* que al entrar en Noviembre volvamos a tener temperaturas de inicios de Septiembre, ¡qué calor ha hecho hoy! tremendo.
 

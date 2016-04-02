@@ -2,7 +2,7 @@
 layout: post
 title: En busca del mejor theme para Bowtie
 date: '2009-01-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/03/en-busca-del-mejor-theme-para-bowtie/
+permalink: 2009/01/03/en-busca-del-mejor-theme-para-bowtie/
 ---
 <img src="/assets/zz4c90896f.jpg" alt="Bowtie themes" title="Bowtie themes" width="250" height="438" class="derecha_borde" />Para <strong>Bowtie</strong> hay infinidad de temas distintos, los hay desde el bombo y platillo extremo, con animaciones y variedad de controles, a los que solo muestran la carátula y el título de la canción.
 

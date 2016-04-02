@@ -2,7 +2,7 @@
 layout: post
 title: Game Over
 date: '2008-01-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/30/game-over/
+permalink: 2008/01/30/game-over/
 ---
 <p class="chorus">The game is over, I'm not her lover
 I'm not her lover anymore

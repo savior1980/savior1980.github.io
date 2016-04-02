@@ -2,7 +2,7 @@
 layout: post
 title: I want to believe
 date: '2006-05-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/05/i-want-to-believe/
+permalink: 2006/05/05/i-want-to-believe/
 ---
 <a href="http://www.ufolandingsbaan.nl/website_UK/pages/initiatief.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/140518573_34d9c591b2_m.jpg" border="0" alt="" /></a>En la autopista A27 de Holanda hay situadas en una de sus salidas (<a href="http://maps.google.com/maps?f=q&hl=en&q=Utrecht+Netherlands&ll=52.025036,5.18383&spn=0.094007,0.342293&om=1">Houten</a>, cerca de Utrecht) dos rotondas que intentan ser <a href="http://www.ufolandingsbaan.nl/website_UK/">una pista de aterrizaje para OVNIS</a>, en ellas  está escrita la letra U del inglés UFO y hay en una de ellas una luz indica la intensidad del tráfico de la autopista, cambiando de color, para indicar a los extraterrestres cuándo es más seguro intentar un aterrizaje.
 

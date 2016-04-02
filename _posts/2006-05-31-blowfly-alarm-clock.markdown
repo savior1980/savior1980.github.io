@@ -2,7 +2,7 @@
 layout: post
 title: Blowfly Alarm Clock
 date: '2006-05-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/31/blowfly-alarm-clock/
+permalink: 2006/05/31/blowfly-alarm-clock/
 ---
 <a href="http://www.yankodesign.com/product_info.php?products_id=641"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/blowfly2_small.jpg" border="0" alt="" /></a>En una recopilación de gadgets útiles de <span style="font-weight:bold;">TechEblog</span>, encuentro un despertador genial diseñado por YankoDesign llamado <a href="http://www.yankodesign.com/product_info.php?products_id=641">Blowfly</a>.
 

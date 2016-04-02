@@ -2,7 +2,7 @@
 layout: post
 title: Un móvil, una vida
 date: '2007-05-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/16/un-movil-una-vida/
+permalink: 2007/05/16/un-movil-una-vida/
 ---
 <img class="derecha" src='/assets/lg_ku800_preview.png' alt='chocolate' />Hoy me ha llegado mi nuevo móvil, un <strong>LG KU800 chocolate</strong> que me compré vía ebay ya que mis dos móviles con los que iba trampeando hasta que saliera el iPhone decidieron joderme vivo apagándose cada dos por tres. 
 Lo he comprado vía ebay y realmente estoy muy satisfecho, me he ahorrado unos 80 euros con respecto a la versión que ofrecen en el catálogo por puntos de vodafone, ahorrándome también de paso los puntos y el fabuloso contrato de permanencia con que te obsequian los que hablan como Fernando Alonso (que rabia me da ese anuncio ¡la leche!) pues quiero mantenerme libre como un pajarillo y sin permanencias para hacer con mi contrato lo que me venga en gana, no sea que los señores de Apple decidan otorgarle la licencia del iPhone a Orange o a (OMG Dios no lo quiera) Movistar y tuviera que portarme.

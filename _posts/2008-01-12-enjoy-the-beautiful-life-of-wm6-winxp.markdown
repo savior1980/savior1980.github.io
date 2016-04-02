@@ -2,7 +2,7 @@
 layout: post
 title: Enjoy the beautiful life of WM6 & WinXP
 date: '2008-01-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/12/enjoy-the-beautiful-life-of-wm6-winxp/
+permalink: 2008/01/12/enjoy-the-beautiful-life-of-wm6-winxp/
 ---
 Ayer mi Qtek S200 se colgó. Se colgó y no volvió en sí hasta hacer un hardreset... Esto implica perder toda la configuración, programas y demás historias que tenía instaladas en ella lo cual ya de por sí jode. Pero bueno alguien puede pensar: ya pero para eso sincronizas los contactos y demás movidas y listo, pues cagada porque hacía huevo de tiempo que no la sincronizaba. Y no por la procrastinación o la vagancia habituales en mi carácter, sino porque al principio la ROM de radio de WM6 que le puse no se sincronizaba por ActiveSync en Windows (en Mac tenía Mysing sync for WM e iba bien) y el Wifi iba fatal. Luego decidí que quizás debía actualizar la ROM de la Radio que controla las conexiones y comunicaciones y poner una versión más reciente, lo que me llevó a que a partir de ese momento la Wifi iba bien pero ya no sincronizaba con Missing Sync. Enjoy WM6.
 

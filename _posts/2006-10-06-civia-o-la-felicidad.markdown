@@ -2,7 +2,7 @@
 layout: post
 title: Civia, o la felicidad
 date: '2006-10-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/06/civia-o-la-felicidad/
+permalink: 2006/10/06/civia-o-la-felicidad/
 ---
 <img style="margin: 0pt 0pt 10px 10px; float: right;" src="http://photos1.blogger.com/blogger2/4553/2422/320/images.2.jpg" alt="" border="0" />Hace ya tiempo que la línia de Cercanías C1 de Mataró-Barcelona se beneficia de los nuevos trenes <a href="http://www.vialibre-ffe.com/hemeroteca/463/revista/actualidad/actualidad1.htm">Civia</a>, recuerdo, con orgullo que este trayecto fue el primer viaje en locomotora de toda la península y también recuerdo, con vergüenza que la autopista Mataró-Barcelona fue el primer tramo de autopista de la península, y  que continuamos "amortizándola" (obsérvese la ironía) religiosamente, pero esto es carne de otro post, me estoy yendo por las ramas y esta entrada quería dedicarla a los vídeos con que nos obsequian en estos nuevos trenes.
 

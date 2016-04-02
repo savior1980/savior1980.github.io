@@ -2,7 +2,7 @@
 layout: post
 title: La sinestesia
 date: '2006-06-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/26/la-sinestesia/
+permalink: 2006/06/26/la-sinestesia/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.14.jpg" border="0" alt="" />Hablando un día con un compañero de trabajo en un rato muerto después de comer, me comentó la curiosa vida de los sinestésicos. 
 

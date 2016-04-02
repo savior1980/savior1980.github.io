@@ -2,7 +2,7 @@
 layout: post
 title: Me he creado una cuenta en Twitter
 date: '2007-12-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/28/me-he-creado-una-cuenta-en-twitter/
+permalink: 2007/12/28/me-he-creado-una-cuenta-en-twitter/
 ---
 <img src='/assets/twitter.png' alt='twitter' class="derecha" />Así es amigos, después de tanta resistencia, después de tanto decir que yo no tendré nunca una cuenta en twitter... me acabo de hacer una para regocijo de todos. Me he dado cuenta de que me estaba perdiendo una forma muy válida de comunicarme y relacionarme socialmente con toda la blogosfera y perder miserablemente el poco tiempo del que ya de por sí dispongo.
 

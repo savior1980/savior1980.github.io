@@ -2,7 +2,7 @@
 layout: post
 title: RAM Boost
 date: '2007-03-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/13/ram-boost/
+permalink: 2007/03/13/ram-boost/
 ---
 Esto es lo que ocurre si a tu iBook G4 le compras un módulo de 1GB PC2700@333MHz de 200 pins ampliándole al máximo (1.5GB) la memoria RAM.
 

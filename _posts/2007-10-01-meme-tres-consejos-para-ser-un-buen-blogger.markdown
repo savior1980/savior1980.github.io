@@ -2,7 +2,7 @@
 layout: post
 title: '[Meme] Tres consejos para ser un buen blogger'
 date: '2007-10-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/01/meme-tres-consejos-para-ser-un-buen-blogger/
+permalink: 2007/10/01/meme-tres-consejos-para-ser-un-buen-blogger/
 ---
 <a href="http://cuatrodoce.com">Pedro</a> escribió sobre tres aspectos que para él son lo más importante para ser un <strong>buen blogger</strong>. Yo (aunque sea un blogger mediocre ya os lo digo ahora) voy a seguir el meme que inició aportando mi visión, para mí los tres aspectos fundamentales en esto de los blogs son:
 <ol><li><strong>Enlazar, enlazar, enlazar</strong>: siempre que puedas pon enlaces en tus textos, para que la gente aprenda, profundice sobre el tema, vea la fuente, conozca más de lo que estás hablando o incluso descubra cosas nuevas a partir de lo que escribes. ¿Cuantas veces habré descubierto servicios nuevos o cosas útiles a través de los blogs que leo? Incontables y eso es algo para mí fundamental.</li>

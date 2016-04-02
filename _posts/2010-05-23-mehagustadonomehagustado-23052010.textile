@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [23/05/2010]
 date: '2010-05-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/05/23/mehagustadonomehagustado-23052010/
+permalink: 2010/05/23/mehagustadonomehagustado-23052010/
 ---
 - *Mehagustado* mucho ir a Tarragona a pasar el fin de semana junto a Malegrya, Toni, Miki_kun y Xavier Pan. Me lo he pasado muy bien, Tarragona es bonita, pudimos salir a hacer un pequeño photowalk y pude experimentar un poco más con mi kit fotográfico.
 

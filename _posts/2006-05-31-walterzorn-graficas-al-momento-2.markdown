@@ -2,7 +2,7 @@
 layout: post
 title: 'walterzorn: Gráficas al momento'
 date: '2006-05-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/31/walterzorn-graficas-al-momento-2/
+permalink: 2006/05/31/walterzorn-graficas-al-momento-2/
 ---
 He descubierto un interesante <a href="http://www.walterzorn.com/grapher/grapher_e.htm">servicio web</a> que ploteará (toma palabro) gráficas en 2D al momento. Es bastante configurable y se pueden concatenar varios gráficos separando las expresiones mediante punto y coma. Una muestra de lo que permite:
 

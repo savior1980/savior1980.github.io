@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [13/02/2011]
 date: '2011-02-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/02/14/mehagustadonomehagustado-13022011/
+permalink: 2011/02/14/mehagustadonomehagustado-13022011/
 ---
 - *Nomehagustado* que me cuesta horrores tomar decisiones, necesito centrarme porque llevo algunos días muy muy disperso sin dar una a derechas.
 

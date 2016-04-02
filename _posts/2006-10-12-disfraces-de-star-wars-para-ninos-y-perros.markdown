@@ -2,7 +2,7 @@
 layout: post
 title: Disfraces de Star Wars para niños y perros
 date: '2006-10-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/12/disfraces-de-star-wars-para-ninos-y-perros/
+permalink: 2006/10/12/disfraces-de-star-wars-para-ninos-y-perros/
 ---
 <a href="http://www.amazon.com/gp/product/B000H8FMTE?ie=UTF8&tag2=mightygoods-20"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Imagen%203.jpg" border="0" alt="" /></a>Ayer vi en <a href="http://www.compradiccion.com/">compradicción</a> lo que me parece una frikada en toda regla, pero repasando mis enlaces zombies me acuerdo que tengo varios en espera de alzarse, vamos al turrón.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [18/11/2007]
 date: '2007-11-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/19/mehagustadonomehagustado-18112007/
+permalink: 2007/11/19/mehagustadonomehagustado-18112007/
 ---
 - <strong>Mehagustado</strong> mucho mucho ir a Madrid este finde y quedar con la gente y charlar con los demás amiguetes bloggers face 2 face. La quedada ha ido muy bien, hemos disfrutado todos mucho. Sobretodo <strong>mehagustado</strong> mucho conocer a tanta gente de la que estoy suscrito de hace un huevo de tiempo y poder estrecharles la mano e intercambiar cuatro frases con ellos, genial, no sé, <strong>mehagustado</strong> mucho conocer a <a href="http://intemperie79.wordpress.com/">pumpkin</a>, a <a href="http://www.macoslucas.com/lucasblog/index.php">MAcOs_LuCas</a>, a <a href="http://www.eltercero.net/">eltercero</a>, decirle a la cara a <a href="http://solenoide.net">Javier Penalva</a> que se compre un Mac, meterme con <a href="http://lordzoltan.gafapasta.com/">Lord Zoltan</a>, hablar con <a href="http://alexliam.net/">Alexliam</a>, Júlia y <a href="http://solo.infames.org/">Hugo</a> esta tarde, ver de primera mano las paranoias de <a href="http://sopmacsl.com/">Sopmac</a>, ver otra vez los truquillos de magia de <a href="http://surfiky.es/blog/">surfiki</a>, ha sido muy muy wapo todo.
 

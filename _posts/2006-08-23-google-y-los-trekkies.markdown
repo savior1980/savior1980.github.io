@@ -2,7 +2,7 @@
 layout: post
 title: Google y los trekkies
 date: '2006-08-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/23/google-y-los-trekkies/
+permalink: 2006/08/23/google-y-los-trekkies/
 ---
 <a href="http://services.google.com/marketing/links/trekfan2006/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/st.png" border="0" alt="" /></a>A parte de poner hace tiempo a la disposición de todos su interfaz de búsqueda en <a href="http://www.google.com/intl/xx-klingon/">idioma Klingon</a>, Google realiza una campaña en <a href="http://services.google.com/marketing/links/trekfan2006/">esta web</a> para potenciar el desarrollo de aplicaciones y servicios web que accedan a los servicios ofrecidos por Google a través de las APIs y ayudas que facilita a los desarrolladores, aunque los ejemplos se encaran a incenctivar al público geek, mostrando curiosidades que han realizado trekkies y fans de la ciencia ficción en general con dichas APIs.
 

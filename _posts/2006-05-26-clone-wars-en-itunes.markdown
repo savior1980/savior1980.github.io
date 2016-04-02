@@ -2,7 +2,7 @@
 layout: post
 title: Clone Wars en iTunes
 date: '2006-05-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/26/clone-wars-en-itunes/
+permalink: 2006/05/26/clone-wars-en-itunes/
 ---
 <a href="http://www.starwars.com/clonewars/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/clone-wars.jpg" border="0" alt="" /></a>Parece ser que van a poner a nuetra disposición en la <a href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/browserRedirect?url=itms%253A%252F%252Fax.phobos.apple.com.edgesuite.net%252FWebObjects%252FMZStore.woa%252Fwa%252FviewTVSeason%253Fid%253D156941166%2526s%253D143441">iTMS</a> los capítulos de <a href="http://www.starwars.com/clonewars/">Clone Wars</a>, serie de animación que transcurre entre el episodio 2 y 3 de la saga Star Wars y que según parece podrían extenderse entre el episodio 3 y el 4.
 

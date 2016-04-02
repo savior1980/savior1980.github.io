@@ -2,7 +2,7 @@
 layout: post
 title: A Valencia hasta el lunes!
 date: '2007-03-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/23/a-valencia-hasta-el-lunes/
+permalink: 2007/03/23/a-valencia-hasta-el-lunes/
 ---
 <img src="/assets/images.jpg" width="127" height="85" alt="Valencia" class="derecha_borde" />Pues nada chicos, que hasta el lunes que viene nos vamos Cristina y yo a Valencia a ver un poco la ciudad, por lo que no podré postear mucho este fin de semana, por ejemplo no podré hacer el mehagustado/nomehagustado semanal... estoooo un momento! Que ahora tengo WP y puedo publicar a futuro! Igual os espera pues una sorpresita el domingo por la noche ;)
 

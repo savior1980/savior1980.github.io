@@ -2,7 +2,7 @@
 layout: post
 title: Las 6 cosas que meme hacen feliz
 date: '2008-11-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/11/02/las-6-cosas-que-meme-hacen-feliz/
+permalink: 2008/11/02/las-6-cosas-que-meme-hacen-feliz/
 ---
 Cris me pasa un meme la mar de curioso en el que tenemos que poner 6 cosas que nos hacen ser felices, que nos suman en un estado de felicidad y que nos convierten en ese momento en un oso amoroso o en un gusiluz.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [24/12/2006]
 date: '2006-12-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/24/mehagustadonomehagustado-24122006/
+permalink: 2006/12/24/mehagustadonomehagustado-24122006/
 ---
 Me he decidido a hacer ahora el Mehagustado/Nomehagustado con tintes navideños antes que hacer una entrada para felicitar directamente a los lectores del blog, prefiero hacerlo aquí en este foro como más íntimo y personal del Resistance, por eso os deseo Feliz Navidad a todos y que Papá Noel sea bueno este año, que os traigan muchos Macs/iPods, etc.  y que lo paséis en grande en compañía de vuestros seres queridos.
 

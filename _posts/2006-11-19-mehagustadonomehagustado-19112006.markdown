@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [19/11/2006]
 date: '2006-11-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/20/mehagustadonomehagustado-19112006/
+permalink: 2006/11/20/mehagustadonomehagustado-19112006/
 ---
 El domingo pasado al estar yo en Madrid y no tener conexión no pude realizar la típica sección del mehagustado/nomehagustado pero bueno en la pequeña crónica que hice se pudo ver más o menos como fue y qué cosas valoré positivamente. Y bueno, esta semana no puedo faltar a la cita, empecemos pues...
 

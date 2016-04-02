@@ -2,7 +2,7 @@
 layout: post
 title: This one's for the freaks...
 date: '2007-10-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/24/this-ones-for-the-freaks/
+permalink: 2007/10/24/this-ones-for-the-freaks/
 ---
 <p class="chorus">This one's for the freaks
 Beaten down and lost

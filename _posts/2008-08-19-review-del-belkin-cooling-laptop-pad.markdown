@@ -2,7 +2,7 @@
 layout: post
 title: Review del Belkin Cooling Laptop Pad
 date: '2008-08-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/08/19/review-del-belkin-cooling-laptop-pad/
+permalink: 2008/08/19/review-del-belkin-cooling-laptop-pad/
 ---
 <img src="/assets/belkin-laptop-cooler.png" alt="" title="belkin-laptop-cooler" width="493" height="285" class="centro" />
 Visto que mi MacBook Pro se calienta bastante, he decidido hacerme con un <strong>soporte con ventilador</strong> principalmente para reducir la temperatura del portátil cuando más lo uso. Elegí el <strong>soporte de Belkin</strong> porque me gusó mucho el <strong>diseño</strong> que tiene y además ofrece una serie de <strong>ventajas</strong> que paso a contaros.

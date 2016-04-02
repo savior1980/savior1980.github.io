@@ -2,7 +2,7 @@
 layout: post
 title: Mis personajes favoritos de Star Trek
 date: '2007-04-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/11/mis-personajes-favoritos-de-star-trek/
+permalink: 2007/04/11/mis-personajes-favoritos-de-star-trek/
 ---
 <p style="text-align: center;"><img src="/assets/enterprise.jpg" width="400" height="291" alt="Enterprise" class="centro_borde" /></p>
 

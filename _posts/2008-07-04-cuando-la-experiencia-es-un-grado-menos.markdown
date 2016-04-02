@@ -2,7 +2,7 @@
 layout: post
 title: Cuando la experiencia es un grado menos
 date: '2008-07-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/04/cuando-la-experiencia-es-un-grado-menos/
+permalink: 2008/07/04/cuando-la-experiencia-es-un-grado-menos/
 ---
 Hay muchas frases en la cultura popular que reflejan la importancia de tener experiencia. Incluso defienden que bajo cualquier premisa, el tener experiencia aporta un grado de excelencia superior al trabajo realizado y no pretendo ponerlo en duda a nivel general, pero sí a nivel particular y me permitiréis que os explique una anécdota que me pasó la semana anterior. 
 

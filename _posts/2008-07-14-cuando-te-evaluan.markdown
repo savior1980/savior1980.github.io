@@ -2,7 +2,7 @@
 layout: post
 title: 'Cuando te evalúan '
 date: '2008-07-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/14/cuando-te-evaluan/
+permalink: 2008/07/14/cuando-te-evaluan/
 ---
 Cuando te evalúan, juzgan tu desempeño y tu trabajo en el año anterior para tomar una decisión sobre tu posición para el año que viene. Parece paradójico, pero funciona así, nos basamos en la experiencia pasada de esa persona y en sus logros para marcarle unos objetivos y darle la oportunidad de desarrollarlos a futuro, y luego, vuelta a empezar.
 

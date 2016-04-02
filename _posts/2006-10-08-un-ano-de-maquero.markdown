@@ -2,7 +2,7 @@
 layout: post
 title: Un año de maquero
 date: '2006-10-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/08/un-ano-de-maquero/
+permalink: 2006/10/08/un-ano-de-maquero/
 ---
 Ayer mi iBook G4 cumplió exactamente un añito. Tal día como ayer hace un año empecé mi camino dentro de Mac OS X, el mejor sistema operativo de los que he probado. He estado en contacto con el mundo de los ordenadores desde que me regalaron un 486@50MHz con Windows 3.11, he pasado por varios modelos de Pentium y todos los Windows que han existido exceptuando el Me, que por lo que leí en revistas especializadas vamos era como pegarse un tiro al pié, por tanto prové 3.11,95,98,2000 y XP. Como odiaba bastante Windows, siempre tuve una distro Linux a mano, estuve en contacto con SuSE 8 y SuSE 9, Red Hat 5, Ubuntu 5.10 y Kubuntu 5.10. 
 

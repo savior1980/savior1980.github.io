@@ -2,7 +2,7 @@
 layout: post
 title: Probando el iPhone
 date: '2007-07-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/07/probando-el-iphone/
+permalink: 2007/07/07/probando-el-iphone/
 ---
 <img class="centro_borde" src='/assets/zz14a20ae0.png' alt='iPhone' />
 

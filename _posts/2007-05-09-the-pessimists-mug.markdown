@@ -2,7 +2,7 @@
 layout: post
 title: Taza especial para pesimistas
 date: '2007-05-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/10/the-pessimists-mug/
+permalink: 2007/05/10/the-pessimists-mug/
 ---
 <img class="centro" src='/assets/pesimistmug.png' alt='Pessimist Mug' />
 

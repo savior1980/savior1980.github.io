@@ -2,7 +2,7 @@
 layout: post
 title: A las pruebas me remito
 date: '2007-07-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/28/a-las-pruebas-me-remito/
+permalink: 2007/07/28/a-las-pruebas-me-remito/
 ---
 Hace tiempo que se desató <a href="http://resistancefutile.com/2007/07/02/yo-no-soy-hipertextual/">una discusión estúpida</a> en torno al tema <a href="http://hipertextual.com/soy/?reload">Soy Hipertextual</a>. <a href="http://www.ancude.net/myblog/">Ancude</a> mostró <a href="http://www.ancude.net/myblog/2007/07/03/si-somos-alguien/">su opinión</a> al respecto haciendo <a href="http://www.ancude.net/soy/">un script gracioso</a> y dando su particular visión del tema en <a href="http://www.ancude.net/myblog/2007/07/06/y-la-luz-se-hizo/">un podcast</a>. <a href="http://proletarium.org">Manu Contreras</a>, como representante de <a href="http://hipertextual.com">Hipertextual</a> se sintió ofendido (acaso alguien lo dudaba?) e hizo una réplica en <a href="http://proletarium.org/2007/07/11/respuesta-a-ancude/">un pequeño videocast</a>. <a href="http://www.ancude.net/myblog/2007/07/12/respuesta-a-manu-contreras/">Ancude respondió</a> y quedó el tema aclarado.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [09/12/2007] versión London Baby 2.0
 date: '2007-12-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/10/mehagustadonomehagustado-09122007-version-london-baby-20/
+permalink: 2007/12/10/mehagustadonomehagustado-09122007-version-london-baby-20/
 ---
 Antes de empezar el mehagustado de esta semana aclarar que igual es un poco monotemático, centrado en <a href="http://resistancefutile.com/2007/12/05/london/">el viaje</a>  del que hemos vuelto hace escasos minutos.
 

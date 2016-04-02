@@ -2,7 +2,7 @@
 layout: post
 title: Encuentra las diferencias entre las dos versiones de  "El Imperio contraataca"
 date: '2006-09-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/04/encuentra-las-diferencias-entre-las-dos-versiones-de-el-imperio-contraataca/
+permalink: 2006/09/04/encuentra-las-diferencias-entre-las-dos-versiones-de-el-imperio-contraataca/
 ---
 En StarWars.com tienen <a href="http://www.starwars.com/episode-v/release/video/f20060901/20060901_picview/pictureviewer.html?imgNum=1&world=episode-v">una sección con 151 imágenes</a> que recogen los cambios que se registraron entre la versión original de 1980 y la versión remasterizada de 2004 del Episodio V "El imperio contraataca", la mejor película de la saga para muchos, a mí sigue gustándome más "El retorno del Jedi" pero acepto que la mayoría os guste más la segunda entrega de la trilogía original. 
 

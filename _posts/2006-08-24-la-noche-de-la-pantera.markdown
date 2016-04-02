@@ -2,7 +2,7 @@
 layout: post
 title: La noche de la Pantera
 date: '2006-08-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/25/la-noche-de-la-pantera/
+permalink: 2006/08/25/la-noche-de-la-pantera/
 ---
 Ya he conseguido que arranque la instalación de Panther en el iMac G3, por lo que esta noche (que voy a dormir poco y mal) queda declarada como la noche de la pantera, en la que esperemos que finalmente y aunque haya leído por ahí que va bastante lento, quede instalado el sistema 10.3 de Mac OS X, en el dichoso iMac original. 
 

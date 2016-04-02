@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [02/09/2007]
 date: '2007-09-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/02/mehagustadonomehagustado-02092007/
+permalink: 2007/09/02/mehagustadonomehagustado-02092007/
 ---
 - <strong>Mehagustado</strong> muchísimo poder tener en nuestro poder ya <a href="http://childrenatyourfeet.com/2007/09/01/al-fin/">las llaves</a> de nuestra nueva vivienda, nuestro nuevo <a href="http://childrenatyourfeet.com/2007/09/02/historia-de-un-piso/">pisito</a>. Tengo unas ganas infinitas de poder vivir allí con <a href="http://childrenatyourfeet.com/">Cristina</a>, es que no podéis imaginároslo. <strong>Mehaencantado</strong> ir a comprar ayer con ella algunas cosillas para la casa (botes, paellas, platos, escoba... cosillas sin importancia pero que al final sumaron un pico!) y luego celebrarlo en el restaurante italiano al que solemos ir en ocasiones especiales. <strong>Genial</strong>.
 

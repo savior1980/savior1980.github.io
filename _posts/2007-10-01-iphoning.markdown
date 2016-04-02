@@ -2,7 +2,7 @@
 layout: post
 title: iPhoning
 date: '2007-10-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/01/iphoning/
+permalink: 2007/10/01/iphoning/
 ---
 <p class="frase">-Tú porqué te compras el iPhone? Por lo tremenda que es la interfaz no?
 - No.

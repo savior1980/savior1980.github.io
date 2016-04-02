@@ -2,7 +2,7 @@
 layout: post
 title: Novedades en Google Calendar
 date: '2006-09-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/27/novedades-en-google-calendar/
+permalink: 2006/09/27/novedades-en-google-calendar/
 ---
 La verdad es que uno de los servicios web de Google (que por cierto hoy cumple 8 años) que fue más esperado y anunciado fue <a href="http://www.google.com/calendar">Google Calendar</a>. Ayer presentaba novedades en el panorama de visualización del calendario,  ya que es posible agregar nuevos calendarios que agregarán pequeños iconos a días en concreto con la fase lunar, el tiempo o el evento de google (como el aniversario que véis en la captura) asociados al día en concreto.
 

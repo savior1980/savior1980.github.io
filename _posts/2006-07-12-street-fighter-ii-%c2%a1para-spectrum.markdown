@@ -2,7 +2,7 @@
 layout: post
 title: Street fighter II... ¡para Spectrum!
 date: '2006-07-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/12/street-fighter-ii-%c2%a1para-spectrum/
+permalink: 2006/07/12/street-fighter-ii-%c2%a1para-spectrum/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/Street_Fighter_2.jpg" border="0" alt="" />El <a href="http://en.wikipedia.org/wiki/ZX_Spectrum#ZX_Spectrum_128_.281986.29">Spectrum</a>. Ese mítico ordenador-consola, me pregunto realmente alguien lo usaba para algo que no fuera jugar a videojuegos? sí? para qué? para alcanzar el nirvana con la música hipnotizadora de las cintas? 
 

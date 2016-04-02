@@ -2,7 +2,7 @@
 layout: post
 title: Agobio entre MacSales y Caixa Catalunya
 date: '2006-08-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/17/agobio-entre-macsales-y-caixa-catalunya/
+permalink: 2006/08/17/agobio-entre-macsales-y-caixa-catalunya/
 ---
 Cuando compré mi iMac G3, pensé que los 32 megas de RAM de serie, no iban a ser suficientes para instalarle Mac OS X, así que ya tenía pensado en expandir un poco ese aspecto comprando un módulo de memoria RAM para ese modelo. Estuve informándome un poco vi que los módulos de memoria no son los convencionales, sino que se trata de unos módulos específicos, diseñados para portátiles, en concreto se trata de módulos PC-SODIMM de 144 pines y el iMac 333MHz que tengo dispone de dos slots de ampliación de memoria, por lo que decidí comprar un módulo de 256MB. Así que buscando por ahí encontré que uno de los sitios más baratos para encontrar ese tipo de memorias, a parte de ebay claro, era <a href="http://www.macsales.com/">MacSales</a>. Compré el módulo, pagué con la Visa de Caixa Catalunya y me olvidé, pensando que ya me llegaría vía correo ordinario al cabo de una semana. 
 

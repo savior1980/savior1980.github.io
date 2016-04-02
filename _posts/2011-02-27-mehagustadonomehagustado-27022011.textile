@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [27/02/2011]
 date: '2011-02-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/02/27/mehagustadonomehagustado-27022011/
+permalink: 2011/02/27/mehagustadonomehagustado-27022011/
 ---
 - *Mehagustado* mucho ir a Zaragoza el sábado a ver a nuestros amigos mañicos, fue un día muy cansado pero me lo pasé genial con ellos, desde aquí muchas gracias a todos por ser como sois. 
 

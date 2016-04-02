@@ -2,7 +2,7 @@
 layout: post
 title: 'Otra de interfaces futuristas: Drag&Drop sobre la mesa de tu escritorio'
 date: '2006-09-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/25/otra-de-interfaces-futuristas-dragdrop-sobre-la-mesa-de-tu-escritorio/
+permalink: 2006/09/25/otra-de-interfaces-futuristas-dragdrop-sobre-la-mesa-de-tu-escritorio/
 ---
 Pido perdón de antemano por la mala calidad de sonido e imagen del siguiente vídeo, no obstante es bastante sorprendente, si hace unos días flipé en colores con <a href="http://www.thinkwasabi.com/2006/09/14/teleport-magia-de-la-de-verdad/">Teleport</a> (que permité traspasar ratón y teclado entre Macs) por las posibilidades que ofrece, ahora veo este vídeo y pienso que interactuar con el entorno fuera de tu escritorio usando el ordenador está por llegar en breve... un geek dijo una vez:
 <blockquote>Un geek es un tío que si una mosca se posa sobre la pantalla de su ordenador, intenta matarla con el cursor del ratón, a mí me ha pasado y es bastante frustrante...</blockquote>

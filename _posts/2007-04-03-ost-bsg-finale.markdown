@@ -2,7 +2,7 @@
 layout: post
 title: OST BSG finale
 date: '2007-04-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/03/ost-bsg-finale/
+permalink: 2007/04/03/ost-bsg-finale/
 ---
 <p class="chorus">	
 "There must be some way out of here," said the joker to the thief,

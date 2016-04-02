@@ -2,7 +2,7 @@
 layout: post
 title: Cowabungaaaaa! Vuelven las TMNT!
 date: '2006-07-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/22/cowabungaaaaa-vuelven-las-tmnt/
+permalink: 2006/07/22/cowabungaaaaa-vuelven-las-tmnt/
 ---
 Parece ser que en el 2007, los fans de las míticas tortugas ninja (qué recuerdos de mi niñez, sniff) podremos deleitarnos con una nueva película, atención, totalmente recreada por ordenador y que se estrenará si Dios quiere el 30 de Marzo del 2007.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Ego crecido
 date: '2006-04-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/26/ego-crecido/
+permalink: 2006/04/26/ego-crecido/
 ---
 Éste post rebosa soberbia por todos lados, pero que me enlacen dos posts el mismo día dos fenómenos mediáticos como son <a href="http://www.microsiervos.com/archivo/musica/itunes-statistician.html">Alvy</a> y <a href="http://www.alt1040.com/archivo/2006/04/25/linspire-ahora-es-gratis-freespire/">Eduardo</a>, para mí es motivo de orgullo y de una gran satisfacción.
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nombres Curiosos: Óptica matemática'
 date: '2007-05-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/23/nombres-curiosos-optica-matematica/
+permalink: 2007/05/23/nombres-curiosos-optica-matematica/
 ---
 <img class="centro_borde" src='/assets/copia-de-p22-05-07_1834.jpg' alt='optica fermat' />
 

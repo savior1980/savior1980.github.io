@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [25/02/2007]
 date: '2007-02-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/02/25/mehagustadonomehagustado-25022007/
+permalink: 2007/02/25/mehagustadonomehagustado-25022007/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> el final de la primera temporada de Dexter que como bien dice <span style="font-weight:bold;">eltercero</span> en <a href="http://eltercero.blogsome.com/2007/02/22/dexter/">este post</a> de su blog, es una serie realmente buena, en la línea de las series también  <span style="font-weight:bold;">mehagustado</span> el inicio de la primera (y única) temporada de <a href="http://www.imdb.com/title/tt0801425/">Day Break</a>, el rollo "Atrapado en el tiempo" mola, pero me gusta más en plan comedia como en <a href="http://www.imdb.com/title/tt0107048/">la peli de Mr. Murray</a> que en plan drama como la serie, supongo que por eso la han cancelado, bueno y los personajes, no sé no terminan de gustarme pero en líneas generales es entretenida. También <span style="font-weight:bold;">mehagustado</span> mucho mucho el capítulo de ayer sábado de Family Guy, buenísimo y con cantidad de referencias a la cultura friki. Y sigue en la línea <span style="font-weight:bold;">nomehagustado</span> los capítulos que he voy viendo de <a href="http://www.imdb.com/title/tt0244365/">Star Trek Enterprise</a>, ¿pero dónde coño se han metido los sullivan? ¿qué están haciendo con esa serie? Llevo viendo capítulos bodrio desde "Shockwave" el capítulo fin de la primera-inicio de la segunda temporada, que salvo excepciones es bastante mala, esperemos que hacia al final mejore.
 

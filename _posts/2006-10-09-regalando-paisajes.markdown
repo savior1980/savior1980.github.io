@@ -2,7 +2,7 @@
 layout: post
 title: Regalando Paisajes
 date: '2006-10-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/09/regalando-paisajes/
+permalink: 2006/10/09/regalando-paisajes/
 ---
 <a href="http://www.nu-b.net/blog/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/1600/portadapaisajespeq.jpg" border="0" alt="" /></a><a href="http://www.nu-b.net/blog/">Paisajes Sonoros</a> es el disco de nu-b, grupo en el que participa <a href="http://www.uroborico.com/?p=214">AlexCD</a>, compi de WSL, escribe en Hipersónica y en Vidaextra y se ha lanzado al mundo de la música con este primer álbum.
 

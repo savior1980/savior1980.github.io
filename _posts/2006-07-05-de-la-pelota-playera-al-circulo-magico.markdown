@@ -2,7 +2,7 @@
 layout: post
 title: De la pelota playera al círculo mágico
 date: '2006-07-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/05/de-la-pelota-playera-al-circulo-magico/
+permalink: 2006/07/05/de-la-pelota-playera-al-circulo-magico/
 ---
 Atención el siguiente post contiene un altro grado de paranoia galopante, se recomienda tomárselo con calma.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Explorer Destroyer
 date: '2006-04-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/26/explorer-destroyer/
+permalink: 2006/04/26/explorer-destroyer/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/resized.0.jpg" border="0" alt="" />Se ha iniciado una iniciativa para provocar el switch de IE a Firefox, en <a href="http://www.explorerdestroyer.com/">ExplorerDestroyer</a> te dan dinero por cada switcher que consigas: 1$. La idea es que mediante un script invites a los lectores de tu blog/site a hacer el switch. Hay 3 niveles de persuasión: recomendación pudiendo ver el site igualmente, recomendación con link hacia el site y adevertencia de que si no instalan firefox no verán el site con botón de download de firefox directamente.
 

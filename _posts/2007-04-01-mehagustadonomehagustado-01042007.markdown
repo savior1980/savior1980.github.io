@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/04/2007]
 date: '2007-04-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/01/mehagustadonomehagustado-01042007/
+permalink: 2007/04/01/mehagustadonomehagustado-01042007/
 ---
 - <strong>Mehagustado</strong> mucho <a href="http://childrenatyourfeet.blogspot.com/2007/04/valncia.html">el viajecito a que hicimos la semana pasada a Valencia</a>, es una ciudad bastante bonita, con sitios encantadores y lo de la semejanza del museo de la ciencia con la nave Resurrección de los cylons, es un puntazo! Así mismo ir de Barcelona a Valencia es un momento con el tren (apenas 3 horas) comparativamente, creo que se tarda más en el puente aéreo a Madrid que en el trayecto a Valencia, la verdad que una ciudad que vale mucho la pena visitar.
 

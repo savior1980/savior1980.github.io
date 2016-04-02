@@ -2,7 +2,7 @@
 layout: post
 title: Qué es un Acuerdo de Confidencialidad?
 date: '2006-08-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/04/que-es-un-acuerdo-de-confidencialidad/
+permalink: 2006/08/04/que-es-un-acuerdo-de-confidencialidad/
 ---
 El autor del blog más infame, <a href="http://solo.infames.org">Hugo</a>, me pregunta vía mail qué hace que ningún trabajador, empleado o colaborador de Apple no desvele ningún detalle de los próximos lanzamientos de la compañía, que debe conocer perfectamente, pues los ha visto, tocado, testeado e incluso diseñado.
 

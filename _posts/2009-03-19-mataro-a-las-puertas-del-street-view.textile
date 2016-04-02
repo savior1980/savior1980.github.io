@@ -2,7 +2,7 @@
 layout: post
 title: Mataró a las puertas del Street View
 date: '2009-03-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/03/19/mataro-a-las-puertas-del-street-view/
+permalink: 2009/03/19/mataro-a-las-puertas-del-street-view/
 ---
 <img src="/assets/a-un-paso.png" alt="A un paso de llegar" title="A un paso de llegar" width="500" height="239" class="centro_borde" />A veces toca joderse, Google StreetView se ha quedado a las puertas de entrar en Mataró, mi ciudad, donde he vivido casi toda la vida y donde vivo actualmente. Es así de triste, pero a 500m de la rotonda de entrada a la ciudad Google Street View dice basta. 
 

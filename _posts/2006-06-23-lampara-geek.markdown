@@ -2,7 +2,7 @@
 layout: post
 title: Lámpara geek
 date: '2006-06-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/23/lampara-geek/
+permalink: 2006/06/23/lampara-geek/
 ---
 <a href="http://www.uncommongoods.com/item/item.jsp?itemId=11525"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/lampara_circuitos.jpg" border="0" alt="" /></a>Fantástica <a href="http://www.uncommongoods.com/item/item.jsp?itemId=11525">lámapara geek</a> fabricada con componentes reciclados de ordenadores, teles y aparatos de audio, funciona con bombeta tubular de 40W y vale 48$. Ahí va la historia de rigor:
 

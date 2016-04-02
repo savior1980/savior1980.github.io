@@ -2,7 +2,7 @@
 layout: post
 title: Por qué no tengo Twitter
 date: '2007-03-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/27/por-que-no-tengo-twitter/
+permalink: 2007/03/27/por-que-no-tengo-twitter/
 ---
 Bueno además de que la idea en sí de <a href="http://twitter.com/">Twitter</a>, la filosofía que rodea el servicio me parece realmente carente de sentido y aunque <a href="http://iconfactory.com/software/twitterrific">Twiterrific</a> haya tenido tan buenas críticas hace unos días publicaron <a href="http://headrush.typepad.com/creating_passionate_users/2006/12/httpwww37signal.html">un gráfico</a> que ilustra la idea principal de quienes no tenemos <strong>Twitter</strong>, ni falta que nos hace.
 

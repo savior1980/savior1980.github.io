@@ -2,7 +2,7 @@
 layout: post
 title: Señales
 date: '2006-08-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/17/senales/
+permalink: 2006/08/17/senales/
 ---
 <a href="http://www.imdb.com/title/tt0286106/">Infumable película</a>, que versaba sobre las señales en los campos de trigo como posible punto de encuentro con los extraterrestres. Bien, pues se ve que alguien ha tenido la idea de expresar que Firefox es un navegador de otro mundo mediante el mismo símil: un grupo de geeks de Oregon, explican el proceso en <a href="http://lug.oregonstate.edu/gallery/firefox-crop-circle/mg_5560">250 fotografías</a>.
 

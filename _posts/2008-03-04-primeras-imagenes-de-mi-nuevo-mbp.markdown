@@ -2,7 +2,7 @@
 layout: post
 title: Primeras imágenes de mi nuevo MBP
 date: '2008-03-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/04/primeras-imagenes-de-mi-nuevo-mbp/
+permalink: 2008/03/04/primeras-imagenes-de-mi-nuevo-mbp/
 ---
 <img src='/assets/zz0d1b751e.jpg' alt='Mi MacBook Pro' class="centro_borde" />
 

@@ -2,7 +2,7 @@
 layout: post
 title: Snow Leopard y los netbooks
 date: '2008-12-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/12/21/snow-leopard-y-los-netbooks/
+permalink: 2008/12/21/snow-leopard-y-los-netbooks/
 ---
 <img src="/assets/os-x-snow-leopard.jpg" alt="Snow Leopard" title="Snow Leopard" width="400" height="400" class="centro" />Cada día que pasa pienso que las mejoras de rendimiento de Snow Leopard va enfocada a mejorar la posibilidad de incorporar el sistema operativo a dispositivos como los netbooks. ¿Lanzará Apple un netbook con Snow Leopard una vez presentado este? ¿Será un tablet? No lo sé pero parece que cada vez más hay un interés creciente por parte de la comunidad de usuarios en los dispositivos ubicuos.
 

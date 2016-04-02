@@ -2,7 +2,7 @@
 layout: post
 title: If you have Leopard you must install this NAO
 date: '2008-05-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/05/03/if-you-have-leopard-you-must-install-this-nao/
+permalink: 2008/05/03/if-you-have-leopard-you-must-install-this-nao/
 ---
 Nos envían a través del contacto de Applesfera un <a href="http://macthemes2.net/forum/viewtopic.php?id=16785679">link a macthemes</a> con un empaquetado que cambiará todo el aspecto Aqua que todavía queda remananente en Leopard. Cambia la visualización de scroolbars, botones y ordenaciones por alternativas a la iTunes 7. Y por el momento no se ha cepillado ningúna cosa importante de mi sistema, de momento todo funciona a la perfección (salvo que acceder a TimeCapsule le ha dado uno de sus achuchones) y con este aspecto.
 

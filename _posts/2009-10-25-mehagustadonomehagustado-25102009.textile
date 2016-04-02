@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [25/10/2009]
 date: '2009-10-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/10/25/mehagustadonomehagustado-25102009/
+permalink: 2009/10/25/mehagustadonomehagustado-25102009/
 ---
 - *Mehagustado* el ritmo de curro de esta semana, ha sido super tranquilo, super relajado intentando focalizarnos en mejorar nuestras propuestas. Veremos si esta semana también tenemos un ritmo creciente.
 

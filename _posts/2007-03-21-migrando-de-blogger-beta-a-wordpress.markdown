@@ -2,7 +2,7 @@
 layout: post
 title: Migrando de Blogger Beta a Wordpress
 date: '2007-03-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/21/migrando-de-blogger-beta-a-wordpress/
+permalink: 2007/03/21/migrando-de-blogger-beta-a-wordpress/
 ---
 <img src="/assets/imagen-1.png" width="118" height="194" alt="imagen-1.png" class="izquierda_borde" />He pensado que sería útil para todo el mundo que quiera migrar un blog de otro CMS como puede ser Blogger Beta (que es mi caso) a un domino propio en Wordpress que tenga en cuenta alguno de los temas con los que he tenido que lidiar en mi migración. 
 

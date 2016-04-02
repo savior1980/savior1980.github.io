@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/08/2010]
 date: '2010-08-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/08/01/mehagustadonomehagustado-01082010/
+permalink: 2010/08/01/mehagustadonomehagustado-01082010/
 ---
 - *Nomehagustado* que a estas alturas no sepa todavía cómo voy a hacerme con un iPhone 4, si quedándome en movistar o bien con una portabilidad a vodafone. Lo que *menosmehagustado* de todo es esa confusión con los puntos, esa falta de información y esa sensación de que nadie tiene puta idea de nada.
 

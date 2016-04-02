@@ -2,7 +2,7 @@
 layout: post
 title: Retrospectiva hacia 1981
 date: '2006-07-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/21/retrospectiva-hacia-1981/
+permalink: 2006/07/21/retrospectiva-hacia-1981/
 ---
 Aquí todo el mundo tira de vídeos que salen en el recopilatorio de los <a href="http://news.com.com/2300-1026_3-6095928-1.html?tag=ne.gall.pg">10 vídeos que todo "techie" debería ver</a>, propuestos por C|Net News.
 

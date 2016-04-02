@@ -2,7 +2,7 @@
 layout: post
 title: "Soy y seré a todos definible, \nmi nombre tengo que..."
 date: '2006-09-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/26/soy-y-sere-a-todos-definible-mi-nombre-tengo-que/
+permalink: 2006/09/26/soy-y-sere-a-todos-definible-mi-nombre-tengo-que/
 ---
 <p class="frase">Soy y seré a todos definible, 
 mi nombre tengo que daros, 

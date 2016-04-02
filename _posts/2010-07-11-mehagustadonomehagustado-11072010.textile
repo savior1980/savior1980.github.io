@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [11/07/2010]
 date: '2010-07-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/07/12/mehagustadonomehagustado-11072010/
+permalink: 2010/07/12/mehagustadonomehagustado-11072010/
 ---
 - *Mehagustado* bastante que España gane su primer mundial, con gol de Iniesta, Iniestazo, en la prórroga. Toda España ha vivido lo que vivimos los barcelonistas en Stamford Bridge, el gol ha sido balsámico, descomunal, un despertar de emociones fuertísimo. Tremendo.
 

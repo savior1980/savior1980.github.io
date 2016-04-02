@@ -2,7 +2,7 @@
 layout: post
 title: El llanero solitario (the lone ranger)
 date: '2005-12-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/26/el-llanero-solitario-the-lone-ranger/
+permalink: 2005/12/26/el-llanero-solitario-the-lone-ranger/
 ---
 <a href="http://en.wikipedia.org/wiki/The_Lone_Ranger"><img alt="" border="0" src="http://members.tripod.com/~ClaytonMoore/lr_silv8.jpg" style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 250px;"/></a><a href="http://en.wikipedia.org/wiki/The_Lone_Ranger">
 </a>

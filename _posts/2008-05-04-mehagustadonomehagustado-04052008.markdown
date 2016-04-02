@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [04/05/2008]
 date: '2008-05-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/05/05/mehagustadonomehagustado-04052008/
+permalink: 2008/05/05/mehagustadonomehagustado-04052008/
 ---
 - <strong>Nomehagustado</strong> cumplir 28 años, ayer fue un día un poco "de esos" a nivel anímico, la verdad que fue una montaña rusa de día con sus más y sus menos. En los menos creedme que los 28 me han sentado realmente mal, ya me veo no como alguien que tiene todavía muchas cosas por descubrir si no algo distinto, no sabría deciros el qué, estoy todavía reflexionando sobre ello. La semana que viene toca celebración con los colegas, ganas tengo de invitarles a cenar en la terraza (eso si la limpio y la pongo en condiciones).
 

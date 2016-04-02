@@ -2,7 +2,7 @@
 layout: post
 title: Otra vez limpiando spam
 date: '2013-11-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2013/11/30/otra-vez-limpiando-spam/
+permalink: 2013/11/30/otra-vez-limpiando-spam/
 ---
 <img src="/assets/Captura-de-pantalla-2013-11-30-a-les-17.17.32.png" style="float:right; padding:10px 10px 10px" />He comprobado, amargamente todo hay que decirlo, que el spam había vuelto esta vez más al blog. Y esta vez ya incluso con entradas publicadas como <em>admin</em>. Lo cual me preocupa bastante ya. Hasta hace poco pensaba que se trataba de un problema externo por así decirlo, pero veo que esto va más allá, o sea de alguna forma tienen el password de admin :(
 

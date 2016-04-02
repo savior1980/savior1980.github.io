@@ -2,7 +2,7 @@
 layout: post
 title: Jedi Trainer
 date: '2006-12-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/18/jedi-trainer/
+permalink: 2006/12/18/jedi-trainer/
 ---
 <a href="http://www.lostvectors.com/jeditrainer/index.html">Un juego de estos en flash</a> para practicar un poco vuestros reflejos Jedi. La verdad que tampoco está muy logrado, pero bueno para pasar un rato agradable, no está mal, quizás destaco el sonido zuuuuum :D y la posibilidad de cambiar el color del sable Jedi.
 

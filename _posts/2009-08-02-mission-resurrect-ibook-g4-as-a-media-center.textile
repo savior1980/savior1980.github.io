@@ -2,7 +2,7 @@
 layout: post
 title: 'Mission: Resurrect iBook G4 as a Media Center'
 date: '2009-08-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/08/02/mission-resurrect-ibook-g4-as-a-media-center/
+permalink: 2009/08/02/mission-resurrect-ibook-g4-as-a-media-center/
 ---
 <img src="/assets/zz1167ca28.jpg" alt="iBook + XBMC" title="iBook + XBMC" width="491" height="293" class="centro" />Hoy además de volver a la vida al *PowerMacG4* que teníamos olvidado (había que hacer un _Archive&Install_ de Tiger, actualizar el sistema y toda la pesca y nos daba palo, como buenos procrastinadores) me he propuesto actualizar el *iBookG4* y probar el "XBMC":http://xbmc.org/ que hace pocos meses sacaron una versión compatible con PPC. De esta forma pretendo que un Media Center decente (y no el sarnoso FrontRow) pueda leer del PowerMacG4 _over-the-wire_, es decir por Wifi (802.11g en este caso) y no tener que andar moviendo el MacBookPro cada dos por tres, puesto que si el invento funciona, ya dejo el iBook en el salón y listo. Falta por ver si el software tira como es debido y si con Wifi g, va tan fluido como con Wifi n.
 

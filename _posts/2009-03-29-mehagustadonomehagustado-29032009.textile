@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [29/03/2009]
 date: '2009-03-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/03/29/mehagustadonomehagustado-29032009/
+permalink: 2009/03/29/mehagustadonomehagustado-29032009/
 ---
 - <strong>Mehagustado</strong> mucho que hoy hayan venido mis padres y mi hermano a comer a casa y que les haya gustado lo que les hemos preparado para comer: primero ensalada alemana y segundo butifarra con manzana. Los postres corrían a cargo de Cristina Argüiñano con fabuloso pastel de queso y manzana para chuparse los dedos. Al final ha estado muy bien, han venido, hemos comido, hemos charlado un rato largo, hemos jugado a la Wii, le he arreglado el Medion Akoya (faltaba instalarle de nuevo los drivers gráficos y un par de extensiones del kernel, mira así tiene 10.5.6 que seguro que le irá mejor que la 10.5.4)
 

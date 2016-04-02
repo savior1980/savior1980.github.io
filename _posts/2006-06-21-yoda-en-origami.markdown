@@ -2,7 +2,7 @@
 layout: post
 title: Yoda en Origami
 date: '2006-06-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/21/yoda-en-origami/
+permalink: 2006/06/21/yoda-en-origami/
 ---
 <a href="http://photos1.blogger.com/blogger/6639/1972/1600/origamiyoda.jpg"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/origamiyoda.jpg" border="0" alt="" /></a>Origami es la elaborada técnica de crear figuras y modelos a partir de una hoja de papel, doblando y cortando. Esta seria la diefinición estándar, para algo más de información podéis consultar <a href="http://es.wikipedia.org/wiki/Origami">esta entrada</a> de Wikipedia.
 

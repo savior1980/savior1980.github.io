@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/07/2007]
 date: '2007-07-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/02/mehagustadonomehagustado-01072007/
+permalink: 2007/07/02/mehagustadonomehagustado-01072007/
 ---
 - <strong>Mehagustado</strong> la celebración de la despedida de <a href="http://alexliam.net/">Alexliam</a>, ayer, como siempre que está el crack y bonachón malagueño se respira un clima cojonudo. La cena en el <a href="http://11870.com/pro/17784">kikuchan</a> fue espléndida y los cócteles posteriores en el <a href="http://www.bcn-nightlife.com/bars-pubs/kahala-2/es/">Kahala</a> magníficos. No faltaron las ocasiones para hablar de su <a href="http://alexliam.net/tag/miercoles-bizarro/">miércoles bizarro</a>, los hoygan, el <a href="http://alexliam.net/tag/siveroraculo/">siveroráculo</a>, también hablamos de <a href="http://solo.infames.org/">Hugo</a> y de muchos otros temas.
 

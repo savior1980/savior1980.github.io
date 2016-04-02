@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [05/06/2006]
 date: '2006-06-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/05/mehagustadonomehagustado-05062006-2/
+permalink: 2006/06/05/mehagustadonomehagustado-05062006-2/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> la Costa Brava, he estado en <a href="http://maps.google.com/maps?f=q&hl=en&q=Pals&ll=41.975572,3.07497&spn=0.057301,0.117073&om=1">Peratallada</a>, en <a href="http://www.calaliu.com/">una casa rural</a> 4 días fantásticos, magníficos,  fabulosos y especiales. Hemos hecho bastantes fotos (alguna que otra es muy geek) que subiremos a flickr cuando tengamos un poco de tiempo (de hecho las subirá LadyMadonna que tiene cuenta pro).
 

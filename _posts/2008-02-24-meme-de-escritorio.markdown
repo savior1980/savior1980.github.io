@@ -2,7 +2,7 @@
 layout: post
 title: Meme de escritorio
 date: '2008-02-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/24/meme-de-escritorio/
+permalink: 2008/02/24/meme-de-escritorio/
 ---
 <img src='/assets/zz02ecfef3.jpg' alt='red bones' class="centro_borde" />
 

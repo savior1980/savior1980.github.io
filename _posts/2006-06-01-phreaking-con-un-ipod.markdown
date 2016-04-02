@@ -2,7 +2,7 @@
 layout: post
 title: Phreaking con un iPod
 date: '2006-06-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/01/phreaking-con-un-ipod/
+permalink: 2006/06/01/phreaking-con-un-ipod/
 ---
 <a href="http://www.macmerc.com/articles/Pro_Pod_Power_Tips/363"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/im_02_bernay.jpg" border="0" alt="" /></a>El <a href="http://en.wikipedia.org/wiki/Phreaking">Phreaking</a> es una larga tradición dentro de los temas geeks. Hay gente que muestra con orgullo sus <a href="http://childrenatyourfeet.blogspot.com/2006/05/telfono-rojo-volamos-hacia-mosc.html">técnicas de phreakismo</a> con telefónos de pulsos. Hoy os presento otra técnica singular que probaré en cuanto disponga de un poco de tiempo pues es tan geek como elaborada.
 

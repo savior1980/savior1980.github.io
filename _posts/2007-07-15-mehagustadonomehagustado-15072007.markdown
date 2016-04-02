@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [15/07/2007]
 date: '2007-07-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/16/mehagustadonomehagustado-15072007/
+permalink: 2007/07/16/mehagustadonomehagustado-15072007/
 ---
 - <strong>Mehagustado</strong> ir a mirar muebles con <a href="http://childrenatyourfeet.com">Cristina</a>, señal que el ir a vivir juntos anda cerca, que nos gusta pasar tiempo juntos decidiendo qué muebles elegiremos y distribuir esos espacios vacíos que conforman nuestro futuro primer piso, que aunque siendo como es de alquiler, nos lo estamos tomando con muchas ganas.
 

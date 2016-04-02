@@ -2,7 +2,7 @@
 layout: post
 title: El trekkie-coche Enterprise
 date: '2006-09-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/26/el-trekkie-coche-enterprise/
+permalink: 2006/09/26/el-trekkie-coche-enterprise/
 ---
 Parece ser que Nissan ha desvelado un prototipo de todoterreno cuyo interior está inspirado en nada más y nada menos que los diseños interiores de las naves de Star Trek. No tengo palabras para expresar mi emoción, es simplemente alucinante! Podéis encontrar más fotos a parte de ésta en <a href="http://www.unificationfrance.com/article.php3?id_article=1461">este enlace</a>.
 

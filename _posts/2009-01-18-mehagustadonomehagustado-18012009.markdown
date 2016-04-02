@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [18/01/2009]
 date: '2009-01-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/19/mehagustadonomehagustado-18012009/
+permalink: 2009/01/19/mehagustadonomehagustado-18012009/
 ---
 - <strong>Mehagustado</strong> mucho encontrar otra serie con la que disfrutamos Lady Madonna y servilleta: Mythbusters, cazadores de mito. La dan en las mañanas de fin de semana de cuatro y se puede encontrar sin problema por la red, no es una serie como tal es un compendio de documentales con temática común: probar distintas leyendas urbanas y mitos. Hay que verla en versión original que gana muchísimo. Lo que más mola es el lado tremendamente friki de los protas y la cantidad de situaciones que hacen frente en cada mito. 
 

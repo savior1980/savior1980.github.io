@@ -2,7 +2,7 @@
 layout: post
 title: 'Los números malditos: 2491,68'
 date: '2007-12-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/22/los-numeros-malditos-249168/
+permalink: 2007/12/22/los-numeros-malditos-249168/
 ---
 <img src='/assets/opciones.png' alt='opciones' class="centro" />
 

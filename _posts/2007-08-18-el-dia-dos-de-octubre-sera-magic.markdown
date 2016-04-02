@@ -2,7 +2,7 @@
 layout: post
 title: El día dos de octubre será "Magic"
 date: '2007-08-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/18/el-dia-dos-de-octubre-sera-magic/
+permalink: 2007/08/18/el-dia-dos-de-octubre-sera-magic/
 ---
 <img class="derecha_borde" src='/assets/bruce_magic-732631.jpg' alt='Magic el nuevo disco del boss' />Leyendo el blog <a href="http://www.pointblankmag.com/">Point Blank</a>, en el que siempre me sorprenden con noticias relacionadas con el Boss, esta vez me aclaran que el nuevo álbum de Bruce Springsteen será con la E-street band, se llamará "Magic", tendrá un sonido muy rockero (y si no observad esa arañada y rota telecaster con la que aparece en el comunicado oficial) y saldrá el día <strong>2 de octubre</strong> de este año. 
 

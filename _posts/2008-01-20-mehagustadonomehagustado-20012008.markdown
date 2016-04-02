@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [20/01/2008]
 date: '2008-01-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/21/mehagustadonomehagustado-20012008/
+permalink: 2008/01/21/mehagustadonomehagustado-20012008/
 ---
 - <strong>Mehagustado</strong> bastante haber podido seguir la keynote, colaboré activamente con Miguel Michán y los demás editores e hicimos un seguimiento bastante bueno del evento. <strong>Nomehagustado</strong> mucho ni la <a href="http://resistancefutile.com/2008/01/15/mis-impresiones-sobre-la-macworld-08/">MacWorld</a> ni los <a href="http://resistancefutile.com/2008/01/19/macbook-fail/">productos</a> en sí que presentaron, pero bueno eso ya se intuía, a ver si en breve me dan una alegría y nos renuevan la gama <strong>MBP</strong>.
 

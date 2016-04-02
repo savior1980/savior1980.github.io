@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [13/(10-3)/2008]
 date: '2008-07-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/13/mehagustadonomehagustado-13102008/
+permalink: 2008/07/13/mehagustadonomehagustado-13102008/
 ---
 - <strong>Mehagustado</strong> la fiesta-cena de empresa que celebramos el viernes pasado, lo de ver a tus jefes con una toña de aúpa no tiene precio. Además la comida estuvo guay, el sitio megustó bastante y la barra libre de rigor hicieron una velada redonda.
 

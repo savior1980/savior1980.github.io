@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [17/09/2006]
 date: '2006-09-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/17/mehagustadonomehagustado-17092006/
+permalink: 2006/09/17/mehagustadonomehagustado-17092006/
 ---
 - <strong>Mehagustado</strong> mucho la peli <a href="http://www.imdb.com/title/tt0424345/">Clerks 2</a>, es brutal, reí como hacía mucho que no reía en un cine. Sobre todo <a href="http://resistancefutile.blogspot.com/2006/09/hablando-de-el-retorno-del-rey-slo-hay.html">el diálogo</a> que mantienen Randal y Elias sobre el Señor de los Anillos vs. Star Wars. 
 

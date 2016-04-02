@@ -2,7 +2,7 @@
 layout: post
 title: Mis Unidades
 date: '2006-12-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/12/mis-unidades/
+permalink: 2006/12/12/mis-unidades/
 ---
 <a href="http://bp3.blogger.com/_PnWHf0Wv0BI/RX3tUhXevTI/AAAAAAAAACE/QhD4OE-z2AM/s1600-h/Imagen+1.png"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://bp3.blogger.com/_PnWHf0Wv0BI/RX3tUhXevTI/AAAAAAAAACE/QhD4OE-z2AM/s320/Imagen+1.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5007419297515879730" /></a>
 Hace poco vi un <a href="http://solo.infames.org/funda-polar-para-el-tito-macbook-pro/">post</a> en el blog de Hugo donde se preguntaba qué nombre iba a poner a su ordenador. Yo un poco siguiendo la misma línea pero cambiando ligeramente el tema ciudades por algo más relacionado con cierta serie de la que soy un declarado fan, he nombrado las unidades de mis 3 Macs como veis en la foto.

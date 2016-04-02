@@ -2,7 +2,7 @@
 layout: post
 title: El precio de la vivienda y los sumatorios
 date: '2006-10-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/19/el-precio-de-la-vivienda-y-los-sumatorios/
+permalink: 2006/10/19/el-precio-de-la-vivienda-y-los-sumatorios/
 ---
 El amigo <a href="http://solenoide.net">Javi Penalva</a> nos hace un post linkando el mismo gráfico que os pongo a continuación, donde se muestra el crecimiento del precio de la vivienda año tras año. Que no os engañe el gráfico: el precio de la vivienda no baja, si no que baja el incremento del precio de la vivienda con respecto el año anterior, situándose cerca del 10% para este año 2006. 
 

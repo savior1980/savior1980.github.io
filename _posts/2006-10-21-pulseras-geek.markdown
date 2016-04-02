@@ -2,7 +2,7 @@
 layout: post
 title: Pulseras Geek
 date: '2006-10-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/21/pulseras-geek/
+permalink: 2006/10/21/pulseras-geek/
 ---
 En <span style="font-weight:bold;">Popgadget</span> me encuentro unas pulseras de piel que consisten una malla configurable la cual puedes perforar para poner tu mensaje y dar a conocer tu frikismo de hecho puedes poner en ellas lo que te de la gana, cualquier mensaje que se te ocurra o el típico "I&hearts;U, <span style="font-style:italic;">churri</span>" pero los patrones que proporcionan como ejemplo son los siguientes, juzgad cuál os gusta más:
 <a href="http://www.fractalspin.com/x/product.php?productid=137"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/1600/Imagen%203.2.png" border="0" alt="" /></a>

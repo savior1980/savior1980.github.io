@@ -2,7 +2,7 @@
 layout: post
 title: Carta abierta a los talibanes ortográficos sobre <s>anglicanismos</s> anglicismos
 date: '2008-01-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/08/carta-abierta-a-los-talibanes-ortograficos-sobre-anglicanismos/
+permalink: 2008/01/08/carta-abierta-a-los-talibanes-ortograficos-sobre-anglicanismos/
 ---
 Muy señores míos,
 

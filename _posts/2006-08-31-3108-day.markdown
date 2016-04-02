@@ -2,7 +2,7 @@
 layout: post
 title: 3108 Day
 date: '2006-08-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/31/3108-day/
+permalink: 2006/08/31/3108-day/
 ---
 <a href="http://www.blogday.org/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/Imagen%201.0.jpg" border="0" alt="" /></a>Hoy parece ser que es el <a href="http://www.blogday.org/">Blog Day</a>, un día en el que se tienen que recomendar 5 blogs que leas habitualmente y que estén alejados de tu entorno, por así decirlo, es decir que tus lectores no estén acostumbrados a ver en tu blogroll, algo nuevo, que sea una sorpresa y un chocolate, bueno sin chocolate. Pues como dirían en Humor Amarillo... "al turrrrroooón!":
 <ul>

@@ -2,7 +2,7 @@
 layout: post
 title: Una pinta de Guiness a vuestra salud
 date: '2007-09-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/20/una-pinta-de-guiness-a-vuestra-salud/
+permalink: 2007/09/20/una-pinta-de-guiness-a-vuestra-salud/
 ---
 <img src='/assets/zz7b1a59fd.png' class="derecha" alt='Guiness pint' /><a href="http://childrenatyourfeet.com">Cris</a> y yo nos marchamos el sábado muy temprano a Irlanda, estaremos 4 días en <a href="http://maps.google.es/maps?hl=es&q=dublin&oe=UTF-8&ie=UTF8&ll=53.362026,-6.2677&spn=0.184392,0.466232&z=11&iwloc=addr&om=1">Dublín</a>, tenemos intención de visitar un día los <a href="http://www.cliffsofmoher.ie/">cliffs of moher</a> (nada que ver con <a href="http://en.wikipedia.org/wiki/Mohinder_Suresh">Mohinder</a>) y otro día <a href="http://maps.google.es/maps?f=q&hl=es&geocode=&q=belfast&ie=UTF8&ll=54.614629,-5.929871&spn=0.178928,0.466232&z=11&iwloc=addr&om=1">Belfast</a> con lo que en la capital estaremos 2 días que espero que nos dé para visitar la ciudad.
 

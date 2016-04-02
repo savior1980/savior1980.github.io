@@ -2,7 +2,7 @@
 layout: post
 title: Publicidad indecorosa
 date: '2007-09-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/02/publicidad-indecorosa/
+permalink: 2007/09/02/publicidad-indecorosa/
 ---
 Esto aparecía ayer en mi cuenta de Gmail... dicen que la publicidad de Gmail cambia en función de lo que hay escrito en los mails que recibes y envías, así que podéis haceros una idea de la temática de la conversación vía mail que habían estado manteniendo los amigotes del Mundo Real&trade; estos días. 
 

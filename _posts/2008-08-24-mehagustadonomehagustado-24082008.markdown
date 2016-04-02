@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [24/08/2008]
 date: '2008-08-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/08/25/mehagustadonomehagustado-24082008/
+permalink: 2008/08/25/mehagustadonomehagustado-24082008/
 ---
 - <strong>Nomehagustado</strong> la peli <a href="http://www.filmaffinity.com/es/film726254.html">"21 Black Jack"</a>, pese a que me la recomendase mi hermano. Previsible, sosa, con situaciones muy tontas, personajes muy estereotipados, hechos muy difíciles de creer, vamos que no perdáis tiempo de vuestras vidas viendo a un Kevin Spacey y un Lawrence Fishburne de segundones en pleno declive. 
 

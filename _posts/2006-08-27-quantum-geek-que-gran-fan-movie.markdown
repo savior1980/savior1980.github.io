@@ -2,7 +2,7 @@
 layout: post
 title: Quantum Geek, qué gran fan movie
 date: '2006-08-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/27/quantum-geek-que-gran-fan-movie/
+permalink: 2006/08/27/quantum-geek-que-gran-fan-movie/
 ---
 Una fan movie es un puñado de geeks que se juntan para hacer alguna peli, lógicamente de bajo presupuesto y de pareja calidad, pero con muy buenas intenciones y con ser pues eso, tremendamente frikis.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Hoy la palabra mágica es...
 date: '2007-11-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/24/hoy-la-palabra-magica-es/
+permalink: 2007/11/24/hoy-la-palabra-magica-es/
 ---
 Hay muchísimas veces en el entorno profesional sobre todo, en otras situaciones menos aunque también se da el caso, de que ciertas palabras o expresiones cobran un significado más pleno, o simplemente se ponen más de moda, es un concepto que para los integrantes de una reunión o de una discusión se acepta como algo transcendental o de suma importancia. 
 

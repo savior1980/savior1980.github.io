@@ -2,7 +2,7 @@
 layout: post
 title: Preparando un Marathon de pelis míticas
 date: '2009-02-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/02/04/preparando-un-marathon-de-pelis-miticas/
+permalink: 2009/02/04/preparando-un-marathon-de-pelis-miticas/
 ---
 <a href="http://chrildrenatyourfeet.com">Cris</a> y yo nos planteamos hacer un maratón de pelis míticas de los 80 y 90, de momento tenemos una lista bastante reducida, pero esperamos que con vuestra ayuda en los comentarios consigamos engrosar el número de pelis que claramente deben entrar en el top 25 de pelis míticas.
 

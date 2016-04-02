@@ -2,7 +2,7 @@
 layout: post
 title: Optimuses
 date: '2007-06-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/28/optimuses/
+permalink: 2007/06/28/optimuses/
 ---
 <a href='http://www.flickr.com/photos/jasoncross/638462445/in/pool-22294126@N00' title='Optimuses'><img class="centro" src='/assets/zz4e442bdc.png' alt='Optimuses' /></a>
 

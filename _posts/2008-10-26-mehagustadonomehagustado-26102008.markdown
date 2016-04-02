@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [26/10/2008]
 date: '2008-10-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/27/mehagustadonomehagustado-26102008/
+permalink: 2008/10/27/mehagustadonomehagustado-26102008/
 ---
 - <strong>Mehagustado</strong> muchísimo la escapada que hemos hecho a la Molina, ayer por la mañana hicimos <a href="http://www.flickr.com/photos/lady-madonna/sets/72157608382790129/">2 horas de quads que fueron salvajemente divertidas</a>. No desconectaba tanto de hacía mucho tiempo. También megustó bastante el restarurante de pueblo que visitamos, comimos de bandera por 16 euros por barba (primero, segundo, postre, café, vino, bebida qué más se puede pedir?).
 

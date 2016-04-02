@@ -2,7 +2,7 @@
 layout: post
 title: De gatitos congelados y baterías chungas
 date: '2009-09-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/09/22/de-gatitos-congelados-y-baterias-chungas/
+permalink: 2009/09/22/de-gatitos-congelados-y-baterias-chungas/
 ---
 Instalé *Snow Leopard*, con problemas, en mi  _MacBook Pro 4,1_ no sin problemas, provocados en parte a mi extrema idiotez (que de vez en cuando me asalta y me sorprende sin que pueda hacer nada) a lo Homer Simpson, veréis después de preparar la instalación tras haber hecho copias de seguridad de mis carpetas de documentos, de mis librerías de fotos y música y finalmente, de mi colección de documentales sobre la pesca del chipirón pirinaico y la almeja merina, pase a usar la utilidad de discos y a formatear como un campeón para hacer la instalación de cero, como mandan los cánones. Y luego tomé la decisión de restaurar de TimeMachine el usuario y esas carpetas, pensé mira, así será más sencillo y quedará todo igual. Y una vez saltó el asistente de migración de datos, inmerso en mi alegre capullez, le dije que mi copia de Time Machine estaba en mi TimeCapsule, a recuperar documentos, librerías y demás y pulsé en Continuar. *FAIL*. Por si alguien no se ha dado cuenta, dije efectivamente, *TimeCapsule*, o lo que viene siendo restaurar *más de 60 GB ... por Wi-fi*, excelente. Cuando me dijo que le quedaban más de 6 horas para completar la instalación pensé que era una memez del gatito, pero luego cai en la cuenta que el memo era yo, copón. 
 

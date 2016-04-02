@@ -2,7 +2,7 @@
 layout: post
 title: Series Geek
 date: '2005-12-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/28/series-geek/
+permalink: 2005/12/28/series-geek/
 ---
 Desde <a href="http://www.microsiervos.com">Microsiervos</a>, blog que os recomiendo much&#237;ssimo si teneis tendencias frikis, han anunciado que har&#225;n una votaci&#243;n popular para escoger un <a href="http://www.microsiervos.com/archivo/peliculas-tv/top-10-series-geek.html">top 10 con las mejores series geek</a>, podeis encontrar el wiki para a&#241;adir series <a href="http://wiki.microsiervos.com/Series_Geek">aqu&#237;</a>.
 

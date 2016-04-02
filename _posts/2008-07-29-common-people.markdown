@@ -2,7 +2,7 @@
 layout: post
 title: Common People
 date: '2008-07-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/29/common-people/
+permalink: 2008/07/29/common-people/
 ---
 <p class="chorus">You'll never live like common people,
 you'll never do what common people do,

@@ -2,7 +2,7 @@
 layout: post
 title: Estreno cuchilla de afeitar
 date: '2008-10-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/07/estreno-cuchilla-de-afeitar/
+permalink: 2008/10/07/estreno-cuchilla-de-afeitar/
 ---
 He estrenado cuchilla de afeitar nueva, o si lo preferís nueva "gillette", lo mejor para el hombre (que gran a la vez que falso eslogan). 
 

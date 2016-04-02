@@ -2,7 +2,7 @@
 layout: post
 title: Pidgin, el Adium para Windows
 date: '2007-05-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/02/pidgin-el-adium-para-windows/
+permalink: 2007/05/02/pidgin-el-adium-para-windows/
 ---
 <img class="derecha" src='/assets/pidgin.png' alt='pidgin' />Andaba buscando un programa que me hiciera las veces de <a href="http://www.adiumx.com/">Adium</a> en Windows XP. En el trabajo me veo forzado a utilizar el sistema operativo del Sr. Gates, alguno de mis compañeros de trabajo sólo usa <strong>Messenger</strong>, pero en cambio yo uso <strong>Gtalk</strong>, además alguno de mis contactos está en <strong>AIM</strong> con su cuenta Mac así que hasta ahora iba usando en mayor o menor medida tres clientes de chat: <strong>GTalk, Windows Messenger y GAIM</strong>.
 

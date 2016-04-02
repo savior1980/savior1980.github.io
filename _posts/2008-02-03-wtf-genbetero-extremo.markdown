@@ -2,7 +2,7 @@
 layout: post
 title: WTF genbetero extremo
 date: '2008-02-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/03/wtf-genbetero-extremo/
+permalink: 2008/02/03/wtf-genbetero-extremo/
 ---
 Cortipego lo que nos ha llegado al formulario de contacto esta mañana
 <blockquote>

@@ -2,7 +2,7 @@
 layout: post
 title: Más joyería geek
 date: '2006-06-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/20/mas-joyeria-geek/
+permalink: 2006/06/20/mas-joyeria-geek/
 ---
 <a href="http://www.thinkgeek.com/apparel/jewelry/83f7/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/ram_earrings.jpg" border="0" alt="" /></a>Vemos en <a href="http://www.thinkgeek.com">Thinkgeek</a> que hay disponibles nuevas joyas para las más geeks: <a href="http://www.thinkgeek.com/apparel/jewelry/83f7/">unos pendientes</a> y <a href="http://www.thinkgeek.com/apparel/jewelry/83ed/">un collar</a> hechos con pastillas de memoria RAM. Como es de rigor en estos casos, paso a relataros el tortuoso origen de estos gadgets.
 

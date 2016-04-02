@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [10/08/2008]
 date: '2008-08-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/08/10/mehagustadonomehagustado-10082008/
+permalink: 2008/08/10/mehagustadonomehagustado-10082008/
 ---
 - <strong>Mehagustado</strong> por fin tener ya desde el viernes mi iPhone 3G activado y plenamente operativo, con todas esas aplicaciones imprescindibles (un día hago un post de lo que tengo) como Twitterrific que nos hemos creado la necesidad de tener. Ahora en serio, ya era hora de tener un teléfono móvil en condiciones, llevaba tiempo esperando el dichoso aparatito y al final he tenido mi recompensa. Os debo todavía el post de lo que sería la consecución del iPhone, con esa perla que me brindó la chica de la tienda de movistar. 
 

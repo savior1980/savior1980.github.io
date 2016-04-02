@@ -2,7 +2,7 @@
 layout: post
 title: Life is Twitter
 date: '2008-01-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/29/life-is-twitter/
+permalink: 2008/01/29/life-is-twitter/
 ---
 <img src='/assets/zz2566a0a7.jpg' alt='Life is 42' class="derecha" />A veces la respuesta a la vida, al universo y a todo lo demás te la da <a href="http://twitter.com">twitter</a>... 
 

@@ -2,7 +2,7 @@
 layout: post
 title: El reencuentro
 date: '2007-09-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/04/el-reencuentro/
+permalink: 2007/09/04/el-reencuentro/
 ---
 Han sido dos días enteros de lavado de cerebro: los valores de la compañía, lo supermegachuli que somos, lo que molamos y sobretodo un ensalzamiento de los puntos fuertes y un maquillaje más o menos disimulado de las debilidades o aspectos negativos de la compañía. Reencuentro con los topicazos de siempre en este tipo de empresas, reencuentro con los novatillos que empiezan y que hacen las típicas preguntas que oyes en primero de carrera "Profesor, profesor, ¿qué libro compro para seguir la asignatura?", que te entran ganas de decirle, la bíblia chato, para que empieces a rezar para aprobar.
 

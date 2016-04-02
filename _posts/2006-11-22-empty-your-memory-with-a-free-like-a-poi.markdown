@@ -2,7 +2,7 @@
 layout: post
 title: " Empty your memory, \n with a free()...\n like a poi..."
 date: '2006-11-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/22/empty-your-memory-with-a-free-like-a-poi/
+permalink: 2006/11/22/empty-your-memory-with-a-free-like-a-poi/
 ---
 <p class="frase"> Empty your memory, 
  with a free()...

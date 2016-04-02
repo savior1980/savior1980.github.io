@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [30/04/2006]
 date: '2006-04-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/01/mehagustadonomehagustado-30042006-2/
+permalink: 2006/05/01/mehagustadonomehagustado-30042006-2/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> que esta semana me haya convertido <a href="http://resistancefutile.blogspot.com/2006/04/ego-crecido.html">en blogger</a> de <a href="http://bitelia.com">Bitelia</a>, una iniciativa que creo muy buena. En la misma línia me ha encantado <a href="http://www.applesfera.com/">AppleSfera</a>, un grandísimo blog de WeblogsSL en el que colabora <a href="http://cuatrodoce.blogsome.com/">Pedro Aznar</a>, y con cracks como él, es imposible que les vaya mal.
 

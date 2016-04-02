@@ -2,7 +2,7 @@
 layout: post
 title: Nuevos trailers de la película Transformers
 date: '2007-03-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/31/nuevos-trailers-de-la-pelicula-transformers/
+permalink: 2007/03/31/nuevos-trailers-de-la-pelicula-transformers/
 ---
 Han aparecido dos trailers más de la película que Michael Bay está horneando para todos los fans y que se estrenará  si dios quiere y nos asiste en julio próximo. Ya queda menos para ver a los robots héroes de nuestra infancia reducidos a un cúmulo de hierros amasijados y con casi ningún parecido con la realidad... veremos si estoy equivocado, almenos en estos dos nuevos trailers (<a href="http://video.google.com/videoplay?docid=-1584970123416248484&hl=en">Destiny</a> y <a href="http://video.google.com/videoplay?docid=-695161283128040895&hl=en">Hidden</a>) se pueden ver más personajes, en concreto el que os incluyo a continuación (Destiny), tiene una secuencia donde puede verse a StarScream en todo su esplendor. 
 

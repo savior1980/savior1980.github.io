@@ -2,7 +2,7 @@
 layout: post
 title: Si fuera un personaje de BSG sería Boomer
 date: '2008-01-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/25/si-fuera-un-personaje-de-bsg-seria-boomer/
+permalink: 2008/01/25/si-fuera-un-personaje-de-bsg-seria-boomer/
 ---
 <div align='center'><br /><br /><img src='http://www.buddytv.com/closedquiz/images/results/bsg-boomer.jpg' /><br /></div>
 

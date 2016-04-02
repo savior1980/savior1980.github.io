@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/01/2007]
 date: '2007-01-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/15/mehagustadonomehagustado-14012007/
+permalink: 2007/01/15/mehagustadonomehagustado-14012007/
 ---
 - <span style="font-weight:bold;">NOMEHAGUSTADO</span>, (el primero en mayúsculas) que algún indeseable me petase el cristal posterior de mi coche para llevarse mi chaqueta de cuero. Pero es que además <span style="font-weight:bold;">nomehaugstado</span> luego en los mossos he ido a denunciarlo y me dicen tal que así "vuelva usted en media hora que ahora mismo no podemos atenderle", hay que joderse, qué país... os lo dejo para que reflexionéis. Ah por cierto que el coche estaba muy cerca de un cruce bastante importante de BCN (Carretera Ribes con Passeig Santa Coloma, para quien pueda ubicarlo).
 

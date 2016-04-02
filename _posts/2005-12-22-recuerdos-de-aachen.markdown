@@ -2,7 +2,7 @@
 layout: post
 title: Recuerdos de Aachen
 date: '2005-12-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/22/recuerdos-de-aachen/
+permalink: 2005/12/22/recuerdos-de-aachen/
 ---
 <a href="http://al.martinez0007.eresmas.net/"><img alt="" border="0" src="http://photos1.blogger.com/blogger/6639/1972/1600/titlenoel.jpg" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand; width: 380px"/></a><a href="http://al.martinez0007.eresmas.net/">
 </a>

@@ -2,7 +2,7 @@
 layout: post
 title: Screencast del manejo básico de Quicksilver
 date: '2007-04-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/13/screencast-del-manejo-basico-de-quicksilver/
+permalink: 2007/04/13/screencast-del-manejo-basico-de-quicksilver/
 ---
 En <a href="http://applesfera.com">Applesfera</a> ayer salió publicado un screencast sobre el funcionamiento básico de <a href="http://quicksilver.blacktree.com/">Quicksilver</a>, la verdad es que es el primer screencast que hago y lo hice "a la sopmac" es decir, del tirón, tras repetirlo varias veces... pero en fin, que esto de mostrar las funcionalidades de un programa así con un vídeo corto me gustó mucho y tampoco es que lleve un trabajo "titánico", sólo hay que poner a grabar con <a href="http://shinywhitebox.com/home/home.html">iShowU</a>, editar luego el vídeo para añadirle portada o lo que se considere y subirlo a <a href="http://www.vimeo.com">vimeo</a> (u otro servicio de vídeos) y a un servidor propios y fin del asunto.
 

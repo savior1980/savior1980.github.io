@@ -2,7 +2,7 @@
 layout: post
 title: 2 canciones gratis del iTS 2
 date: '2006-11-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/14/2-canciones-gratis-del-its-2/
+permalink: 2006/11/14/2-canciones-gratis-del-its-2/
 ---
 En el SIMO Pedro consiguió unas tarjetas regalo con 2 canciones de iTunes gratuitas a canjear antes del día 14 (o sea hoy) así que no he tenido mucho tiempo para pensar cuáles elegir entre la amplia oferta del iTS, ahí van mis dos elegidas:
 

@@ -2,7 +2,7 @@
 layout: post
 title: Molina x 3 días = AFK + Relax
 date: '2007-12-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/29/molina-x-3-dias-afk-relax/
+permalink: 2007/12/29/molina-x-3-dias-afk-relax/
 ---
 <img src='/assets/plano_lamolina.jpg' alt='Molina' class="centro_borde"/>
 

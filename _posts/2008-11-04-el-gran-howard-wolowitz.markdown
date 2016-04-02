@@ -2,7 +2,7 @@
 layout: post
 title: El gran Howard Wolowitz
 date: '2008-11-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/11/05/el-gran-howard-wolowitz/
+permalink: 2008/11/05/el-gran-howard-wolowitz/
 ---
 <img src="/assets/howard_wolowitz.jpg" alt="" title="howard_wolowitz" width="200" height="150" class="derecha_borde" />El personaje que más me gusta de la gran serie friki <a href="http://en.wikipedia.org/wiki/The_Big_Bang_Theory">The Big Bang Theory</a> es <a href="http://bigbangtheory.wikia.com/wiki/Howard_Wolowitz">Howard Wolowitz</a>. 
 

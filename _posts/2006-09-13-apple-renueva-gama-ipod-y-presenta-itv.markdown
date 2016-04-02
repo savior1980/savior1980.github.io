@@ -2,7 +2,7 @@
 layout: post
 title: Apple renueva gama iPod y presenta iTV
 date: '2006-09-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/13/apple-renueva-gama-ipod-y-presenta-itv/
+permalink: 2006/09/13/apple-renueva-gama-ipod-y-presenta-itv/
 ---
 <a href="http://es.appleweblog.com/2006/09/12/seguimiento-del-evento-de-apple-actualizado-constantemente/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/miniheader-hw.miniatura.jpg" border="0" alt="" /></a>Ayer en AW estuvimos siguiendo el evento de Apple, lo que me ocupó mucho tiempo y no pude postear luego aquí mis impresiones al respecto. En fin en el evento de ayer se presentó nueva gama de iPods, iTunes 7, iTunes Store con películas y finalmente iTV un dispositivo aún en fase de desarrollo que vendría a ser un centro multimedia para el hogar y que tiene pinta de acoplarse la mar de bien en un Mac Mini para poder convertir al pequeño de la gama de ordenadores en todo un media center.
 

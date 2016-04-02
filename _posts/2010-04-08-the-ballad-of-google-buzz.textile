@@ -2,7 +2,7 @@
 layout: post
 title: The Ballad of Google Buzz
 date: '2010-04-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/04/08/the-ballad-of-google-buzz/
+permalink: 2010/04/08/the-ballad-of-google-buzz/
 ---
 <p class="chorus">And I said hold tight
 Can't you see it's hurting me

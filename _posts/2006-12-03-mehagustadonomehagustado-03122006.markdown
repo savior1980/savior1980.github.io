@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [03/12/2006]
 date: '2006-12-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/04/mehagustadonomehagustado-03122006/
+permalink: 2006/12/04/mehagustadonomehagustado-03122006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> que la gente me diera tantos ánimos en <a href="http://resistancefutile.blogspot.com/2006/11/quiere-ser-usted-un-perdedor.html">esta entrada</a>. La verdad lo os lo agradezco. Y eso que yo también soy <a href="http://solo.infames.org/soy-un-blogger-ingrato/">un blogger ingrato</a>, debo de intentar comentar más y expresar más mi gratitud a todos, tanto los que aguantáis mis neuras en el Resistance como los que comentan mis entradas en <a href="http://applesfera.com">applesfera</a>/<a href="http://genbeta.com">genbeta</a>.
 

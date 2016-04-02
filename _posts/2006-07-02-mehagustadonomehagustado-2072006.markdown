@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [2/07/2006]
 date: '2006-07-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/02/mehagustadonomehagustado-2072006/
+permalink: 2006/07/02/mehagustadonomehagustado-2072006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> el seguimiento que está teniendo <a href="http://resistancefutile.blogspot.com/2006/06/meme-de-itunes.html">el meme de iTunes</a>, incluso gente no mentada explícitamente ha participado y me encanta gente, me encanta descubrir nuevas canciones que son buenísimas y que no conocía. En esta línea he recuperado la categoría de Chorus, que intentaré ir actualizando, si os gusta, claro.
 

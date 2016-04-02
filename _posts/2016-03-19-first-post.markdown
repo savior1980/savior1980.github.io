@@ -3,7 +3,7 @@ layout: post
 title:  "First Post in Jekyll!"
 date:   2016-03-19 21:40:43 +0100
 categories: paranoia personal
-comments: true
+comments: false
 ---
 Este es mi primer post de *prueba* en este
 fantástico CMS basado en texto que es Jekyll.

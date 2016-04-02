@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [02/11/2008]
 date: '2008-11-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/11/03/mehagustadonomehagustado-02112008/
+permalink: 2008/11/03/mehagustadonomehagustado-02112008/
 ---
 - <strong>Mehagustado</strong> mucho que el Barça sea <a href="http://www.marca.com/edicion/marca/futbol/1a_division/es/index.html">líder en solitario</a> después de esta jornada de liga, la verdad es que el equipo después de las últimas victorias (¡11!) se lo merece.
 

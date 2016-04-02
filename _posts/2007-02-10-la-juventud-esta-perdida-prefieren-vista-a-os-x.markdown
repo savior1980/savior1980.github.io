@@ -2,7 +2,7 @@
 layout: post
 title: La juventud está perdida, prefieren Vista a OS X
 date: '2007-02-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/02/10/la-juventud-esta-perdida-prefieren-vista-a-os-x/
+permalink: 2007/02/10/la-juventud-esta-perdida-prefieren-vista-a-os-x/
 ---
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/tlsBbijPEUQ"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/tlsBbijPEUQ" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 

@@ -2,7 +2,7 @@
 layout: post
 title: Get a Mac versión SouthPark
 date: '2007-05-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/04/get-a-mac-version-southpark/
+permalink: 2007/05/04/get-a-mac-version-southpark/
 ---
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/Id_kGL3M5Cg"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Id_kGL3M5Cg" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 

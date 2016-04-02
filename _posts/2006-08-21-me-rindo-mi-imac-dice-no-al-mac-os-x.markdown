@@ -2,7 +2,7 @@
 layout: post
 title: Me rindo, mi iMac dice NO al Mac OS X
 date: '2006-08-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/21/me-rindo-mi-imac-dice-no-al-mac-os-x/
+permalink: 2006/08/21/me-rindo-mi-imac-dice-no-al-mac-os-x/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/macosx_logo.jpg" border="0" alt="" />Nada, que no hay manera, no hay forma humana de que se instale Mac OS X en mi iMac G3. Pero es que ni de coña. Me dice que si estoy de guasa, que no me deja instalarlo ni engañándolo. Lo flipo gente, lo flipo. Me doy por vencido. Debe haber algún problema hardware, no lo entiendo, es imposible. Os cuento.
 

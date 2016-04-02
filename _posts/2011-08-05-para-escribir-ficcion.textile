@@ -2,7 +2,7 @@
 layout: post
 title: Para escribir ficción
 date: '2011-08-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/08/05/para-escribir-ficcion/
+permalink: 2011/08/05/para-escribir-ficcion/
 ---
 <p class="frase">El software más popular para escribir ficción no es Word.
 

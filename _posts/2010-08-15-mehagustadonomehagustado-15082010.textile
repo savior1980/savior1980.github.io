@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [15/08/2010]
 date: '2010-08-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/08/16/mehagustadonomehagustado-15082010/
+permalink: 2010/08/16/mehagustadonomehagustado-15082010/
 ---
 - *Mehagsutado* estar por fin tres semanitas de vacaciones. Necesitaba parar de currar estos días han sido extraños, he dejado el anterior proyecto semiaparcado y me he metido en otro en el que las cosas van a otro ritmo. En Septiembre tendré que ponerme las pilas a tope.
 

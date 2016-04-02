@@ -2,7 +2,7 @@
 layout: post
 title: Interfaz cerebro-piano
 date: '2006-07-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/10/interfaz-cerebro-piano/
+permalink: 2006/07/10/interfaz-cerebro-piano/
 ---
 Siguiendo la línea iniciada por <a href="http://resistancefutile.blogspot.com/2006/03/brain-to-computer-interface.html">la interfaz cerebro-ordenador</a>, ahora descubro un curioso proyecto que trata de usar las ondas cerebrales que emite nuestro cerebro y que son recogidas por una matriz de sensores para producir música, ya que estas ondas podrían contener información sobre una melodía que es analizada y transmitida a otra máquina que interpreta esta información en forma de notas que reproduce en un piano.
 

@@ -2,7 +2,7 @@
 layout: post
 title: ¿Por qué sigo usando Netscape?
 date: '2008-01-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/22/%c2%bfpor-que-sigo-usando-netscape/
+permalink: 2008/01/22/%c2%bfpor-que-sigo-usando-netscape/
 ---
 <img src='/assets/netscape.png' alt='Netscape Vs Firefox' />
 

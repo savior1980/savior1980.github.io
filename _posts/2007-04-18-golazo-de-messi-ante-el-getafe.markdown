@@ -2,7 +2,7 @@
 layout: post
 title: Golazo de Messi ante el Getafe
 date: '2007-04-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/18/golazo-de-messi-ante-el-getafe/
+permalink: 2007/04/18/golazo-de-messi-ante-el-getafe/
 ---
 Este chaval acaba de marcar uno de los goles más bonitos de la historia del fútbol. Pocos goles he visto tan bonitos como el que os pongo a continuación. Realmente brutal, fútbol en estado puro.
 <embed src="http://www.veoh.com/videodetails.swf?player=videodetailsembedded&type=v&permalinkId=v398706mPce76E7&id=anonymous" width="500" height="438" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed><br/>

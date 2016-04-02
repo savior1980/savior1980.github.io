@@ -2,7 +2,7 @@
 layout: post
 title: De la herejía al fundamentalismo maquero en un momento
 date: '2007-01-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/25/de-la-herejia-al-fundamentalismo-maquero-en-un-momento/
+permalink: 2007/01/25/de-la-herejia-al-fundamentalismo-maquero-en-un-momento/
 ---
 <p class="frase">SALVA, vas camino de convertirte en PEDRO, el sectario más fundamentalista del Apple.</p>Comentario que me han dejado hace un rato en Applesfera y que por supuesto hemos borrado directamente.
 

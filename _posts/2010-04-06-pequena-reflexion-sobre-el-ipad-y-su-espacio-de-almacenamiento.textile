@@ -2,7 +2,7 @@
 layout: post
 title: Pequeña reflexión sobre el iPad y su espacio de almacenamiento
 date: '2010-04-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/04/06/pequena-reflexion-sobre-el-ipad-y-su-espacio-de-almacenamiento/
+permalink: 2010/04/06/pequena-reflexion-sobre-el-ipad-y-su-espacio-de-almacenamiento/
 ---
 <img src="/assets/ipads-price.jpg" class="centro_borde" />Ahora que ya tengo asumido que voy a comprar un iPad el mes que viene cuando vaya a París con los locos de la colina: "@tonimaquero":http://twitter.com/tonimaquero, "@malegrya":http://twitter.com/malegrya, "@sopmacsl":http://twitter.com/sopmacsl y "@ladymandona":http://twitter.com/ladymandona hago la reflexión sobre qué modelo -voy- vamos a comprar. 
 

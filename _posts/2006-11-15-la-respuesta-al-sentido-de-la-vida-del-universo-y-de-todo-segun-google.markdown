@@ -2,7 +2,7 @@
 layout: post
 title: La respuesta al sentido de la vida, del universo y de todo según Google
 date: '2006-11-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/15/la-respuesta-al-sentido-de-la-vida-del-universo-y-de-todo-segun-google/
+permalink: 2006/11/15/la-respuesta-al-sentido-de-la-vida-del-universo-y-de-todo-segun-google/
 ---
 Esta es <a href="http://www.google.com/search?hl=en&q=the+answer+to+life+the+universe+and+everything&btnG=Google+Search">la respuesta a la vida al universo y a todo</a> según Google...
 

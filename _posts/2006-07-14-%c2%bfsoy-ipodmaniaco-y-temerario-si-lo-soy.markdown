@@ -2,7 +2,7 @@
 layout: post
 title: ¿Soy iPodmaníaco y temerario? Sí, lo soy
 date: '2006-07-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/14/%c2%bfsoy-ipodmaniaco-y-temerario-si-lo-soy/
+permalink: 2006/07/14/%c2%bfsoy-ipodmaniaco-y-temerario-si-lo-soy/
 ---
 <img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/20051111hearstipod.jpg" border="0" alt="" />Os acordáis de <a href="http://resistancefutile.blogspot.com/2006/02/ny-story-ipod-menace.html">esta historia</a>? Un tipo bajó al raíl del metro en NYC para recuperar su iPod que se le había caído. Yo dije que también lo haría, y hoy me ha tocado demostrar que no iba de farol en la estación de tren de Clot Aragó (Barcelona), lo que demuestra que soy un iPodmaníaco, estoy mal de la cabeza, pero mi iPod es mi música, son mis archivos, la uso a diario. Esta es mi historia:
 

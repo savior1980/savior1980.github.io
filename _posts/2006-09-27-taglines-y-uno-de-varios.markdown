@@ -2,7 +2,7 @@
 layout: post
 title: Taglines y Uno de varios
 date: '2006-09-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/28/taglines-y-uno-de-varios/
+permalink: 2006/09/28/taglines-y-uno-de-varios/
 ---
 Bueno os informo que ya tenemos activados unos cuantos taglines, si queréis colaborar enviando taglines, podéis dejarme algún comentario en esta entrada o vía mail, yo no soy tan guay como <a href="http://solo.infames.org">algunos</a> que dejan elegirlo vía formulario. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Más videos impresionantes de Parallels
 date: '2006-05-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/23/mas-videos-impresionantes-de-parallels/
+permalink: 2006/05/23/mas-videos-impresionantes-de-parallels/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/anyversion-icon-32x32-32bit.png" border="0" alt="" />Acabo de ver <a href="http://www.deadculture.org/mint/pepper/orderedlist/downloads/download.php?file=http%3A//www.deadculture.org/video/OSX_XP_pt1.mov">otro</a> <a href="http://www.deadculture.org/mint/pepper/orderedlist/downloads/download.php?file=http%3A//www.deadculture.org/video/OSX_XP_pt2.mov">vídeo</a> impresionante de <a href="http://www.parallels.com/">Parallels</a>: corriendo en un iMac Intel con doble pantalla, en una teníamos el sistema operativo de Microsoft y en otro el Tiger.
 

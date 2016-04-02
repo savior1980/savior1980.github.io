@@ -2,7 +2,7 @@
 layout: post
 title: Quita las mayúsculas en la lista de iTunes 7
 date: '2006-09-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/25/quita-las-mayusculas-en-la-lista-de-itunes-7/
+permalink: 2006/09/25/quita-las-mayusculas-en-la-lista-de-itunes-7/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Imagen%201.1.png" border="1" alt="" />Uno de los aspectos que más odiaba de iTunes 7 es que los títulos de la lista lateral de navegación aparecieran en mayúsculas. Sí gente, podéis llamarme maníaco o lo que queráis pero no entnedí nunca porque "Biblioteca" pasaba a llamarse "BIBLIOTECA".
 

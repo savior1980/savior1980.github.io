@@ -2,7 +2,7 @@
 layout: post
 title: Shelly, el republicano antimaquero
 date: '2006-10-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/15/shelly-el-republicano-antimaquero/
+permalink: 2006/10/15/shelly-el-republicano-antimaquero/
 ---
 <span style="font-weight:bold;">Shelly The Republican</span> (o <a href="http://www.shelleytherepublican.com/">STR.com</a>) viene a ser un blog de ultraderecha, la parte más oscura y retrógrada de la derecha americana, los republicanos más extremos vamos, cristianos puristas y con ideología muy similar a la nazi, sin ir más lejos recientemente publicaron <a href="http://www.shelleytherepublican.com/2006/10/14/its-time-to-teach-the-controversy.aspx">un artículo</a> dónde decían que los chicos del KKK pues en el fondo eran unos patriotas incomprendidos y que les daban todo el soporte.
 

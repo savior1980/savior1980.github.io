@@ -2,7 +2,7 @@
 layout: post
 title: Haciendo el piratilla con Kismac
 date: '2007-02-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/02/25/haciendo-el-piratilla-con-kismac/
+permalink: 2007/02/25/haciendo-el-piratilla-con-kismac/
 ---
 Como diría el bueno de <span style="font-style:italic;">pinky</span> en Humor Amarillo: "holaaa pirataaaaas" hoy he flipado en colores con lo absurdamente fácil y trivial que es romper una encriptación WEP usando <a href="http://kismac.de/">KisMac</a>, en <a href="http://www.youtube.com/watch?v=G38PD5FyUxE">este vídeo</a> que os incluyo a continuación podéis ver una demo de todo el proceso...
 

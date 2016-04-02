@@ -2,7 +2,7 @@
 layout: post
 title: 'Office Space : Trabajo Basura'
 date: '2005-12-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/16/office-space-trabajo-basura/
+permalink: 2005/12/16/office-space-trabajo-basura/
 ---
 <a href="http://www.imdb.com/title/tt0151804/"><img alt="" border="0" src="http://www.mvps.org/st-software/Movie_Collection/images/10930f.jpg" style="display:floating; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 220px;"/></a><a href="http://www.imdb.com/title/tt0151804/">
 </a>

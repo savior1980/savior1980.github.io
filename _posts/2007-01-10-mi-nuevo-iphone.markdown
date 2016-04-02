@@ -2,7 +2,7 @@
 layout: post
 title: Mi nuevo iPhone
 date: '2007-01-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/10/mi-nuevo-iphone/
+permalink: 2007/01/10/mi-nuevo-iphone/
 ---
 Atención señores, les presento <span style="font-weight:bold;">mi nuevo iPhone</span>:
 

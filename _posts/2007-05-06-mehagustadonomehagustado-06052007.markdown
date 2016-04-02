@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [06/05/2007]
 date: '2007-05-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/06/mehagustadonomehagustado-06052007/
+permalink: 2007/05/06/mehagustadonomehagustado-06052007/
 ---
 - <strong>Mehagustado</strong> mucho celebrar <a href="http://www.flickr.com/photos/savior1980/487120941/">mi 27 cumpleaños</a>, con <a href="http://www.flickr.com/photos/savior1980/487091924/">muchos regalos</a> y <a href="http://www.flickr.com/photos/savior1980/487121835/in/photostream/">un pequeño unboxing</a> que podéis ver en <a href="http://www.flickr.com/photos/savior1980/">mi cuenta de flic</a>. Mención especial a la pedazo de cena que nos marcamos en el <a href="http://www.onmenjar.com/restaurant.asp?codi_res=685">restaurante Tilt de Mataró</a> con los amigotes del Mundo Real&trade; fue realmente sublime y al final de la cena los regalos que bueno fueron geniales. 
 

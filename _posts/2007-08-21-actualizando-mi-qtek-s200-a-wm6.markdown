@@ -2,7 +2,7 @@
 layout: post
 title: Actualizando mi Qtek S200 a WM6
 date: '2007-08-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/21/actualizando-mi-qtek-s200-a-wm6/
+permalink: 2007/08/21/actualizando-mi-qtek-s200-a-wm6/
 ---
 <img src='/assets/qtek_s200.jpg' alt='Qtek s200' class="derecha" />Estoy intentando actualizar mi Qtek para que tenga el sistema operativo de Microsoft más nuevo y más bonito y chachipiruli y uuy mucho mejor y que chupa recursos como un condenado, sí ése. Bien de momento he de decir que lo he conseguido... en parte. Le he enchufado una Rom inglesa, una tal PDAViet 4.0.0.4 que decían que iba viento en popa. De hecho <a href="http://forum.xda-developers.com/showthread.php?t=310452">he seguido la guía</a> y todo parecía correcto he podido trastear un poco con el sistema.
 

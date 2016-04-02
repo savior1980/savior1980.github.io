@@ -2,7 +2,7 @@
 layout: post
 title: En todas partes cuecen Habas
 date: '2006-07-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/14/en-todas-partes-cuecen-habas/
+permalink: 2006/07/14/en-todas-partes-cuecen-habas/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.20.jpg" border="0" alt="" />Acabo de hablar con un amigo ex-compañero mío de la consultoría y me ha remitido su malestar por unas subidas injustas que les han hecho después de un año de mucho curro. La verdad me ha explicado cosas que realmente le hacen a uno reflexionar y pensar que quizás no esté tan mal en dónde estoy, tengo una serie de ventajas que él no tiene, pero en fin, que este post también sirve para deciros que ayer tomé una decisión con respecto a mi situación laboral: la decisión es que no hay decisión xD, me explico, ahora me quedan (en teoría porque nadie me ha confirmado nada, así de panderetas son) 2 semanas hasta las vacaciones (2 semanas en Agosto y luego otra en Septiembre) y volviendo de las vacaciones y más concretamente en Septiembre valoraré y tomaré una decisión, si me interesa seguir apostando por la vía que tengo hasta ahora o bien decido cambiar ¿hacia qué? no sé hay muchos factores influyentes, podría probar otra empresa que sé que quieren gente en Siebel, o quizás me dedique otra vez a buscar en infojobs, o bien decido atacar a la consultoría otra vez o bien va y resulta que los ingresos de <a href="http://bitelia.com">Bitelia</a> y <a href="http://es.appleweblog.com">AppleWeblog</a> se multiplican exponencialmente y me dedico a los blogs ¿por qué no?, aunque por mucho énfasis que le pongan algunos, creo que este mundo está aún muy verde...
 

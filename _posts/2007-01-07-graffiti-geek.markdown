@@ -2,7 +2,7 @@
 layout: post
 title: Graffiti Geek
 date: '2007-01-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/07/graffiti-geek/
+permalink: 2007/01/07/graffiti-geek/
 ---
 Una de esas imágenes que me hacen sonreír cuando me paseo por las pools de flickr a las que estoy suscrito. 
 

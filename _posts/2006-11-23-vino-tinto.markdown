@@ -2,7 +2,7 @@
 layout: post
 title: Vino Tinto
 date: '2006-11-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/23/vino-tinto/
+permalink: 2006/11/23/vino-tinto/
 ---
 <img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/x/blogger2/4553/2422/320/443907/WINE-Logo.png" border="0" alt="" />Vaya por delante que por así decirlo no me entusiasma la música en español. Prefiero la música cantada en inglés, en catalán (el mallorquín cuenta como catalán no?) e incluso en alemán que en español, sobre gustos, ya sabéis. 
 

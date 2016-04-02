@@ -2,7 +2,7 @@
 layout: post
 title: Jailbreaked
 date: '2007-10-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/18/jailbreaked/
+permalink: 2007/10/18/jailbreaked/
 ---
 Mirad lo que le ha pasado a mi <strong>iPod tutx</strong>! Está irreconocible! 
 

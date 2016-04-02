@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [24/07/2011]
 date: '2011-07-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/07/25/mehagustadonomehagustado-24072011/
+permalink: 2011/07/24/mehagustadonomehagustado-24072011/
 ---
 - *Mehagustado* que el viaje a Londres de este verano al final se ha reconducido y han podido venir Toni y Cris, mehagustado que al final coincidamos para ver a Samuel ahí en London.
 

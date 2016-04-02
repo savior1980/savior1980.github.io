@@ -2,7 +2,7 @@
 layout: post
 title: Publicidad Atrevida
 date: '2006-04-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/30/publicidad-atrevida-2/
+permalink: 2006/04/30/publicidad-atrevida-2/
 ---
 Curiosa la inciativa de <span style="font-weight:bold;">3M</span> para publicitar sus cristales de seguridad: dejaron que los que quisieran se dispusieran a intentar romper este curioso anuncio:
  

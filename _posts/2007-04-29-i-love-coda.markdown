@@ -2,7 +2,7 @@
 layout: post
 title: I love Coda
 date: '2007-04-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/29/i-love-coda/
+permalink: 2007/04/29/i-love-coda/
 ---
 <img class="centro_borde" src='/assets/escritorio.png' alt='Coda' />
 

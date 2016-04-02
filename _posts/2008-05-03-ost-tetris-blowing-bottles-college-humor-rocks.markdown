@@ -2,7 +2,7 @@
 layout: post
 title: OST Tetris Blowing Bottles (College Humor rocks)
 date: '2008-05-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/05/03/ost-tetris-blowing-bottles-college-humor-rocks/
+permalink: 2008/05/03/ost-tetris-blowing-bottles-college-humor-rocks/
 ---
 Que la gente de <a href="http://www.collegehumor.com/">College Humor</a> se lo curra mogollón no lo descubriremos ahora. Que tienen vídeos a un nivel de frikismo que espanta, tampoco. Juzgad vosotros mismos.
 

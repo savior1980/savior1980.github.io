@@ -2,7 +2,7 @@
 layout: post
 title: To switch or not to switch (10 reasons)
 date: '2007-04-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/29/to-switch-or-not-to-switch-10-reasons/
+permalink: 2007/04/29/to-switch-or-not-to-switch-10-reasons/
 ---
 <img class="derecha" src='/assets/apple.jpg' alt='To switch or not to switch' /><strong>Salva</strong>, el autor del blog <a href="http://totumrevolutum.wordpress.com/">totum revolutum</a> nos pide en el contacto de genbeta que le demos <a href="http://totumrevolutum.wordpress.com/2007/04/28/dame-10-motivos-para-cambiar-a-mac/">10 razones para hacer el switch a Mac OS X</a>. Yo como <del datetime="2007-04-28T22:33:37+00:00">no puedo evitar captar otro adepto a la secta,</del> maquero que soy le voy a exponer mis 10 razones para convertirse en switcher, no están ordenadas por orden de importancia simplemente las he ido escribiendo tal cual se me han ocurrido:
 

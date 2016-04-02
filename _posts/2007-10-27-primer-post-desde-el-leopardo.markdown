@@ -2,7 +2,7 @@
 layout: post
 title: Primer post desde el Leopardo
 date: '2007-10-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/27/primer-post-desde-el-leopardo/
+permalink: 2007/10/27/primer-post-desde-el-leopardo/
 ---
 <img class="centro_borde" src='/assets/phpx8foonam.jpg' alt='Leopardo' />
 

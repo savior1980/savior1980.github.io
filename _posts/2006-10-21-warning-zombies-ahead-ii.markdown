@@ -2,7 +2,7 @@
 layout: post
 title: Warning! Zombies Ahead (II)
 date: '2006-10-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/21/warning-zombies-ahead-ii/
+permalink: 2006/10/21/warning-zombies-ahead-ii/
 ---
 <a href="http://resistancefutile.blogspot.com/search/label/Zombies"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/1600/Imagen%2021.jpg" border="0" alt="" /></a>Seguimos en esta nueva categoría de posts llamada <a href="http://resistancefutile.blogspot.com/search/label/Zombies">Zombies</a> en la que os vomito los enlaces que hace tiempo que quiero publicar y no encuentro tiempo para hacerlo. Cuidado, ahí vienen los zombies!
 

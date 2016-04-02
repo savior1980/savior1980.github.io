@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [02/05/2010]
 date: '2010-05-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/05/02/mehagustadonomehagustado-02052010/
+permalink: 2010/05/02/mehagustadonomehagustado-02052010/
 ---
 - *Nomegustará* mañana cumplir 30 tacos. Es así aceptadlo, soy un tío al que no le gusta lo más mínimo celebrar su cumpleaños. Y menos pasar de década. Gracias, no hay más que ver.
 

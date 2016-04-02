@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [24/06/2008] (especial Sant Joan)
 date: '2008-06-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/25/mehagustadonomehagustado-24062008-especial-sant-joan/
+permalink: 2008/06/25/mehagustadonomehagustado-24062008-especial-sant-joan/
 ---
 - <strong>Mehagustado</strong> estar 4 días en casita con Cristina... la verdad es que nos ha ido muy bien, hemos desconectado mucho, los fines de semana deberían durar 4 días siempre!. En otro orden de cosas, ayer vinieron los amigos a celebrar "la revetlla de Sant Joan" hicimos una pequeña barbacoa (lo que costó encendera buenoooo) y todo salió bastante bien.
 

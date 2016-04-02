@@ -2,7 +2,7 @@
 layout: post
 title: The Easy Button
 date: '2006-09-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/16/the-easy-button/
+permalink: 2006/09/16/the-easy-button/
 ---
 <a href="http://www.flickr.com/photos/anela/97184600/in/pool-22294126@N00"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/easy.jpg" border="0" alt="" /></a>Quiero un botón como éste. Lo golpeas y suelta la frase "That was easy". No hace más. Qué lástima que no puedas activar el "Easy Mode" en tu vida real. Los monstruos se reducirían, tendrías más armamento y más vidas extra.
 

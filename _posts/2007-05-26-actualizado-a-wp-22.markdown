@@ -2,7 +2,7 @@
 layout: post
 title: Actualizado a WP 2.2
 date: '2007-05-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/26/actualizado-a-wp-22/
+permalink: 2007/05/26/actualizado-a-wp-22/
 ---
 <img class="derecha" src='/assets/image_yrmacd.jpg' alt='WP 2.2' />Acabo de actualizar el blog a la <strong>versión 2.2 de WP</strong>, así que si véis cualquier cosa rara o algo que no funcione, os agradecería mucho que me lo comentéis. Yo así de buenas a primeras he visto que los links del blogroll se me habían ido a tomar por culo, pero he podido solucionarlo editando el fichero sidebar del theme que era dependiente de la versión  2.1.
 

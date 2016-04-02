@@ -2,7 +2,7 @@
 layout: post
 title: Generación anterior
 date: '2007-11-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/15/generacion-anterior/
+permalink: 2007/11/15/generacion-anterior/
 ---
 <img src='/assets/logocanic-110.jpg' alt='Logo canic' class="derecha" />Hoy en el tren me ha tocado ir de pié, así que con calma y resignación me he puesto en modo observador y he podido ver que delante mío había un tipo en la cuarentena larga que tenía abierto su Acer Travelmate a resolución 800x600. De pronto abre ImageReady CS y se pone a mirar fotos de perros, así que decido dejarle en paz por el momento y centrarme en la lectura de mi periódico gratuito matutino prefereido (<a href="http://www.adn.es/" >ADN</a>).
 

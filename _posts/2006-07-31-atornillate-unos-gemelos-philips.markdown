@@ -2,7 +2,7 @@
 layout: post
 title: Atorníllate unos gemelos Philips!
 date: '2006-07-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/31/atornillate-unos-gemelos-philips/
+permalink: 2006/07/31/atornillate-unos-gemelos-philips/
 ---
 Bueno para todo aquel que no lo sepa, hice mi proyecto de carrera en los laboratorios de investigación de Philips en Aachen, básicamente mi experiencia se puede resumir en las tres premisas que van de la mano de todo erasmus: emborracharse, robar y destrozar mobiliario urbano, eso fuera de los laboratorios, dentro podría haber ocurrido algo como lo siguiente:
 

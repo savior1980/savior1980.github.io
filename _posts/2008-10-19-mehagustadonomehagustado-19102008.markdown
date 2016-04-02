@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [19/10/2008]
 date: '2008-10-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/19/mehagustadonomehagustado-19102008/
+permalink: 2008/10/19/mehagustadonomehagustado-19102008/
 ---
 - <strong>Nomehagustado</strong> la semana tan ajetreada a nivel laboral, la que viene será incluso peor, el cliente nos está poniendo las cosas muy difíciles y yo me preocuparía por que no todo acabe muy mal.
 

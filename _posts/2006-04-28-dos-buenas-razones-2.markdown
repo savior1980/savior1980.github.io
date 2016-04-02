@@ -2,7 +2,7 @@
 layout: post
 title: Dos buenas razones
 date: '2006-04-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/29/dos-buenas-razones-2/
+permalink: 2006/04/29/dos-buenas-razones-2/
 ---
 [Disclaimer] 
 <span style="font-weight:bold;">LA SIGUIENTE ENTRADA ES BASTANTE MACHISTA </span>

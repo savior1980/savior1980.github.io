@@ -2,7 +2,7 @@
 layout: post
 title: Emplatanar
 date: '2008-10-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/05/emplatanar/
+permalink: 2008/10/05/emplatanar/
 ---
 <p class="frase">- Eva Arguiñano (a la Invitada del programa): Ahora solo nos queda emplatar todo el invento.
 -Invitada: Lleva plátano también?

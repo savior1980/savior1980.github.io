@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/08/2007]
 date: '2007-08-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/14/mehagustadonomehagustado-14082007/
+permalink: 2007/08/14/mehagustadonomehagustado-14082007/
 ---
 - <strong>Mehagustado</strong> mucho toda la <a href="http://cuatrodoce.com/?p=462">CampusMac 2007</a> (<a href="http://www.inkilino.com/2007/08/13/resumen-de-la-campus-mac-2007/">otra review</a> nos la hace <strong>inkilino</strong>), nos lo hemos pasado genial, a ver si el año que viene podemos ir más días y quedarnos una noche de esas en las que las actividades no se acaban. Mención especial para el <strong>MacMuseo</strong>, realmente espectacular, con la gran mayoría de ordenadores y otras cosillas que ha sacado Apple hasta la fecha, desde los distintos modelos de Macintosh, PowerBooks de los primeros, Newtons, eMates, iBooks Clamshell, el iMac G4, un Cube y el Mac 20º aniversario, dos ordenadores que me encantan y que un día de estos espero que pueda comprar en ebay.
 

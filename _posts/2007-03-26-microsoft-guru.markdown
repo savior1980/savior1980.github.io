@@ -2,7 +2,7 @@
 layout: post
 title: Microsoft Guru
 date: '2007-03-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/26/microsoft-guru/
+permalink: 2007/03/26/microsoft-guru/
 ---
 <img src="/assets/guruanticipator.png" alt="Guru Anticipator" class="centro" />
 

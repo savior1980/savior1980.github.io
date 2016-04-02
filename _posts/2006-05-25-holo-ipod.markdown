@@ -2,7 +2,7 @@
 layout: post
 title: Holo - iPod
 date: '2006-05-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/25/holo-ipod/
+permalink: 2006/05/25/holo-ipod/
 ---
 Una foto más que se une al <a href="http://resistancefutile.blogspot.com/2006/05/25-de-mayo-da-del-orgullo-friki.html">frikismo desatado en el día de hoy</a>:
 

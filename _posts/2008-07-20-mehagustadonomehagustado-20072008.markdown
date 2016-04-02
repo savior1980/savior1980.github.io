@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [20/07/2008]
 date: '2008-07-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/21/mehagustadonomehagustado-20072008/
+permalink: 2008/07/21/mehagustadonomehagustado-20072008/
 ---
 - <strong>MEHAGUSTADO</strong> enorme y con mayúsculas para el <a href="http://resistancefutile.com/2008/07/20/gracies-jefe/">concierto del Boss en el Camp Nou ayer</a>. No tengo palabras para describir el mejor concierto de todos los que he ido, fue mágico. 
 

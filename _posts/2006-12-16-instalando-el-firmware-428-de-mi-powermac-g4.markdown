@@ -2,7 +2,7 @@
 layout: post
 title: Instalando el firmware 4.2.8 de mi PowerMac G4
 date: '2006-12-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/16/instalando-el-firmware-428-de-mi-powermac-g4/
+permalink: 2006/12/16/instalando-el-firmware-428-de-mi-powermac-g4/
 ---
 Siento hacerme pesado con la misma temática, pero es que tengo que expresarlo de alguna manera... quién no quiera que no lea a partir de aquí porque estáis avisados: este post será una rallada sobre sistemas operativos Mac, firmwares, Ubuntus 6.06 live y gilipolleces mentales de cosecha propia que he decidido exponer en relación al nuevo Mac.
 

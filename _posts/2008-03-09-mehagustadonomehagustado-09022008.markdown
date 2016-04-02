@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [09/02/2008]
 date: '2008-03-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/10/mehagustadonomehagustado-09022008/
+permalink: 2008/03/10/mehagustadonomehagustado-09022008/
 ---
 - <strong>Mehagustado</strong> recibir mi ansiado MacBook Pro, una máquina con un rendimiento excelente, con infinidad de mejoras respecto al iBook G4 que usaba antes y del que de momento estoy más que satisfecho. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Nervios para el miércoles
 date: '2007-12-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/03/nervios-para-el-miercoles/
+permalink: 2007/12/03/nervios-para-el-miercoles/
 ---
 Hace meses que tengo reservados unos billetes para pasar este puente de diciembre en London con los colegas del MundoReal&trade; y con Cristina. Iremos con RyanAir desde Girona a Standstet el miércoles a las 21:15h. Lo cual prácticamente nos obliga a salir de Mataró a las 18:30, ya que si tenemos una hora de coche en condiciones normales, no quiero saber lo que puede ocurrir habiendo tráfico de operación salida, así que si llegamos a las 20h al aueropuerto de Girona ya podemos darnos con un canto en los dientes, pero tened en cuenta que a las 20:30 nos cierran el checkin y estos de Ryanair no se andan con chinitas.
 

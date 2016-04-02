@@ -2,7 +2,7 @@
 layout: post
 title: Gort está aquí
 date: '2007-10-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/08/gort-esta-aqui/
+permalink: 2007/10/08/gort-esta-aqui/
 ---
 <img class="centro" src='/assets/060419_gort_lg.jpg' alt='Mi iPod touch' />
 

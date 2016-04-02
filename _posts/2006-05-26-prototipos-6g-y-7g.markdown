@@ -2,7 +2,7 @@
 layout: post
 title: Prototipos 6G y 7G
 date: '2006-05-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/26/prototipos-6g-y-7g/
+permalink: 2006/05/26/prototipos-6g-y-7g/
 ---
 Los rumores de un nuevo iPod llevan acompañándonos dese principios de año. Que si vídeo extendido como principal feature, que si touchdisplay, que si bluetooth... lo que está claro es que nadie sabe con seguridad, aparte de tito Steve, cuándo sacarán nuevo modelo y qué opciones incluirá, con lo que tendremos que dejar rienda suelta a nuestra imaginación.
 

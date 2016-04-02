@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [25/11/2007]
 date: '2007-11-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/25/mehagustadonomehagustado-25112007/
+permalink: 2007/11/25/mehagustadonomehagustado-25112007/
 ---
 - <strong>Mehagustado</strong> bastante este finde tan completo que he tenido, sábado comida familiar, cena de cumpleaños de un amigote del Mundo Real&trade; y domingo <a href="http://www.applesfera.com/2007/11/25-en-la-jornada-campusmac-de-mediacenters">jornada campusmac de media centers</a>. Muy completo, no he tenido tiempo de nada pero ahora que lo veo a toro pasado me lo he pasado muy bien.
 

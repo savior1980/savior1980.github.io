@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [09/04/2007]
 date: '2007-04-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/09/mehagustadonomehagustado-09042007/
+permalink: 2007/04/09/mehagustadonomehagustado-09042007/
 ---
 Ante todo, decir que este fin de semana ha sido largo, en Catalunya el viernes pasado y hoy lunes han sido festivos, así que digamos que hoy es una especie de "domingo" para mí, de ahí el retraso de un día en el mehagustado/nomehagustado, con el que os dejo a continuación:
 

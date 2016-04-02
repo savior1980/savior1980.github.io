@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/03/2010]
 date: '2010-03-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/03/15/mehagustadonomehagustado-14032010/
+permalink: 2010/03/15/mehagustadonomehagustado-14032010/
 ---
 - *Nomehagustado* nada la nevada de este lunes pasado en Catalunya, especialmente la afectación a Barcelona (fue un puto caos, tardé 4 horas en llegar a casa) y lo que todavía está ocurriendo en Girona, que hay cantidad de pueblos todavía sin luz. 
 

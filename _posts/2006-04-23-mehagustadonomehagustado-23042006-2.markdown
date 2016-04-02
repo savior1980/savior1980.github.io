@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [23/04/2006]
 date: '2006-04-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/23/mehagustadonomehagustado-23042006-2/
+permalink: 2006/04/23/mehagustadonomehagustado-23042006-2/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> que al navegar en busca de software para Mac, encuentres que el autor del software es de una ciudad muy próxima, en este caso, rebuscando en <a href="http://www.macupdate.com/">MacUpdate</a> he encontrado a <a href="http://oriol.mine.nu/about/">Oriol Messià Ferrer</a>, natural de Barcelona, que nos propone unos programas bastante interesantes que podéis descubrir en <a href="http://oriol.mine.nu/software/">una sección de su blog</a>.
 

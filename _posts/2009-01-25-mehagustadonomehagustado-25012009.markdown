@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [25/01/2009]
 date: '2009-01-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/26/mehagustadonomehagustado-25012009/
+permalink: 2009/01/26/mehagustadonomehagustado-25012009/
 ---
 - <strong>Mehagustado</strong> que esta semana, si dios nos ayuda, será la última que pasaré en Mallorca. Esperemos que todo salga bien y que los futuros proyectos que vengan estén bien, de momento mañana tengo una reunión interesante.
 

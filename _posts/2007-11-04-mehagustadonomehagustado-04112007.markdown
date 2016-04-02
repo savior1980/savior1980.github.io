@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [04/11/2007]
 date: '2007-11-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/05/mehagustadonomehagustado-04112007/
+permalink: 2007/11/05/mehagustadonomehagustado-04112007/
 ---
 - <strong>Mehagustado</strong> bastante la nueva de Woody Allen, <a href="http://www.imdb.com/title/tt0795493/">Cassandra's Dream</a>. Es una peli muy intimista, muy sencilla en su planteamiento pero que plantea unas dudas brutales, uno poco a poco va quedando enganchado en los quehaceres de los protagonistas. Lo que <strong>nomehagustado</strong> en absoluto son las risas de algunos espectadores a los guiños que Woody deja en muchas escenas, de acuerdo que son graciosos y te sacan un poco de la oscuridad de la peli pero no son para reír a carcajada limpia y molestar a toda la sala. Nomehagustado tampoco la actuación de Collin Farrell, no me lo he creído en toda la peli.
 

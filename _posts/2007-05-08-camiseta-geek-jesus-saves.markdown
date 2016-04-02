@@ -2,7 +2,7 @@
 layout: post
 title: 'Camiseta geek: Jesus saves'
 date: '2007-05-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/08/camiseta-geek-jesus-saves/
+permalink: 2007/05/08/camiseta-geek-jesus-saves/
 ---
 <img class="centro" src='/assets/jesus_saves_folded_marge_black_folded.png' alt='jesus saves, buddha does incremental backups' />
 

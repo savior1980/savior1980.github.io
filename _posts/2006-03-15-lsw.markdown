@@ -2,7 +2,7 @@
 layout: post
 title: LSW
 date: '2006-03-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/03/15/lsw/
+permalink: 2006/03/15/lsw/
 ---
 <a href="http://www.lswproject.com/" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}">
 <img alt="" border="0" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/lswcomp7.jpg"/>

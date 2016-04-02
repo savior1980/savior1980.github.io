@@ -2,7 +2,7 @@
 layout: post
 title: Fotos y software de mi iMac G3 con Panther
 date: '2006-09-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/02/fotos-y-software-de-mi-imac-g3-con-panther/
+permalink: 2006/09/02/fotos-y-software-de-mi-imac-g3-con-panther/
 ---
 <a href="http://www.flickr.com/photos/savior1980/231971453/" title="Photo Sharing"><img align="right" src="http://static.flickr.com/84/231971453_72f4676c1b_t.jpg" width="100" height="75" alt="Panther Running" /></a>Hace tiempo os prometí un post en el que hablaría de mi iMac G3, del software que le he instalado y con alguna que otra foto más de su aspecto externo. En cuanto a fotos he subido 4 más a mi cuenta en flickr bajo el <a href="http://www.flickr.com/photos/savior1980/tags/imacg3/">tag imac G3</a>.
 

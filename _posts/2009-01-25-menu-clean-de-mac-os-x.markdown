@@ -2,7 +2,7 @@
 layout: post
 title: Menú Clean de Mac OS X
 date: '2009-01-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/26/menu-clean-de-mac-os-x/
+permalink: 2009/01/26/menu-clean-de-mac-os-x/
 ---
 <img src="/assets/menu-os-x.jpg" alt="menu os x clean" title="menu os x clean" width="399" height="233" class="centro_borde" />Aquí os pongo una captura de las aplicaciones que tengo al arrancar el sistema con la nueva apariencia <a href="http://macthemes2.net/forum/viewtopic.php?id=16792168">Clean</a> que he visto en macthemes (si tenéis algún problema para aplicar los iconos dejadme un comentario y lo miramos). De izquierda a derecha tenemos:
 

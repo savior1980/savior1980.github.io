@@ -2,7 +2,7 @@
 layout: post
 title: 7 consejos para mantener tu Mac en plena forma
 date: '2006-05-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/18/7-consejos-para-mantener-tu-mac-en-plena-forma-2/
+permalink: 2006/05/18/7-consejos-para-mantener-tu-mac-en-plena-forma-2/
 ---
 <a href="http://docs.info.apple.com/article.html?artnum=303602"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/osxmaintain.gif" border="0" alt="" /></a>Abriéndome paso entre mis feeds que hablan de temas de Mac cómo si de una jungla se tratase, me topé con este pequeño tesoro que os describo a continuación, es prácticamente una traducción muy abreviada del artículo original así que si conocéis un poco de inglés os recomiendo leer el vía ya que mis dotes de traducción son bastante pésimas. Nos da una serie de consejos (alguno muy básico y alguno a modo de bronca) para que espabilemos y optimizemos al máximo nuestro Mac.
 <ol>

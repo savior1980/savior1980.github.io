@@ -2,7 +2,7 @@
 layout: post
 title: iTunes 8, un éxito sin precedentes
 date: '2008-09-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/09/itunes-8-un-exito-sin-precedentes/
+permalink: 2008/09/09/itunes-8-un-exito-sin-precedentes/
 ---
 Juzgad vosotros mismos por las imágenes siguientes
 

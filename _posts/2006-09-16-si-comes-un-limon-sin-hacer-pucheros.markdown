@@ -2,7 +2,7 @@
 layout: post
 title: Si comes un limón sin hacer pucheros...
 date: '2006-09-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/16/si-comes-un-limon-sin-hacer-pucheros/
+permalink: 2006/09/16/si-comes-un-limon-sin-hacer-pucheros/
 ---
 <a href="http://www.racocatala.cat/articles/11990"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Imagen%201.png" border="0" alt="" /></a>... te serán concedidos todos tus deseos, o algo así sería la traducción de la frase hecha en catalán "Si menges una llimona sense fer ganyotes, et serán concedits tots els teus desitjos". Curiosamente es el título del <a href="http://www.racocatala.cat/articles/11990">libro</a> que estoy leyendo actualmente, bueno, casi, el autor, <a href="http://www.escriptors.cat/autors/pamiess/index.html">Sergi Pàmies</a> decidió ante las súplicas de su editor acortar el título a la mitad, hasta la coma. Sí he aparcado el tedioso segundo volumen del "Sistema del Mundo" de Neal Stephenson para digerir estos 20 relatos de 2 o 3 páginas cada uno y que forman el último libro del periodista catalán.
 

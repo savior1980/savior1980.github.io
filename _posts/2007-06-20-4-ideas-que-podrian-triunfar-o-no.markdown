@@ -2,7 +2,7 @@
 layout: post
 title: 4 ideas que podrían triunfar (o no)
 date: '2007-06-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/20/4-ideas-que-podrian-triunfar-o-no/
+permalink: 2007/06/20/4-ideas-que-podrian-triunfar-o-no/
 ---
 Hace unos días estuve pensando un poco sobre posibles proyectos que podrían triunfar pero he llegado a la conclusión de que no puedo embarcarme en ninguno por falta de:
 a) tiempo 

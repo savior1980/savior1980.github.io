@@ -2,7 +2,7 @@
 layout: post
 title: Loftcube
 date: '2005-12-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/30/loftcube/
+permalink: 2005/12/30/loftcube/
 ---
 Viendo una revista de dise&#241;o he econtrado algo curioso:
 

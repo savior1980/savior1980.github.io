@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [18/06/2006]
 date: '2006-06-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/18/mehagustadonomehagustado-18062006/
+permalink: 2006/06/18/mehagustadonomehagustado-18062006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> el tener ya una idea clara de mis vacaciones con los amigos: tour por el sur de España, ellos estarán dos semanas, yo sólo una, pero seguro que valdrá la pena. Además fue todo muy bien expuesto, muy democrático, decidimos con papel y boli y votación a mano alzada.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [27/08/2006]
 date: '2006-08-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/27/mehagustadonomehagustado-27082006/
+permalink: 2006/08/27/mehagustadonomehagustado-27082006/
 ---
 - <span style="font-weight:bold;">Nomehagustado</span> esta semana de vuelta al curro, poca gente, había poco que hacer, todo muy extraño, como estar en semivacaciones y en semicurro, además que sigo sin tener una idea clara de lo que quiero a nivel laboral, si deseo la semitranquilidad que se respira en mi trabajo actual y que me permitió adentrarme en el mundo de los blogs y tener más tiempo libre, o bien volver al mundo competitivo y desleal de una consultoría, en dónde la verdad se gana más dinero y lo tienen mejor valorado a uno. Sigo pues sin haber tomado una decisión en firme.
 

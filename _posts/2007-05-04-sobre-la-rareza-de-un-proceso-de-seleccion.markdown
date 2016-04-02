@@ -2,7 +2,7 @@
 layout: post
 title: sObre la RAreza de un proCeso de seLEcción
 date: '2007-05-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/05/sobre-la-rareza-de-un-proceso-de-seleccion/
+permalink: 2007/05/05/sobre-la-rareza-de-un-proceso-de-seleccion/
 ---
 <img class="derecha_borde" src='/assets/starbucks_escher-767149.png' alt='escher starbucks' />Pensad en una gran multinacional del software, principalmente centrada en productos de Base de Datos, si pensáis que empieza por O, estáis en lo cierto ésa es, los avispados habrán pillado ya el mensaje subliminal que hay escondido en el título de la entrada. Bien resulta que un buen amigo que ahora está dentro, me recomendó para un puesto allí. Yo ni corto ni perezoso, empecé el proceso de selección con ellos y ahora os lo voy a describir más o menos para que comprtáis conmigo mi inquietud.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Se buscan viajeros en el tiempo
 date: '2007-05-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/23/se-buscan-viajeros-en-el-tiempo/
+permalink: 2007/05/23/se-buscan-viajeros-en-el-tiempo/
 ---
 <img class="centro" src='/assets/back.jpg' alt='demanda de viajeros del tiempo' />
 

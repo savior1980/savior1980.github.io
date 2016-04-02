@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [20/03/2011]
 date: '2011-03-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/03/20/mehagustadonomehagustado-20032011/
+permalink: 2011/03/20/mehagustadonomehagustado-20032011/
 ---
 - *Mehagustado* mucho recibir un noticia de unos amigos del MundoReal&trade; fui a comer con ellos ayer en Granollers, dos serán padres, el resto se casan entre verano y septiembre, me hago mayor copón.
 

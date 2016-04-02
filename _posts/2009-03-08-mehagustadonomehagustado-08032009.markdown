@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [08/03/2009]
 date: '2009-03-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/03/09/mehagustadonomehagustado-08032009/
+permalink: 2009/03/09/mehagustadonomehagustado-08032009/
 ---
 - <strong>Mehagustado</strong> entregar unos informes al cliente y que este los recibiera con buenos ojos y nos agradeciera nuestro esfuerzo por conseguirlos en los plazos acordados. Creo que es motivo de satisfacción cuando después de estrés y nervios las cosas acaban bien.
 

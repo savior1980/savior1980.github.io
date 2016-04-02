@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/03/2009]
 date: '2009-03-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/03/01/mehagustadonomehagustado-01032009/
+permalink: 2009/03/01/mehagustadonomehagustado-01032009/
 ---
 - <strong>Nomehagustado</strong> que sin comerlo ni beberlo ya estemos a Marzo, me ha pasado Febrero volando, ni me he enterado, en parte porque el curro me está absorbiendo a saco, pero es que necesito desconectar hacer unas minivacaciones y estoy viendo que hasta semana santa nasti de plasti. 
 

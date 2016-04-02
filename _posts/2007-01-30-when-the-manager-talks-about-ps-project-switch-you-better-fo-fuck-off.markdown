@@ -2,7 +2,7 @@
 layout: post
 title: When the Manager talks about PS (Project Switch) you better FO (Fuck Off)
 date: '2007-01-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/31/when-the-manager-talks-about-ps-project-switch-you-better-fo-fuck-off/
+permalink: 2007/01/31/when-the-manager-talks-about-ps-project-switch-you-better-fo-fuck-off/
 ---
 Hola soy un gerente de consultoría y me molo nenitas, hago posturitas delante el espejo y soy supermegachuli de la vida, "adorable" (pronúnciese esto con acento inglés aunque no exista tal palabra) y te la voy a meter doblada, <span style="font-weight:bold;">tres de cada dos veces</span> que hables conmigo, por eso me pagan <span style="font-style:italic;">la ostia</span>, perdón por la ordinariez, pero es que es así.
 

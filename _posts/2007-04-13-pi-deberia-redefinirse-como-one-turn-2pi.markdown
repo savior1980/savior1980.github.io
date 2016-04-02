@@ -2,7 +2,7 @@
 layout: post
 title: Pi debería redefinirse como One Turn (2Pi)
 date: '2007-04-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/13/pi-deberia-redefinirse-como-one-turn-2pi/
+permalink: 2007/04/13/pi-deberia-redefinirse-como-one-turn-2pi/
 ---
 Es decir que el símbolo &pi; debería definirse como 2&pi; en lugar de 3.1415... debería valer 6,283... ya que de esta forma en gran cantidad de fórmulas matemáticas nos ahorraríamos tener que escribir un 2&pi;. En su defecto escribiríamos solo el símbolo matemático que proponen en <a href="http://www.math.utah.edu/~palais/pi.html">este artículo de la universidad de Utah</a> un "Una vuelta" o como dirían los yankees "One Turn" que es el símbolo que véis a continuación.
 

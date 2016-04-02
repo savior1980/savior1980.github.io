@@ -2,7 +2,7 @@
 layout: post
 title: La curva de la cafeína
 date: '2006-12-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/28/la-curva-de-la-cafeina/
+permalink: 2006/12/28/la-curva-de-la-cafeina/
 ---
 ¿La curva de la cafeína o la curva del día a día? Me he sentido identificado cuando he visto <a href="http://www.nyu.edu/classes/siva/archives/caffeinegraph.jpg">este gráfico</a>... ¿soy un adicto a la cafeína?
 

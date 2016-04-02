@@ -2,7 +2,7 @@
 layout: post
 title: Carta de Dimisión
 date: '2007-07-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/22/carta-de-dimision/
+permalink: 2007/07/22/carta-de-dimision/
 ---
 A/A Responsable RRHH,
 

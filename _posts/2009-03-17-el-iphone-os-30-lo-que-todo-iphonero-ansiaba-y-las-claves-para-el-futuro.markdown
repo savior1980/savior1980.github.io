@@ -2,7 +2,7 @@
 layout: post
 title: El iPhone OS 3.0, lo que todo iphonero ansiaba y las claves para el futuro
 date: '2009-03-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/03/17/el-iphone-os-30-lo-que-todo-iphonero-ansiaba-y-las-claves-para-el-futuro/
+permalink: 2009/03/17/el-iphone-os-30-lo-que-todo-iphonero-ansiaba-y-las-claves-para-el-futuro/
 ---
 <img src="/assets/zz5e56fa6b.jpg" alt="iPhone 3.0 mola" title="iPhone 3.0 mola" width="500" height="246" class="centro" />La keynote de hoy en líneas generales ha sido excelente, de las mejores que yo recuerde ya que básicamente ha conseguido dar a los usuarios del iPhone casi todas las cosas que venían demandando y ha conseguido además añadir alguna que otra funcionalidad más que puede resultar tremendamente útil si se lleva a cabo de forma correcta (a cagarla siempre estamos a tiempo).
 

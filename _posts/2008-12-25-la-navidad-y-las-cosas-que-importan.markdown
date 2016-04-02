@@ -2,7 +2,7 @@
 layout: post
 title: La navidad y las cosas que importan
 date: '2008-12-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/12/25/la-navidad-y-las-cosas-que-importan/
+permalink: 2008/12/25/la-navidad-y-las-cosas-que-importan/
 ---
 Cuando viene la navidad a uno siempre le da por pasar balance, hacer una revisión de su vida, valorar qué cosas ocupan su escala de valores e intentar identificar aquellas actitudes o tareas que está dejando descuidadas. Uno es como es qué se le va a hacer, pero al final siempre es bueno ser consciente de las cosas que realmente te importan.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Usuario
 date: '2007-09-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/12/usuario/
+permalink: 2007/09/12/usuario/
 ---
 <p class="frase">-Oye, que he instalado un plugin para el mésenyer y ahora no me va internet
 -Déjame ver… sí, tienes un problema de red en la <a href="http://en.wikipedia.org/wiki/OSI_model">capa 8</a></p>

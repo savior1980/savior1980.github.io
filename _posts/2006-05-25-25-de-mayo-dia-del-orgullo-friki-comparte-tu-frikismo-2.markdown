@@ -2,7 +2,7 @@
 layout: post
 title: '25 de Mayo: Día del orgullo friki, comparte tu frikismo'
 date: '2006-05-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/25/25-de-mayo-dia-del-orgullo-friki-comparte-tu-frikismo-2/
+permalink: 2006/05/25/25-de-mayo-dia-del-orgullo-friki-comparte-tu-frikismo-2/
 ---
 <a href="http://www.orgullofriki.com/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/dia-orgulllo-friki.jpg" border="0" alt="" /></a>Hoy es el día del orgullo friki, por varios motivos, entre otros porque el 25 de mayo de 1977 se estrenó Star Wars, así que hoy hay que enseñar lo frikis que somos, en la calle, en el trabajo, en nuestros blogs...
 

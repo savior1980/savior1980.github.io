@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado (07/02/2010)
 date: -0001-11-30T00:00:00+00:00
-permalink: http://resistancefutile.com/?p=1661
+permalink:?p=1661
 ---
 - Mehagustado bastante la aplicación Stanza, para meter libros en pdf al iPhone.
 

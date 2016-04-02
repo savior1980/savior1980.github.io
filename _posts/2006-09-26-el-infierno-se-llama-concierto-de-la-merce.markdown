@@ -2,7 +2,7 @@
 layout: post
 title: El infierno se llama concierto de la Mercè
 date: '2006-09-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/26/el-infierno-se-llama-concierto-de-la-merce/
+permalink: 2006/09/26/el-infierno-se-llama-concierto-de-la-merce/
 ---
 Yo creo que no os tengo que explicar nada más, milady ha hecho <a href="http://childrenatyourfeet.blogspot.com/2006/09/vine-la-festa.html">un completo resumen</a> de lo sucedido ayer en el concierto gratuito para las fiestas de "La Mercè" (fiesta mayor de Bcn) en el recinto del fórum. También podéis consultar <a href="http://www.20minutos.es/noticia/156187/0/avalancha/humana/barcelona/">este artículo</a> en 20 minutos (en su línea un poco sensacionalista).
 

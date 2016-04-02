@@ -2,7 +2,7 @@
 layout: post
 title: PhotoDesktop, tus fotos, en tu escritorio
 date: '2006-06-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/17/photodesktop-tus-fotos-en-tu-escritorio/
+permalink: 2006/06/17/photodesktop-tus-fotos-en-tu-escritorio/
 ---
 <a href="http://www.alwintroost.nl/content/photodesktop/home.xml"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://www.alwintroost.nl/content/photodesktop/images/MainIcon.png" border="0" alt="" /></a>Con <a href="http://www.alwintroost.nl/content/photodesktop/home.xml">PhotoDesktop</a>, una aplicación gratuita para Mac OS X, seremos capaces de distribuir por nuestro escritorio las fotos que más nos gusten creando una composición visual muy agradable a la vista. Es muy configurable, podemos agregar rotaciones, ampliar y colocar las fotos a nuestro gusto y manera, además será capaz de hacer búsquedas por nuestra biblioteca iPhoto. 
 

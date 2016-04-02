@@ -2,7 +2,7 @@
 layout: post
 title: No estrelles la ambulancia, hijo
 date: '2007-12-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/29/no-estrelles-la-ambulancia-hijo/
+permalink: 2007/12/29/no-estrelles-la-ambulancia-hijo/
 ---
 <p class="chorus">Here, son
 I'm handing over to you

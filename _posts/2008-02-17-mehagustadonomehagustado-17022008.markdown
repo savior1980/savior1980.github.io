@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [17/02/2008]
 date: '2008-02-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/17/mehagustadonomehagustado-17022008/
+permalink: 2008/02/17/mehagustadonomehagustado-17022008/
 ---
 - <strong>Nomehagustado</strong> tener curro infinito esta semana y todo a raíz de una reunión el martes que fue peor de lo que me esperaba y en la que el cliente nos exigió más de lo que a priori podíamos pronosticar. El resultado fue que tuvimos incluso que trabajar ayer sábado por la tarde, pero al final espero que la reunión de mañana sea positiva.
 

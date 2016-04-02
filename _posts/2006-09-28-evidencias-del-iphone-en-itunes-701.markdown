@@ -2,7 +2,7 @@
 layout: post
 title: Evidencias del iPhone en iTunes 7.0.1
 date: '2006-09-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/28/evidencias-del-iphone-en-itunes-701/
+permalink: 2006/09/28/evidencias-del-iphone-en-itunes-701/
 ---
 Acaban de actualizar iTunes 7 a una nueva versión 7.0.1 que en principio es más estabe y el Coverflow mejora algo, también tiene un rendimiento general bastante mejor en comparación con la versión que sacaron para el <a href="http://resistancefutile.blogspot.com/2006/09/apple-renueva-gama-ipod-y-presenta-itv.html">It's showtime</a>, que yo creo que era lo más inestable y trapero que había visto en bastante tiempo.
 

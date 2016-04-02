@@ -2,7 +2,7 @@
 layout: post
 title: Problemas con el dominio
 date: '2008-03-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/21/problemas-con-el-dominio/
+permalink: 2008/03/21/problemas-con-el-dominio/
 ---
 Si habéis entrado a <a href="http://reistancefutile.com">este blog</a> o al de <a href="http://childrenatyourfeet.com">Cristina</a> durante esta mañana, os habréis encontrado con la típica página de que el dominio estaba libre o expirado, al final hemos podido arreglarlo, había un fallo en la configuración del dominio que tenemos en Yahoo.
 

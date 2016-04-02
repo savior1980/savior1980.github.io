@@ -2,7 +2,7 @@
 layout: post
 title: Descubriendo los microformatos
 date: '2007-12-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/04/descubriendo-los-microformatos/
+permalink: 2007/12/04/descubriendo-los-microformatos/
 ---
 <img src='/assets/resist_microformats.png' alt='Resistance to Microformats' class="centro_borde" />
 

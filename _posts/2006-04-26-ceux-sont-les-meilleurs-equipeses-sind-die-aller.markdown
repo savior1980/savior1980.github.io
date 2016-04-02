@@ -4,7 +4,7 @@ title: |-
   Ceux sont les meilleurs equipes,
   Es sind die aller...
 date: '2006-04-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/26/ceux-sont-les-meilleurs-equipeses-sind-die-aller/
+permalink: 2006/04/26/ceux-sont-les-meilleurs-equipeses-sind-die-aller/
 ---
 <p class="chorus">Ceux sont les meilleurs equipes,
 Es sind die aller besten

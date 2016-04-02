@@ -2,7 +2,7 @@
 layout: post
 title: ¿Por qué sigo usando Quicksilver?
 date: '2011-01-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/01/07/%c2%bfpor-que-sigo-usando-quicksilver/
+permalink: 2011/01/07/%c2%bfpor-que-sigo-usando-quicksilver/
 ---
 Hola amigos maqueros, hoy salgo del habitual Mehagustado para traeros una reflexión sobre un programa que considero crucial. Muchos os preguntaréis *por qué uso Quicksilver en mi día a día y no he migrado a algún otro programa para sustituirlo*. La respuesta es sencilla: no puedo vivir sin "Quicksilver":http://qsapp.com/, fue de las primeras aplicaciones que instalé en Tiger y fue como descubrir un mundo nuevo de sensaciones en Mac OS X. 
 

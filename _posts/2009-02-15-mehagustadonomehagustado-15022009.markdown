@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [15/02/2009]
 date: '2009-02-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/02/16/mehagustadonomehagustado-15022009/
+permalink: 2009/02/16/mehagustadonomehagustado-15022009/
 ---
 - <strong>Mehagustado</strong> estar esta semana currando en la oficina, ha sido una semana mucho más agradable y mucho más tranquila que la anterior o que esta que viene. La que viene será una semana muy intensa, esperemos que sepa sacarle todo el jugo para que el viernes podamos irnos a Bilbo a una hora de persona.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [03/09/2006]
 date: '2006-09-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/03/mehagustadonomehagustado-03092006/
+permalink: 2006/09/03/mehagustadonomehagustado-03092006/
 ---
 - <span style="font-weight:bold;">Mehangustado</span> los nuevos anuncios de Apple <a href="http://www.apple.com/getamac/">"Get a Mac"</a>, brutales, sobretodo el del spyware que creo que está muy bien pensado, he visto poca reacción a estos anuncios, ¿qué ocurre gente, no os gustaron?
 

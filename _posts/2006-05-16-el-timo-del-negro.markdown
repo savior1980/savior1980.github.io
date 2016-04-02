@@ -2,7 +2,7 @@
 layout: post
 title: El timo del negro
 date: '2006-05-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/16/el-timo-del-negro/
+permalink: 2006/05/16/el-timo-del-negro/
 ---
 <a href="http://www.apple.com/es/macbook/macbook.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/macbookglossydisplay20060516.jpg" border="0" alt="" /></a><a href="http://childrenatyourfeet.blogspot.com">Lady Madonna</a> me lo apuntaba en <a href="http://resistancefutile.blogspot.com/2006/05/nuevos-macbook.html#114779145811126113">los comentarios</a> de la entrada del MacBook. (<span style="font-weight:bold;">Nota</span>: no tiene nada que ver con <a href="http://solo.infames.org/karambr-beta/">Karambr</a>)
 

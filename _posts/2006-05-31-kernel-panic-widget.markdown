@@ -2,7 +2,7 @@
 layout: post
 title: Kernel Panic Widget
 date: '2006-05-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/31/kernel-panic-widget/
+permalink: 2006/05/31/kernel-panic-widget/
 ---
 Fantásticos embelecedores para el Dashboard! Un un <a href="http://www.dashboardwidgets.com/showcase/details.php?wid=1665">KernelPanic</a> y un <a href="http://www.dashboardwidgets.com/showcase/details.php?wid=1035">BSOD</a>! Impresiona a tus  colegas, enseñándoles un Kernel Panic fictício! 
 

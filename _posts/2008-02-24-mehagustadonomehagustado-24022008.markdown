@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [24/02/2008]
 date: '2008-02-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/24/mehagustadonomehagustado-24022008/
+permalink: 2008/02/24/mehagustadonomehagustado-24022008/
 ---
 - <strong>Mehagustado</strong> mucho este finde, he desconectado casi totalmente del trabajo, hemos hecho cosas con Cristina, compramos algunas cositas para el piso el viernes, hoy nos han visitado sus padres, hemos estado charlando un buen rato y me lo he pasado genial. El sábado noche fuí a cenar a casa unos amigos y también megustó que Koko me recordara que a veces me olvido de ellos en el <strong>mehagustado</strong> semanal, esta semana como ves, no ha sido así.
 

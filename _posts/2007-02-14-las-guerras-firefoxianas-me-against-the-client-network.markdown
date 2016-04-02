@@ -2,7 +2,7 @@
 layout: post
 title: 'Las guerras firefoxianas: Me against the client network'
 date: '2007-02-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/02/14/las-guerras-firefoxianas-me-against-the-client-network/
+permalink: 2007/02/14/las-guerras-firefoxianas-me-against-the-client-network/
 ---
 Hoy estaba en el nuevo cliente y mi proyecto no acaba de arrancar por lo que no tenía mucho que hacer. Además no sé si os he comentado que no se puede usar mucho internet, ya que monitorizan tiempo de conexión y sitios a los que te conectas. Y aquí los borg <a href="http://resistancefutile.blogspot.com/2006/11/adaptor.html">no nos adaptaremos</a> porque esta gente sí controla.
 

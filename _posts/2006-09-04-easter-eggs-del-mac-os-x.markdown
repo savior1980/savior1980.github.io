@@ -2,7 +2,7 @@
 layout: post
 title: Easter Eggs del Mac OS X
 date: '2006-09-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/04/easter-eggs-del-mac-os-x/
+permalink: 2006/09/04/easter-eggs-del-mac-os-x/
 ---
 <a href="http://www.eeggs.com/tree/1141.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/small_logo.gif" border="0" alt="" /></a>Un Easter egg (huevo de pascua) según lo entiendo yo es una funcionalidad o contenido nuevo en una aplicación normalmente secreto y que lo más común es que sólo lo conozca el programador y poca gente más, pocas veces sale a la luz pública, sin embargo en <a href="http://www.eeggs.com/tree/1141.html">este sitio</a> recogen bastantes "easter eggs" y trucos relacionados con Mac OS X y en especial el terminal del sistema.
 

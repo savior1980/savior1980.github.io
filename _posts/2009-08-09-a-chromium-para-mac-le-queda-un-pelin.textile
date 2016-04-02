@@ -2,7 +2,7 @@
 layout: post
 title: A Chromium para Mac le queda un pelín
 date: '2009-08-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/08/09/a-chromium-para-mac-le-queda-un-pelin/
+permalink: 2009/08/09/a-chromium-para-mac-le-queda-un-pelin/
 ---
 <img src="/assets/zz3c5f1b01.png" alt="Chromium" title="Chromium" width="500" height="306" class="centro" />Como publicaba hace poco en "genbeta":http://www.genbeta.com/mac/chromium-para-mac-empieza-a-andar, la "versión en desarrollo de Google Chrome para Mac":http://build.chromium.org/buildbot/snapshots/chromium-rel-mac/ no hace más que avanzar últimamente a un ritmo de desarrollo vertiginoso. Las últimas _builds_ del navegador incluyen plugins de flash, para speed download, google gears, temas, en fin, que *Chromium es ya un navegador casi plenamente usable*. 
 

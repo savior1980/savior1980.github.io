@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [06/07/2008]
 date: '2008-07-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/06/mehagustadonomehagustado-06072008/
+permalink: 2008/07/06/mehagustadonomehagustado-06072008/
 ---
 - <strong>Nomehagustado</strong> la serie 30Rock, punto final. He visto el capítulo 5 y me sigue pareciendo absurda, estereotipada y sosa. 
 

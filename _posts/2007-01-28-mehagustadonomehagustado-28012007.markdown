@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [28/01/2007]
 date: '2007-01-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/29/mehagustadonomehagustado-28012007/
+permalink: 2007/01/29/mehagustadonomehagustado-28012007/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> bastante lo que he visto hasta ahora de la primera temporada de <a href="http://www.mundostartrek.com/guia.php?serie=ent">Star Trek Enterprise</a>, me estoy bajando ya la segunda, la verdad que no es pero sí es la típica serie Star Trek, es decir incorpora una serie de elementos nuevos muy buenos y respeta las características básicas de las series predecesoras.
 

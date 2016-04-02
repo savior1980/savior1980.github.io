@@ -2,7 +2,7 @@
 layout: post
 title: Encuentra el acierto en la imagen
 date: '2009-05-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/05/26/encuentra-el-acierto-en-la-imagen/
+permalink: 2009/05/26/encuentra-el-acierto-en-la-imagen/
 ---
 <img src="/assets/2449776901_3554e33502.jpg" alt="Un Macbook en la presentacion de ballmer" title="Un Macbook en la presentacion de ballmer" width="480" height="360" class="centro_borde" />
 Iba a titular el post <em>"Encuentra el fallo en la imagen"</em>, pero creo que más que un fallo <strong>es un acierto monumental</strong>.

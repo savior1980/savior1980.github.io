@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [11/09/2007]
 date: '2007-09-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/11/mehagustadonomehagustado-11092007/
+permalink: 2007/09/11/mehagustadonomehagustado-11092007/
 ---
 Hago un <strong>mehagustado</strong> especial ya que este finde ha sido un poco largo, hoy diada nacional de Catalunya es fiesta y ayer me lo pude pillar de puente así que he podido disfrutar de 4 días de "fiesta".
 

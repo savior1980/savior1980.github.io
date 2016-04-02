@@ -2,7 +2,7 @@
 layout: post
 title: Imagenes
 date: -0001-11-30T00:00:00+00:00
-permalink: http://resistancefutile.com/?p=1714
+permalink:?p=1714
 ---
 /assets/facebook_icon-resized-image-125x125.png
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [13/01/2008]
 date: '2008-01-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/14/mehagustadonomehagustado-13012008/
+permalink: 2008/01/14/mehagustadonomehagustado-13012008/
 ---
 - <strong>Nomehagustado</strong> el estrés de esta semana en el curro, ha sido bastante agobiante, dos reuniones chungas en Palma, una reunión un poquillo chunga en Barcelona, cambios a nivel organizativo que vendrán en un futuro cercano, el miércoles tenemos otra reunión chunga en Palma, en fin... que tenemos el tema curro movidito.
 

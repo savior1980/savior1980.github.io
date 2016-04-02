@@ -2,7 +2,7 @@
 layout: post
 title: No me lo voy a comprar (repite conmigo el mantra)
 date: '2007-06-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/05/no-me-lo-voy-a-comprar-repite-conmigo-el-mantra/
+permalink: 2007/06/05/no-me-lo-voy-a-comprar-repite-conmigo-el-mantra/
 ---
 <img class="centro" src='/assets/imagen-1.png' alt='MBP' />
 

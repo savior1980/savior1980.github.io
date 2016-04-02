@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [22/04/2007]
 date: '2007-04-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/22/mehagustadonomehagustado-22042007/
+permalink: 2007/04/22/mehagustadonomehagustado-22042007/
 ---
 - <strong>Mehagustado</strong> la peli <a href="http://www.imdb.com/title/tt0363547/">Dawn of the Dead</a>, como peli de zombies no está nada mal, a ver es una peli de zombies, no os esperéis nada de nada, pero dentro de lo que podría ser está bastante bien. Y sí, no sé que me ha dado que me he bajado bastantes pelis de miedo... supongo que como hacía mucho mucho que no me veía ninguna, ahora compenso.
 

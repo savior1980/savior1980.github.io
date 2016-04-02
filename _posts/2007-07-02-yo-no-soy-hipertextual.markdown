@@ -2,7 +2,7 @@
 layout: post
 title: 'Yo NO soy Hipertextual '
 date: '2007-07-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/02/yo-no-soy-hipertextual/
+permalink: 2007/07/02/yo-no-soy-hipertextual/
 ---
 En <strong>Hipertextual</strong> han puesto <a href="http://hipertextual.com/soy/?reload">algunas frases que entiendo definen su filosofía</a>, su forma de ver las cosas, quizás desde un óptica ¿divertida? irreverente y sin tapujos: se muestran tal y como son. La página se va recargando con un conjunto de frases aleatorias a cada cual mejor, todas terminan por "Soy Hipertextual" identificando pues los ideales de los que se nutren y exponiendo los objetivos y logros de la empresa, ejemplos:
 

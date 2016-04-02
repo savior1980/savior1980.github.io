@@ -2,7 +2,7 @@
 layout: post
 title: Las guerras Clon en Twitterland
 date: '2009-03-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/03/16/las-guerras-clon-en-twitterland/
+permalink: 2009/03/16/las-guerras-clon-en-twitterland/
 ---
 <img src="/assets/zz7930cb34.jpg" alt="Twitterland tomada por los clones" title="Twitterland tomada por los clones" width="200" height="379" class="derecha" />Creo que estoy siguiendo a más clones que a personajes originales, Dios, parad!!! Entre <a href="http://twitter.com/gambeta">gambeta</a>, <a href="http://twitter.com/humanito">humanito</a>, <a href="http://twitter.com/lorzo">lorzo</a>, <a href="http://twitter.com/peroaznar">peroaznar</a>, <a href="http://twitter.com/interperry">interperry</a>, <a href="http://twitter.com/tonymacarra">tonymacarra</a>... esto es la debacle absoluta!!! Al final voy a pensar que si no tienes clon no eres nadie en twitter.
 

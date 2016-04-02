@@ -2,7 +2,7 @@
 layout: post
 title: Aprendiendo klingon
 date: '2008-01-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/20/aprendiendo-klingon/
+permalink: 2008/01/20/aprendiendo-klingon/
 ---
 <img src='/assets/zz060d5408.png' alt='Klingon Empire' class="derecha" />Si estáis dispuestos a aprender un idioma curioso y muy friki, yo optaría por el klingon. El idioma de la raza guerrera del mismo nombre que aparece en Star Trek en todas las series. Es un idioma bastante complicado y con sonidos guturales, pero que puede añadir un nivel de encriptación bastante elevado a nuestras conversaciones. A veces hablar con otra persona sin que nadie más pueda entenderte resulta ventajoso.
 

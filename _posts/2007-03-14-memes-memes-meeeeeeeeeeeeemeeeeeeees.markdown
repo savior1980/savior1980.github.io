@@ -2,7 +2,7 @@
 layout: post
 title: Memes, memes, meeeeeeeeeeeeemeeeeeeees
 date: '2007-03-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/14/memes-memes-meeeeeeeeeeeeemeeeeeeees/
+permalink: 2007/03/14/memes-memes-meeeeeeeeeeeeemeeeeeeees/
 ---
 A continuación un recopilatorio de los memes que he ido derogando y que me pasa <span style="font-weight:bold;">Cristina</span> en <a href="http://childrenatyourfeet.blogspot.com/2007/03/3-por-1-en-memes.html">este post</a>... ala chavales, a tomarlo con calma.
 <!--more-->

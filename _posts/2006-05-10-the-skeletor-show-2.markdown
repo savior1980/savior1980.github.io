@@ -2,7 +2,7 @@
 layout: post
 title: The Skeletor Show
 date: '2006-05-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/10/the-skeletor-show-2/
+permalink: 2006/05/10/the-skeletor-show-2/
 ---
 Han aparecido en YouTube una serie de vídeos (todos en inlgés pero se entiende muy bien) que vienen a representar igual que si de una sitcom se tratara, las aventuras y desventuras del temible Skeletor de la serie Masters del Universo (sí, ya sé, todo el mundo la malnombraba "He-man", pero eso era el nombre del protagonista).
 

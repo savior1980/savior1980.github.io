@@ -2,7 +2,7 @@
 layout: post
 title: 'Anuncio de MacAfee: spyware y adware a tope'
 date: '2006-10-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/04/anuncio-de-macafee-spyware-y-adware-a-tope/
+permalink: 2006/10/04/anuncio-de-macafee-spyware-y-adware-a-tope/
 ---
 El siguiente <a href="http://www.youtube.com/watch?v=3atmWmWCwlw">vídeo</a> me queda muy atrás en el pasado, o me recuerda a ese ordenador de un familiar que hace tiempo que no te ha pedido que revises... las siguiente imágenes pueden herir la sensibilidad de los espectadores, sobretodo al pensar que muchos usuarios de Windows, me atrevería incluso a decir que la mayoría, conviven temporal o permanentemente con spyware y adware variado.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [26/08/2007]
 date: '2007-08-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/27/mehagustadonomehagustado-26082007/
+permalink: 2007/08/27/mehagustadonomehagustado-26082007/
 ---
 - <strong>Mehagustado</strong> recuperar mi PowerMac G4, desde el que estoy escribiendo estas líneas, se lo había dejado a Cristina muy poco después de tenerlo y me alegro que a ella le sirviera de tanto, es como volver a ver a ese soldado que viene del vietnam con la estrella del honor, como ver a ese amigo que hace tiempo que no ves, de acuerdo <strong>estoy como una puta chota</strong> e imprimo personalidad a objetos inanimados, lo que puede transcribirse en un transtorno psicológico, pero joder, uno se alegra de recuperar algo que ha prestado que sabe que ha dado un buen servicio y que seguirá dándolo. En nuestra futura "habitación de los Macs" el PowerMac G4 tendrá el honor y el privilegio de ser nuestra máquina bittorrent: es silencioso y para descargar por bittorrent tiene procesador de sobra.
 

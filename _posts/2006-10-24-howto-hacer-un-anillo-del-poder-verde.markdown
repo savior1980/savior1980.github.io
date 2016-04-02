@@ -2,7 +2,7 @@
 layout: post
 title: '[HowTo] Hacer un anillo del Poder Verde'
 date: '2006-10-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/24/howto-hacer-un-anillo-del-poder-verde/
+permalink: 2006/10/24/howto-hacer-un-anillo-del-poder-verde/
 ---
 <a href="http://es.wikipedia.org/wiki/Green_Lantern"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/200px-Power_ring.jpg" border="0" alt="" /></a><a href="http://en.wikipedia.org/wiki/Green_Lantern">Linterna Verde</a>, es y por siempre será uno de mis superhéroes favoritos. Fue uno de los cómics que más leí en mi infancia. Me entusiasmaba, me sentía atraído por el <a href="http://en.wikipedia.org/wiki/Power_ring_%28weapon%29">Anillo de Poder</a> del protagonista que le otorgaba un poder casi ilimitado mientras tuviera suficiente energía.
 

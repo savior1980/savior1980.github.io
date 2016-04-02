@@ -2,7 +2,7 @@
 layout: post
 title: Mac ASCII Invaders
 date: '2006-11-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/02/mac-ascii-invaders/
+permalink: 2006/11/02/mac-ascii-invaders/
 ---
 Pocas veces he encontrado y jugado a algo tan geek, el Space Invaders, creado mediante caracteres en formato ASCII y desde el Terminal de Mac OS X... ¿Hay algo más geek para entretenerse? yo creo que no :P
 

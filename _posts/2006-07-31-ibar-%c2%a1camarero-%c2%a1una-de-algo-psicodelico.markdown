@@ -2,7 +2,7 @@
 layout: post
 title: iBar, ¡Camarero! ¡Una de algo psicodélico!
 date: '2006-07-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/31/ibar-%c2%a1camarero-%c2%a1una-de-algo-psicodelico/
+permalink: 2006/07/31/ibar-%c2%a1camarero-%c2%a1una-de-algo-psicodelico/
 ---
 Este <a href="http://www.i-bar.ch/index.php?id=85">iBar</a> es la monda, ved el vídeo que os pongo a continuación y juzgad vosotros mismos, dentro de poco en toda discoteca fancy que se precie, fashion, fashion... fashion.
 

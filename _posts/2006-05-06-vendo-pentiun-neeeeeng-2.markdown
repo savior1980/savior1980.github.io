@@ -2,7 +2,7 @@
 layout: post
 title: Vendo Pentiun neeeeeng
 date: '2006-05-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/06/vendo-pentiun-neeeeeng-2/
+permalink: 2006/05/06/vendo-pentiun-neeeeeng-2/
 ---
 Ayer estuve haciendo <a href="http://es.wikipedia.org/wiki/Troll_(Internet)">el troll</a> en <a href="http://solo.infames.org/%c2%bfbill-gates-disfrazado-de-trekkie-pues-ocurrio/#comments">Solo Otro blog infame</a>, en varias entradas que Hugo se sacó de la manga para crear polémica y despertar ese pequeño troll que todos tenemos "inside" como reza<s>ba</s> su tagline "trolls inside" <s>¿Hugo porqué lo has cambiado? Era buenísimo!</s> Bueno reí como nunca al ver un grupo de exaltados defender a capa y espada sus sistemas opertivos preferidos y criticando los de los rivales: dosis de sarcasmo, ironía y bofetadas a tutiplén.
 

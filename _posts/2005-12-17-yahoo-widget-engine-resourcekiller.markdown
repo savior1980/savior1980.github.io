@@ -2,7 +2,7 @@
 layout: post
 title: 'Yahoo Widget Engine: resourcekiller'
 date: '2005-12-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/17/yahoo-widget-engine-resourcekiller/
+permalink: 2005/12/17/yahoo-widget-engine-resourcekiller/
 ---
 <a href="http://widgets.yahoo.com/"><img alt="" border="0" src="http://widgets.yahoo.com/images/home/maintile/icon.gif" style="float:center; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 50px;"/></a><a href="http://widgets.yahoo.com/">
 </a>

@@ -2,7 +2,7 @@
 layout: post
 title: La reentrada
 date: '2007-07-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/19/la-reentrada/
+permalink: 2007/07/19/la-reentrada/
 ---
 Tengo una oferta para volver a una empresa de la que me fui, es una empresa grande, muy grande y donde habrá muchos nuevos retos y muchas oportunidades pero tendré que currar mucho. De hecho ya estuve allí y en parte me fui porque me tocaron un par de proyectos de mucho trabajo, mucho estrés y mucha presión. 
 

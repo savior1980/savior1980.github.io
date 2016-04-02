@@ -2,7 +2,7 @@
 layout: post
 title: EL caballero negro versión Star Wars
 date: '2006-06-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/27/el-caballero-negro-version-star-wars/
+permalink: 2006/06/27/el-caballero-negro-version-star-wars/
 ---
 Hilarante escena de la gran y mítica peli <a href="http://www.imdb.com/title/tt0071853/">"Los caballeros de la mesa cuadrada"</a> de <a href="http://es.wikipedia.org/wiki/Monty_Python">Monthy Python</a>, retocada en plan <span style="font-weight:bold;">Star Wars</span>.
 

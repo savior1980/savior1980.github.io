@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [11/11/2007]
 date: '2007-11-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/12/mehagustadonomehagustado-11112007/
+permalink: 2007/11/12/mehagustadonomehagustado-11112007/
 ---
 - <strong>Mehagustado</strong> y mucho la pedazo de fiestuki que se montó ayer en el nuevo pisito de unos amigotes del MundoReal&trade; el pisitio está de puta madre para ellos tres, les irá super bien y la fiesta moló a saco, cantidades brutales de bebida que volaron, mucha gente (a muchos no los había visto en la vida) y muy distinta, un 10 para la música y bueno ya irán saliendo fotos, vídeos y demás.
 

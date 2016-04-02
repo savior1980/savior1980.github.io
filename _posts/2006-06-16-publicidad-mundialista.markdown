@@ -2,7 +2,7 @@
 layout: post
 title: Publicidad Mundialista
 date: '2006-06-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/16/publicidad-mundialista/
+permalink: 2006/06/16/publicidad-mundialista/
 ---
 Observad el curioso fresco que han puesto los señores de Adidas en la Hauptbahnhof de Köln (Colonia, Alemania) con motivo del mundial... impresionante!!!
 

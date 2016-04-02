@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [16/09/2007]
 date: '2007-09-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/17/mehagustadonomehagustado-16092007/
+permalink: 2007/09/17/mehagustadonomehagustado-16092007/
 ---
 - <strong>Nomehagustado</strong> que uno de mis amigotes del Mundo Real &trade; tuviera un accidente de moto y se fracturara dos costillas, menos mal que hoy ya está en su casa iniciando la recuperación
 

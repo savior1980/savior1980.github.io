@@ -2,7 +2,7 @@
 layout: post
 title: AdapTOR
 date: '2006-11-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/27/adaptor/
+permalink: 2006/11/27/adaptor/
 ---
 Hoy nos dispararon <a href="http://www.sonicwall.com/products/cfs.html">un arma de bloqueo de URLs</a>, pero no sabían que...
 

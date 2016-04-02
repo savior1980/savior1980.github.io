@@ -2,7 +2,7 @@
 layout: post
 title: Unboxing al MacBook Air de 11,6"
 date: '2010-11-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/11/06/unboxing-macbook-air/
+permalink: 2010/11/06/unboxing-macbook-air/
 ---
 <a href="http://www.flickr.com/photos/savior1980/5152162852/" title="Caja Macbook Air 11 by Savior1980, on Flickr"><img src="http://farm5.static.flickr.com/4152/5152162852_f3f470b489.jpg" width="500" height="332" alt="Caja Macbook Air 11" /></a>
 

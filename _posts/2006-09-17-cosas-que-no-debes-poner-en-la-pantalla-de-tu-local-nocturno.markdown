@@ -2,7 +2,7 @@
 layout: post
 title: Cosas que NO debes poner en la pantalla de tu local nocturno
 date: '2006-09-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/17/cosas-que-no-debes-poner-en-la-pantalla-de-tu-local-nocturno/
+permalink: 2006/09/17/cosas-que-no-debes-poner-en-la-pantalla-de-tu-local-nocturno/
 ---
 Este post va dedicado a todos los propietarios de un local nocturno, ya sabéis: pubs, discos, bares, etc. En especial se lo dedico a los propietarios/responsables de "The Ugly Mug" pub irlandés de obligada peregrinación en el ocio nocturno de Mataró y la disco Manaus Manaus, también uno de los más reputados locales para las noches de fin de semana en la capital del Maresme (comarca catalana en la que resido).
 

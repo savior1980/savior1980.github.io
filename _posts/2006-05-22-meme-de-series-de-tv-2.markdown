@@ -2,7 +2,7 @@
 layout: post
 title: Meme de Series de TV
 date: '2006-05-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/22/meme-de-series-de-tv-2/
+permalink: 2006/05/22/meme-de-series-de-tv-2/
 ---
 Vía <a href="http://cuatrodoce.blogsome.com/2006/05/22/el-meme-de-las-series/">Cuatrodoce</a> me llega un meme que inció <a href="http://zagmac.net/">Zagar</a>, sobre las series que estamos viendo actualmente. Si tuviera tiempo vería más series, pero sólo me alcanza ver algún capítulo suelto con mi novia o bien alguno aún más de vez en cuando que me descargo por ahí.
 

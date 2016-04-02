@@ -2,7 +2,7 @@
 layout: post
 title: 'WTF genbetero '
 date: '2007-10-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/24/wtf-genbetero/
+permalink: 2007/10/24/wtf-genbetero/
 ---
 Hoy en genbeta hemos recibido dos perlas impresionantes en el formulario de contacto, una no voy a reproducirla aquí pero va atención de un médico retirado nacido en Jerusalén pero con nacionalidad española (la primera cosa que pone en el mail, es como diciendo no me tomen por un cualquiera eh) que tiene 5 libros manuscritos sobre urología y enfermedades sexuales y quiere publicarlos, que le demos un presupuesto de lo que le costaría. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/11/2010]
 date: '2010-11-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/11/01/mehagustadonomehagustado-01112010/
+permalink: 2010/11/01/mehagustadonomehagustado-01112010/
 ---
 - *Nomehagustado* estar tan estresado en el trabajo, realmente he pasado una semana muy dura y la que viene todavía será peor, hasta que no se normalice un poco la situación, estaré un poco al límite. Menos mal que hoy que es lunes hemos podido descansar y esta semana tendrá un día menos. A ver si nos cunde la semana porque hay mucho en juego.
 

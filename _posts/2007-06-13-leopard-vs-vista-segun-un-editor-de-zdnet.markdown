@@ -2,7 +2,7 @@
 layout: post
 title: Leopard vs. Vista según un editor de ZDNET
 date: '2007-06-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/13/leopard-vs-vista-segun-un-editor-de-zdnet/
+permalink: 2007/06/13/leopard-vs-vista-segun-un-editor-de-zdnet/
 ---
 Vamos a hacer el ejercicio de considerarnos fanboys de Microsoft, sé que os puede costar, pero intentadlo: amáis a Steve Ballmer, los BSODS no existen, ni tan siquiera usáis antivirus porque Windows es superseguro y super fácil de usar, es lo mejor que hay, esta gente de Mac OS X, no sabe lo que dice. Desde ese punto de Vista, leed <a href="http://blogs.zdnet.com/microsoft/?p=505">este artículo</a>, que lleva camino de convertirse en el post más leído y comentado de lo que llevamos de año.
 

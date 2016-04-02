@@ -2,7 +2,7 @@
 layout: post
 title: Probando Skitch
 date: '2007-08-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/21/probando-skitch/
+permalink: 2007/08/21/probando-skitch/
 ---
 <img src='/assets/imagen-1.jpg' alt='Probando Skitch' class="centro"/>
 

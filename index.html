@@ -14,10 +14,13 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
         <p>{{ post.excerpt}}</p>
         {% if post.excerpt.size < 250 %}
         <a href="{{ post.url | prepend: site.baseurl }}">Leer más</a>
+        <br/>
+        {% endif %}
+        {% if page.comments %}
+        <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
         {% endif %}
       </li>
 

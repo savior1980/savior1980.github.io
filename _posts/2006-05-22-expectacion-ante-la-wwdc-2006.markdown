@@ -2,7 +2,7 @@
 layout: post
 title: Expectación ante la WWDC 2006
 date: '2006-05-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/23/expectacion-ante-la-wwdc-2006/
+permalink: 2006/05/23/expectacion-ante-la-wwdc-2006/
 ---
 Periódicamente los señores de Apple envían correos presentando sus próximos eventos, sus recientes lanzamientos, o bien ofertas en sus productos.
 

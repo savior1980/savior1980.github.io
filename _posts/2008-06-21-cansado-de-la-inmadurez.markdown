@@ -2,7 +2,7 @@
 layout: post
 title: Cansado de la inmadurez
 date: '2008-06-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/21/cansado-de-la-inmadurez/
+permalink: 2008/06/21/cansado-de-la-inmadurez/
 ---
 22:30, Sants Estación, un hombre camina con un trolley en el que lleva un portátil, sus cables de conexión, una libreta, un iPod 4G que usa como disco duro portátil, una PDA Qtek, sendos cables de conexión y un puñado de cansancio acumulado de toda la semana laboral. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Cronica del seguimiento de la Keynote
 date: '2006-08-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/08/cronica-del-seguimiento-de-la-keynote/
+permalink: 2006/08/08/cronica-del-seguimiento-de-la-keynote/
 ---
 <a href="http://es.appleweblog.com/2006/08/07/cobertura-wwdc-2006/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/65.png" border="0" alt="" /></a>Bueno chicos, esto ha sido como un parto (con todos mis respetos al sector femenino que no se me ofenda), hacer el seguimiento de la Keynote para <a href="http://es.appleweblog.com">Apple Weblog</a> ha sido largo y tedioso, pero excitante a la vez.
 

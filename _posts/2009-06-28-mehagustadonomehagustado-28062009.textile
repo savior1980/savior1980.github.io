@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [28/06/2009]
 date: '2009-06-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/06/28/mehagustadonomehagustado-28062009/
+permalink: 2009/06/28/mehagustadonomehagustado-28062009/
 ---
 - <strong>Nomehagustado</strong> que esta semana haya rendido tan poco en el curro. Ha sido un poco frustrante todo en general, desde la despreocupación del cliente rayando en lo preocupante (valga el oxímoron) a la poca entrega tanto por mi parte como del compi de proyecto y es que hay veces en las que hay que organizarse mejor y tirar palante de forma ordenada y no a trompicones y de cualquier manera.
 

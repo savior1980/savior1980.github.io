@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [20/09/2009]
 date: -0001-11-30T00:00:00+00:00
-permalink: http://resistancefutile.com/?p=1563
+permalink:?p=1563
 ---
 - *Mehagustado* tener por fin Snow Leopard instalado y con la mayoría de aplicaciones rulando. Pero ha sido un FAIL tremendo restaurar la copia de seguridad de TimeMachine desde Time Capsule, por Wifi, ya que *nomehagustado* nada perder el MacBook casi un día entero. El Win es que muchas configuraciones y tal siguen vigentes tras la actualización y ahora tengo un sistema realmente rápido y casi igual que el que tenía antes de la actualización. 
 

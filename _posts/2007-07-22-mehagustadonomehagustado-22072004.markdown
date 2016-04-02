@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [22/07/2007]
 date: '2007-07-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/23/mehagustadonomehagustado-22072004/
+permalink: 2007/07/23/mehagustadonomehagustado-22072004/
 ---
 - <strong>Mehagustado</strong> el transcurso de este finde, me lo he pasado genial: ayer tuvimos comida en Altafulla con <a href="http://unamito.blogspot.com/">Unamito</a>, <a href="http://www.inkilino.com/">Inikilino</a>, Susana (la mujer de Jaime), <a href="http://childrenatyourfeet.com">Cristina</a>, servidor y las tres hijas de Unamito (un encanto las tres), discutimos un poco temas relacionados con la campusmac y la verdad que estuvo genial, tanto la comida como la sobremesa posterior. Por la noche tuvimos cena con unos amigos del MundoReal&trade; y luego fuimos a un chiringuito en la playa. Hoy también ha sido especial, hemos visto algunos capítulos de "A dos metros bajo tierra" y hemos ido a ver muebles de jardín para el nuevo piso, hemos hecho una barbacoa con mis padres y he cocinado yo (léase preparar la barbacoa, quemarle en el pié a mi hermano en el intento y luego darle vueltas a la carne).
 

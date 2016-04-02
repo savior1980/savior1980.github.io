@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [21/05/2006]
 date: '2006-05-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/21/mehagustadonomehagustado-21052006/
+permalink: 2006/05/21/mehagustadonomehagustado-21052006/
 ---
 - <span style="font-weight:bold;">Mehangustado</span> las novedades de Apple de esta semana: <a href="http://resistancefutile.blogspot.com/2006/05/apple-store-de-la-5-al-descubierto.html">la apertura de la tienda de la 5ª</a>, que estará abierta las 24h del día, los 365 días del año y el lanzamiento de <a href="http://resistancefutile.blogspot.com/2006/05/nuevos-macbook.html">los nuevos MacBooks</a>, que aportan mucho al panorama de portátil de consumo de Apple: poder tener un portátil por poco más de 1000 euros con nueva tecnología Intel es algo muy bueno.
 

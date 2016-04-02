@@ -2,7 +2,7 @@
 layout: post
 title: 'WTF: Poderoso SISTEMA esta Revolucionando el Estilo de Vida de la Gente Normal'
 date: '2007-09-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/01/wtf-poderoso-sistema-esta-revolucionando-el-estilo-de-vida-de-la-gente-normal/
+permalink: 2007/09/01/wtf-poderoso-sistema-esta-revolucionando-el-estilo-de-vida-de-la-gente-normal/
 ---
 Lo que nos llega al correo de contacto de genbeta, ya lo he dicho varias veces en las distintas beers & blogs, es en  ocasiones muy surrealista aquí va un ejemplo bastante clamoroso: un spam en toda regla, uno de esos correos que después de leerlos tan sólo tienes una salida, exclamar un potente y sonoro WTF!!! Ahí va:
 

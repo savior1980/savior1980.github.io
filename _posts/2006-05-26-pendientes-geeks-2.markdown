@@ -2,7 +2,7 @@
 layout: post
 title: Pendientes geeks
 date: '2006-05-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/26/pendientes-geeks-2/
+permalink: 2006/05/26/pendientes-geeks-2/
 ---
 <a href="http://ueba.com.br/forum/index.php?showtopic=22237"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/pendiente.jpg" border="0" alt="" /></a>Últimamente tenía descuidada la categoría de gadgets, dónde normalmente hago historias relacionadas con algun gadget un poco freak, me motivan especialmente gadgets como el que os incluyo a continuación, ahí va la historia:
 

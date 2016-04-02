@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [24/06/2007]
 date: '2007-06-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/24/mehagustadonomehagustado-24062007/
+permalink: 2007/06/24/mehagustadonomehagustado-24062007/
 ---
 - <strong>Nomehagustado</strong> que surjan complicaciones con el nuevo piso, el viernes fuimos a verlo ya con muebles y la verdad que el casero es muy rata y nos la quiere dar con queso, algunos muebles son del cretáceo y la nevera es del jurásico, intentaremos negociar un poco con él para ver si conseguimos que nos arregle un poco estos temas y si no que rebaje un poco el precio, ya veremos... esta semana es decisiva.
 

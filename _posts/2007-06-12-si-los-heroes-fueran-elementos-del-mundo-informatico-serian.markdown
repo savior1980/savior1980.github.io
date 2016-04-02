@@ -2,7 +2,7 @@
 layout: post
 title: Si los Heroes fueran elementos del mundo informático, serían...
 date: '2007-06-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/13/si-los-heroes-fueran-elementos-del-mundo-informatico-serian/
+permalink: 2007/06/13/si-los-heroes-fueran-elementos-del-mundo-informatico-serian/
 ---
 <img class="derecha" src='/assets/sylar.png' alt='heroes' />Espectacular el siguiente post de <a href=" http://www.emezeta.com/articulos/heroes-pc-y-si-fueran-informaticos">Emezeta</a> en el que define cada uno de los personajes de la serie Heroes en términos informáticos, es decir con algún referente claro del mundo informático, esta es la lista definitiva que viene ilustrada en el post original con todas las fotos e iconos asociados:
 

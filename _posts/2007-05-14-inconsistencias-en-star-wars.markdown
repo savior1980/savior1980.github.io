@@ -2,7 +2,7 @@
 layout: post
 title: Inconsistencias en Star Wars
 date: '2007-05-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/14/inconsistencias-en-star-wars/
+permalink: 2007/05/14/inconsistencias-en-star-wars/
 ---
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/wRDsZJ6edCM"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/wRDsZJ6edCM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 

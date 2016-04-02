@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [Especial Navidad 2007]
 date: '2007-12-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/24/mehagustadonomehagustado-especial-navidad-2007/
+permalink: 2007/12/24/mehagustadonomehagustado-especial-navidad-2007/
 ---
 - <strong>Nomehagustado</strong> la derrota ayer del Barça, la verdad que entre el árbitro, un Ronaldinho acabado y los demás de los que sólo destacan Iniesta y Touré, merecimos perder por burros. Ojalá ésta sea una de esas derrotas que de tanto que duelen causan una reacción, pero sinceramente creo que no, creo que ya todo está perdido, ni liga, ni champions, ni copa ni nada de nada, que avíen al señor Rijkaard, que vendan por una pasta (si es que pueden a estas alturas) al señor Ronaldinho y que hagan un equipo en torno a Messi.
 

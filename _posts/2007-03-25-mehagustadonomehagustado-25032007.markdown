@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [25/03/2007]
 date: '2007-03-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/25/mehagustadonomehagustado-25032007/
+permalink: 2007/03/25/mehagustadonomehagustado-25032007/
 ---
 - <strong>Mehagustado</strong> estar esta semana de vacaciones, he aprovechado bastante bien el tiempo, he conseguido migrar a WP, he podido ir a por el certificado digital para la declaración de hacienda, he ido al banco a gestionar unas cosillas, hemos ido a ver algún piso de alquiler en Mataró (no nos han convencido) y en fin que estoy bastante contento.
 

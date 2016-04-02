@@ -2,7 +2,7 @@
 layout: post
 title: Los transformers vienen de Marte y las mujeres vienen de Venus
 date: '2006-06-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/30/los-transformers-vienen-de-marte-y-las-mujeres-vienen-de-venus/
+permalink: 2006/06/30/los-transformers-vienen-de-marte-y-las-mujeres-vienen-de-venus/
 ---
 <a href="http://www.transformersmovie.com"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/transformersmovie.jpg" border="0" alt="" /></a>Ya se encuentra disponible para su visionado el anuncio oficial en la web de la peli de los Transformers, se adelanta 4 días pues como ya os dije en <a href="http://resistancefutile.blogspot.com/2006/06/transformers.html">esta otra entrada</a>, en principio el lanzamiento seria el día 4 un año antes de su estreno.
 

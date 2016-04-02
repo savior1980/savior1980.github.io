@@ -2,7 +2,7 @@
 layout: post
 title: Nokia 6600 con skin Tiger
 date: '2006-09-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/16/nokia-6600-con-skin-tiger/
+permalink: 2006/09/16/nokia-6600-con-skin-tiger/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger2/4553/2422/320/nokia_6600_1.jpg" border="0" alt="" />Mi Sharp GX17 emezó a hacer el tonto, empezaba a apagarse sin motivo. Mi hermano, al igual que Cristina se pasaron al lado garrafone y consigueron sendos 6280, que yo no puedo conseguir por puntos. El 6280 estuvo en Julio por puntos pero no estuve al loro y lo dejé escapar, desapareciendo del catálogo en Agosto y Septiembre. Ahora hay el 6234 Bisbal, poned vosotros el chiste que queráis que ando un poco seco de materia gris.
 

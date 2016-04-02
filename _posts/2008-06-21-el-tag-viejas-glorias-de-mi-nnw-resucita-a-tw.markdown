@@ -2,7 +2,7 @@
 layout: post
 title: El tag Viejas Glorias de mi NNW resucita a TW
 date: '2008-06-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/21/el-tag-viejas-glorias-de-mi-nnw-resucita-a-tw/
+permalink: 2008/06/21/el-tag-viejas-glorias-de-mi-nnw-resucita-a-tw/
 ---
 <img src="/assets/eoijwoufen.png" alt="" title="Think Wasabi resucita" width="215" height="85" class="derecha_borde" />Un grandísimo blog de la blogosfera maquera es <a href="http://www.thinkwasabi.com/">ThinkWasabi</a>. En él tuve el privilegio de hacer <a href="http://www.thinkwasabi.com/category/apple/">algunas entradas</a> ya que la relación con berto, el Doctor, es excelente. 
 

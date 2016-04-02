@@ -2,7 +2,7 @@
 layout: post
 title: iPop my baby y convierte a tu hijo/sobrinito en un iPod andante
 date: '2007-04-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/24/ipop-my-baby-y-convierte-a-tu-hijosobrinito-en-un-ipod-andante/
+permalink: 2007/04/24/ipop-my-baby-y-convierte-a-tu-hijosobrinito-en-un-ipod-andante/
 ---
 <img class="derecha" src='/assets/37.jpg' alt='iPop my Baby' />Realmente genial la línea de ropa <a href="http://www.ipopmybaby.com/order.adp">iPop my Baby</a> con la que podremos convertir a nuestro crío/sobrinito en un iPod andante, qué gracia hace, hay varios modelos de camisetilla-clickwheel para niños de 6 a 24 meses y los hay en distintos colores a un precio único de 17 dólares.
 

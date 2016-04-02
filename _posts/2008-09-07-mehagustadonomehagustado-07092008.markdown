@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [07/09/2008]
 date: '2008-09-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/07/mehagustadonomehagustado-07092008/
+permalink: 2008/09/07/mehagustadonomehagustado-07092008/
 ---
 - <strong>Nomehagustado</strong> para una de las peores semanas laborales en mucho tiempo, ha sido un estrés enorme, ha sido fatal, he viajado a Mallorca, me he vuelto a reenganchar a un proyecto del que debería haber salido, hay un huevo de problemas, en fin un puto caos a nivel laboral. Espero y deseo que la semana que viene sea un poco más tranquila, pero vienen curvas...
 

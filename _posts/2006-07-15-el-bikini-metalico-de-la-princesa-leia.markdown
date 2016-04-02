@@ -2,7 +2,7 @@
 layout: post
 title: El bikini metálico de la princesa Leia
 date: '2006-07-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/15/el-bikini-metalico-de-la-princesa-leia/
+permalink: 2006/07/15/el-bikini-metalico-de-la-princesa-leia/
 ---
 <a href="http://www.leiasmetalbikini.com/members/whatsnew.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/PDVD_069.0.jpg" border="0" alt="" /></a>En mi opinión la mejor película de la sava Star Wars, fue "El retorno del Jedi" aunque me acusen de blasfemo por no entronar a "El imperio contraataca", creo que la última película de la saga (en la saga cronológicamente hablando) es insuperable, igual de insuperable que el fabuloso bikini que llevaba la princesa Leia al estar captiva en la guarida de Jabba el Hutt.
 

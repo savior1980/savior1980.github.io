@@ -2,7 +2,7 @@
 layout: post
 title: Mi TimeCapsule se llama DeLorean
 date: '2008-04-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/04/05/mi-timecapsule-se-llama-delorean/
+permalink: 2008/04/05/mi-timecapsule-se-llama-delorean/
 ---
 <a href='/assets/zz18b6cb0e.jpg'><img src="/assets/zz18b6cb0e.jpg" alt="" title="DeLorean" width="95" height="190" class="derecha_borde" /></a>Cuando compramos el Time Capsule pensamos cómo íbamos a llamar a nuestro disco compartido, donde se harían las copias de Time Machine. 
 

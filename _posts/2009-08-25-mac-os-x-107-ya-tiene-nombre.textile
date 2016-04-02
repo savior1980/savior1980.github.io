@@ -2,7 +2,7 @@
 layout: post
 title: Mac OS X 10.7 ya tiene nombre
 date: '2009-08-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/08/25/mac-os-x-107-ya-tiene-nombre/
+permalink: 2009/08/25/mac-os-x-107-ya-tiene-nombre/
 ---
 <img src="/assets/lolcat.jpg" alt="LOL cat" title="LOL cat" width="240" height="205" class="alignnone size-full wp-image-1552" />
 

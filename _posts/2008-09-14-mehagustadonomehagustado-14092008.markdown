@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/09/2008]
 date: '2008-09-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/09/14/mehagustadonomehagustado-14092008/
+permalink: 2008/09/14/mehagustadonomehagustado-14092008/
 ---
 - <strong>Nomehagustado</strong> tener la sensación de que estos cuatro días festivos (desde el jueves en Catalunya hay un puente) se me han escapado de los dedos, mañana me reencuentro con el horror laboral, además tendré que viajar a Palma temprano (cojo el vuelo a las 7:20 de la mañana y tengo que facturar maleta), tan sólo deseo que no haga falta que estemos allí cada semana de lunes a jueves durante las próximas tres como está planificado. Veremos en qué acaba todo y espero poder conectarme vía el modem 3G y leer el correo, etc. 
 

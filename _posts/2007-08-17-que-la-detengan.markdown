@@ -2,7 +2,7 @@
 layout: post
 title: Que la detengan...
 date: '2007-08-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/17/que-la-detengan/
+permalink: 2007/08/17/que-la-detengan/
 ---
 ... que no la puedo contro-la-r
 

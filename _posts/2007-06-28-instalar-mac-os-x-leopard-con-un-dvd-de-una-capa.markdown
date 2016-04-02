@@ -2,7 +2,7 @@
 layout: post
 title: Instalar Mac OS X Leopard con un DVD de una capa
 date: '2007-06-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/28/instalar-mac-os-x-leopard-con-un-dvd-de-una-capa/
+permalink: 2007/06/28/instalar-mac-os-x-leopard-con-un-dvd-de-una-capa/
 ---
 He estado probando de <strong>instalar Leopard</strong>, la versión esta que podéis encontrar en los torrents, ya sabéis, esta copia de seguridad que podéis bajaros si y sólo si tenéis la original que se entregó en la WWDC. Bien pues quería instalarla en mi iBook G4 para probar un poco las nuevas funcionalidades que se incluyeron en esta nueva versión.
 

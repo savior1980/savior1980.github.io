@@ -2,7 +2,7 @@
 layout: post
 title: Un final apoteósico para la 3ª temporada de BSG
 date: '2007-03-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/31/un-final-apoteosico-para-la-3%c2%aa-temporada-de-bsg/
+permalink: 2007/03/31/un-final-apoteosico-para-la-3%c2%aa-temporada-de-bsg/
 ---
 <img src="/assets/300px-bsg-bsg-1.jpg" width="300" height="166" alt="BSG" class="centro_borde" />
 

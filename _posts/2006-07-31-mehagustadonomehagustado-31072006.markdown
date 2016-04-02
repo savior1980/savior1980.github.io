@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [31/07/2006]
 date: '2006-07-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/31/mehagustadonomehagustado-31072006/
+permalink: 2006/07/31/mehagustadonomehagustado-31072006/
 ---
 Ayer se me pasó compeltamente el mehagustado/nomehagustado, pido perdón y lo edito seguidamente:
 

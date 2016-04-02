@@ -2,7 +2,7 @@
 layout: post
 title: Vamos juntos hasta Italia...
 date: '2006-05-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/15/vamos-juntos-hasta-italia/
+permalink: 2006/05/15/vamos-juntos-hasta-italia/
 ---
 ...quiero comprarme un jersey a rayas
 Pasaremos de la mafia, nos bañaremos en la playa... (<a href="http://usuarios.lycos.es/atlanti6/newpage39.html">Hombres G</a>)

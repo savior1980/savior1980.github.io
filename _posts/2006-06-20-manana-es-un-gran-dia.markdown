@@ -2,7 +2,7 @@
 layout: post
 title: Mañana es un gran día
 date: '2006-06-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/20/manana-es-un-gran-dia/
+permalink: 2006/06/20/manana-es-un-gran-dia/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.13.jpg" border="0" alt="" />Hoy ha sido uno de los peores días del año, las cosas en el trabajo del Mundo Real&trade; no van nada bien. Además se me ha vuleto a partir el diente que ya se me partió una vez, producto de un empaste precario debido a la dificultad de la fractura, nunca debido a mi dentista que es buenísimo. Por lo que bueno, ya os podréis imaginar mi estado anímico actual: hecho una puta mierda, claro. 
 

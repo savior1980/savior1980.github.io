@@ -2,7 +2,7 @@
 layout: post
 title: Brain-to-computer interface (II)
 date: '2006-10-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/12/brain-to-computer-interface-ii/
+permalink: 2006/10/12/brain-to-computer-interface-ii/
 ---
 Si os acordáis de <a href="http://resistancefutile.blogspot.com/2006/03/brain-to-computer-interface.html">esta entrada</a> que nos sobrecogió al comprobar los avances en la interfaz para conectarse literalmente al ordenador, ahora tenemos un nuevo capítulo, si en el anterior vimos como podíamos jugar al pong, en este vemos un chaval que juega al mítico <a href="http://www.google.com/search?q=space+invaders&btnG=Google+Search&domains=http%3A%2F%2Fresistancefutile.blogspot.com&sitesearch=http%3A%2F%2Fresistancefutile.blogspot.com">Space Invaders</a> valiéndose únicamente de órdenes mentales.
 

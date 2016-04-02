@@ -2,7 +2,7 @@
 layout: post
 title: Mallorca me espera
 date: '2006-09-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/08/mallorca-me-espera/
+permalink: 2006/09/08/mallorca-me-espera/
 ---
 Iremos Cristina y yo tres días a Mallorca (salgo mañana por la noche y vuelvo el lunes noche) a ver a Cristóbal un compañero de batallas del erasmus, que ha sido recientemente papá de una niña preciosa llamada Carla, por lo que probablemente no publique mucho (o nada) estos días.
 

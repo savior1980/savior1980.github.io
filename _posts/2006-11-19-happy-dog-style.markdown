@@ -2,7 +2,7 @@
 layout: post
 title: Happy Dog Style
 date: '2006-11-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/19/happy-dog-style/
+permalink: 2006/11/19/happy-dog-style/
 ---
 Acabo de inventarme una filosofía de vida: el <span style="font-weight:bold;">Happy Dog Style</span> o si lo preferís, el <span style="font-weight:bold;">HDS</span>. Así es, por una vez me calzo la máscara de gurú y me destapo con un post evangelizador de una nueva doctrina sectaria: la filosofía del perro. Estaba cenando en un restaurante de los que podemos categorizar de "guais" con dos colegas de esos que van al gimnasio, se cuidan, buitrean los sábados noche, toman alguna copita de más, son fashion victims, etc. y de pronto he visto la luz, ante la pregunta de uno de ellos de qué pensaba sobre un tema (no recuerdo si me preguntaba por el gimnasio o por que naranjas me preguntaba, a veces desconecto, entro en disconnect mode y me pueden hablar de la segunda dinastía china, que me dará igual, asentiré y pondré cara de interesado, llamadme falso, estoy poniendo esa cara :P) y le he espetado: Mi filosofía es el "Happy Dog Style". 
 

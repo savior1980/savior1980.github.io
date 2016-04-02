@@ -2,7 +2,7 @@
 layout: post
 title: Open Door FAIL
 date: '2008-07-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/07/03/open-door-fail/
+permalink: 2008/07/03/open-door-fail/
 ---
 <img src="/assets/accesscard.jpg" alt="" title="accesscard" width="83" height="128" class="derecha" />
 Que llegues a tu casa a las 22:45 después de un día infernal y  para abrir la puerta del edificio saques la tarjeta de acceso de tu empresa, no tiene precio.

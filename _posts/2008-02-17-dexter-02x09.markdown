@@ -2,7 +2,7 @@
 layout: post
 title: Dexter 02x09
 date: '2008-02-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/17/dexter-02x09/
+permalink: 2008/02/17/dexter-02x09/
 ---
 <img src='/assets/zz6292b2cb.jpg' alt='Resistance is Futile' />
 

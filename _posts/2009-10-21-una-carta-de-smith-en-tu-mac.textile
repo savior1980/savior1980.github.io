@@ -2,7 +2,7 @@
 layout: post
 title: Una Carta de Smith en tu Mac
 date: '2009-10-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/10/21/una-carta-de-smith-en-tu-mac/
+permalink: 2009/10/21/una-carta-de-smith-en-tu-mac/
 ---
 <img src="/assets/zz41f2a1e5.jpg" alt="campillo power" title="campillo power" width="468" height="307" class="centro" />
 _Despierta al teleko que hay en ti!_

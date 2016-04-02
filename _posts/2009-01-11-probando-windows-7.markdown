@@ -2,7 +2,7 @@
 layout: post
 title: Probando Windows 7
 date: '2009-01-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/11/probando-windows-7/
+permalink: 2009/01/11/probando-windows-7/
 ---
 <a href="http://www.flickr.com/photos/savior1980/3185803189/"><img alt="" src="http://farm4.static.flickr.com/3330/3185803189_82d4770998.jpg" title="Windows 7" class="centro_borde" width="500" height="428" /></a>He descargado la última beta del sistema operativo de Microsoft y la he activado usando Fusion. El nuevo sistema de Microsoft retoma las sensaciones que transmite Windows XP y añade vistosidad y nuevas funcionalidades básicas que sin lugar a dudas presentan una evolución notable del sistema operativo y además consiguiendo un alto rendimiento con pocas prestaciones (Según aseguran se puede instalar en una máquina a 1GHz y con 1GB de RAM). 
 

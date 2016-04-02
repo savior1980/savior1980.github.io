@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [14/08/2006]
 date: '2006-08-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/13/mehagustadonomehagustado-14082006/
+permalink: 2006/08/13/mehagustadonomehagustado-14082006/
 ---
 Volviendo del Pirineo ya de vuelta con todos vosotros, me dispongo a hacer el mehagustado/nomehagustado de rigor, pidiendo disculpas por no hacerlo la semana pasada y eludir nuestra batería de opiniones que disparo desde mi paranoia personal, ahí va la de esta semana:
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [10/06/2007]
 date: '2007-06-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/11/mehagustadonomehagustado-10062007/
+permalink: 2007/06/11/mehagustadonomehagustado-10062007/
 ---
 - <strong>Mehagustado</strong> mucho, la peli Ocean's Thirteen, que por cierto hemos ido a ver (Cris y yo) junto con la presencia del Sr. Pedro y luego le hemos llevado a cenar a un Restaurante de la franquicia Tagliatella en Mataró. Ha estado genial y así hemos hablado un poco de todo: de los blogs, del evento de noviembre en Madrid, del trabajo, etc.
 

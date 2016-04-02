@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/02/2009]
 date: '2009-02-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/02/02/mehagustadonomehagustado-01022009/
+permalink: 2009/02/02/mehagustadonomehagustado-01022009/
 ---
 - <strong>Nomehagustado</strong> entrar en un nuevo proyecto laboral sin tener mucho conocimiento y sobre todo sin una idea todavía clara de qué se espera de nosotros y cómo vamos a tirar adelante lo que el cliente nos pide. A veces es mejor tirar adelante y luego ya va cuadrando todo pero no sé por qué tengo malas vibraciones, me da a mí que como vayamos tirando si pillamos velocidad y nos demos cuenta tarde que el freno no va fino, nos estampemos contra la pared. Veremos esta semana como pinta.
 

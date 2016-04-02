@@ -2,7 +2,7 @@
 layout: post
 title: He luchado y he perdido
 date: '2006-06-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/26/he-luchado-y-he-perdido/
+permalink: 2006/06/26/he-luchado-y-he-perdido/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.15.jpg" border="0" alt="" />Sabéis esas situaciones que las vas postergando y te atacan por sorpresa: hoy ha sido una de ésas, sin comerlo ni beberlo me he visto delante de disputar una batalla dialéctica que he perdido, claramente, dos no discuten si uno no quiere: oiga si yo le pregunto si quiere ir a pescar y usted me dice que no, que se va a la piscina, pues ya está, como diría de forma incorrecta pero entrañable "l'amic Joan" (Gaspar, ex-presidente del Barça) "Tema sanjat".
 

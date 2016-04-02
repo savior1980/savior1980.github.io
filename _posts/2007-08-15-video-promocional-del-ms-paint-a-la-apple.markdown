@@ -2,7 +2,7 @@
 layout: post
 title: Vídeo promocional del MS Paint a la Apple
 date: '2007-08-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/15/video-promocional-del-ms-paint-a-la-apple/
+permalink: 2007/08/15/video-promocional-del-ms-paint-a-la-apple/
 ---
 Si Microsoft fuera Apple, seguramente <a href="http://www.youtube.com/watch?v=Hxx2KcPWWZg">el vídeo promocional de presentación de MS Paint</a>, sería algo como esto:
 

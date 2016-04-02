@@ -2,7 +2,7 @@
 layout: post
 title: 'La Odisea G3 (I): Etapa I, de KN al TRAM Besòs'
 date: '2006-07-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/29/la-odisea-g3-i-etapa-i-de-kn-al-tram-besos/
+permalink: 2006/07/29/la-odisea-g3-i-etapa-i-de-kn-al-tram-besos/
 ---
 En esta serie de 3 posts voy a cubrir lo que fue el transporte en el coche de san fernando de mi recientemente adquirido iMac G3 333MHz Lime, Tray-slot. Contacté con el vendedor de e-Bay ya que el tipo era de Tarragona (por cierto me dijo que tenía más macs que quería vender, me habló de 5 imacs g3 y varios powermac g4 doble procesador) cerca del trabajo y después de salir del trabajo inició la aventura que os relato en tres capítulos -tres posts- del que fue el transporte del bicho por la calle.
 

@@ -2,7 +2,7 @@
 layout: post
 title: De jPods, grafitos, LEDs y divorcios
 date: '2006-07-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/07/de-jpods-grafitos-leds-y-divorcios/
+permalink: 2006/07/07/de-jpods-grafitos-leds-y-divorcios/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.18.jpg" border="0" alt="" />Estos dos días han sido muy muy raros, casi rayando el surrealismo. Debido <a href="http://www.thinkwasabi.com/2006/07/04/sobre-microsiervos-y-jpod/">al post</a> que leí en TW el martes recomendando <a href="http://www.jpod.info/">jPod</a> y que había terminado de leerme el segundo volumen del <a href="http://es.wikipedia.org/wiki/Ciclo_Barroco">Ciclo Barroco</a> "La Confusión", hecho que me impulsaba a sentir la imperiosa necesidad de iniciar el tercer volumen, "El sistema del mundo", decidí que iba a comprarme <span style="font-weight:bold;">jPod</span> y el primer libro del tercer volumen titulado "El oro de Salomón" así que quedé para ir al Fnac el dia siguiente y hacer las compras.
 

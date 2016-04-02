@@ -2,7 +2,7 @@
 layout: post
 title: El bucle infinito del OOF
 date: '2007-08-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/01/el-bucle-infinito-del-oof/
+permalink: 2007/08/01/el-bucle-infinito-del-oof/
 ---
 <img src='/assets/images32443.jpg' alt='Gmail loop' class="derecha" />Hace unos días <a href="http://alexliam.net">dos</a> <a href="http://solo.infames.org">aspirantes</a> a <strong>gurús</strong> se planteaban la opción de <a href="http://solo.infames.org/el-dia-que-quise-romper-internet/">joder el internet</a>. Se plantearon redireccionar dos direcciones entre sí de forma que cuando siguieses un enlace te llevase a la otra página y ésta a la primera y así sucesivamente. No lo consiguieron, tras unos cuantos pasos del bucle, Firefox se dió cuenta de su osadía y les dijo que se dedicaran a otras actividades más productivas como la cría del chipirón pirinaico.
 Hoy leo <a href="http://blogs.msdn.com/rick_schaut/archive/2007/07/27/the-oof-infinite-loop.aspx">otro intento</a> por hacer una jugada maestra de este calibre y como yo también quiero llegar a ser gurú (de tres al cuarto no lo negaremos) algún día, he decidido poner en práctica la técnica.

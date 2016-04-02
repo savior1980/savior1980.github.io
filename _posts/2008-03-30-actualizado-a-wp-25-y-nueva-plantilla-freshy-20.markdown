@@ -2,7 +2,7 @@
 layout: post
 title: Actualizado a WP 2.5 y nueva plantilla Freshy 2.0
 date: '2008-03-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/30/actualizado-a-wp-25-y-nueva-plantilla-freshy-20/
+permalink: 2008/03/30/actualizado-a-wp-25-y-nueva-plantilla-freshy-20/
 ---
 <img src="/assets/zz229c40cb.jpg" alt="" title="Resistance 2.5" width="252" height="163" class="derecha_borde" />Hoy me he levantado guerrero con el blog y gracias a que <a href="http://childrenatyourfeet.com/">Cris ya se actualizó ayer su blog</a> a <a href="http://www.genbeta.com/2008/03/29-wordpress-25-ya-esta-con-nosotros">la versión 2.5 de WP</a> y me ha ayudado mucho, <strong>hemos actualizado el Resistance a la nueva versión de WP</strong>.
 

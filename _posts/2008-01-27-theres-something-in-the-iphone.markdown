@@ -2,7 +2,7 @@
 layout: post
 title: There's something in the iPhone
 date: '2008-01-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/27/theres-something-in-the-iphone/
+permalink: 2008/01/27/theres-something-in-the-iphone/
 ---
 <img src='/assets/theres.JPG' alt='There’s something' class="centro_borde" />
 

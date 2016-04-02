@@ -2,7 +2,7 @@
 layout: post
 title: 'Taburete geek: la tecla sit'
 date: '2006-10-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/05/taburete-geek-la-tecla-sit/
+permalink: 2006/10/05/taburete-geek-la-tecla-sit/
 ---
 <a href="http://www.normal.as/normal_2005/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Imagen%204.jpg" border="0" alt="" /></a>Aquí os dejo una muestra de un objeto geek y originial: un taburete en forma de tecla, la tecla "sit" (siéntate en inglés o en perruno) que dará un toque de distinción a vuestra habitación y ahuyentará los ligues que llevéis a ella.
 

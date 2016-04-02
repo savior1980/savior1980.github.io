@@ -2,7 +2,7 @@
 layout: post
 title: Medion Akoya Leopard Fail
 date: '2009-01-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/31/medion-akoya-leopard-fail/
+permalink: 2009/01/31/medion-akoya-leopard-fail/
 ---
 <img src="/assets/zz138b17b0.jpg" alt="FAIL akoya" title="FAIL akoya" width="331" height="170" class="centro" />Me bajé una imagen para <a href="http://thepiratebay.org/torrent/4307757/MSIWindosx86.iso">MSIWindowx86</a> que había por los torrents para instalar Leopard en el Medion Akoya que le regalamos a mi padre y a mi hermano por navidad. Mi hermano que como buen switcher había ido evangelizando a mi padre, ya lo tenía convencido así que hoy pretendíamos instalar el sistema operativo y ver qué tal funcionaba. En teoría la imagen ya lleva todos los drivers para el MSI o sus clónicos por lo que la instalación debería haber sido placentera, pero al final se ha torcido todo en un episodio de esos de rabia absoluta, en fin, pero no adelanto acontecimientos.
 

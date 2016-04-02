@@ -2,7 +2,7 @@
 layout: post
 title: Dentro de poco, Google lanzará un teléfono móvil
 date: '2009-12-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/12/13/dentro-de-poco-google-lanzara-un-telefono-movil/
+permalink: 2009/12/13/dentro-de-poco-google-lanzara-un-telefono-movil/
 ---
 <img src="/assets/google-phone-coryobrien-twitter.jpg" alt="Google Phone" title="Google Phone" width="500" height="448" class="centro_borde" />
 Esta parece ser la pinta que tendrá el nuevo teléfono móvil que Google lanzará a mercado, <strong>libre</strong> y fabricado por HTC, con una pantalla ligeramente superior al iPhone, con ruedecita de scroll y con Android 2.1. De todas formas se trata sólo de un rumor y ni tan sólo se sabe a ciencia cierta cómo será el nuevo teléfono que Google pretende lanzar en enero, lo que sí sé es lo siguiente: como sigan los problemas de distribución del iPhone, cada vez más gente va tirarse de cabeza a por estos terminales.

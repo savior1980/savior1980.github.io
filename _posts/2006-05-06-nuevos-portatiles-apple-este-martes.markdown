@@ -2,7 +2,7 @@
 layout: post
 title: Nuevos Portátiles Apple este martes?
 date: '2006-05-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/06/nuevos-portatiles-apple-este-martes/
+permalink: 2006/05/06/nuevos-portatiles-apple-este-martes/
 ---
 Según nos cuenta Pedro en <a href="http://cuatrodoce.blogsome.com/2006/05/06/se-acerca-el-sucesor-del-ibook/">Cuatrodoce</a>, parece que esta semana próxima será la del lanzamiento de los portátiles que van a subsituir a la gamma iBook y que aunque yo me aferre a la idea que mantendrán el nombre de iBook, parece que todo el mundo da por sentado que se llamarán "MacBook".
 

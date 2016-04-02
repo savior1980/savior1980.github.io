@@ -2,7 +2,7 @@
 layout: post
 title: Mesa de Rubik
 date: '2007-08-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/31/mesa-de-rubik/
+permalink: 2007/08/31/mesa-de-rubik/
 ---
 Como mola la pedazo de mesita esta para el comedor, lástima que como todo objeto algo geek que aparece por ahí tiene un precio prohibitivo: <a href="http://jellio.com/products/cubetable.html">600 dolards de mesita</a>, como que me resulta bastante inalcanzable económicamente, prefiero comprarme un iPhone cuando salga y de momento tirar de <strong>iKEA</strong>, sinceramente.
 

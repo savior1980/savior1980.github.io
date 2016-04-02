@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [22/02/2009]
 date: '2009-02-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/02/23/mehagustadonomehagustado-22022009/
+permalink: 2009/02/23/mehagustadonomehagustado-22022009/
 ---
 - <strong>Mehagustado</strong> mucho estar estos dos días en Bilbao para el evento <a href="http://childrenatyourfeet.com/2009/02/22/bilbo-wasabi-09-osom/">Bilbo Wasabi</a>, nos lo hemos pasado genial, hemos visto  una de las ciudades más bonitas de Europa y hemos comido de lujo. Pero lo más importante es que todos sin excepción ya estamos buscando nueva fecha / sitio de encuentro, eso es signo inequívoco que lo que realmente importa no es donde ni como, es el simple hecho de poder celebrar estas reuniones entre amigos. 
 

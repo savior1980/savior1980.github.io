@@ -2,7 +2,7 @@
 layout: post
 title: Simulando OverTime
 date: '2006-08-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/31/simulando-overtime/
+permalink: 2006/08/31/simulando-overtime/
 ---
 O como escaquearse del curro sin que se note,
 

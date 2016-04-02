@@ -2,7 +2,7 @@
 layout: post
 title: El inmigrante simpático
 date: '2007-07-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/14/el-inmigrante-simpatico/
+permalink: 2007/07/14/el-inmigrante-simpatico/
 ---
 Ayer iba yo por Gran Vía cuando de repente aparece un individuo de rasgos del <a href="http://es.wikipedia.org/wiki/Magreb">Magreb</a> aparece a mi derecha dándome un susto de muerte, pues apareció de la nada justo a mí derecha, nótese que no me asustó que fuera extrajero, sino que yendo yo pensando en mis cosas, apreció de repente.
 

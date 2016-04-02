@@ -2,7 +2,7 @@
 layout: post
 title: Nuevas parodias Get a Mac, ahora con Linux
 date: '2006-07-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/31/nuevas-parodias-get-a-mac-ahora-con-linux/
+permalink: 2006/07/31/nuevas-parodias-get-a-mac-ahora-con-linux/
 ---
 Me entero de la existencia de 3 nuevas parodias bastante geeks de la campaña Get a Mac, esta vez con la aparición de Linux y BSD que hacen ya la cuadratura del círculo, quiero decir que ya no quedan sistemas operativos con los que meterse, esto un todos contra todos. Os dejo con la que más me gustó, que se carga directamente un tema espinoso en los Macs, las actualizaciones de hardware, bueno al igual que deja a la altura del betún a los sistemas Linux en estos temas.
 

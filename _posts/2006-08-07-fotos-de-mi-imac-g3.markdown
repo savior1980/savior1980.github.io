@@ -2,7 +2,7 @@
 layout: post
 title: Fotos de mi iMac G3
 date: '2006-08-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/07/fotos-de-mi-imac-g3/
+permalink: 2006/08/07/fotos-de-mi-imac-g3/
 ---
 Lo prometido es deuda y aquí os presentamos unas fotos de mi <s>por el momento trasto inútil</s> iMac G3, que compré por eBay al precio de 86 eurillos. De momento le he comprado un módulo de 256MB en macsales (otro día hablo del periplo macsales, que me ocupará un toroncho post, pues he tenido más de un problemilla que parece haber llegado a una feliz solución) que sumados a los míseros 32 megas que tiene harán unos 288MB de RAM que espero me den para poder correr el Panther (10.3).
 

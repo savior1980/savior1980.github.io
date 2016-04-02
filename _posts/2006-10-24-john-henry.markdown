@@ -2,7 +2,7 @@
 layout: post
 title: John Henry
 date: '2006-10-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/24/john-henry/
+permalink: 2006/10/24/john-henry/
 ---
 <p class="chorus">Well, captain said to John Henry,
 "What is that storm I hear?"

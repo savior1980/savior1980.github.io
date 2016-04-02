@@ -2,7 +2,7 @@
 layout: post
 title: Resistance is Futile!... and you will be assimilated!
 date: '2005-12-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/14/resistance-is-futile-and-you-will-be-assimilated/
+permalink: 2005/12/14/resistance-is-futile-and-you-will-be-assimilated/
 ---
 <a href="http://photos1.blogger.com/blogger/6639/1972/1600/Salva.jpg"><img alt="" border="0" src="http://photos1.blogger.com/blogger/6639/1972/320/Salva.jpg" style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;"/></a><a href="http://photos1.blogger.com/blogger/6639/1972/1600/Salva.jpg">
 </a>

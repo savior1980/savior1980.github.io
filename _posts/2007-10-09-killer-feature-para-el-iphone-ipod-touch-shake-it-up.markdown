@@ -2,7 +2,7 @@
 layout: post
 title: 'Killer feature para el iPhone / iPod touch: Shake it up!'
 date: '2007-10-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/09/killer-feature-para-el-iphone-ipod-touch-shake-it-up/
+permalink: 2007/10/09/killer-feature-para-el-iphone-ipod-touch-shake-it-up/
 ---
 <img src='/assets/shakeitup.jpg' alt='Sahke it up' class="derecha_borde" />Se me ha ocurrido una posible feature para el iPod touch y el iPhone recordando las sabias palabras que tuvo <a href="http://www.applesfera.com/2007/09/21-video-walt-mossberg-da-un-repaso-interesante-al-ipod-touch">Walt Mossberg en su análisis de este fabuloso gadget</a>. Mossberg se quejaba de que no habiendo <em>clickwheel</em>, si tenías el ipod en el bolsillo no podías interactuar con el control de la reproducción, es decir que no se puede pasar una canción, ni parar la reproducción, etc. a no ser que saques tu iPod touch/iPhone del bolsillo y doblecliques el botón (aparecen controles de reproducción) o bien lo desbloquees (mismo efecto).
 Pues bien, debido a que el iPod tiene <a href="http://es.wikipedia.org/wiki/Aceler%C3%B3metro">acelerómetros</a>, no es nada complicado detectar cuando lo están agitando (las curvas de movimeinto que capta el sensor se hacen muy abruptas), o cuando le das un pequeño toquecito y si por ejemplo pudiéramos asociar un control a un determinado movimiento? Pues problema resuelto.

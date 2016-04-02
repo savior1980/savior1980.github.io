@@ -2,7 +2,7 @@
 layout: post
 title: Mala forma de descartar a alguien en un recruiting
 date: '2006-10-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/09/mala-forma-de-descartar-a-alguien-en-un-recruiting/
+permalink: 2006/10/09/mala-forma-de-descartar-a-alguien-en-un-recruiting/
 ---
 Alguien que viene a un proceso de selección, es alguien que está interesado en el puesto, al que has llamado por que te su CV te parece interesante y quieres conocer en persona. Uno tiene que intentar ser todo lo transparente que pueda ante el candidato en cuanto a las pruebas que le esperan, o al menos la metodología. Si a uno le dicen que hará <span style="font-weight:bold;">una</span> entrevista, que no le hagan <span style="font-weight:bold;">dos y seguidas</span> exactamente iguales. 
 

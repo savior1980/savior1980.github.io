@@ -2,7 +2,7 @@
 layout: post
 title: Flex es Simplex
 date: '2008-12-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/12/02/flex-es-simplex/
+permalink: 2008/12/02/flex-es-simplex/
 ---
 <img src="/assets/zz19ec9b9d.jpg" alt="" title="FlexBuilder" width="500" height="371" class="centro" />Llevo unos días <strong>cacharreando con Flex</strong>, ese framework de desarrollo de aplicaciones RIA (<em>Rich Internet Applications</em>) de Adobe que tanto está dando que hablar últimamente. 
 

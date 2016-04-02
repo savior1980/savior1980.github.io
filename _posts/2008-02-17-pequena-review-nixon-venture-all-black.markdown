@@ -2,7 +2,7 @@
 layout: post
 title: Pequeña review nixon Venture All Black
 date: '2008-02-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/02/17/pequena-review-nixon-venture-all-black/
+permalink: 2008/02/17/pequena-review-nixon-venture-all-black/
 ---
 <img src='/assets/zz56b24b8e.jpg' class="derecha_borde" alt='nixon venture all black' />¡Ya tengo mi nuevo reloj! Al final me decidí tras un vistazo por ebay (sitio donde en la actualidad sale mejor comprarse un reloj), por <a href="http://es.nixonnow.com/mens-watches/">los modelos de nixon</a>, la verdad es que la línea agresiva de sus relojes cuadra con lo que yo andaba buscando como sustituto del <a href="http://oakley.com/pd/4167">Oakley Blade II</a>, que es el que tenía desde hace casi 4 años. 
 

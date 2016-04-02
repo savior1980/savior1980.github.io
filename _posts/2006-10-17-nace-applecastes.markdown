@@ -2,7 +2,7 @@
 layout: post
 title: Nace applecast.es
 date: '2006-10-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/17/nace-applecastes/
+permalink: 2006/10/17/nace-applecastes/
 ---
 En una nueva iniciativa de <a href="http://cuatrodoce.blogsome.com/">Pedro Aznar</a>, <a href="http://www.zagmac.net/">Zagar</a> y compañía ha nacido un nuevo videocast en español centrado en la temática Apple llamada <a href="http://www.applecast.es/">applecast.es</a>, en la foto siguiente véis a uno de los presentadores, a ver si le reconocéis.
 

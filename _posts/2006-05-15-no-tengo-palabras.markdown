@@ -2,7 +2,7 @@
 layout: post
 title: No tengo palabras
 date: '2006-05-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/15/no-tengo-palabras/
+permalink: 2006/05/15/no-tengo-palabras/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger/6639/1972/320/springbmain.gif" border="0" alt="" />El concierto fue mítico, espectacular e increíble. Tocó 4 bonus tracks que yo creo no tenía previsto tocar... incluso "Oh when the saints fo marchin' in" que fué seguida por  el público.
 

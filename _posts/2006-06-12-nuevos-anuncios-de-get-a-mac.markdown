@@ -2,7 +2,7 @@
 layout: post
 title: Nuevos anuncios de Get a Mac!
 date: '2006-06-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/13/nuevos-anuncios-de-get-a-mac/
+permalink: 2006/06/13/nuevos-anuncios-de-get-a-mac/
 ---
 <a href="http://speed.pointroll.com/PointRoll/Media/panels/Apple/118440/applMacs_Panl_300_061206_r05.swf?prTag=http://clk.pointroll.com/pc/?p=-118442%26i=943E749B-662E-48ED-8567-3FF254CF1422&cTag=clickurl=http://clk.atdmt.com/TLA/go/cntnkapp0070000016tla/direct%253Bat.tlaapp00000070%253Bct.1/01/&resTag1=?href=http://www.apple.com/getamac&resTag2=?href=http://www.apple.com/legal/privacy/&prVidMethod=1&prVideoUI=0&prAudioUI=1&prVidId=2&prBorder=0"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/1600/Imagen%202.0.png" border="0" alt="" /></a>Ha aparecido un nuevo anuncio de la campaña Get a Mac! de la que ya os hablé un poco en <a href="http://resistancefutile.blogspot.com/2006/05/get-mac.html">esta otra entrada</a>.
 

@@ -4,7 +4,7 @@ title: |-
   Oh lord I'm a poor man
   With all the riches I can h...
 date: '2006-05-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/07/oh-lord-im-a-poor-manwith-all-the-riches-i-can-h/
+permalink: 2006/05/07/oh-lord-im-a-poor-manwith-all-the-riches-i-can-h/
 ---
 <p class="chorus">Oh lord I'm a poor man
 With all the riches I can hold

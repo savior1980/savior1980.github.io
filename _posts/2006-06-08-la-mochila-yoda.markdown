@@ -2,7 +2,7 @@
 layout: post
 title: La mochila Yoda
 date: '2006-06-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/08/la-mochila-yoda/
+permalink: 2006/06/08/la-mochila-yoda/
 ---
 <a href="http://www.thinkgeek.com/homeoffice/gear/817c/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/yoda_backpack_jedi2.jpg" border="0" alt="" /></a>La mochila más friki que se puede tener, el efecto visual de tener a Yoda enganchado a la espalda es brutal, tan sólo le hace falta decir la frase: 
 

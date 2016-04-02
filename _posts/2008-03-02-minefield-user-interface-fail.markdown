@@ -2,7 +2,7 @@
 layout: post
 title: Minefield User Interface FAIL
 date: '2008-03-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/02/minefield-user-interface-fail/
+permalink: 2008/03/02/minefield-user-interface-fail/
 ---
 <img src='/assets/zz33d0d568.jpg' alt='Firefox 3 back button sucks' class="derecha_borde" />Una de las principales novedades de la interfaz de <strong>Firefox 3</strong> es que está más integrada con el sistema y es más bonita, ya que en principio respetaría las líneas del sistema operativo en el que estuviera instalado, creándose skins paralelos para Windows y para Mac. 
 

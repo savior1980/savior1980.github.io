@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [26/04/2010]
 date: '2010-04-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/04/26/mehagustadonomehagustado-26042010/
+permalink: 2010/04/26/mehagustadonomehagustado-26042010/
 ---
 - *Mehagustado* mucho pasar el finde en Bilbao, en compañía de Aitor, Leire, Gorka, Aketza (grandes anfitriones!), Cris, Toni, Miky... ha sido genial, me lo he pasado en grande. Bilbao es una ciudad impresionante y muy bonita, de las más bonitas de la península sin ninguna duda. 
 

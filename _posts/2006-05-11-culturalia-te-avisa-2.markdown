@@ -2,7 +2,7 @@
 layout: post
 title: Culturalia te avisa
 date: '2006-05-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/11/culturalia-te-avisa-2/
+permalink: 2006/05/11/culturalia-te-avisa-2/
 ---
 <a href="http://www.culturalianet.com/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/culturalia.gif" border="0" alt="" /></a>En <a href="http://www.culturalianet.com/">CulturaliaNet</a> tienen un útil y curioso <a href="http://www.culturalianet.com/art/pedir.php?art=3658">servicio web</a> que te avisa de cuándo van a estrenar tu peli favorita por la tele.
 

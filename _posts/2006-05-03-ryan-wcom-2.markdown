@@ -2,7 +2,7 @@
 layout: post
 title: Ryan-W.com
 date: '2006-05-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/03/ryan-wcom-2/
+permalink: 2006/05/03/ryan-wcom-2/
 ---
 <a href="http://ryanw.michaelfrisk.com/ryan-w/index.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/RVD.jpg" border="0" alt="" /></a>
 <a href="http://ryanw.michaelfrisk.com/ryan-w/vfx_archive.html">Impresionante site</a> dedicado a los efectos especiales de Star Wars. Muestra de ello es <a href="http://www.youtube.com/watch?v=8NE5elL30w4">este fantástico vídeo</a> que apareció hace tiempo y que está muy muy logrado. 

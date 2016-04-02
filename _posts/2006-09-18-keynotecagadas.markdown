@@ -2,7 +2,7 @@
 layout: post
 title: KeynoteCagadas
 date: '2006-09-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/18/keynotecagadas/
+permalink: 2006/09/18/keynotecagadas/
 ---
 Qué gran recopilatorio de errores, despropósitos, bugs,  equivocaciones y demás que se han producido en alguna de las Keynotes más recientes, para que los lectores antimaqueros hagan su chascarrillo, chiste fácil y demás.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Escapando de una ronda de reconocimiento
 date: '2008-01-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/23/escapando-de-una-ronda-de-reconocimiento/
+permalink: 2008/01/23/escapando-de-una-ronda-de-reconocimiento/
 ---
 <img src='/assets/zz47edc092.jpg' alt='ususal suspects' class="derecha_borde" />Hoy me he escapado por los pelos a una ronda de reconocimiento. Paso a relataros lo que más o menos me ha ocurrido. 7:38 de la mañana, llego temprano a la estación de tren, hay una pareja de mossos d'esquadra fuera de los andenes pero dentro del edificio, yo ni les miro, paso de los que llevan uniforme azul marino y carmín y me dirijo a mi sitio de espera habitual (el de cada mañana) en la andana por donde el viene el tren para llevarme a Barcelona, a currar. 
 

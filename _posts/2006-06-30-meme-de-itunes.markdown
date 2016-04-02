@@ -2,7 +2,7 @@
 layout: post
 title: Meme de iTunes
 date: '2006-06-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/30/meme-de-itunes/
+permalink: 2006/06/30/meme-de-itunes/
 ---
 Bueno como veo muy dormido el tema memes últimamente voy a iniciar una de las clásicas con nominaciones y todo y de aquí no se escapa nadie, que esta meme me interesa especialmente: quiero conocer vuestros gustos musicales, quiero saber el top 10 de canciones favoritas en iTunes, ésas que tengan puntuación máxima (tan sólo tenéis que abrir iTunes y ordenar por rating la smartlist de "Mis preferidas" y seleccionar 10, no os cuesta nada). Ahí van mis favoritas:
 

@@ -2,7 +2,7 @@
 layout: post
 title: Work, work, work!
 date: '2007-09-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/29/work-work-work/
+permalink: 2007/09/29/work-work-work/
 ---
 llevo unos días en el nuevo curro que lo estoy flipando, no estoy en uno ni dos sino en tres <em>fregaos</em> al mismo tiempo. Primero me pusieron a preparar una presentación para un cliente que quería ver soluciones de movilidad (PDAs y el rollo) así que me entregué a mi amado PowerPoint (siempre compila, menos cuando se cuelga) y tiré millas pensando que con Keynote 08 quedaría mejor ;)
 

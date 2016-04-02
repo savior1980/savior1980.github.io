@@ -2,7 +2,7 @@
 layout: post
 title: Actualizado a WP 2.9.2
 date: '2010-04-05T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/04/05/actualizado-a-wp-2-9-2/
+permalink: 2010/04/05/actualizado-a-wp-2-9-2/
 ---
 Bueno, parece que después de escribir el *nomehagustado* haciendo referencia a la actualización del blog me puse manos a la obra y en una horita ya había actualizado el WP a la versión estable más nueva 2.9.2. 
 

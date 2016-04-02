@@ -2,7 +2,7 @@
 layout: post
 title: El fondo de Leopard es genial
 date: '2007-06-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/14/el-fondo-de-leopard-es-genial/
+permalink: 2007/06/14/el-fondo-de-leopard-es-genial/
 ---
 <img class="centro_borde" src='/assets/desktop_leo.png' alt='Leopard desktop' />
 

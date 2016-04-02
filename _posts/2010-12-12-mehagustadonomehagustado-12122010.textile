@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [12/12/2010]
 date: '2010-12-12T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/12/13/mehagustadonomehagustado-12122010/
+permalink: 2010/12/13/mehagustadonomehagustado-12122010/
 ---
 - *Nomehagustado* nada que la huelga de controladores estuviese a punto de jodernos el puente. Por suerte pudimos ir a Nîmes (Francia, cerca de Montpellier) y coger un avión para ir a Londres. Está claro que Londres *meencantó*, pero mucho muchísimo. 
 

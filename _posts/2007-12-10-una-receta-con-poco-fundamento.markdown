@@ -2,7 +2,7 @@
 layout: post
 title: Una receta con poco fundamento
 date: '2007-12-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/10/una-receta-con-poco-fundamento/
+permalink: 2007/12/10/una-receta-con-poco-fundamento/
 ---
 Hoy os sorprendo con una de mis nuevas recetas que pronto recopilaré, patentaré y sacaré en un libro, saldré por la tele, cantaré cuatro canciones, bailaré una sardana y me haré millonario.
 

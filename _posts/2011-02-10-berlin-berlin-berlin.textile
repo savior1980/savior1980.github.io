@@ -2,7 +2,7 @@
 layout: post
 title: Berlín, Berlín, Berlín...
 date: '2011-02-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2011/02/10/berlin-berlin-berlin/
+permalink: 2011/02/10/berlin-berlin-berlin/
 ---
 Tercera vez que piso la capital de Alemania. Cada vez me gusta más como ciudad, sinceramente, es una de la ciudades más bonitas que hay en Europa. Tiene cantidad de contrastes, cantidad de sitios con encanto y el carácter de la gente berlinesa es bastante afable. Bueno, afable dentro de lo cabe en la forma de ser teutona. 
 

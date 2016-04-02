@@ -2,7 +2,7 @@
 layout: post
 title: Recursividad en del.icio.us
 date: '2006-11-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/29/recursividad-en-delicious/
+permalink: 2006/11/29/recursividad-en-delicious/
 ---
 <a href="http://del.icio.us"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/x/blogger2/4553/2422/1600/227055/1106091421.png" border="0" alt="" /></a><a href="http://del.icio.us">del.icio.us</a>
 

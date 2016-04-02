@@ -2,7 +2,7 @@
 layout: post
 title: El meme del síndrome de Stendhal
 date: '2007-10-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/21/el-meme-del-sindrome-de-stendhal/
+permalink: 2007/10/21/el-meme-del-sindrome-de-stendhal/
 ---
 Pues parece que el amigo <a href="http://lordzoltan.gafapasta.com/?p=332">LZ</a> me ha pasado cierto <em>meme</em>, en el que tengo que enumerar 5 situaciones/cosas que me han dejado flipado, tal como si tuviese el síndrome de <a href="http://es.wikipedia.org/wiki/S%C3%ADndrome_de_Stendhal">Stendhal</a> (síndrome que Shora explica en <a href="http://medtempus.com/archives/los-10-trastornos-mentales-mas-extranos-en-medicina/">un post magistral que os recomiendo sobre 10 enfermendades mentales raras</a>, para mear y no echar gota).
 

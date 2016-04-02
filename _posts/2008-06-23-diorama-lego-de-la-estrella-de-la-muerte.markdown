@@ -2,7 +2,7 @@
 layout: post
 title: Diorama LEGO de la Estrella de la muerte
 date: '2008-06-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/23/diorama-lego-de-la-estrella-de-la-muerte/
+permalink: 2008/06/23/diorama-lego-de-la-estrella-de-la-muerte/
 ---
 <img src="/assets/adfaod.png" alt="" title="Estrella de la muerte Lego" width="440" height="334" class="centro" />
 

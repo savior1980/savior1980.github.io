@@ -2,7 +2,7 @@
 layout: post
 title: Un año de Resistencia
 date: '2006-12-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/14/un-ano-de-resistencia/
+permalink: 2006/12/14/un-ano-de-resistencia/
 ---
 <a href="http://www.goear.com/listen.php?v=23662de"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://bp1.blogger.com/_PnWHf0Wv0BI/RYCSJ8LMoII/AAAAAAAAACc/B8-v633ZaIg/s1600/Imagen+2.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5008163485105561730" /></a>Pues sí, hoy 14 de diciembre este blog cumple un año. Con <a href="http://resistancefutile.blogspot.com/2005/12/resistance-is-futile-and-you-will-be.html">la primera entrada</a>, patética dónde las haya, daba paso a lo que véis hoy en día, mi blog personal, el Resistance is Futile. No me queda más que agradeceros a todos que me leáis y que os guste el blog y agradeceros también especialmente los comentarios que me dejáis, que los valoro mucho.
 

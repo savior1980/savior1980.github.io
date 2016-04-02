@@ -2,7 +2,7 @@
 layout: post
 title: Axioma de los auriculares
 date: '2008-10-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/13/axioma-de-los-auriculares/
+permalink: 2008/10/13/axioma-de-los-auriculares/
 ---
 La probabilidad que alguien te haga alguna pregunta en la andana del tren crece de forma exponencial mientras lleves auriculares.
 

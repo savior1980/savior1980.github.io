@@ -2,7 +2,7 @@
 layout: post
 title: Empire y sus rankings invertidos
 date: '2008-03-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/30/empire-y-sus-rankings-invertidos/
+permalink: 2008/03/30/empire-y-sus-rankings-invertidos/
 ---
 <img src="/assets/zz5642373c.png" alt="" title="Empire y sus rankings" width="480" height="107" class="centro_borde" />
 Viendo <a href="http://www.empireonline.com/50greatesttv/default.asp?tv=50">el ranking de las 50 mejores series de todos los tiempos</a> que publica la revista Empire (no sé por qué me da por pensar en el lado oscuro cada vez que esucho ese nombre), a uno no puede escapársele una carcajada. 

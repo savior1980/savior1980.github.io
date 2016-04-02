@@ -2,7 +2,7 @@
 layout: post
 title: Dónde está Nightcrawler?
 date: '2006-06-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/07/donde-esta-nightcrawler/
+permalink: 2006/06/07/donde-esta-nightcrawler/
 ---
 <a href="http://www.imdb.com/title/tt0376994/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/xm3.jpg" border="0" alt="" /></a>Es negro, peludo, con elegancia pero sutil, desaparece con facilidad, si alguien lo ve en la peli X-Men 3 que me avise por favor, en la 2 salía... qué le ha ocurrido?
 

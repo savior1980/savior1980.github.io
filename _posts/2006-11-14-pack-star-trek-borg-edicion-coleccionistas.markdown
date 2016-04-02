@@ -2,7 +2,7 @@
 layout: post
 title: 'Pack Star Trek Borg: Edición Coleccionistas'
 date: '2006-11-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/14/pack-star-trek-borg-edicion-coleccionistas/
+permalink: 2006/11/14/pack-star-trek-borg-edicion-coleccionistas/
 ---
 <a href="http://www.amazon.com/Star-Trek-Fan-Collective-Borg/dp/B000CCBCIA/sr=8-1/qid=1163500292/ref=pd_bbs_sr_1/002-6546611-6581609?ie=UTF8&s=dvd"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/1600/B000CCBCIA.01._AA240_SCLZZZZZZZ_.jpg" border="0" alt="" /></a>Una de las cosas que me llevo de Madrid es <a href="http://www.dvdgo.com/product~catgid~176~list~142~prodid~117192~typeproduct~1~dvd~Pack+Star+Trek+-+Borg:+Edici%F3n+Coleccionistas.htm">un Pack de DVD's</a> Edición para coleccionistas de Star Trek centrado en temática <a href="http://en.wikipedia.org/wiki/Borg_%28Star_Trek%29">Borg</a>. Los Borg me fascinan, si no este blog no se llamaría como se llama, se trata de una raza ultrapotente que se dedica a asimilar culturas y civilizaciones para buscar la perfección y dominar la galaxia, han eliminado cualquier forma de individualismo y sólo se basan en su consciencia global. Es lo más parecido a mi némesis, algo totalmente opuesto a mi manera de pensar y sólo con ver a la Federación luchar contra ellos, ya me  emociono sin remedio.
 

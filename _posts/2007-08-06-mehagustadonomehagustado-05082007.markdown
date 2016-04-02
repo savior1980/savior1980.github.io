@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [05/08/2007]
 date: '2007-08-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/08/06/mehagustadonomehagustado-05082007/
+permalink: 2007/08/06/mehagustadonomehagustado-05082007/
 ---
 - <strong>Mehagustado</strong> estar ya de vacaciones, tengo semana y media para descansar, aclarar ideas, realizar tareas que normalmente no podría (como ir al banco, llevar el coche a revisión, acudir a eventos maqueros...) y de vez en cuando mirar el correo del trabajo por si surge algo importante (previsiblemente, no).
 

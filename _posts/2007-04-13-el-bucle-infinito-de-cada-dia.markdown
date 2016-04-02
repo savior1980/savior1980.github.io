@@ -2,7 +2,7 @@
 layout: post
 title: El bucle infinito de cada día
 date: '2007-04-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/13/el-bucle-infinito-de-cada-dia/
+permalink: 2007/04/13/el-bucle-infinito-de-cada-dia/
 ---
 Creo que hacía mucho tiempo que no me sentía tan identificado con un post como el que que hoy hizo Nacho en Microsiervos. Se trata de la imagen de la adicción que sufrimos muchos:
 

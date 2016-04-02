@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [21/02/2009]
 date: '2010-02-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/02/22/mehagustadonomehagustado-21022009/
+permalink: 2010/02/22/mehagustadonomehagustado-21022009/
 ---
 - *Mehagustadp* bastante la peli "Celda 211", realmente entretenida, intrigante y que te lleva muy bien a la acción, te submerge en el argumento y en las acciones de los personajes.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [16/03/2008]
 date: '2008-03-16T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/03/16/mehagustadonomehagustado-16032008/
+permalink: 2008/03/16/mehagustadonomehagustado-16032008/
 ---
 - <strong>Mehagustado</strong> muchísimo el evento nanocampusmac. Ha sido genial, corto, pero verdaderamente espléndido, bien organizado, con cantidad de cosas para hacer, con una gincana entretenida y en una ubicación perfecta hoygan. Lástima que la conexión a interneee fuera un poquitín lenta, pero la habitación, el hotel y todo han resultado un acierto total. Y bueno de la gente no digo nada por que nos lo pasamos todos muy bien y todo ha ido sobre ruedas como en anteriores ocasiones.
 

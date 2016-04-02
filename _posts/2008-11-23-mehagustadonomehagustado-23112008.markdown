@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [23/11/2008]
 date: '2008-11-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/11/24/mehagustadonomehagustado-23112008/
+permalink: 2008/11/24/mehagustadonomehagustado-23112008/
 ---
 - <strong>Mehagustado</strong> bastante tener configurado MAMP en mi MacBook Pro, es algo que tenía pendiente de hacía mucho tiempo y que nunca conseguía por falta de tiempo. Lo he hecho a prueba y error, ir investigando y avanzando poco a poco, la verdad que bastante más a trancas y barrancas que <a href="http://www.thinkwasabi.com/2008/11/23/instala-wordpress-en-local-con-mamp/">la manera en como lo expone berto en TW</a>, elegancia, elegancia, elegancia. Sin embargo lo importante es que funciona y que ya tengo un entorno para hacer pruebas y chuminadas en local.
 

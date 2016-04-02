@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [06/01/2008]
 date: '2008-01-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/01/07/mehagustadonomehagustado-06012008/
+permalink: 2008/01/07/mehagustadonomehagustado-06012008/
 ---
 - <strong>Nomehagustado</strong> el hecho de que seguramente tendré que estar desplazado a Mallorca hasta Semana Santa (como mínimo). Yo intentaré por todos los medios que mañana no tomen la decisión de enviarme allí, pero creo que lo llevo bastante crudo: el proyecto empieza a germinar, necesitan alguien que haya estado desde el principio y vamos me tocará ir fijo, fijo.
 

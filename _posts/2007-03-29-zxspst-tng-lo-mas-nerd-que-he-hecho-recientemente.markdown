@@ -2,7 +2,7 @@
 layout: post
 title: ZXSP+ST TNG = Lo más nerd que he hecho recientemente
 date: '2007-03-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/30/zxspst-tng-lo-mas-nerd-que-he-hecho-recientemente/
+permalink: 2007/03/30/zxspst-tng-lo-mas-nerd-que-he-hecho-recientemente/
 ---
 <img src="/assets/zxsp.png" width="450" height="337" alt="zxsp" class="centro_borde" />
 

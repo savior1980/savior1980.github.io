@@ -2,7 +2,7 @@
 layout: post
 title: Tema Mac OS X para móviles Nokia
 date: '2006-07-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/04/tema-mac-os-x-para-moviles-nokia/
+permalink: 2006/07/04/tema-mac-os-x-para-moviles-nokia/
 ---
 <a href="http://www.danschwartz.org/phone.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/tigertheme2.jpg" border="0" alt="" /></a>Hay unos temas fantásticos para personalizar el menú y todo el sistema de los móviles Nokia, entiendo que sólo funcionan en los que gozan de Symbian, pero no puedo asegurarlo si es tan sólo para esos modelos, esto seguro que un experto en el tema como el <a href="http://www.thinkwasabi.com">Dr. Wasabi</a> lo sabría.
 

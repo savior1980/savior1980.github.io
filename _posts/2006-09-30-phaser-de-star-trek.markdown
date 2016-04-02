@@ -2,7 +2,7 @@
 layout: post
 title: Phaser de Star Trek
 date: '2006-09-30T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/30/phaser-de-star-trek/
+permalink: 2006/09/30/phaser-de-star-trek/
 ---
 <a href="http://www.amazon.com/Star-Trek-40th-Anniversary-Phaser/dp/B000GPWS4K/ref=pd_sxp_f_pt/102-6545429-6744904?ie=UTF8"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/phaser2.jpg" border="0" alt="" /></a>Hace poco fue <a href="http://www.microsiervos.com/archivo/peliculas-tv/star-trek-40-aniv.html">un aniversario muy especial</a>, se cumplieron los 40 años de la Serie Star Trek TOS, en la que vimos al entrañable Spock, al intrépido Kirk, al eficiente Scotty y tantos otros míticos personajes que conformaron una de las más prolíficas y seguidas sagas dentro del mundo de la ciencia ficción.
 

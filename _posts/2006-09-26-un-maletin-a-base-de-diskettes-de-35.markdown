@@ -2,7 +2,7 @@
 layout: post
 title: Un maletín a base de diskettes de 3,5"
 date: '2006-09-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/26/un-maletin-a-base-de-diskettes-de-35/
+permalink: 2006/09/26/un-maletin-a-base-de-diskettes-de-35/
 ---
 Qué hacer con las pilas y pilas de diskettes obsoletos e inútiles? en nuestros días ya no sirven con el advenimiento de los pen drives y las grabadoras de CD/DVD... así que en lugar de tirarlos a la basura, los más manitas de vosotros podéis realizar este fabuloso maletín para transportar el portátil, las libretas o lo que vosotros queráis. El resultado es espectacular.
 

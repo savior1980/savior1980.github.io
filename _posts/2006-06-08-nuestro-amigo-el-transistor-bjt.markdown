@@ -2,7 +2,7 @@
 layout: post
 title: Nuestro amigo el transistor BJT
 date: '2006-06-08T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/08/nuestro-amigo-el-transistor-bjt/
+permalink: 2006/06/08/nuestro-amigo-el-transistor-bjt/
 ---
 <a href="http://www.williamson-labs.com/480_xtor.htm"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/ce-swnb-358.gif" border="0" alt="" /></a>Es bastante cruel por mi parte hacer una oda al transistor BJT cuando muchos de vosotros estáis en época de exámenes, pero en fin, que quería recordar este entrañable componente electrónico, que tantos dolores de cabeza nos trajo en su día a los que estudiamos alguna asignatura de electrónica.
 

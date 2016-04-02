@@ -2,7 +2,7 @@
 layout: post
 title: Impresiones del viaje a Mallorca
 date: '2006-09-13T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/13/impresiones-del-viaje-a-mallorca/
+permalink: 2006/09/13/impresiones-del-viaje-a-mallorca/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger2/4553/2422/320/images.0.jpg" border="0" alt="" />El viaje a Mallorca fue relajante en extremo y espero que esta semana también lo sea y así me pueda desestresar un poco de todo en general.
 

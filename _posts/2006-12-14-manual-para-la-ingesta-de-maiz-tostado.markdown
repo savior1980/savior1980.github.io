@@ -2,7 +2,7 @@
 layout: post
 title: Manual para la ingesta de maíz tostado
 date: '2006-12-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/14/manual-para-la-ingesta-de-maiz-tostado/
+permalink: 2006/12/14/manual-para-la-ingesta-de-maiz-tostado/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://bp0.blogger.com/_PnWHf0Wv0BI/RYHF_cLMoJI/AAAAAAAAACo/a19vmhwjMWc/s320/maiz-tostado-jumbo-chili-web.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5008501954298290322" />Hay distintas maneras de comer maíz tostado, al igual que hay distintas formas de llamarlo, por ejemplo aquí le solemos llamar "kiko" pero seguramente puede llamarse de otras maneras según regiones, así que haciendo acopio de la máxima tan trillada del valor de la imagen, os la adjunto a mano derecha. Lo siguiente es una especie de manual  de un método que elevará el placer de comer maíz a cotas sin lugar a dudas más altas que las que ofrece el método tradicional que consiste en engullir maíz como un poseso.
 

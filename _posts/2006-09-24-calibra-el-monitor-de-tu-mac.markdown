@@ -2,7 +2,7 @@
 layout: post
 title: Calibra el monitor de tu Mac
 date: '2006-09-24T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/25/calibra-el-monitor-de-tu-mac/
+permalink: 2006/09/25/calibra-el-monitor-de-tu-mac/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Imagen%203.png" border="0" alt="" />En mi opinión una de las acciones básicas que hay que hacer al recibir un nuevo ordenador es calibrar el monitor, de esta forma conseguiremos optimizar la visualización de los colores y formas en nuestra pantalla, ya que la usaremos constantemente. Muchos monitores tienen la función de AutoSettings y otros menús independientes que nos ayudarán a seleccionar la configuráción óptima de visionado en ellos y que normalmente podremos calibrar a voluntad. Este es el caso por ejemplo al usar un MacMini o un MacPro con una pantalla TFT externa.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Video Parodia Pupurrí (y muy friki)
 date: '2006-07-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/23/video-parodia-pupurri-y-muy-friki/
+permalink: 2006/07/23/video-parodia-pupurri-y-muy-friki/
 ---
 Hace tiempo tenía entre mis enlaces a visitar una parodia juntando Star Trek y la pelí "Los caballeros de la mesa cuadrada" de Monty Phyton que leí en <a href="http://www.ximac.net/ST322/archivos/los-caballeros-de-la-mesa-cuadrada-y-sus-locos-trekkies/">Sector 32</a>, la cual no tiene desperdicio y podéis ver tranquilamente <a href="http://www.youtube.com/watch?v=C0-OaAGXTx8">aquí</a>.
 

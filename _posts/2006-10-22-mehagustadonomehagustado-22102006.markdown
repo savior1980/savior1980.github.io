@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [22/10/2006]
 date: '2006-10-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/22/mehagustadonomehagustado-22102006/
+permalink: 2006/10/22/mehagustadonomehagustado-22102006/
 ---
 - <span style="font-weight:bold;">Nomehagustado</span>, lógicamente, el partido de hoy. Ha sido uno de los partidos que más daño hacen a la afición culé, no por el resultado, sino por el transcurso del partido.
 

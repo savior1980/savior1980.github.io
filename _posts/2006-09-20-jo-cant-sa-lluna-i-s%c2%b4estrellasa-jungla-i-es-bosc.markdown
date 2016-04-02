@@ -4,7 +4,7 @@ title: |-
   jo cant sa lluna i s´estrella
   sa jungla i es bosc ...
 date: '2006-09-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/20/jo-cant-sa-lluna-i-s%c2%b4estrellasa-jungla-i-es-bosc/
+permalink: 2006/09/20/jo-cant-sa-lluna-i-s%c2%b4estrellasa-jungla-i-es-bosc/
 ---
 <p class="chorus">jo cant sa lluna i s´estrella
 sa jungla i es bosc animat

@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [11/03/2007]
 date: '2007-03-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/11/mehagustadonomehagustado-11032007/
+permalink: 2007/03/11/mehagustadonomehagustado-11032007/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> bastante la peli <a href="http://imdb.com/title/tt0407887/">Infiltrados</a> de Martin Scorcese, que fue bastante premiada en los Oscar de este año. A ver la peli está bien pero no es ninguna obra maestra, es entretenida pero en ocasiones se hace bastante aburrida, sin duda que es un acierto poner a Jack Nicholson como mafioso al menos hay veces que no puedes reprimir una sonrisa.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Episode I videoclip
 date: '2006-05-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/23/episode-i-videoclip-2/
+permalink: 2006/05/23/episode-i-videoclip-2/
 ---
 Sin palabras me he quedado al ver el vídeoclip siguiente (con subtítulos en español):
 

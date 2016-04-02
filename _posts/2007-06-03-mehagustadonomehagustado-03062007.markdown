@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [03/06/2007]
 date: '2007-06-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/06/03/mehagustadonomehagustado-03062007/
+permalink: 2007/06/03/mehagustadonomehagustado-03062007/
 ---
 - <strong>Mehagustado</strong> el piso que fuimos a ver este viernes, de momento no podemos todavía tomar una decisión en firme, aún nos quedan por ver algunos más, pero sinceramente este piso me da buen "feeling". 
 

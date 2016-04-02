@@ -2,7 +2,7 @@
 layout: post
 title: Spiderman 2 en LEGO
 date: '2006-10-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/14/spiderman-2-en-lego/
+permalink: 2006/10/14/spiderman-2-en-lego/
 ---
 Brutal el vídeo que me pasa <a href="http://solo.infames.org">Hugo</a>, un corto hecho con los personajes de LEGO del set de Spiderman y que recrea bastante bien la película Spiderman 2, bueno, algo sui generis, tan sólo con las luchas con el Dr. Octopus que es lo que más mola de la peli.
 

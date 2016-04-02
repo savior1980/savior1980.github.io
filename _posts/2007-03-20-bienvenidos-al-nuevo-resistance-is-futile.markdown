@@ -2,7 +2,7 @@
 layout: post
 title: Bienvenidos al nuevo Resistance is Futile
 date: '2007-03-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/03/21/bienvenidos-al-nuevo-resistance-is-futile/
+permalink: 2007/03/21/bienvenidos-al-nuevo-resistance-is-futile/
 ---
 Bienvenidos al nuevo <a href="http://resistancefutile.com"><strong>Resistance is Futile</strong></a>. Hacía mucho tiempo que buscaba llevar a cabo esta actualización, este cambio, migrar a un dominio propio y montar un blog en <a href="http://wordpress.org">WordPress</a> era realmente un reto y una ilusión para mí, al fin ante vosotros tenéis el resultado.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Gort está de camino
 date: '2007-09-18T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/09/18/gort-esta-de-camino/
+permalink: 2007/09/18/gort-esta-de-camino/
 ---
 Ya viene...
 

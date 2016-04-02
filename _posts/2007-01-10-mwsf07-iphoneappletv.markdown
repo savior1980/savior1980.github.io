@@ -2,7 +2,7 @@
 layout: post
 title: 'MWSF07: iPhone+AppleTV'
 date: '2007-01-10T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/10/mwsf07-iphoneappletv/
+permalink: 2007/01/10/mwsf07-iphoneappletv/
 ---
 <a href="http://www.apple.com/iphone/"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp3.blogger.com/_PnWHf0Wv0BI/RaSyJgf7MDI/AAAAAAAAAEs/cmotlKmBTr8/s1600/iPhonedeverdad.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5018331761209978930" /></a>Tal como dijo Steve jobs al principio de la keynote, Apple tenía ayer una cita con la historia. Presentó (una vez más) un gadget revolucionario, el <a href="http://www.apple.com/iphone/">iPhone</a>, que incorpora una interfaz espectacular de interacción con el pantallote de 3.5" (y resolución brutal 160 ppi) llamada multitouch de la cual vimos unas demos, realmente brutal visualmente, sobretodo el efecto de zoom sobre las fotos es para caer de culo.
 

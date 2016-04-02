@@ -2,7 +2,7 @@
 layout: post
 title: Unhappy birthday to you
 date: '2006-05-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/03/unhappy-birthday-to-you-2/
+permalink: 2006/05/03/unhappy-birthday-to-you-2/
 ---
 Hoy ha sido uno de los peores días de todo el año. Y ha sido mi cumpleaños, la verdad es que no tenía ninguna ilusión por que llegara este día, seguramene intuía la que se me venía encima y es que hay días que parece que te haya mirado un tuerto. Para no aburrir en el sopor más profundo a los no habituales a mi línia de posts de paranoia personal, os inluyo la descripción pormenorizada de lo que ha sido el día de hoy en el post completo, accesible clicando el link "Leer más".
 <span class="fullpost">

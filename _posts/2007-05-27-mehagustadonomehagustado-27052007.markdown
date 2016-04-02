@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [27/05/2007]
 date: '2007-05-27T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/28/mehagustadonomehagustado-27052007/
+permalink: 2007/05/28/mehagustadonomehagustado-27052007/
 ---
 - <strong>Mehagustado</strong> mucho el japonés al que hemos ido hoy con Cristina, hemos celebrado <a href="http://childrenatyourfeet.com/2007/05/27/251/">su cumpleaños</a> en un restaurante muy bueno llamado "<a href="http://bcnrestaurantes.com/barcelona.asp?restaurante=shunka">Shunka</a>", en la línea del <strong>Kibuka</strong>, es decir lo que podríamos etiquetar de "un japo de calidad", todo estaba delicioso desde el maki (incluso uno de atún que se han pasado con el wasabi) hasta el nigiri o la tempura, todo estaba genial. También <strong>mehagustado</strong> que mis regalos de este año <strong>lehayangustado</strong>.
 

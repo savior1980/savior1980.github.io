@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [07/06/2009]
 date: '2009-06-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/06/08/mehagustadonomehagustado-07062009/
+permalink: 2009/06/08/mehagustadonomehagustado-07062009/
 ---
 - <strong>Mehagustado</strong> estar esta semana en la oficina, sin mucha presión, de momento mañana me toca ir también allí y a ver como ca evolucionando todo. <strong>Mencantará</strong> poder salir temprano para ayudar en el seguimiento de la keynote en <a href="http://applesfera.com">Applesfera</a>, que viene cargada de novedades.
 

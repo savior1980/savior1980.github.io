@@ -2,7 +2,7 @@
 layout: post
 title: Set de fotos del PowerMac G4
 date: '2006-12-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/12/11/set-de-fotos-del-powermac-g4/
+permalink: 2006/12/11/set-de-fotos-del-powermac-g4/
 ---
 <a href="http://www.flickr.com/photos/savior1980/319870211/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;width: 320px;" src="http://static.flickr.com/128/319870211_55b060b94a.jpg" border="0" alt="" /></a>
 Bueno debido a la insistencia de algunos (bueno realmente han sido sólo dos pero yo creo que al resto seguro que también tendréis curiosidad), he hecho un par más de fotos con la cámara digital (y no el móvil de mi hermano) al PowerMac G4 que recientemente Rub me vendió.

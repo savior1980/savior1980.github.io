@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [especial fin de vacaciones navideñas]
 date: '2009-01-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/06/mehagustadonomehagustado-especial-fin-de-vacaciones-navidenas/
+permalink: 2009/01/06/mehagustadonomehagustado-especial-fin-de-vacaciones-navidenas/
 ---
 - <strong>Nomehagustado</strong> nada la keynote de hoy, la más sosa de todas las que yo haya podido recordar, que si iLife por aquí que si iWork por allá y nada de actualidad de renovaciones en la gama iMac o MacMini, nada de novedades en el iPhone (a parte del tírrico iTunes+), en fin un puto coñazo, tan solo con la actualización de algo al nuevo chip de intel i7 me hubiese bastado, en fin, otra vez será mejor esperemos. 
 

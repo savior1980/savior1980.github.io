@@ -2,7 +2,7 @@
 layout: post
 title: 00:59:60
 date: '2005-12-31T00:00:00+00:00'
-permalink: http://resistancefutile.com/2005/12/31/005960/
+permalink: 2005/12/31/005960/
 ---
 Pues s&#237;. Normalmente, las horas terminan en el segundo 59 y empiezan en el 00. As&#237; me lo aprend&#237; yo.
 

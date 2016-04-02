@@ -2,7 +2,7 @@
 layout: post
 title: 'Caso Candybar: Ser legal y comprar licencias sale caro, cada vez más'
 date: '2007-11-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/28/caso-candybar-ser-legal-y-comprar-licencias-sale-caro-cada-vez-mas/
+permalink: 2007/11/28/caso-candybar-ser-legal-y-comprar-licencias-sale-caro-cada-vez-mas/
 ---
 <img src='/assets/candybar-animation1-1.png' alt='candybar' class="derecha" />Hace meses <a href="http://resistancefutile.com/2006/08/18/star-trek-icon-set/">compré una licencia de Candybar 2</a>. Es un programa que agoté la trial y me encantó. Su interfaz estaba muy cuidada, funciona de maravilla, lo uso bastante (me encanta el deskmod e ir cambiando de iconos, etc) y pensé "venga, 13 dólares es un precio bastante justo por este programa", así que lo compré sin pensarlo más.
 

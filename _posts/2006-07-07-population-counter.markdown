@@ -2,7 +2,7 @@
 layout: post
 title: Population Counter
 date: '2006-07-07T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/07/population-counter/
+permalink: 2006/07/07/population-counter/
 ---
 <a href="http://www.apple.com/downloads/dashboard/reference/populationcounter.html"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/Imagen%201.6.png" border="0" alt="" /></a>Hugo me descubre un fabuloso y curioso widget llamado <a href="http://www.apple.com/downloads/dashboard/reference/populationcounter.html">Population Counter</a> y que intenta predecir la población mundial a través de una estamación que toma en consideración las tasas de natalidad y mortalidad existentes. Aunque creo que va un poco acelerado es bastante <span style="font-style:italic;">geek</span> observar como nos vamos acercando a los 6.540 millones de personas en esta creciente humanidad.
 

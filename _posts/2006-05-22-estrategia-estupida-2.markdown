@@ -2,7 +2,7 @@
 layout: post
 title: Estrategia estúpida
 date: '2006-05-22T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/22/estrategia-estupida-2/
+permalink: 2006/05/22/estrategia-estupida-2/
 ---
 Hace tiempo que no leo algo tan idiota: un tipo nos da <a href="http://codefromthe70s.org/xp-reinstall.asp">la táctica</a> para conseguir tener una instalación de windows limpia sin perder la antigua instalación. La táctica es la siguiente:
 

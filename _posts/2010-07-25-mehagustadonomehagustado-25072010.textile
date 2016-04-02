@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [25/07/2010]
 date: '2010-07-25T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/07/25/mehagustadonomehagustado-25072010/
+permalink: 2010/07/25/mehagustadonomehagustado-25072010/
 ---
 - *Nomehagustado* entrar con no demasiado buen pie en un nuevo proyecto. No sé no tengo buen _feeling_ además está situado a 65km de mi casa. Ir y venir en coche cada día va a ser jodido. Aunque sí *mehagustado* poder hacer algunos días de jornada intensiva y que las cosas se clarifiquen un poco en el proyecto actual.
 

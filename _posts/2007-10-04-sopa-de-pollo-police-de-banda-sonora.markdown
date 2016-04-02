@@ -2,7 +2,7 @@
 layout: post
 title: Sopa de pollo + Police de banda sonora
 date: '2007-10-04T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/10/04/sopa-de-pollo-police-de-banda-sonora/
+permalink: 2007/10/04/sopa-de-pollo-police-de-banda-sonora/
 ---
 Fuera llueve, miro por la ventana y veo pasar coches por las calles encharcadas, se respira no obstante una calma importante. EStoy completamente relajado, delante del Powermac leyendo feeds y tomándome una sopa de sobre "sopinstant" que me está sentando de puta madre, luego viene el bocata de mortadela y me termino el nestea (sobras del pasado finde). Estoy escuchando el Grandes éxitos de Police, el nuevo de Bruce y el nuevo de los Foo Fighters, pero sobretodo me está gustando muco el grandes éxitos de Police, tienen canciones geniales.
 

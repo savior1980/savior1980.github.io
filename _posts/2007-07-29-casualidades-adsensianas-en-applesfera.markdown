@@ -2,7 +2,7 @@
 layout: post
 title: Casualidades Adsensianas en Applesfera
 date: '2007-07-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/07/29/casualidades-adsensianas-en-applesfera/
+permalink: 2007/07/29/casualidades-adsensianas-en-applesfera/
 ---
 <img class="centro_borde" src='/assets/zz3005d3e0.png' alt='Portada de Applesfera curiosa' />
 

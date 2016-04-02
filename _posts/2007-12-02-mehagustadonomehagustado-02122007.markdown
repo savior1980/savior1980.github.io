@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [02/12/2007]
 date: '2007-12-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/12/02/mehagustadonomehagustado-02122007/
+permalink: 2007/12/02/mehagustadonomehagustado-02122007/
 ---
 - <strong>Mehagustado</strong> tener hoy visita, el señor <a href="http://procrastineitor.blogspot.com/">Procrastineitor</a> y señora (próximos switchers) han venido a ver el pisito, el iMac de Cristina y a charlar un ratillo, ha estado muy bien. Cris ha hecho guacamole (estaba de muerte!) y no hemos dejado ni gota ha sido muy agradable todo. 
 

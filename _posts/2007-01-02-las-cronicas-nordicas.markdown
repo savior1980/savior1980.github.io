@@ -2,7 +2,7 @@
 layout: post
 title: Las crónicas nórdicas
 date: '2007-01-02T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/02/las-cronicas-nordicas/
+permalink: 2007/01/02/las-cronicas-nordicas/
 ---
 <img style="float:right; margin:0 0 10px 10px;" src="http://bp2.blogger.com/_PnWHf0Wv0BI/RZrnjH_uqNI/AAAAAAAAAEI/pblmg66YIJU/s320/0268265.jpg" border="0" alt=""id="BLOGGER_PHOTO_ID_5015575725658253522" />El reciente viaje a Estocolmo ha ido muy bien, pese a <a href="http://resistancefutile.blogspot.com/2006/12/to-fly-or-not-to-fly.html">los problemas</a> que se veían a priori, pudimos despegar y todo fue a pedir de boca: la ciudad es una pasada, hay que ir a visitarla, es una de las mejores ciudades que habré estado: 15 islas que forman un núcleo urbano distinto, muy bonito y uniforme, aunque eso sí, un poco triste debido a la poca luz y el clima (factores más negativos del viaje).
 

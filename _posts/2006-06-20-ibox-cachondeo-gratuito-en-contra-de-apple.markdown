@@ -2,7 +2,7 @@
 layout: post
 title: iBox, cachondeo gratuito en contra de Apple
 date: '2006-06-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/20/ibox-cachondeo-gratuito-en-contra-de-apple/
+permalink: 2006/06/20/ibox-cachondeo-gratuito-en-contra-de-apple/
 ---
 Un grupo de radicales <span style="font-style:italic;">gamers</span> un poco anti-maqueros se ha currado un vídeo bastante bueno, almenos me ha hecho bastante gracia. Se trata de la promoción del <span style="font-weight:bold;">iBox</span>, una supuesta caja blanca vacía en teoría desarrollada por Apple que intenta competir con el resto de consolas del mercado tan sólo con el "karma" o estilo que desprende, pues no tiene cables (cachondeo con eso) y no se puede conectar a nada, de hecho nadie sabe a ciencia cierta cómo se juega con ella, pero bueno es <span style="font-style:italic;">cool</span>. Os pongo el vídeo a continuación.
 

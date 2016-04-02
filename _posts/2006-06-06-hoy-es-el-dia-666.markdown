@@ -2,7 +2,7 @@
 layout: post
 title: Hoy es el día 666
 date: '2006-06-06T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/06/06/hoy-es-el-dia-666/
+permalink: 2006/06/06/hoy-es-el-dia-666/
 ---
 <a href="http://es.wikipedia.org/wiki/Seiscientos_sesenta_y_seis"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/images.12.jpg" border="0" alt="" /></a>En varios blogs he visto publicada la noticia: hoy es 06/06/2006. Hay cantidad de referencias al 666, el número de la Bestia en multitud de sitios.
 

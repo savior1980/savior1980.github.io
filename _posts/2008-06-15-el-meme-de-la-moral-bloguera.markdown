@@ -2,7 +2,7 @@
 layout: post
 title: El meme de la moral bloguera
 date: '2008-06-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/06/15/el-meme-de-la-moral-bloguera/
+permalink: 2008/06/15/el-meme-de-la-moral-bloguera/
 ---
 <a href="http://lordzoltan.gafapasta.com/?p=600">El señor Zoltanga</a> me pasa un meme de esos jachondos con preguntas casi retóricas para verle un sentido a las tendencias de los blogs y desentrañar el futuro de la web 2.0, haciendo hincapié en lo que sería la moral de los bloggers, como piensan y como evolucionan esos hombrecillos (verdes) que actualizan a diario (o algunos cuando pueden) sus cuadernos de bitácora.
 

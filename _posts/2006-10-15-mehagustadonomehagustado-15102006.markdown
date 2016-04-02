@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [15/10/2006]
 date: '2006-10-15T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/15/mehagustadonomehagustado-15102006/
+permalink: 2006/10/15/mehagustadonomehagustado-15102006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> que el Barça vuelva a ser líder en solitario, en una semana tan complicada (visitas a Stamford Bridge y al Santiago Bernabéu), se lo merecen, ojalá este año se puedan repetir los éxitos deportivos de la temporada pasada.
 

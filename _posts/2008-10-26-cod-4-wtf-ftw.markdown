@@ -2,7 +2,7 @@
 layout: post
 title: COD 4 WTF FTW
 date: '2008-10-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/10/27/cod-4-wtf-ftw/
+permalink: 2008/10/27/cod-4-wtf-ftw/
 ---
 A los varios minutos de jugar con el <strong>COD 4</strong>, me encuentro <a href="http://www.flickr.com/photos/savior1980/2975479073/">esto</a> y por supuesto le hice una captura.
 

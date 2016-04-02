@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [01/05/2007]
 date: '2007-05-01T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/01/mehagustadonomehagustado-01052007/
+permalink: 2007/05/01/mehagustadonomehagustado-01052007/
 ---
 Como me he pillado los 4 días de puente, para mí hoy es como si fuera domingo así que ya sabéis: domingo noche toca mehagustado, os lo pongo a continuación:
 

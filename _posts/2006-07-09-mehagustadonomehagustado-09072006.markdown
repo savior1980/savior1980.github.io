@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [09/07/2006]
 date: '2006-07-09T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/07/09/mehagustadonomehagustado-09072006/
+permalink: 2006/07/09/mehagustadonomehagustado-09072006/
 ---
 - <span style="font-weight:bold;">Mehagustado</span> mucho la lectura de <a href="http://www.jpod.info/">jPod</a>, os lo recominedo a todos, en especial al sector  geek-friki del blog, os encantará. Sólo le encuentro una pega: el estilo es un poco extraño, <span style="font-weight:bold;">[spoiler]</span> <font color="#ffffff"> que estés leyendo tranquilamente y de repente aparezca un correo de spam o que los protagonistas decidan escribirle una oda a Ronald McDonald descentra un poco</font><span style="font-weight:bold;">[/spoiler]</span> (marcar para ver el spoiler oculto).
 

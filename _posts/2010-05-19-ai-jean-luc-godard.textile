@@ -2,7 +2,7 @@
 layout: post
 title: Ai Jean-Luc (Godard)
 date: '2010-05-19T00:00:00+00:00'
-permalink: http://resistancefutile.com/2010/05/19/ai-jean-luc-godard/
+permalink: 2010/05/19/ai-jean-luc-godard/
 ---
 <p class="chorus">Ell va dir que en casos com aquest 
 no es tracta de ser més guapo o de ser més lleig, 

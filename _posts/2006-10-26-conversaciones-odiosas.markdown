@@ -2,7 +2,7 @@
 layout: post
 title: Conversaciones odiosas
 date: '2006-10-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/26/conversaciones-odiosas/
+permalink: 2006/10/26/conversaciones-odiosas/
 ---
 Conversación mantenida hace un rato con un maquero que todos conocéis.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Clientes Hostiles
 date: '2007-05-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/05/28/clientes-hostiles/
+permalink: 2007/05/28/clientes-hostiles/
 ---
 Llevo tres años en el mundo de la consultoría y a lo largo de lo que sería mi vida profesional me he visto en múltiples situaciones, he tenido que lidiar con clientes bastante raros pero nada comparado con lo que me ha ocurrido hoy, <strong>increíble y surrealista</strong> a partes iguales.
 

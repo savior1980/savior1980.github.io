@@ -2,7 +2,7 @@
 layout: post
 title: Cuelgue de Firefox
 date: '2006-04-29T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/04/29/cuelgue-de-firefox/
+permalink: 2006/04/29/cuelgue-de-firefox/
 ---
 Para el justiciero, esto le encantará: Hay una página que causará que vuestros Firefox peten. No es una broma, si queréis probarlo Salvad Sesión antes de clicar el link que os pongo a continuación:
 

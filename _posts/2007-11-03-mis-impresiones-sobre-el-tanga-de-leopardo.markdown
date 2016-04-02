@@ -2,7 +2,7 @@
 layout: post
 title: Mis impresiones sobre el (tanga de) Leopardo
 date: '2007-11-03T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/11/03/mis-impresiones-sobre-el-tanga-de-leopardo/
+permalink: 2007/11/03/mis-impresiones-sobre-el-tanga-de-leopardo/
 ---
 <img src='/assets/92a66bb3.png' alt='92a66bb3.png' class="derecha" />Después de varios días usando Leopard es momento de hacer un pequeño análisis en el que os intentaré sintetizar mis impresiones con el nuevo felino en mi iBook G4 (sobre tangas de Leopardo os puede hablar <a href="http://Sopmacsl.com">Sopmacsl</a>, que es un tío al que le encanta ponérse máscaras de cuero a lo batman y que de estas cosas domina(trix) un montón ).
 

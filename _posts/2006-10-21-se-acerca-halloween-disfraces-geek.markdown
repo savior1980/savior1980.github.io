@@ -2,7 +2,7 @@
 layout: post
 title: 'Se acerca Halloween: disfraces geek'
 date: '2006-10-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/10/21/se-acerca-halloween-disfraces-geek/
+permalink: 2006/10/21/se-acerca-halloween-disfraces-geek/
 ---
 <a href="http://www.polymerarmory.com/starwars.htm"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger2/4553/2422/320/Bossside_jpg.jpg" border="0" alt="" /></a>
 El bueno de <s>Francisco</s> <a href="http://neokia.wordpress.com">neok</a>, me pasa <a href="http://www.polymerarmory.com/starwars.htm">un enlace</a> para que me compre un disfraz de soldado clon, la verdad que <span style="font-weight:bold;">mehagustado</span> mucho, está muy conseugido, una lástima que el precio sea "a consultar", un tema que voy a abordar en otro post, cuando ponen precio a consultar, por qué coño lo hacen? de qué se esconden? de que sea jodidamente caro? pues lo pones y punto, das la cara, en fin, que me voy por las ramas... que el disfraz de soldado clon este es realmente espectacular además puedes elegir entre distintos tipos de arma a juego. Perfecto para convenciones donde todo dios va disfrazado y no hacerlo te haría sentir estúpido, por muy paradoja que esto pueda parecer, festivales tipo <a href="http://resistancefutile.blogspot.com/2006/09/dragoncon-2006.html">Dragon*Con</a>, etc...

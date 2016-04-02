@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [21/01/2007]
 date: '2007-01-21T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/01/21/mehagustadonomehagustado-21012007/
+permalink: 2007/01/21/mehagustadonomehagustado-21012007/
 ---
 - <span style="font-weight:bold;">Nomehagustado</span> descubrir ayer que además de la chaqueta, la semana pasada me robaron un muñeco de trapo que tenía colgado en mi coche y que era la mascota del equipo de fútbol Alemania Aachen y por tanto un recuerdo de esos tiempos. Eso si me ha afectado un poco, porque demuestra las intenciones de esos indeseables: joder la marrana.
 

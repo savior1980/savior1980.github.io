@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado (tardío) [21/05/2008]
 date: '2008-05-20T00:00:00+00:00'
-permalink: http://resistancefutile.com/2008/05/21/mehagustadonomehagustado-tardio-21052008/
+permalink: 2008/05/21/mehagustadonomehagustado-tardio-21052008/
 ---
 - <strong>Nomehagustado </strong>olvidarme de hacer el <strong>mehagustado</strong> el pasado domingo, la verdad que es una costumbre que nunca debería romperse (salvo en cirunstancias excepcionales) y el domingo pasado no hay excusa posible si no es la típica de tener la maleta preparada y dejar todo listo para pegarme el madrugón del siglo el día siguiente y mentalizarme para una semana espesa y dura. 
 

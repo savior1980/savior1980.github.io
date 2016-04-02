@@ -2,7 +2,7 @@
 layout: post
 title: 'SIMO''06: Resumen del evento'
 date: '2006-11-14T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/11/14/simo06-resumen-del-evento/
+permalink: 2006/11/14/simo06-resumen-del-evento/
 ---
 La quedada blogosférica de este finde ha sido genial. No hay más calificativos: rotundamente genial. Llegamos el viernes noche a Madrid y  fuimos directamente al hotel, justo encima de la estación de tren de Chamartín y luego a la cama sin pasar por la casilla de salida, porque estábamos muertos de sueño. Así que no pudimos conocer a la gente de WSL que estaba ne Madrid, pues habían quedado por la tarde.
 

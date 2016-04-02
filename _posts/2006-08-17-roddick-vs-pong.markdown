@@ -2,7 +2,7 @@
 layout: post
 title: Roddick vs. PONG
 date: '2006-08-17T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/08/17/roddick-vs-pong/
+permalink: 2006/08/17/roddick-vs-pong/
 ---
 Impresionante y geekeril vídeo parte de una reciente campaña de promoción de American Express.
 

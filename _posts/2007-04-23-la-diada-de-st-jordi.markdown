@@ -2,7 +2,7 @@
 layout: post
 title: La diada de St. Jordi
 date: '2007-04-23T00:00:00+00:00'
-permalink: http://resistancefutile.com/2007/04/23/la-diada-de-st-jordi/
+permalink: 2007/04/23/la-diada-de-st-jordi/
 ---
 <img class="derecha_borde" src='/assets/rosa.thumbnail.jpg' alt='sant jordi' />Hoy ha sido uno de los días más bonitos del año, al menos en Catalunya, <strong>23 de Abril es cuando celebramos la "diada" de Sant Jordi</strong>. La tradición marca que los chicos tienen que regalar una rosa a las chicas y ellas nos regalan a nosotros un libro. Bueno o algo así, por que a la hora de la verdad, la policía no es tonta y saben que una rosa es bastante más barata que un libro, así que piden libro+rosa y nosotros claudicamos ante tal argumento tan catalán como es la preocupación por el dinero. 
 

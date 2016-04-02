@@ -2,7 +2,7 @@
 layout: post
 title: 'Farecast: predictor de vuelos baratos'
 date: '2006-05-26T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/05/26/farecast-predictor-de-vuelos-baratos-2/
+permalink: 2006/05/26/farecast-predictor-de-vuelos-baratos-2/
 ---
 <a href="http://www.farecast.com/"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://photos1.blogger.com/blogger/6639/1972/320/farecastlogo.gif" border="0" alt="" /></a>Hace bastante que mi categoría web2.0 no se actualiza, vamos a poner remedio a esto seguidamente.
 

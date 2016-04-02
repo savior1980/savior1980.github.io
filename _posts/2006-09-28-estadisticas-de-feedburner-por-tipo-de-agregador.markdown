@@ -2,7 +2,7 @@
 layout: post
 title: Estadísticas de Feedburner por tipo de agregador
 date: '2006-09-28T00:00:00+00:00'
-permalink: http://resistancefutile.com/2006/09/28/estadisticas-de-feedburner-por-tipo-de-agregador/
+permalink: 2006/09/28/estadisticas-de-feedburner-por-tipo-de-agregador/
 ---
 <img style="display:block; margin:0px auto 10px; text-align:center;" src="http://photos1.blogger.com/blogger2/4553/2422/320/feedburner.0.png" border="0" alt="" />
 En feedburner los que padecemos de ombliguismo extremo y queremos controlar las estadísticas de todo lo que se mueve en nuestro blog, tenemos una opción para separar nuestros lectores según el tipo de agregador que utilicen. Ayer mismo vi que el Consultor Anónimo detallaba sus lectores según tipología de agregador RSS en <a href="http://vidadeunconsultor.blogspot.com/2006/09/los-feeds-en-feedburner.html">este post</a> de su blog. Las estadísticas de feedburner se calculan mediante las peticiones que se hacen al feed (desde distintas ips claro) en las últimas 24h, sirven para más o menos controlar los lectores que diariamente te siguen.

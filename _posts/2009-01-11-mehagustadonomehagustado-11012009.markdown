@@ -2,7 +2,7 @@
 layout: post
 title: Mehagustado/Nomehagustado [11/01/2009]
 date: '2009-01-11T00:00:00+00:00'
-permalink: http://resistancefutile.com/2009/01/12/mehagustadonomehagustado-11012009/
+permalink: 2009/01/12/mehagustadonomehagustado-11012009/
 ---
 - <strong>Nomehagustado</strong> estar estos tres días de esta semana en Mallorca, mucho curro por el día y poco control por la noche. Esperemos que esta semana que son más días, toda la semana, sepamos administrar bien nuestro tiempo y podamos currar y descansar como es debido.
 
