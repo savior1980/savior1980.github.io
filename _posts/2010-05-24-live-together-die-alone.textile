@@ -4,7 +4,7 @@ title: Live together, die alone
 date: '2010-05-24T00:00:00+00:00'
 permalink: http://resistancefutile.com/2010/05/24/live-together-die-alone/
 ---
-<img src="http://resistancefutile.com/wp-content/images.jpeg" alt="" title="images" width="135" height="135" class="derecha" />Hoy ha terminado una de las mejores series que habré visto: *Lost*. El _season finale_ de la última temporada de Lost no ha dejado a nadie indiferente. 
+<img src="/assets/images.jpeg" alt="" title="images" width="135" height="135" class="derecha" />Hoy ha terminado una de las mejores series que habré visto: *Lost*. El _season finale_ de la última temporada de Lost no ha dejado a nadie indiferente. 
 
 Personalmente el capítulo me ha parecido impresionante de principio a fin. Resuelve todo lo que puede resolver y deja abiertos muchos otros interrogantes, menos importantes que el pilar común de la serie que es el nexo de *unión entre todos los personajes*.
 

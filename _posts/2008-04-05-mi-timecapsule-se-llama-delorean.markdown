@@ -4,7 +4,7 @@ title: Mi TimeCapsule se llama DeLorean
 date: '2008-04-05T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/04/05/mi-timecapsule-se-llama-delorean/
 ---
-<a href='http://resistancefutile.com/wp-content/zz18b6cb0e.jpg'><img src="http://resistancefutile.com/wp-content/zz18b6cb0e.jpg" alt="" title="DeLorean" width="95" height="190" class="derecha_borde" /></a>Cuando compramos el Time Capsule pensamos cómo íbamos a llamar a nuestro disco compartido, donde se harían las copias de Time Machine. 
+<a href='/assets/zz18b6cb0e.jpg'><img src="/assets/zz18b6cb0e.jpg" alt="" title="DeLorean" width="95" height="190" class="derecha_borde" /></a>Cuando compramos el Time Capsule pensamos cómo íbamos a llamar a nuestro disco compartido, donde se harían las copias de Time Machine. 
 
 Ya había comentado en <a href="http://resistancefutile.com/2007/04/29/mis-unidades-2/">dos</a> <a href="http://resistancefutile.com/2006/12/12/mis-unidades/">ocasiones</a> la temática sobre la que ponía nombres a mis unidades de disco. Así si mi disco principal de mi iBook se llamaba <strong>Galactica</strong>, el d mi MBP debe llamarse <strong>Pegasus</strong> (<em>BSG spoiler Warning</em>: aunque espero que su destino sea radicalmente distinto).
 

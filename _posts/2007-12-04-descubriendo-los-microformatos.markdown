@@ -4,7 +4,7 @@ title: Descubriendo los microformatos
 date: '2007-12-04T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/12/04/descubriendo-los-microformatos/
 ---
-<img src='http://resistancefutile.com/wp-content/resist_microformats.png' alt='Resistance to Microformats' class="centro_borde" />
+<img src='/assets/resist_microformats.png' alt='Resistance to Microformats' class="centro_borde" />
 
 A raíz de <a href="http://www.genbeta.com/2007/12/02-plugin-de-microformatos-para-safari">este post en genbeta</a>, estoy descubriendo y familiarizándome un poco con los <a href="http://microformats.org/">microformatos</a>. La verdad es que me parecen una herramienta bastante potente para interconectar servicios y para agregar mucha más información en el código XHTML.
 

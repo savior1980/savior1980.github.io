@@ -4,7 +4,7 @@ title: Plugins para Wordpress que todo borg debería tener
 date: '2007-03-23T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/03/23/plugins-para-wordpress-que-todo-borg-deberia-tener/
 ---
-<img src="http://resistancefutile.com/wp-content/wp.png" width="116" height="114" alt="WP" class="derecha" />Lo prometido es deuda y aquí intentaré exponer la lista de plugins que he instalado en esta versión wordpressizada del Resistance.
+<img src="/assets/wp.png" width="116" height="114" alt="WP" class="derecha" />Lo prometido es deuda y aquí intentaré exponer la lista de plugins que he instalado en esta versión wordpressizada del Resistance.
 
 En principio pondré los más útiles y los que me han gustado más, junto con el enlace y una breve explicación de los mismos, cualquier duda o si tenéis alguna aportación lo discutimos en los comentarios, estoy tan sólo empezando por lo que plugins como el <a href="http://www.neato.co.nz/ultimate-tag-warrior/">UTW</a> de momento me van un poco "grandes", quizás más adelante los implante, por el momento los que veis a continuación son los elegidos.
 <!--more-->

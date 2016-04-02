@@ -4,7 +4,7 @@ title: 'Nombres Curiosos: Óptica matemática'
 date: '2007-05-23T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/05/23/nombres-curiosos-optica-matematica/
 ---
-<img class="centro_borde" src='http://resistancefutile.com/wp-content/copia-de-p22-05-07_1834.jpg' alt='optica fermat' />
+<img class="centro_borde" src='/assets/copia-de-p22-05-07_1834.jpg' alt='optica fermat' />
 
 Esta es una óptica que está justo al lado de la parada de bus de vuelta a casa, el otro día me fijé que tiene un look la mar de geekeril, ¿no os parece?. 
 

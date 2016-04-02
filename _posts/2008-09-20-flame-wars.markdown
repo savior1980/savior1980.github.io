@@ -4,7 +4,7 @@ title: Flame Wars
 date: '2008-09-20T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/09/20/flame-wars/
 ---
-<img src="http://resistancefutile.com/wp-content/zz597b039f.jpg" alt="" title="clone WP" width="175" height="233" class="derecha" />De un tiempo a esta parte, no sabría precisar más, he notado que la blogosfera en general anda un poco convulsa. La gente parece que ha dejado un poco las formas y si bien antes imperaba el buen rollismo y los valores de la República Galáctica, ahora la historia se lee perfectamente hacia donde va a ir, hacia el Imperio y el Lado Oscuro. 
+<img src="/assets/zz597b039f.jpg" alt="" title="clone WP" width="175" height="233" class="derecha" />De un tiempo a esta parte, no sabría precisar más, he notado que la blogosfera en general anda un poco convulsa. La gente parece que ha dejado un poco las formas y si bien antes imperaba el buen rollismo y los valores de la República Galáctica, ahora la historia se lee perfectamente hacia donde va a ir, hacia el Imperio y el Lado Oscuro. 
 
 Y es que estamos en un lapso de tiempo oscuro, en pleno período de las <strong>Flame Wars</strong>, la gente se monta unas batallas campales en los comentarios de cualquier blog, que asustan. Además no sólo cuando la entrada en cuestión va de una cuestión algo polémica, o se trata de una comparativa para contrastar opiniones, eso ya no hace falta para encender los ánimos de las masas, basta con mentar alguna palabra o concepto tangencial a un determinado tema, para evocar la ira y la frustración, que son el camino más rápido al lado oscuro, como bien dijo Yogur, digo Yoda, perdón. 
 

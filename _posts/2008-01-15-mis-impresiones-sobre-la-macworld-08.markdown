@@ -4,7 +4,7 @@ title: Mis impresiones sobre la MacWorld 08
 date: '2008-01-15T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/01/15/mis-impresiones-sobre-la-macworld-08/
 ---
-<img src='http://resistancefutile.com/wp-content/seguimientomw08.jpg' alt='MacWorld 2008' class="derecha_borde" />La MacWorld 08 ha sido una puta mierda. Pero ya lo sabíamos, no se trata de nada nuevo, se han hinchado tanto las espectativas que es normal que más de uno o más de dos se sientan decepcionados con lo que nos han presentado, yo ya dije que esta MacWorld iba a ser floja y ya véis que no me he equivocado. 
+<img src='/assets/seguimientomw08.jpg' alt='MacWorld 2008' class="derecha_borde" />La MacWorld 08 ha sido una puta mierda. Pero ya lo sabíamos, no se trata de nada nuevo, se han hinchado tanto las espectativas que es normal que más de uno o más de dos se sientan decepcionados con lo que nos han presentado, yo ya dije que esta MacWorld iba a ser floja y ya véis que no me he equivocado. 
 
 Vamos a analizar los distintos productos que se han presentado hoy y lo que vendría siendo mi humilde opinión de maquero al respecto.
 <ul>

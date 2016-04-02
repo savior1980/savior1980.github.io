@@ -4,7 +4,7 @@ title: Limpio al fin
 date: '2012-11-01T00:00:00+00:00'
 permalink: http://resistancefutile.com/2012/11/01/limpio-al-fin/
 ---
-<img src="http://resistancefutile.com/wp-content/ZZ1B557C9B.png" alt="" title="Clean" width="500" height="353" class="aligncenter size-full wp-image-2077" />
+<img src="/assets/ZZ1B557C9B.png" alt="" title="Clean" width="500" height="353" class="aligncenter size-full wp-image-2077" />
 
 Por fin, el theme anterior, freshy2, tenía un tumor, extirpándolo o en otras palabras "muerto el perro..." se acabaron los problemas.
 

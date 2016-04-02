@@ -4,7 +4,7 @@ title: Opera 9.5, windows win, osx fail
 date: '2008-06-14T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/06/14/opera-95-windows-win-osx-fail/
 ---
-<img src="http://resistancefutile.com/wp-content/qedf.png" alt="" title="Opera 9.5" width="446" height="94" class="centro" />
+<img src="/assets/qedf.png" alt="" title="Opera 9.5" width="446" height="94" class="centro" />
 
 He estado probando la nueva versión de <a href="http://www.opera.com/">Opera 9.5</a> tanto la versión para Windows XP como para Mac OS X 10.5 y tengo una sensación medio agridulce.
 

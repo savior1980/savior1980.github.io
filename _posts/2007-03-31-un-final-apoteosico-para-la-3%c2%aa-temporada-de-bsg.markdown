@@ -4,7 +4,7 @@ title: Un final apoteósico para la 3ª temporada de BSG
 date: '2007-03-31T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/03/31/un-final-apoteosico-para-la-3%c2%aa-temporada-de-bsg/
 ---
-<img src="http://resistancefutile.com/wp-content/300px-bsg-bsg-1.jpg" width="300" height="166" alt="BSG" class="centro_borde" />
+<img src="/assets/300px-bsg-bsg-1.jpg" width="300" height="166" alt="BSG" class="centro_borde" />
 
 Efectivamente lo habéis adivinado: <strong>SPOILER WARNING AHEAD</strong> para todos. Todos aquellos que quieran ver el final de temporada de BattleStar Galactica (BSG para los amigos) que no continuen leyendo por favor, por que no quiero destriparles el final. Los que ya hayáis visto los dos últimos capítulos y aún estéis en estado de shock como el que escribe estas líneas, sí que podéis clicar en la entrada completa y ver mis reacciones al final de temporada, o bueno mejor dicho al cuarto de hora final, pues los dos capítulos finales son un poco sosos pero el final es para mear y no echar gota.
 <!--more-->

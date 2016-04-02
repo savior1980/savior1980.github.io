@@ -4,7 +4,7 @@ title: Me entrevistan en Kafelog 24.9
 date: '2008-01-25T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/01/25/me-entrevistan-en-kafelog-249/
 ---
-<img src='http://resistancefutile.com/wp-content/0249.jpg' alt='Kafelog' class="centro"/>
+<img src='/assets/0249.jpg' alt='Kafelog' class="centro"/>
 
 Los amigos de <a href="http://www.kafelog.com/">Kafelog</a> y <a href="http://sferazero.com">Óscar</a> en particular me invitaron a participar en una <a href="http://www.kafelog.com/2008/01/podcast-0249/">entrevista-podcast</a>. La grabación forma parte de una ronda de 24 entrevistas con motivo de los 24 capítulos de Kafelog. 
 

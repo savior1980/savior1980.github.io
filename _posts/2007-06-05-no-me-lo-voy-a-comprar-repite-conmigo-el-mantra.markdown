@@ -4,7 +4,7 @@ title: No me lo voy a comprar (repite conmigo el mantra)
 date: '2007-06-05T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/06/05/no-me-lo-voy-a-comprar-repite-conmigo-el-mantra/
 ---
-<img class="centro" src='http://resistancefutile.com/wp-content/imagen-1.png' alt='MBP' />
+<img class="centro" src='/assets/imagen-1.png' alt='MBP' />
 
 <strong>No me voy a comprar el MBP que acaban de actualizar</strong>, por dos motivos: <strong>a)</strong> no tengo pasta y <strong>b)</strong> de momento mi iBook todavía tira lo suyo
 

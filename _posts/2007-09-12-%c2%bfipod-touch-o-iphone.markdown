@@ -4,7 +4,7 @@ title: ¿iPod Touch o iPhone?
 date: '2007-09-12T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/09/12/%c2%bfipod-touch-o-iphone/
 ---
-<img src='http://resistancefutile.com/wp-content/ipodtouch450.jpg' alt='ipod touch' class="centro" />
+<img src='/assets/ipodtouch450.jpg' alt='ipod touch' class="centro" />
 
 Desde que salió el iPod Touch tengo una gran duda que me preocupa bastante, <strong>voy a comprarme el iPod Touch? o me espero a comprar el iPhone?</strong> Bueno pues parece que <a href="http://www.applesfera.com/2007/09/12-telefonica-se-encargara-del-iphone-en-espana">los últimos rumores</a> indican que si quiero esperarme a tener el iPhone con una operadora local me vaya sentando porque no llegará hasta el año que viene y probablemente lo haga de la mano de <em>vomistar</em>.
 

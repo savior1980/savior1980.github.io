@@ -6,7 +6,7 @@ permalink: http://resistancefutile.com/2007/10/18/jailbreaked/
 ---
 Mirad lo que le ha pasado a mi <strong>iPod tutx</strong>! Está irreconocible! 
 
-<img src='http://resistancefutile.com/wp-content/imgp7851.jpg' alt='iPod touch jailbreaked' />
+<img src='/assets/imgp7851.jpg' alt='iPod touch jailbreaked' />
 
 Pues sí amigos, ayer decidí probar el programa <a href="http://code.google.com/p/ijailbreak/">iJailbreak</a> y para ello intenté instalarlo en mi iBook pero realmente en un PPC no funciona, peta el primer paso de la instalación (y acojona un huevo porque me dejó el iPod touch con 300 megas de capacidad y sin música, sin fotos y sin nada) así que me fui directo al iMac de Cristina y comencé de nuevo el proceso.
 

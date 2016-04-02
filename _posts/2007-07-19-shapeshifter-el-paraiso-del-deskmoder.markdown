@@ -4,7 +4,7 @@ title: ShapeShifter, el paraíso del deskmoder
 date: '2007-07-19T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/07/19/shapeshifter-el-paraiso-del-deskmoder/
 ---
-<img src='http://resistancefutile.com/wp-content/zz6c0cad14.png' alt='shapeshifter 2.4' class="derecha" />Ya de mis épocas de windowsero, me encantaba el tema del <em>deskmoding</em>. Cuando me pasé a Mac OS X, la interfaz del sistema fue lo que más me gustó, pero es cierto que una vez vas usándolo, te das cuenta de que todo podría estar más unificado (hecho que corrigen en <a href="http://www.apple.com/macosx/leopard/">Leopard</a> donde las ventanas de las distintas aplicaciones presentan unos mismos rasgos visuales). 
+<img src='/assets/zz6c0cad14.png' alt='shapeshifter 2.4' class="derecha" />Ya de mis épocas de windowsero, me encantaba el tema del <em>deskmoding</em>. Cuando me pasé a Mac OS X, la interfaz del sistema fue lo que más me gustó, pero es cierto que una vez vas usándolo, te das cuenta de que todo podría estar más unificado (hecho que corrigen en <a href="http://www.apple.com/macosx/leopard/">Leopard</a> donde las ventanas de las distintas aplicaciones presentan unos mismos rasgos visuales). 
 
 Es por este hecho que cuando ví <a href="http://gui.interacto.net/">UNO</a>, decidí instalarlo sin vacilar: unifica todas las ventanas y apariencias a una sola configuración común. Además <strong>UNO</strong> en teoría no gasta recursos porque sustituye los recursos sin afectar al sistema, o eso <em>mehabíandisho</em>. 
 

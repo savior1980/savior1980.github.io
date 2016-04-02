@@ -4,7 +4,7 @@ title: Regreso al futuro con TimeMachine
 date: '2008-04-04T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/04/04/delorean/
 ---
-<img src="http://resistancefutile.com/wp-content/zz08998a4f.jpg" alt="" title="zz08998a4f" width="432" height="270" class="centro_borde" />
+<img src="/assets/zz08998a4f.jpg" alt="" title="zz08998a4f" width="432" height="270" class="centro_borde" />
 
 Hace unos días <a href="http://childrenatyourfeet.com">Cristina</a> y servidor nos decidimos a probar <strong>TimeMachine</strong>. Teníamos un disco de 320GB sin usar, preparado para ser formateado y usado con el gestor de copias de seguridad que lleva integrado Mac OS X 10.5, así que lo probamos y de momento al menos yo estoy encantado.
 

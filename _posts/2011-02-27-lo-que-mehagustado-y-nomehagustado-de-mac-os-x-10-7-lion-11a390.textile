@@ -4,7 +4,7 @@ title: Lo que Mehagustado y Nomehagustado de Mac OS X 10.7 Lion (11A390)
 date: '2011-02-27T00:00:00+00:00'
 permalink: http://resistancefutile.com/2011/02/27/lo-que-mehagustado-y-nomehagustado-de-mac-os-x-10-7-lion-11a390/
 ---
-<img src="http://resistancefutile.com/wp-content/ZZ56CF1FA8.jpg" alt="" title="Lion" width="600" height="337" class="centro_borde" />Me he decidido a hacer una primera _review_ del uso de *Mac OS X Lion*, después de probarlo durante unas horitas en el MacBook Air, con el estilo de la recopilación semanal, así vemos aquellos aspectos que más me han sorprendido tanto positivamente como negativamente. 
+<img src="/assets/ZZ56CF1FA8.jpg" alt="" title="Lion" width="600" height="337" class="centro_borde" />Me he decidido a hacer una primera _review_ del uso de *Mac OS X Lion*, después de probarlo durante unas horitas en el MacBook Air, con el estilo de la recopilación semanal, así vemos aquellos aspectos que más me han sorprendido tanto positivamente como negativamente. 
 
 - *Mehagustado* la instalación, básicamente muy rápida y que ha mantenido todas las opciones que tenía con Snow Leopard, ha sido básicamente como ejecutar un instalador de un programa, todo lo que tenías permanece intacto, realmente alucinante.
 

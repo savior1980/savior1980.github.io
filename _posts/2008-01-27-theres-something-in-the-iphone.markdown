@@ -4,7 +4,7 @@ title: There's something in the iPhone
 date: '2008-01-27T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/01/27/theres-something-in-the-iphone/
 ---
-<img src='http://resistancefutile.com/wp-content/theres.JPG' alt='There’s something' class="centro_borde" />
+<img src='/assets/theres.JPG' alt='There’s something' class="centro_borde" />
 
 ..that will be available soon...
 

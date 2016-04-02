@@ -4,7 +4,7 @@ title: Flex es Simplex
 date: '2008-12-02T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/12/02/flex-es-simplex/
 ---
-<img src="http://resistancefutile.com/wp-content/zz19ec9b9d.jpg" alt="" title="FlexBuilder" width="500" height="371" class="centro" />Llevo unos días <strong>cacharreando con Flex</strong>, ese framework de desarrollo de aplicaciones RIA (<em>Rich Internet Applications</em>) de Adobe que tanto está dando que hablar últimamente. 
+<img src="/assets/zz19ec9b9d.jpg" alt="" title="FlexBuilder" width="500" height="371" class="centro" />Llevo unos días <strong>cacharreando con Flex</strong>, ese framework de desarrollo de aplicaciones RIA (<em>Rich Internet Applications</em>) de Adobe que tanto está dando que hablar últimamente. 
 
 Flex permite montar capas de presentación en el lado cliente muy espectaculares, para hacerlo se basa en archivos flash (.swf) y en una librería de componentes tremendamente potentes y bastante sencillos de usar.
 

@@ -4,7 +4,7 @@ title: Mis predicciones para la MacWorld
 date: '2008-01-07T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/01/07/mis-predicciones-para-la-macworld/
 ---
-<img src='http://resistancefutile.com/wp-content/macworld.png' alt='MacWorld' class="derecha" />Antes de empezar, tengo que decir que mis predicciones son bastante lamentables siempre, normalmente tengo un porcentaje de acierto bastante pésimo y por lo tanto considerad la posibilidad de hacer una actividad alternativa antes que leer esta entrada, pues creo que le sacaréis más provecho que leer mis paranoias sobre lo que se avecina en el próximo evento de Apple.
+<img src='/assets/macworld.png' alt='MacWorld' class="derecha" />Antes de empezar, tengo que decir que mis predicciones son bastante lamentables siempre, normalmente tengo un porcentaje de acierto bastante pésimo y por lo tanto considerad la posibilidad de hacer una actividad alternativa antes que leer esta entrada, pues creo que le sacaréis más provecho que leer mis paranoias sobre lo que se avecina en el próximo evento de Apple.
 
 <strong>La MacWorld de este año será bastante floja</strong>, porque se està especulando mucho con muchisimas novedades y no hay tiempo material para introducirlas todas en un mismo evento. Además todo el mundo está especulando con novedades que afectan al entorno Mac de consumo (que es la filosofía de la MacWorld, estoy completamente de acuerdo) pero pierden de vista que la última MacWorld estaba enteramente dedicada al iPhone y que en ésta, vamos yo no digo que suceda lo que el año pasado pero que aparecerá el iPhone a diestro y siniestro os lo aseguro, a no ser que decidan hacer un evento dedicado al iPhone a finales de Febrero, cosa que tampoco descartaría completamente.
 

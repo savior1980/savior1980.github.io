@@ -4,7 +4,7 @@ title: Mis personajes favoritos de Star Trek
 date: '2007-04-11T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/04/11/mis-personajes-favoritos-de-star-trek/
 ---
-<p style="text-align: center;"><img src="http://resistancefutile.com/wp-content/enterprise.jpg" width="400" height="291" alt="Enterprise" class="centro_borde" /></p>
+<p style="text-align: center;"><img src="/assets/enterprise.jpg" width="400" height="291" alt="Enterprise" class="centro_borde" /></p>
 
 No es que me considere especialmente <em>trekkie</em>, no me pongo disfraces con el uniforme de la federación o tengo un amplio dominio del <strong>klingon</strong>, sin embargo sí que he visto varias temporadas de las series de <strong>Star Trek</strong> y casi todas sus películas, así que a continuación intento elegir los 3 personajes de cada serie que más <strong>mehangustado</strong>, series en las que yo haya visto más de 3 capítulos (obviaremos DS9 de la que sólo he visto 2 capítulos) para poder valorar bien los personajes.
 <!--more-->

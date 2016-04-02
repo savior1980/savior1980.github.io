@@ -4,7 +4,7 @@ title: El fondo de Leopard es genial
 date: '2007-06-14T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/06/14/el-fondo-de-leopard-es-genial/
 ---
-<img class="centro_borde" src='http://resistancefutile.com/wp-content/desktop_leo.png' alt='Leopard desktop' />
+<img class="centro_borde" src='/assets/desktop_leo.png' alt='Leopard desktop' />
 
 Se integra la mar de bien con todo, ya tengas un iBook (blanquito) o lo ves en una pantalla panorámica LG de 19" o en un MacBook negro, ese verde pega con todos, va la mar de bien: relaja, es un tema fresco, desestresa, es bonito... no sé como se lo hacen esta gente para elegir los fondos pero son unos genios.
 

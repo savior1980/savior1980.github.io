@@ -14,11 +14,11 @@ El *Filco Majestouch 2 tenkeyless no tiene teclas multimedia*, pero si son neces
 
 Sin más toda la configuración que hay que activar para tener lo que os he ido comentando:
 
-<img src="http://resistancefutile.com/wp-content/Karabiner1.png" alt="Karabiner1" width="587" height="466" class="aligncenter size-full wp-image-2268" />
+<img src="/assets/Karabiner1.png" alt="Karabiner1" width="587" height="466" class="aligncenter size-full wp-image-2268" />
 
 Hago un alto en el camino para comentar a continuación que la siguiente captura es para la configuración del teclado en español, no sois vosotros, hay algunas teclas que se han remapeado o intercambiado como el > y el º y que con Karabiner podemos volver a su estado original. Si activáis estas opciones, tendréis el teclado a vuestro gusto con el layout español:
 
-<img src="http://resistancefutile.com/wp-content/Karabiner2.png" alt="Karabiner2" width="566" height="286" class="aligncenter size-full wp-image-2269" />
+<img src="/assets/Karabiner2.png" alt="Karabiner2" width="566" height="286" class="aligncenter size-full wp-image-2269" />
 
 Una muy buena opción que ofrece el programa es la definición de perfiles. Así como tengo el macbook pro y en ocasiones tengo que desconectar el teclado y usar el propio del portátil, solo tengo de acordarme en cambiar de perfil Filco a no Filco por el iconito del menú (no me acuerdo nunca hasta que no puso físicamente command + c y acaba pulsándose alt+c que es el símbolo de copyright *Actualización:* hay una funcionalidad en el Karabiner para no remapear teclados internos, que igual es mejor opción). 
 

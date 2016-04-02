@@ -4,7 +4,7 @@ title: Cambia el look de Gmail en tu navegador por la versión para el iPad
 date: '2010-04-03T00:00:00+00:00'
 permalink: http://resistancefutile.com/2010/04/03/cambia-el-look-de-gmail-en-tu-navegador-por-la-version-para-el-ipad/
 ---
-<img src="http://resistancefutile.com/wp-content/zz1743ca7c.jpg" alt="Gmail en formato iPad " title="Gmail en formato iPad " width="500" height="332" class="centro" />Si queréis tener el _look_ que ofrecerá *Gmail en su versión para el iPad en vuestro Mac*, aquí os enseño un truco para hacerlo. 
+<img src="/assets/zz1743ca7c.jpg" alt="Gmail en formato iPad " title="Gmail en formato iPad " width="500" height="332" class="centro" />Si queréis tener el _look_ que ofrecerá *Gmail en su versión para el iPad en vuestro Mac*, aquí os enseño un truco para hacerlo. 
 
 Como veréis en la captura que acompaña el post o si directamente lo probáis, la versión de Gmail para el iPad se *estructura en formato doble panel*, donde en el lado izquierdo de la pantalla tenemos la interfaz del correo tal como la vemos en un iPhone y en el lado derecho vemos directamente el correo o la conversación que tengamos seleccionada.
 

@@ -4,7 +4,7 @@ title: Solucionar problemas vía la meditación (vulcana)
 date: '2007-05-20T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/05/20/solucionar-problemas-via-la-meditacion-vulcana/
 ---
-<img class="derecha_borde" src='http://resistancefutile.com/wp-content/180px-tuvok_spiegeluniversum.jpg' alt='Tuvok' />A veces creo que me estreso sobremanera, llego cansado y nervioso a cierta situación, eso no conviene en absoluto y menos en situaciones de trabajo, por lo que a veces es muy importante saberse controlar y ejercer de vulcano: reprimir nuestras emociones hasta conseguir un estado de relajación y dejarse guiar por la lógica. 
+<img class="derecha_borde" src='/assets/180px-tuvok_spiegeluniversum.jpg' alt='Tuvok' />A veces creo que me estreso sobremanera, llego cansado y nervioso a cierta situación, eso no conviene en absoluto y menos en situaciones de trabajo, por lo que a veces es muy importante saberse controlar y ejercer de vulcano: reprimir nuestras emociones hasta conseguir un estado de relajación y dejarse guiar por la lógica. 
 
 En <a href="http://www.lifehacker.com/">Lifehacker</a> enlazan <a href="http://zenhabits.net/2007/05/solve-tough-problems-with-a-brain-reboot/">un pequeño tutorial</a> (en inglés) que nos puede ayudar a aprender alguna técnica de relajación/meditación que puede ayudarnos a ver todo con más perspectiva. Y si además hacemos caso de las lecciones que nos dispensan Tuvok, T'Pol, Spock y demás vulcanos de la fauna Star Trek en varios capítulos, quizás consigamos progresar en esas situaciones en que el stress y los nervios nos juegan malas pasadas.
 

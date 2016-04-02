@@ -4,7 +4,7 @@ title: Probando el iPhone
 date: '2007-07-07T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/07/07/probando-el-iphone/
 ---
-<img class="centro_borde" src='http://resistancefutile.com/wp-content/zz14a20ae0.png' alt='iPhone' />
+<img class="centro_borde" src='/assets/zz14a20ae0.png' alt='iPhone' />
 
 Hoy hemos ido <a href="http://cuatrodoce.com">Pedro Aznar</a>, <a href="http://sachafuentes.com">Sacha Fuentes</a>, <a href="http://childrenatyourfeet.com">Cristina</a> y <a href="http://resistancefutile.com">yo</a> a probar el <a href="http://apple.com/iphone">iPhone</a>. En <a href="http://www.valles.com/">Vallés tecnologic</a>, el Reseller de Apple para la zona del Vallés que está ubicado en <a href="http://maps.google.com/maps/ms?ie=UTF8&hl=es&msa=0&msid=106182813404853488878.00000113802d1d2e9774f&om=1&ll=41.474173,2.085031&spn=0.003513,0.007102&z=17">Sant Cugat</a>, el gerente del establecimiento se fue a por unos cuantos iPhones el día que salieron para traérselos a España y demostrarlos en su tienda. Así que ya sabes si quieres toquetear el teléfono, ya mismo puedes dirigirte a su tienda en <strong>Plaça de la Unió nº3 de Sant Cugat del Vallés</strong>.
 

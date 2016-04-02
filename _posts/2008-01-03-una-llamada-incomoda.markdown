@@ -4,7 +4,7 @@ title: Una llamada incómoda
 date: '2008-01-03T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/01/03/una-llamada-incomoda/
 ---
-<img src='http://resistancefutile.com/wp-content/imagestelephone.jpg' alt='Telefonazo marrón' class="derecha" />La verdad es que no llevo ni dos horas en el curro tras las minivacaciones de Navidad y ya he recibido lo que denominaríamos una llamada de esas que ponen los pelos de punta, una de esas llamadas que buscan claramente y sin tapujos <strong>enmarronarte</strong>.
+<img src='/assets/imagestelephone.jpg' alt='Telefonazo marrón' class="derecha" />La verdad es que no llevo ni dos horas en el curro tras las minivacaciones de Navidad y ya he recibido lo que denominaríamos una llamada de esas que ponen los pelos de punta, una de esas llamadas que buscan claramente y sin tapujos <strong>enmarronarte</strong>.
 
 De  momento creo que he podido medio escapar del tema, pero me ha entrado ya el miedo en el cuerpo. Es una sensación muy desagradable porque sabes que la persona al otro lado del teléfono está intentando sacarse un problema de encima y a mí os digo la verdad me motiva solucionar problemas pero una cosa es eso y otra es joderte por intentar ayudar en algo.
 

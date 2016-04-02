@@ -4,7 +4,7 @@ title: Tres impresiones sobre el iPad
 date: '2010-01-27T00:00:00+00:00'
 permalink: http://resistancefutile.com/2010/01/27/tres-impresiones-sobre-el-ipad/
 ---
-<img src="http://resistancefutile.com/wp-content/zz78cebccc.jpg" alt="iPad" title="iPad" width="500" height="298" class="centro" />
+<img src="/assets/zz78cebccc.jpg" alt="iPad" title="iPad" width="500" height="298" class="centro" />
 
 * el *iPad* Nomegusta.
 

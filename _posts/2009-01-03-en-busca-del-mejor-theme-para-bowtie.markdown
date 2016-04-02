@@ -4,7 +4,7 @@ title: En busca del mejor theme para Bowtie
 date: '2009-01-03T00:00:00+00:00'
 permalink: http://resistancefutile.com/2009/01/03/en-busca-del-mejor-theme-para-bowtie/
 ---
-<img src="http://resistancefutile.com/wp-content/zz4c90896f.jpg" alt="Bowtie themes" title="Bowtie themes" width="250" height="438" class="derecha_borde" />Para <strong>Bowtie</strong> hay infinidad de temas distintos, los hay desde el bombo y platillo extremo, con animaciones y variedad de controles, a los que solo muestran la carátula y el título de la canción.
+<img src="/assets/zz4c90896f.jpg" alt="Bowtie themes" title="Bowtie themes" width="250" height="438" class="derecha_borde" />Para <strong>Bowtie</strong> hay infinidad de temas distintos, los hay desde el bombo y platillo extremo, con animaciones y variedad de controles, a los que solo muestran la carátula y el título de la canción.
 
 He instalado bastantes themes, que he ido encontrando en <a href="http://macthemes2.net">macthemes</a> y uno de los que más mehagustado es el <a href="http://macthemes2.net/forum/viewtopic.php?id=16791239">Teca de Roberto Urso</a>, combina perfectamente el hecho de ser pequeño con mostrar muy bien la información de la canción al desplegar una pestaña lateral. También muy buenos los de <a href="http://macthemes2.net/forum/viewtopic.php?id=16791239">darrinsden</a>, con animación de CD incluida.
 

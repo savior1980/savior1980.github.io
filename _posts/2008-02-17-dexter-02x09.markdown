@@ -4,7 +4,7 @@ title: Dexter 02x09
 date: '2008-02-17T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/02/17/dexter-02x09/
 ---
-<img src='http://resistancefutile.com/wp-content/zz6292b2cb.jpg' alt='Resistance is Futile' />
+<img src='/assets/zz6292b2cb.jpg' alt='Resistance is Futile' />
 
 Uno de los mejores capítulos que yo recuerde de esta serie. La escena mítica en la que el protagonista comparece ante el jefe de policía de Miami y el responsable de la investigación de la trama de la segunda temporada es brutal. También aparece en <a href="http://www.youtube.com/watch?v=amX-sK1Uwxo">el trailer</a> del capítulo, para evitar posibles <em>spoilers</em>, no lo veáis si no habéis visto ya hasta el capítulo 8 de la segunda temporada.
 

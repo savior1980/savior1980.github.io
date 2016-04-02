@@ -6,6 +6,6 @@ permalink: http://resistancefutile.com/2007/09/18/gort-esta-de-camino/
 ---
 Ya viene...
 
-<img src='http://resistancefutile.com/wp-content/zz790e6eb8.png' alt='Gort' class="centro" />
+<img src='/assets/zz790e6eb8.png' alt='Gort' class="centro" />
 
 Y os castigará a todos sucios defensores de comprar un iPhone por eBay. 

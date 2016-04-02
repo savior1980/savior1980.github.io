@@ -4,7 +4,7 @@ title: Meme de escritorio
 date: '2008-02-24T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/02/24/meme-de-escritorio/
 ---
-<img src='http://resistancefutile.com/wp-content/zz02ecfef3.jpg' alt='red bones' class="centro_borde" />
+<img src='/assets/zz02ecfef3.jpg' alt='red bones' class="centro_borde" />
 
 Hace unos días <a href="http://lordzoltan.gafapasta.com/?p=480">Lord Zoltan</a> seguía un meme de esos que van circulando de vez en cuando por la blogocosa y que esta vez propone que enseñemos nuestro escritorio. Voy a hacer un pequeño repaso del mío mediante la captura que os incluyo y que tenéis a más resolución en <a href="http://www.flickr.com/photos/savior1980/2287474687/">mi flic</a>.
 

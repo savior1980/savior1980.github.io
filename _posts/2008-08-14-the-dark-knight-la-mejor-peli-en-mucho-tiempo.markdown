@@ -4,7 +4,7 @@ title: The Dark Knight, la mejor peli en mucho tiempo
 date: '2008-08-14T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/08/15/the-dark-knight-la-mejor-peli-en-mucho-tiempo/
 ---
-<img src="http://resistancefutile.com/wp-content/zz262f5f15.jpg" alt="" title="Batman Dark Knight" width="212" height="298" class="derecha_borde" />Tenía muchas ganas de ver "Batman: The Dark Knight", lo cual es un handicap siempre que vas a ver una peli pues esperas mucho de ella y al final te decepciona, en cambio en este caso ha sido todo lo contrario, la peli me ha gustado mucho más de lo que esperaba. Junto con las de Michael Keaton y Batman Begins, creo que ésta es una de las mejores pelis del cruzado enmascarado. 
+<img src="/assets/zz262f5f15.jpg" alt="" title="Batman Dark Knight" width="212" height="298" class="derecha_borde" />Tenía muchas ganas de ver "Batman: The Dark Knight", lo cual es un handicap siempre que vas a ver una peli pues esperas mucho de ella y al final te decepciona, en cambio en este caso ha sido todo lo contrario, la peli me ha gustado mucho más de lo que esperaba. Junto con las de Michael Keaton y Batman Begins, creo que ésta es una de las mejores pelis del cruzado enmascarado. 
 
 Y es que en esta película vemos un héroe oscuro, un Batman casi rendido ante un mundo que no comprende y a un Joker estelar, confundiendo, urdiendo planes enrevesados y atacando a todos con sus burlas, sus mentiras y sus desvaríos, Joker en estado puro. Pero además la peli sigue la estela de Batman Begins y profundiza todavía más en el dilema moral de Batman y en el porqué el superhéroe sin ningún superpoder es como es. 
 

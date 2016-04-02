@@ -4,7 +4,7 @@ title: Se buscan viajeros en el tiempo
 date: '2007-05-23T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/05/23/se-buscan-viajeros-en-el-tiempo/
 ---
-<img class="centro" src='http://resistancefutile.com/wp-content/back.jpg' alt='demanda de viajeros del tiempo' />
+<img class="centro" src='/assets/back.jpg' alt='demanda de viajeros del tiempo' />
 
 En el anuncio se expone la demanda de alguien para hacer un viaje al pasado, según aseguran esto no es una broma y se dice que se retribuirá económicamente a la vuelta. Se requiere que se traigan armas propias y no se garantiza la seguridad de los participantes y ahora lo mejor de todo el anuncio: <strong>"Sólo he hecho esto una vez"</strong>
 

@@ -4,7 +4,7 @@ title: Vamos a conlcuir...
 date: '2007-06-11T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/06/11/vamos-a-conlcuir/
 ---
-<img class="centro" src='http://resistancefutile.com/wp-content/leopard.png' alt='Leopard keynote timo' />
+<img class="centro" src='/assets/leopard.png' alt='Leopard keynote timo' />
 
 Como el post anterior empezaba la keynote y todo era ilusión, alboroto y cachondeo tocaba terminar con un post que fuera todo lo contrario pesimismo, negatividad y desconcierto. 
 

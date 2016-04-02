@@ -4,7 +4,7 @@ title: 'Los números malditos: 2491,68'
 date: '2007-12-22T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/12/22/los-numeros-malditos-249168/
 ---
-<img src='http://resistancefutile.com/wp-content/opciones.png' alt='opciones' class="centro" />
+<img src='/assets/opciones.png' alt='opciones' class="centro" />
 
 Ahí lo tenéis... lo que me compraría si tuviera 2500 eureles para "invertir" en asuntos propios como otro <a href="http://sopmacsl.com">sopmac</a> cualquiera, dos maquinones del copón que la verdad os lo digo sinceramente, no sé por cual de los dos decantarme, de momento esperaremos a ver qué se anuncia en la MacWorld y a que me vea un médico porque no tengo esa pasta vamos ni de lejos, es que no llego ni a la mitad del importe, pero de ilusión también se vive y si no que me lo digan a mí que en mi pueblo lleva dos años tocando premios buenos de la loto de navidad y yo todavía no he visto un duro.
 

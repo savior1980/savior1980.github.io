@@ -4,7 +4,7 @@ title: El festival del HUD en mi escritorio
 date: '2008-04-14T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/04/14/hud-en-mi-escritorio/
 ---
-<img src="http://resistancefutile.com/wp-content/zz1562ce19.jpg" alt="" title="Festival del HUD" width="500" height="312" class="centro_borde" />
+<img src="/assets/zz1562ce19.jpg" alt="" title="Festival del HUD" width="500" height="312" class="centro_borde" />
 
 Este es mi escritorio con el reciente deskmodding que <a href="http://resistancefutile.com/2008/04/14/mehagustadonomehagustado-13042008">os comenté</a>, básicamente he cambiado las interfaces de <a href="http://cypohirogen.deviantart.com/art/VLC-HUD-69721428">VLC</a>, <a href="http://macthemes2.net/forum/viewtopic.php?id=16783440">Transmission y Adium</a> a la apariencia <strong>HUD</strong>, la que ofrece QuickLook de Leopard y que me parece sobria y seria.
 

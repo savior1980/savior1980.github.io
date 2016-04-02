@@ -4,7 +4,7 @@ title: Life is Twitter
 date: '2008-01-29T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/01/29/life-is-twitter/
 ---
-<img src='http://resistancefutile.com/wp-content/zz2566a0a7.jpg' alt='Life is 42' class="derecha" />A veces la respuesta a la vida, al universo y a todo lo demás te la da <a href="http://twitter.com">twitter</a>... 
+<img src='/assets/zz2566a0a7.jpg' alt='Life is 42' class="derecha" />A veces la respuesta a la vida, al universo y a todo lo demás te la da <a href="http://twitter.com">twitter</a>... 
 
 Quién me iba a decir a mí que este servicio llegase a ser tan adictivo y tan útil en determinados momentos, aunque la mayoría del tiempo resulta una pérdida de productividad brutal, hay que saber controlarlo y aprender a usarlo de forma adecuada si no, es fácil perderse entre tanta comunicación. 
 

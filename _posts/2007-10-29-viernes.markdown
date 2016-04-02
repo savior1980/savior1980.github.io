@@ -4,6 +4,6 @@ title: Viernes
 date: '2007-10-29T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/10/29/viernes/
 ---
-<img src='http://resistancefutile.com/wp-content/bridge.jpg' alt='bridge.jpg' class="centro_borde" />
+<img src='/assets/bridge.jpg' alt='bridge.jpg' class="centro_borde" />
 
 A currar nenes.

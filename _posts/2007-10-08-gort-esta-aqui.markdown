@@ -4,7 +4,7 @@ title: Gort está aquí
 date: '2007-10-08T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/10/08/gort-esta-aqui/
 ---
-<img class="centro" src='http://resistancefutile.com/wp-content/060419_gort_lg.jpg' alt='Mi iPod touch' />
+<img class="centro" src='/assets/060419_gort_lg.jpg' alt='Mi iPod touch' />
 
 Disculpad que hoy no me extienda mucho aquí, pero <strong>el iPod touch es una pasada</strong>... la misma interfaz que probé en el iPhone, el acelerómetro va bien, la pantalla se ve bastante bien (un poco oscura supongo que es cuestión de acostumbrarse o aumentar el brillo) y 16GB a mi de momento me van bien, no me falta espacio. 
 

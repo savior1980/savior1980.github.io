@@ -4,7 +4,7 @@ title: Winamp para Mac
 date: '2007-06-23T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/06/23/winamp-para-mac/
 ---
-<img class="derecha" src='http://resistancefutile.com/wp-content/zz751093e8.png' alt='winampmac' />Me gusta mucho iTunes 7, creo que es un muy buen reproductor musical para Mac OS X, sin lugar a dudas es una opción muy correcta que ofrece bastantes prestaciones y se comporta de forma bastante más estable que su versión para Windows. Pero creo que en el mundo windowsero, es decir que para Windows hay un reproductor bastante mejor: Winamp. 
+<img class="derecha" src='/assets/zz751093e8.png' alt='winampmac' />Me gusta mucho iTunes 7, creo que es un muy buen reproductor musical para Mac OS X, sin lugar a dudas es una opción muy correcta que ofrece bastantes prestaciones y se comporta de forma bastante más estable que su versión para Windows. Pero creo que en el mundo windowsero, es decir que para Windows hay un reproductor bastante mejor: Winamp. 
 
 Winamp es <strong>sencillo</strong>, es <strong>eficiente</strong>, es <strong>ligero</strong>, puedes hacer cosas realmente buenas y aunque no tenga Coverflow (creo que desde que tengo iTunes 7 habré usado esa visualización un par de veces), sí tiene un comportamiento que me gusta más que iTunes, de hecho una de las <a href="http://resistancefutile.com/2007/06/20/4-ideas-que-podrian-triunfar-o-no/">4 ideas que lancé al aire</a> fue la de tener una aplicación musical que tuviera el comportamiento de Winamp.
 

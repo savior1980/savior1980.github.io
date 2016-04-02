@@ -4,7 +4,7 @@ title: Optimuses
 date: '2007-06-28T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/06/28/optimuses/
 ---
-<a href='http://www.flickr.com/photos/jasoncross/638462445/in/pool-22294126@N00' title='Optimuses'><img class="centro" src='http://resistancefutile.com/wp-content/zz4e442bdc.png' alt='Optimuses' /></a>
+<a href='http://www.flickr.com/photos/jasoncross/638462445/in/pool-22294126@N00' title='Optimuses'><img class="centro" src='/assets/zz4e442bdc.png' alt='Optimuses' /></a>
 
 Ya queda menos para el estreno de Transformers el viernes que viene. Y para celebrarlo <a href="http://www.flickr.com/photos/jasoncross/638462445/in/pool-22294126@N00">esta imagen</a> que publican en uno de los pools a los que estoy suscrito y que nos muestra los mil y un modelos de muñecos de Optimus Prime habidos y por haber. 
 

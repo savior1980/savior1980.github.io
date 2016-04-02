@@ -4,7 +4,7 @@ title: Gràcies, "jefe"
 date: '2008-07-20T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/07/20/gracies-jefe/
 ---
-<img src="http://resistancefutile.com/wp-content/foto_300208_cas.jpg" alt="" title="Bruce " width="368" height="200" class="centro_borde" />
+<img src="/assets/foto_300208_cas.jpg" alt="" title="Bruce " width="368" height="200" class="centro_borde" />
 
 Conciertazo mágico del Boss en Barcelona. Creo que fue el mejor al que he asistido, la gente lo flipó en colores con todas las canciones míticas que tocó. Además hizo gala de su catalán con varios "Som-hi!" (<em>Vamos!</em>) y alguna frasecilla más. Grande Bruce, te queremos, vuelve pronto con otra gira.
 

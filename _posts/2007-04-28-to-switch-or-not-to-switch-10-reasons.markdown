@@ -4,7 +4,7 @@ title: To switch or not to switch (10 reasons)
 date: '2007-04-28T00:00:00+00:00'
 permalink: http://resistancefutile.com/2007/04/29/to-switch-or-not-to-switch-10-reasons/
 ---
-<img class="derecha" src='http://resistancefutile.com/wp-content/apple.jpg' alt='To switch or not to switch' /><strong>Salva</strong>, el autor del blog <a href="http://totumrevolutum.wordpress.com/">totum revolutum</a> nos pide en el contacto de genbeta que le demos <a href="http://totumrevolutum.wordpress.com/2007/04/28/dame-10-motivos-para-cambiar-a-mac/">10 razones para hacer el switch a Mac OS X</a>. Yo como <del datetime="2007-04-28T22:33:37+00:00">no puedo evitar captar otro adepto a la secta,</del> maquero que soy le voy a exponer mis 10 razones para convertirse en switcher, no están ordenadas por orden de importancia simplemente las he ido escribiendo tal cual se me han ocurrido:
+<img class="derecha" src='/assets/apple.jpg' alt='To switch or not to switch' /><strong>Salva</strong>, el autor del blog <a href="http://totumrevolutum.wordpress.com/">totum revolutum</a> nos pide en el contacto de genbeta que le demos <a href="http://totumrevolutum.wordpress.com/2007/04/28/dame-10-motivos-para-cambiar-a-mac/">10 razones para hacer el switch a Mac OS X</a>. Yo como <del datetime="2007-04-28T22:33:37+00:00">no puedo evitar captar otro adepto a la secta,</del> maquero que soy le voy a exponer mis 10 razones para convertirse en switcher, no están ordenadas por orden de importancia simplemente las he ido escribiendo tal cual se me han ocurrido:
 
 1- <strong>Facilidad de uso</strong>: Mac OS X, es sin lugar a dudas y después de una sola semana de uso más sencillo de usar que Windows, todavía no he conocido a nadie y recalco lo de nadie que me haya dicho lo contrario.
 

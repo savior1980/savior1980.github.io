@@ -4,7 +4,7 @@ title: Separando facebook de twitter (y por qué tenerlos unidos es FAIL)
 date: '2008-11-02T00:00:00+00:00'
 permalink: http://resistancefutile.com/2008/11/02/separando-facebook-de-twitter-y-por-que-tenerlos-unidos-es-fail/
 ---
-<img src="http://resistancefutile.com/wp-content/zz494f402c.jpg" alt="" title="facebook y twitter" width="500" height="185" class="centro" />Hace unos días uní <strong>facebook</strong> con <strong>twitter</strong>. Hay una aplicación para <strong>facebook</strong> que se encarga de reproducir los <em>tweets</em> en el sistema de notificaciones de la mayor red social del mundo (tan sólo tenéis que buscar twitter en el buscador de facebook).
+<img src="/assets/zz494f402c.jpg" alt="" title="facebook y twitter" width="500" height="185" class="centro" />Hace unos días uní <strong>facebook</strong> con <strong>twitter</strong>. Hay una aplicación para <strong>facebook</strong> que se encarga de reproducir los <em>tweets</em> en el sistema de notificaciones de la mayor red social del mundo (tan sólo tenéis que buscar twitter en el buscador de facebook).
 
 Decidí usarla, creía que no tenía sentido que en mi facebook no apareciese lo que me ocurre en cada momento del día, así que me dije bueno, pues unamos ambos servicios y como en twitter publico más o menos lo que me va ocurriendo, dije bueno así lo verán mis contactos en facebook. Así pues decidí hacerlo de esta manera en actitud totalmente opuesta a lo que aconsejaba el gran <a href="http://www.emilcar.es/">emilcar</a>.
 

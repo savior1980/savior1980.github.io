@@ -6,7 +6,7 @@ permalink: http://resistancefutile.com/2008/02/05/los-peligros-de-la-web-20/
 ---
 Es que te conviertas en un adicto como <a href="http://www.cyberfrancis.net/weblog/">cyber</a> y acabes haciendo pruebas que hundan tu cuestionada reputación, juzgad vosotros mismos
 
-<img src='http://resistancefutile.com/wp-content/cyber.png' alt='cyberfrancis' class="centro" />
+<img src='/assets/cyber.png' alt='cyberfrancis' class="centro" />
 
 WTF genbetero a otro nivel ;)
 
