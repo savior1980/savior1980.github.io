@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">... and you will be assimilated</h1>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
@@ -15,12 +15,11 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <p>{{ post.excerpt}}</p>
-        {% if post.excerpt.size < 250 %}
-        <a href="{{ post.url | prepend: site.baseurl }}">Leer más</a>
-        <br/>
+        {% if post.excerpt.size < 450 %}
+        <a class="readmore" href="{{ post.url | prepend: site.baseurl }}">Leer más</a> &nbsp;
         {% endif %}
-        {% if page.comments %}
-        <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+        {% if post.comments %}
+        <a class="comments" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
         {% endif %}
       </li>
 
