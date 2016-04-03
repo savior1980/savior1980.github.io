@@ -18,9 +18,9 @@ layout: default
         {% if post.excerpt.size < 450 %}
         <a class="readmore" href="{{ post.url | prepend: site.baseurl }}">Leer más</a> &nbsp;
         {% endif %}
-        {% if post.comments %}
+
         <a class="comments" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
-        {% endif %}
+
       </li>
 
     {% endfor %}
