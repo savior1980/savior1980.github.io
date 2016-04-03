@@ -4,6 +4,7 @@ title: Mehagustado/Nomehagustado [01/06/2009]
 date: '2009-06-01T00:00:00+00:00'
 permalink: 2009/06/01/mehagustadonomehagustado-01062009/
 ---
+
 - <strong>Mehagustado</strong> acabar mi asignación actual y sobre todo, <strong>megusta</strong> tener incertidumbre sobre qué voy a hacer después, puede ser que continúe en el mismo cliente con otro proyecto que tiene que venir, puede ser que vaya a otro sitio, puede ser que me toque algo relacionado con el turismo otra vez o puede que me toque estar en la oficina una temporada, esta semana se verá.
 
 - <strong>Mehagustado</strong> mucho celebrar el cumple de Cris con mis amigotes del MundoReal&trade; la cena estuvo bien, la cervecita de después también y los regalos que le hicieron fueron un WIN absoluto: un palomitero (máquina para hacer palomitas que son un lujazo) y un fabuloso juego de tablero de Battlestar Galáctica.
