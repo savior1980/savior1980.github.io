@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Formas y maneras"
-date: 2015-05-29
+date: 2015-05-29 21:40:43 +0100
 permalink: 2015/05/29/formas-y-maneras/
 ---
 Estimado cliente,

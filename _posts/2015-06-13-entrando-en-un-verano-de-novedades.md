@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entrando en un verano de novedades"
-date: 2015-06-13 21:40:43 
+date: 2015-06-13 21:40:43 +0100 
 permalink: 2015/06/13/entrando-en-un-verano-de-novedades/
 comments: true
 ---
