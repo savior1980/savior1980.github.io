@@ -46,8 +46,9 @@ hay cosas que se han perdido o que no són tan sencillas como te las pintan en
 un princpio. Pero en líneas generales es realizable.
 
 Si queréis migrar vuestro blog a Jekyll, os sugiero que miréis por ahí hay
-mucha literatura y muchos ejemplos al respecto. Prefiero no dejar ningún enlace
-en este caso creo que es mejor investigar por uno mismo.
+mucha literatura y muchos ejemplos al respecto. Quizás prefiero
+no dejar ningún enlace en este caso creo que es mejor investigar por uno mismo,
+pero una grandísima y extensa guía la podéis encontrar en [este post de smashingmagazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). 
 
 ### ¿Por qué este tema tan _soso_?
 
