@@ -4,6 +4,7 @@ title:  "First Post in Jekyll!"
 date:   2016-03-19 21:40:43 +0100
 categories: paranoia personal
 comments: true
+permalink: 2016/03/19/first-post-in-jekyll/
 ---
 Este es mi primer post de *prueba* en [Jekyll](https://jekyllrb.com/). Sí,
 atrás ha quedado Wordpress y el hosting propio (que sigo manteniendo), me
@@ -48,7 +49,7 @@ un princpio. Pero en líneas generales es realizable.
 Si queréis migrar vuestro blog a Jekyll, os sugiero que miréis por ahí hay
 mucha literatura y muchos ejemplos al respecto. Quizás prefiero
 no dejar ningún enlace en este caso creo que es mejor investigar por uno mismo,
-pero una grandísima y extensa guía la podéis encontrar en [este post de smashingmagazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). 
+pero una grandísima y extensa guía la podéis encontrar en [este post de smashingmagazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
 
 ### ¿Por qué este tema tan _soso_?
 
