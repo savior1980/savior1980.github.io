@@ -15,7 +15,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <p>{{ post.excerpt}}</p>
-        {% if post.excerpt.size < 450 %}
+        {% if post.excerpt.size != post.content.size %}
         <a class="readmore" href="{{ post.url | prepend: site.baseurl }}">Leer más</a> &nbsp;
         {% endif %}
 
