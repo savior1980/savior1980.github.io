@@ -30,14 +30,14 @@ Albons (Girona) y de postre queremos ir a ver a la família de Cris a Salamanca.
 Aunque sea en Agosto, hay que ir planificando el viaje y lo que haremos allí
 (además de ponernos ciegos de jamón, chorizo y otras viandas de esas tierras)
 
-Tenemos también pendiente esaparnos a Londres a ver unos amigos y en Septiembre
+Tenemos también pendiente escaparnos a Londres a ver unos amigos y en Septiembre
 tenemos un boda al más puro estilo bilbaíno y hay que organizarse. Por otra
 parte también recibiremos visita de mi hermano que viene con la
-"família política" a visitarnos en breve.
+"família política" a hacer turismo por aquí y eso es ya en breve.
 
 Por curro tengo mil historias que afrontar, una de ellas es la de hacer un
 viaje con la compañía en la que trabajo, para ver cómo va todo y dar el parte.
-Pero a parte tengo 10 millones de cosas por hacer y proyectos en los que estoy
+Pero a parte tengo 10 millones de proyectos y tareas en los que estoy
 muy metido, a veces pienso que quizás demasiado.
 
 También no sé si es en julio me llegarán unos o-rings para el Filco
