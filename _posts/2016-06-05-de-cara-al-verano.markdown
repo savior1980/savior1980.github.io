@@ -14,8 +14,7 @@ decir que tenemos trastero y parking propios, también hice de
 padrino de Martina (la hija de Xevi y Cris), mi hermano en Rostock ha aprobado
 el curso y tiene contratao en un buen hotel en un magnífico restaurante con
 estrella Michelin, tengo nuevo conjunto de teclas PBT (de vortex) en mi teclado
-Filco del que solo puedo hablar maravillas por ahora.
-Tenemos una nueva Crockpot (más pequeñita) que estamos
+Filco del que solo puedo hablar maravillas por ahora. Ganamos la liga y la Copa con el Barça y asistimos a un conciertazo del Boss en el Camp Nou. También es cierto que tenemos una nueva Crockpot (más pequeñita) que estamos
 usando bastante y en conjunto fue un mes con tintes muy positivos. Por el
 contrario, ya lo visteis en mi anterior post, tengo muchísimo trabajo.
 
