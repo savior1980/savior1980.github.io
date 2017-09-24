@@ -18,6 +18,8 @@ Para hacerlo necesitaremos:
 * Opcionalmente un cable de conexión lightning para conectar nuestro iPad a la corriente y lo más importante de todo:
 * **Ganas de hacer el friki**.
 
+<!-- more -->
+
 Para el primer requisito, recomiendo, o yo al menos me compré [este cable que puedes encontrar en Amazon](https://www.amazon.es/Apple-Lightning-USB-Color-blanco/dp/B01DGDNL2G) o en cualquier Apple Store, vale **45€** no es barato, pero tiene la ventaja de que te permite **alimentar el iPad mientras tienes enchufado el teclado**, un _feature_ más que interesante. Creo que si te vas a pasar rato escribiendo, al menos en mi iPad Air 2, la batería se iba a resentir con lo que nos conviene tenerlo alimentado. 
 
 Para el **teclado externo**, aquí para gustos colores, puedes enchufar cualquier teclado con conexión USB. Evidentemente también puedes conectar cualquier teclado con interfaz Bluetooth y no necesitarías ningún cable, pero no hay muchos teclados mecánicos con esa opción y tampoco permite usar cualquier teclado que tengas en casa sin usar y así darle una nueva vida permitiéndote escribir en el iPad de foma cómoda, un post en tu blog como puede ser este, o cualquier cosa que se tercie. Además la parte buena de usar un teclado es que los comandos Cmd+C y Cmd+V funcionan a la perfección, con lo que sin duda, serás más productivo con el iPad, desde el minuto 0. 
