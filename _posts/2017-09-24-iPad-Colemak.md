@@ -18,7 +18,7 @@ Para hacerlo necesitaremos:
 * Opcionalmente un cable de conexión lightning para conectar nuestro iPad a la corriente y lo más importante de todo:
 * **Ganas de hacer el friki**.
 
-<!-- more-->
+<!--more-->
 
 Para el primer requisito, recomiendo, o yo al menos me compré [este cable que puedes encontrar en Amazon](https://www.amazon.es/Apple-Lightning-USB-Color-blanco/dp/B01DGDNL2G) o en cualquier Apple Store, vale **45€** no es barato, pero tiene la ventaja de que te permite **alimentar el iPad mientras tienes enchufado el teclado**, un _feature_ más que interesante. Creo que si te vas a pasar rato escribiendo, al menos en mi iPad Air 2, la batería se iba a resentir con lo que nos conviene tenerlo alimentado. 
 
