@@ -8,7 +8,7 @@ permalink: 2011/05/15/mehagustadonomehagustado-15052011/
 
 - *Nomehagustado* nada la peli "La casa de la cera" con Paris Hilton, o sea vaya bodrio más heavy. De lo puto peor que he visto jamás.
 
-- *Mehagustado* bastante el objetivo de "Tamron 18-200mm que he visto en Pixmania":http://www.pixmania.com/es/es/532971/art/tamron/objetivo-af-18-200mm-f-3.html está bastante barato y creo que es lo que busco, además tiene motor de enfoque incorporado, a ver si me lo agencio un día de estos.
+- *Mehagustado* bastante el objetivo de [Tamron 18-200mm que he visto en Pixmania](http://www.pixmania.com/es/es/532971/art/tamron/objetivo-af-18-200mm-f-3.html) está bastante barato y creo que es lo que busco, además tiene motor de enfoque incorporado, a ver si me lo agencio un día de estos.
 
 - *Nomehagustado* el nuevo capítulo de Game of Thrones y ya casi he perdido la esperanza que la serie sea más entretenida, más viva y con más acción, creo que va a ser que no. Del resto de series, HIMYM y TBBT en su línea y mención otra vez para la segunda parte del paintball de Community. También *mehagsutado* bastante el final del capítulo de House que ha sido muy desconcertante.
 
