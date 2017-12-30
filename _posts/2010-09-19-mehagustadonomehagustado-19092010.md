@@ -22,4 +22,4 @@ permalink: 2010/09/19/mehagustadonomehagustado-19092010/
 
 - *Nomehagustado* volver a Minefield, creo que voy a volver a probar Chromium... no sé últimamente, Opera no va fino y hay sitios que no acaban de pitar, Minefield va realmente bien pero todavía le queda bastante y la estabilidad tampoco es muy buena. No acabo de hacerme con Panorama y eso que no se pueda cambiar el shortcut de teclado para activarlo es un FAIL en toda regla.
 
-- *Megustará* también si se confirma el hecho de que abren 3 Apple Store en Barcelona como "publica hoy AppleWeblog":http://appleweblog.com/2010/09/barcelona-tendra-tres-apple-retail-stores
+- *Megustará* también si se confirma el hecho de que abren 3 Apple Store en Barcelona como [publica hoy AppleWeblog](http://appleweblog.com/2010/09/barcelona-tendra-tres-apple-retail-stores)

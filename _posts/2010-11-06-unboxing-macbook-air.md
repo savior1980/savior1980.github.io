@@ -6,7 +6,7 @@ permalink: 2010/11/06/unboxing-macbook-air/
 ---
 <a href="http://www.flickr.com/photos/savior1980/5152162852/" title="Caja Macbook Air 11 by Savior1980, on Flickr"><img src="http://farm5.static.flickr.com/4152/5152162852_f3f470b489.jpg" width="500" height="332" alt="Caja Macbook Air 11" /></a>
 
-Ya tenéis las fotos del Unboxing en mi cuenta de flickr, que las disfrutéis en este set "Unboxing MBAir":http://www.flickr.com/photos/savior1980/sets/72157625326011252/ .
+Ya tenéis las fotos del Unboxing en mi cuenta de flickr, que las disfrutéis en este set [Unboxing MBAir](http://www.flickr.com/photos/savior1980/sets/72157625326011252/).
 
 Estoy realmente encantado con la compra, un MacBook Air 11,6 pulgadas modelo básico personalizado con 4GB de RAM. Llevo todavía muy poco tiempo con él y tampoco he hecho pruebas a fondo sobre su rendimiento, pero ya os digo que para un uso normal (navegar, iLife, iTunes, reproducción vídeo, etc) se comporta de forma excelente. Lo único negativo que le he visto es que claro con 64GB de disco, tengo bastante miedo a llenarlo, es por eso que he distribuido las librerías de iTunes, iPhoto y LightRoom en disco externo (un Lacie de 500GB 2.5") .
 
@@ -35,4 +35,4 @@ Sofware que le he instalado en estos primeros días de uso y que considero impre
 * *Growl* : Apple debería integrar este servicio de notificaciones en el sistema
 * *Perian* : todos los códecs habidos y por haber para reproducir vídeo, otra que debería venir integrada en Quicktime.
 
-*Actualización*: Y por cierto, ya tiene nombre: *RAIDER*.
+**Actualización**: Y por cierto, ya tiene nombre: *RAIDER*.
