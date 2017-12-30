@@ -6,9 +6,9 @@ permalink: 2011/01/09/mehagustadonomehagustado-09012011/
 ---
 - *Nomehagustado* que las vacaciones de Navidad oficialmente terminan para mí, ahora me espera un mes de lo más movido. Tenemos cantidad brutal de trabajo por acometer. Este año va a ser duro, abrocharos los cinturones.
 
-- *Mehagustado* volver a publicar una imagen en flickr con "mi escritorio actual":http://www.flickr.com/photos/savior1980/5333373793/.
+- *Mehagustado* volver a publicar una imagen en flickr con [mi escritorio actual](http://www.flickr.com/photos/savior1980/5333373793/).
 
-- *Mehagustado* la peli "500 days of Summer", aunque me ha dado bastante mal rollo hacia el final, la peli es de 10. *Nomehagustado* mucho "The Social Network", que me ha aburrido soberanamente. 
+- *Mehagustado* la peli "500 days of Summer", aunque me ha dado bastante mal rollo hacia el final, la peli es de 10. *Nomehagustado* mucho "The Social Network", que me ha aburrido soberanamente.
 
 - *Mehagustado* mucho la Mac App Store. Realmente cuando crezca y evolucione será un añadido fantástico a nuestra manera de usar Mac OS X y un peligro para nuestros bolsillos. También *mehagustado* darme cuenta de la cantidad y cantidad de software que uso en mi sistema, es alucinante, ahora todo (o de momento la mayoría) estará contenido en el mismo sitio y se irá actualizando. Quizás lo que *másmehagustado* de todo han sido las renovaciones de ImageWell y Twitter for Mac, ya estoy deseando que muchas otras apps aparezcan en ese repositorio.
 
@@ -24,6 +24,6 @@ permalink: 2011/01/09/mehagustadonomehagustado-09012011/
 
 - *Nomehagustado* que no he recibido todavía un paquete que pedí y que esperaba haber recibido para Reyes. Lo último que sé es que lo están mirando en aduanas, miedo me da. Veremos si en un par de días la cosa no avanza contactaré con Correos a ver cómo lo desbloqueamos.
 
-- *Megustará* esta semana que me arreglen provisionalmente el diente que tengo medio roto, es que es un agobio que no os podéis imaginar. 
+- *Megustará* esta semana que me arreglen provisionalmente el diente que tengo medio roto, es que es un agobio que no os podéis imaginar.
 
 - *Nomegusta* que todavía no saquen la actualización del Infinity Blade, ya va siendo hora que nos den más carnaza para desbloquear.
