@@ -10,7 +10,7 @@ permalink: 2011/03/13/mehagustadonomehagustado-13032011/
 
 - *Mehagustado* mucho celebrar el cumpleaños de mi primo este sábado, tuvimos una comida excelente y a mi primo *legustó* nuestro regalo, la camiseta del Barça.
 
-- *Mehagustado* mucho el "relojazo":http://reviews.oakley.com/0433/2842/reviews.htm que le han regalado a mi hermano, espero que le dure mucho tiempo. A mí todavía me dura el que tengo y que compré cuando volví de Aachen.
+- *Mehagustado* mucho el [relojazo](http://reviews.oakley.com/0433/2842/reviews.htm) que le han regalado a mi hermano, espero que le dure mucho tiempo. A mí todavía me dura el que tengo y que compré cuando volví de Aachen.
 
 - *Nomehagustado* Cisne negro: 1 hora de peli super aburrida. Escena lésbica de Portman-Kunis. La peli se vuelve de terror a lo Wes Craven. Final sospechado y con incoherencias. Vamos que no vale la pena ir al cine a ver esa peli la verdad.
 
