@@ -12,12 +12,12 @@ permalink: 2010/02/22/mehagustadonomehagustado-21022009/
 
 - *Mehagustado* bastante Capture One, su interfaz es horrible pero la manera en como deja las fotos y la nitidez que se consigue es muy buena. No acaba de convencerme Aperture y no quiero volver a Lightroom, igual me paso al lado oscuro de Capture 1.
 
-- *Mehagustado* mucho que mi primo lo haya hecho tan bien en estos juegos olímpicos de invierno. Grande "Ferran":http://resistancefutile.com/2010/02/20/ferran-terra-lo-puto-crack/ !!
+- *Mehagustado* mucho que mi primo lo haya hecho tan bien en estos juegos olímpicos de invierno. Grande [Ferran](http://resistancefutile.com/2010/02/20/ferran-terra-lo-puto-crack/) !!
 
 - *Mehagustado* bastante el capítulo de Lost de esta semana, poco a poco van alineándose las cosas para un final poco convencional y para dar respuesta a muchos interrogantes había hasta ahora.
 
 - *Nomehagustado* no poder quitarme la sensación de hambre, veréis no es que esté en una dieta estricta, todo lo contrario estamos intentando comer más sano y para ello hemos eliminado algunas cosas como la pizza, el sandwich, los fritos o las patatas. Pero no sé tanta ensalada y comida a la plancha me dejan una sensación de vacío.
 
-- *Mehagustado* ver que "Flash y AIR llegan a la plataforma Android":http://www.genbeta.com/multimedia/flash-y-air-vienen-a-android, ojalá en Apple hiciesen lo mismo. Lo que *nomehagustado* mucho es el nuevo Windows Phone, lo he encontrado poco innovador :P
+- *Mehagustado* ver que [Flash y AIR llegan a la plataforma Android](http://www.genbeta.com/multimedia/flash-y-air-vienen-a-android), ojalá en Apple hiciesen lo mismo. Lo que *nomehagustado* mucho es el nuevo Windows Phone, lo he encontrado poco innovador :P
 
 - *Nomehagustado* no encontrar ninguna ganga para semana santa. Pensábamos en hacer una locura y volver a NYC pero no es posible, precio mínimo 2000k yendo del 2 al 11 de abril, vamos _imposible_ para nuestra _economy_

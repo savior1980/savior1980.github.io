@@ -8,7 +8,7 @@ permalink: 2010/04/04/mehagustadonomehagustado-04042010/
 
 - *Mehagustado* todo lo que leo del iPad. El nuevo dispositivo de Apple lo está logrando una vez más : colocarse en el punto de mira de millones de consumistas.
 
-- *Mehagustado* bastante quedar con "Toni":http://twitter.com/tonimaquero y "Cris":http://twitter.com/malegrya para ir a comer este viernes y luego en el Starbucks comprar un billete para París el fin del 7 de mayo, será genial coincidir con "Samuel":http://twitter.com/sopmacsl y comprar el iPad en la Apple Store del Louvre todos juntos :)
+- *Mehagustado* bastante quedar con [Toni](http://twitter.com/tonimaquero) y [Cris](http://twitter.com/malegrya) para ir a comer este viernes y luego en el Starbucks comprar un billete para París el fin del 7 de mayo, será genial coincidir con [Samuel](http://twitter.com/sopmacsl) y comprar el iPad en la Apple Store del Louvre todos juntos :)
 
 - *Nomehagustado* que el Barça se dejase empatar 2-2 el partido del Arsenal, aunque los primeros 45 minutos fuesen lo mejor de la temporada. Pero bueno *megustará* mucho si este martes conseguimos pasar ronda y llegar a las semifinales, nos dará alas contra el Madrid. El Madrid *nomehagustado* que gane al Racing casi sin salir del autocar, no entiendo como al Barça de tener un partido así obtiene un mal resultado y en cambio ellos van y meten dos goles tan tranquilamente. Tampoco *nomehagustado* nada que tengamos tantos lesionados, máxime en la semana que nos jugamos el ser o no ser en dos competiciones, tanto en champions como en liga.
 
