@@ -24,7 +24,7 @@ permalink: 2011/06/26/mehagustadonomehagustado-26062011/
 
 - Y hablando de nostalgia, tengo descargado Ghostbusters. A ver si convenzo a la otra parte contratante para que acepte a verla.
 
-- Y hablando de Cris, ha subido algunas "fotos que hizo en San Diego y LA":http://www.flickr.com/photos/lady-madonna/sets/72157627038934940/with/5872187935/, la verdad es que hay alguna de ellas que es preciosa, *mehangustado* mucho. Tendré que comprar otro cuerpo Nikon y creo que a mí me tocará el de la D5000 xD cosa que *nomegustará*, como *nomehgusta* no haber encontrado tiempo para procesar las fotos que hice el finde pasado y en la boda... aaaains maldita procrastinación.
+- Y hablando de Cris, ha subido algunas [fotos que hizo en San Diego y LA](http://www.flickr.com/photos/lady-madonna/sets/72157627038934940/with/5872187935/), la verdad es que hay alguna de ellas que es preciosa, *mehangustado* mucho. Tendré que comprar otro cuerpo Nikon y creo que a mí me tocará el de la D5000 xD cosa que *nomegustará*, como *nomehgusta* no haber encontrado tiempo para procesar las fotos que hice el finde pasado y en la boda... aaaains maldita procrastinación.
 
 - *Megustó* mucho la semana pasada avanzamos a pasos agigantados en el proyecto. El cliente estuvo satisfecho, tenemos que seguir dando pasos adelante que nos lleven a cerrar definitivamente el tema. Queda poco tiempo, el reloj va en nuestra contra.
 

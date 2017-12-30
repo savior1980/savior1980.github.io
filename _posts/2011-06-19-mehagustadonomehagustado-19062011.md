@@ -16,7 +16,7 @@ permalink: 2011/06/19/mehagustadonomehagustado-19062011/
 
 - *Nomehagustado* que tras la visita al dentista este jueves para que me solucionasen una funda de una muela que se me había despegado, me duele otra muela del otro lado... tendré que volver a pasar por la consulta del dentista y lo odio, con todas mis fuerzas.
 
-- *Mehagustado* bastante "la camiseta Trap":http://www.604republic.com/prod/trap_t_shirt realmente friki... en esta línea firki tonimaquero nos comentó la web Red hot phones con un "teléfono rojo a lo Batman de Adam West":http://www.redhotphones.com/
+- *Mehagustado* bastante [la camiseta Trap](http://www.604republic.com/prod/trap_t_shirt) realmente friki... en esta línea firki tonimaquero nos comentó la web Red hot phones con un [teléfono rojo a lo Batman de Adam West](http://www.redhotphones.com/)
 
 - *Mehangustado* mucho los capítulos de Game of Thrones... hasta el 9, con otro final... sobrecogedor. Ya estoy esperando a que salga la siguiente entrega, la historia sigue pareciéndome algo pesada y en ocasiones casi aburrida pero realmente los capítulos del 6-9 son muy muy buenos y ya vemos como van evolucionando las historias.
 

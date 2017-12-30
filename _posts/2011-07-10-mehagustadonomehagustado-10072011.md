@@ -4,7 +4,7 @@ title: Mehagustado/Nomehagustado [10/07/2011]
 date: '2011-07-10T00:00:00+00:00'
 permalink: 2011/07/10/mehagustadonomehagustado-10072011/
 ---
-- *Mehagustado* mucho, me ha hecho mucha ilusión que uno de mis mejores amigos del Mundo Real hayan elegido "una foto mía para ilustrar la invitación de su boda":http://www.flickr.com/photos/savior1980/5923701814/in/photostream ... y lo sabía, yo mismo les pasé la fotografía pero al ver lo bonita que les ha quedado la invitación no he podido más que emocionarme.
+- *Mehagustado* mucho, me ha hecho mucha ilusión que uno de mis mejores amigos del Mundo Real hayan elegido [una foto mía para ilustrar la invitación de su boda](http://www.flickr.com/photos/savior1980/5923701814/in/photostream) ... y lo sabía, yo mismo les pasé la fotografía pero al ver lo bonita que les ha quedado la invitación no he podido más que emocionarme.
 
 - *Mehagustado* mucho, me he sacado un peso de encima al ir a la Apple Store este viernes y que tras hacer un par de comprobaciones el Genius determinase que la gráfica Nvidia está defectuosa y que me la cambian sin coste alguno para mí... oh! fue un descanso la verdad. Me veía saliendo por la puerta con 1650 euros menos en el bolsillo. Ahora aguantaré el MBP hasta que ya no valga para nada, realmente no me hace ninguna falta comprarme (de momento) algo más potente.
 
