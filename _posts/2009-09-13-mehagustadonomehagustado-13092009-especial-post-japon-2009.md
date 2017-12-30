@@ -10,13 +10,13 @@ permalink: 2009/09/13/mehagustadonomehagustado-13092009-especial-post-japon-2009
 
 - *Nomehagustado* estar molido después de tanto ajetreo y estar todo el día de hoy como un puto zombie. Puto _jet lag_, además seguramente lo arrastraré unos días.
 
-- *Nomehagustado* que a Cris le perdiesen la maleta grande ayer en la vuelta a Barcelona, espero que en unos días se la devuelvan. 
+- *Nomehagustado* que a Cris le perdiesen la maleta grande ayer en la vuelta a Barcelona, espero que en unos días se la devuelvan.
 
 - *Nomehagustado* terminar ya mis vacaciones, necesitaría al menos un par de días más para perrear y recuperar fuerzas pero no puede ser, mañana toca otra vez estar a tope en el curro.
 
 - *Mehangustado* las pelis Mirrors, Quarantine, Terminator Salvation y Resacón en las vegas, en cambio *nomehangustado* la crisis carnívora y Fast&Furious, que he podido ver en los viajes al país del sol naciente.
 
-- *Mehagustado* mucho la compra que he hecho con la Nikon D5000, es una cámara réflex perfecta para mis necesidades, lo único malo que he podido comprobar es tener que depender de objetivos con motor de enfoque, que hay menos y son más caros, el resto es genial. También compré una mochila "Kata 465i":http://www.kata-bags.com/product.asp?Version=Photo&p_Id=506 (gracias Samu por traerla en la campusmac) y una tarjeta SD Eye-Fi que tengo ya configurada. Ahora solo queda hacerme la cuenta pro en flickr, para tener el "pack fotografía amateur" completo.
+- *Mehagustado* mucho la compra que he hecho con la Nikon D5000, es una cámara réflex perfecta para mis necesidades, lo único malo que he podido comprobar es tener que depender de objetivos con motor de enfoque, que hay menos y son más caros, el resto es genial. También compré una mochila [Kata 465i](http://www.kata-bags.com/product.asp?Version=Photo&p_Id=506) (gracias Samu por traerla en la campusmac) y una tarjeta SD Eye-Fi que tengo ya configurada. Ahora solo queda hacerme la cuenta pro en flickr, para tener el "pack fotografía amateur" completo.
 
 - *Mehagustado* bastante iTunes 9, en cambio *nomegustó* nada en absoluto el nuevo nano, con ese pulido que le han hecho es feísimo, además la ubicación de la cámara es lo peor, queda tapada por los dedos al cogerlo, en fin que iba dispuesto a comprarme uno en la Apple Store de Ginza y al final no lo compré por ser un fail los acabados. En cambio tengo que decir que el Shuffle edición especial está muy bien en ese pulido brillante.
 

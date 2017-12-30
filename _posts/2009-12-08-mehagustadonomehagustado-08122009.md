@@ -8,15 +8,15 @@ permalink: 2009/12/09/mehagustadonomehagustado-08122009/
 
 - *Mehagustado* ir a la Molina y celebrar el cumple de uno de mis amigos del MundoReal&trade; fue genial poder estar allí arriba y  descansar y también poder hacer fotos en la celebración.
 
-- *Nomehagustado* que me claven 14 euros por la tapa del objetivo de la cámara, en fin al menos pone Nikon bien grande en el frontal :P eso sí, *mehagustado* descubrir "dealextreme":http://www.dealextreme.com/ gracias a "@xeotico":http://twitter.com/xeotico
+- *Nomehagustado* que me claven 14 euros por la tapa del objetivo de la cámara, en fin al menos pone Nikon bien grande en el frontal :P eso sí, *mehagustado* descubrir [dealextreme](http://www.dealextreme.com/) gracias a [@xeotico](http://twitter.com/xeotico)
 
 - *Mehagustado* que no me pongan trabas para pasar mi contrato de Vodafone con el módem USB a prepago, veremos si en la próxima factura me llega como es debido (*megustará* verlo).
 
 - También *mehagustado* mucho celebrar el santo de mi santa madre hoy en casa de mis padres. Ha sido genial la comida y la conversación, me lo he pasado bien.
 
-- *Mehagustado* mucho recibir esta semana las cositas que compré en el BlackFriday&trade; pronto un análisis de cada cosa: una "funda Senna ultraslim":http://www.senacases.com/apple/iphone-3g-3gs-cases/ultra-slim-pouch-sleeve/ y un "disco duro 2,5 de Lacie":http://www.lacie.com/products/product.htm?pid=11379 con el sello de "Starck":http://www.youtube.com/user/LaCieTV.
+- *Mehagustado* mucho recibir esta semana las cositas que compré en el BlackFriday&trade; pronto un análisis de cada cosa: una [funda Senna ultraslim](http://www.senacases.com/apple/iphone-3g-3gs-cases/ultra-slim-pouch-sleeve/) y un [disco duro 2,5 de Lacie](http://www.lacie.com/products/product.htm?pid=11379) con el sello de [Starck](http://www.youtube.com/user/LaCieTV).
 
-- *Nomehagustado* tener que ingresar nuestro Time Capsule en el "Time Capsule Memorial":http://timecapsuledead.org/. A ver si Apple nos lo soluciona pero veo pocas posibilidades.
+- *Nomehagustado* tener que ingresar nuestro Time Capsule en el [Time Capsule Memorial](http://timecapsuledead.org/). A ver si Apple nos lo soluciona pero veo pocas posibilidades.
 
 - *Mehagustado* que el Madrid pase de fase en la Champions, una derrota hubiese sido algo muy sonado. A ver si el Barça hace lo propio mañana contra el Kiev.
 

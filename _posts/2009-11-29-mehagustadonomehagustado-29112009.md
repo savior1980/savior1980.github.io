@@ -16,7 +16,7 @@ permalink: 2009/11/30/mehagustadonomehagustado-29112009/
 
 - *Nomehangustado* algunas opiniones que tiene la gente sobre Catalunya, creo que deberían ser un poco más abiertos de mente... alguien dijo alguna vez que las mentes son como los paracaidas, si no están abiertos no sirven de nada.
 
-- *Mehagustado* tener mi "Poken":http://www.poken.com/ configurado, ahora sí, cualquiera que tenga uno y me ve un día de estos que se choque conmigo ;)
+- *Mehagustado* tener mi [Poken](http://www.poken.com/) configurado, ahora sí, cualquiera que tenga uno y me ve un día de estos que se choque conmigo ;)
 
 - *Mehangustado* los capítulos de Dexter (ese final bueeeno...) y de Modern Family, en cambio SGU ha tenido un capítulo de esos feotes, WhiteCollar no me engancha nada en absoluto y V psí-psá, no está mal pero tampoco es algo extraordinario. Me ha faltado FlashForward para reír un rato, no ahora en serio, creo que es tan mala que dan ganas de ver qué ocurre y cuanto más se puede liar la troca (demasiados personajes, demasiada información, demasiadas expectativas, demasiadas historias). He visto también los primeros minutos de Dead Set y *mehangustado* bastante, pero eso era sencillo, caspa + zombies tiene que molar fijo.
 
@@ -24,10 +24,10 @@ permalink: 2009/11/30/mehagustadonomehagustado-29112009/
 
 - *Nomehagustado* dejarme más de 200 eurazos en el Black Friday y sobre todo que me he gastado el dinero en cosas bastante superfluas, lo único que realmente necesitaba era una funda para el iPhone  (la de proporta ya da bastante pena) y me he agenciado una Sena ultraslim (soy poco original pero es la que la gente más recomienda). El resto de ítems, bueno ya lo iréis viendo.
 
-- *Mehagustado* mucho "el _review_ que le ha hecho Berto a la Kindle":http://thinkwasabi.com/2009/11/mis-impresiones-kindle/, de momento no pienso en comprarla básicamente porque a) no tengo tiempo para leer en los deplazamientos al curro y b) no tengo apenas tiempo para leer en general.
+- *Mehagustado* mucho [el _review_ que le ha hecho Berto a la Kindle](http://thinkwasabi.com/2009/11/mis-impresiones-kindle/), de momento no pienso en comprarla básicamente porque a) no tengo tiempo para leer en los deplazamientos al curro y b) no tengo apenas tiempo para leer en general.
 
 - *Mehangustado* muchísimo los nuevos singles de Foo Fighters presentes en el recopilatorio de Greatest Hits que compré en la iTunes Store, no sé con cual de ellas me quedaría, si Wheels o Word Forward. También *megusta* el nuevo de Pearl Jam y el recopilatorio de Snow Patrol (va de recopilatas nenes).
 
-- *Mehagustado* recuperar "Double Command":http://www.applesfera.com/portatil/por-fin-double-command-para-sl-a-64-bits y descubrir "BetterTouchTool":http://www.applesfera.com/aplicaciones/bettertouchtool-gobierna-tus-gestos-multitouch dos aplicaciones que hacen mucho más cómodo el uso de teclado y trackpad. También *mehangustado* mucho los juegos Orba (similar al mítico Jaws de Windows Mobile) o el juegazo de Chuck Norris. Es super enganchadizo Canabalt, no se puede hacer un juego más simple y minimalista con esa adictividad (bonito palabro rescatado del fondo de mi corazón al leer aquellos análisis en HobbyConsolas). En cambio bastante pobre la conversión del Ghouls & Ghosts, demasiado difícil y poco currado.  
+- *Mehagustado* recuperar [Double Command](http://www.applesfera.com/portatil/por-fin-double-command-para-sl-a-64-bits) y descubrir [BetterTouchTool](http://www.applesfera.com/aplicaciones/bettertouchtool-gobierna-tus-gestos-multitouch) dos aplicaciones que hacen mucho más cómodo el uso de teclado y trackpad. También *mehangustado* mucho los juegos Orba (similar al mítico Jaws de Windows Mobile) o el juegazo de Chuck Norris. Es super enganchadizo Canabalt, no se puede hacer un juego más simple y minimalista con esa adictividad (bonito palabro rescatado del fondo de mi corazón al leer aquellos análisis en HobbyConsolas). En cambio bastante pobre la conversión del Ghouls & Ghosts, demasiado difícil y poco currado.  
 
 - *Mehagustado* hacer este *mehagustado* un poco más largo y completo de lo normal, al no haber hecho uno la semana anterior, sirva este de compensación.

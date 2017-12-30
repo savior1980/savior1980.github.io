@@ -6,7 +6,7 @@ permalink: 2009/09/28/mehagustadonomehagustado-27092009/
 ---
 - *Mehagustado* mucho el finde en la Cerdanya (es una zona a la que me encanta ir), nos lo hemos pasado en grande. La pena ha sido que *nomehagustado* en absoluto caerme del quad por hacer demasiado el cabra, lamentable, ya lo contaré en detalle en otro post. Solo deciros que *nomehagustado* tener la rodilla más hinchada que un globo aerostático (no hay nada roto, es el golpe, o eso espero xD) y el codo ardiendo con una herida-quemadura de esas chungas que pican loquenostaescrito.
 
-- *Nomegustará* mañana rematar la faena en el dentista, espero que no me hagan mucho daño. 
+- *Nomegustará* mañana rematar la faena en el dentista, espero que no me hagan mucho daño.
 
 - *Nomehagustado* descubrir que las alternativas para subir masivamente fotos a flickr son un truño. Acabo de instalar el plugin para exportar a flickr en Aperture y es, como todas las demás herramientas que he visto, una caca: se cuelga, a veces se queda clavado en un paso y no consigue avanzar al siguiente, es terriblemente lento, poco intuitivo y encima caro.
 
@@ -16,4 +16,4 @@ permalink: 2009/09/28/mehagustadonomehagustado-27092009/
 
 - *Mehagustado* ver ganar otra vez al Barça, lo que ocurre es que me indigna profundamente que haya equipos con la actitud del Málaga y colegiados tan permisivos como el que pitó el sábado, o sea no sé creo que los jugadores del Málaga salieron a jugar a rugby y el árbitro no hizo nada para remediarlo.
 
-- *Mehagustado* "FAQ about TimeTravel":http://www.imdb.com/title/tt0910554/ es entretenida, no os esperéis un peliculón pero está bastante bien ver las aventuras y bucles temporales de 3 amigos frikis. Y porsupuesto *mehangustado* mucho los primeros episodios de HIMYM y TBBT, ya estamos de vuelta a piñón. *Nomehagustado* demasiado el piloto de FlashForward, no me ha enganchado de momento, no sé, le daremos otra oportunidad.
+- *Mehagustado* [FAQ about TimeTravel](http://www.imdb.com/title/tt0910554/) es entretenida, no os esperéis un peliculón pero está bastante bien ver las aventuras y bucles temporales de 3 amigos frikis. Y porsupuesto *mehangustado* mucho los primeros episodios de HIMYM y TBBT, ya estamos de vuelta a piñón. *Nomehagustado* demasiado el piloto de FlashForward, no me ha enganchado de momento, no sé, le daremos otra oportunidad.

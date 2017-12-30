@@ -13,4 +13,4 @@ De entrada Google hará una apuesta muy arriesgada, que es venderlo libre, lo qu
 
 Yo tengo un iPhone 3G, que conseguí de puto milagro el año pasado, el verano que viene parece que habrá nuevo modelo de iPhone y me encantaría renovarlo, pero visto lo que ha sucedido este año con la distribución del iPhone, visto que hay mucha gente que se ha quedado sin iPhone porque básicamente no encuentran en ningún sitio y visto que las novedades que llevará el próximo iPhone no creo que sean muy significativas, mira que no se me crucen los cables y acabe comprando un teléfono de Google. ¿No decían que Google es la nueva Apple? Pues eso.
 
-(Vía "engadget":http://www.engadget.com/2009/12/13/google-phone-makes-first-twitter-appearance/)
+(Vía [engadget](http://www.engadget.com/2009/12/13/google-phone-makes-first-twitter-appearance/))
