@@ -15,4 +15,4 @@ el aire nos daba en la cara,
 parecía que volabas,
 tú de paquete,
 en mi mobilette
-nos comimos un cartel. </p><p align="right">-- Inicio de la "canción de Pablo Carbonell":http://letrasyacordes.net/cancion/42299, con una de las letras más divertidas que haya escuchado nunca</p>
+nos comimos un cartel. </p><p align="right">-- Inicio de la [canción de Pablo Carbonell](http://letrasyacordes.net/cancion/42299), con una de las letras más divertidas que haya escuchado nunca</p>
