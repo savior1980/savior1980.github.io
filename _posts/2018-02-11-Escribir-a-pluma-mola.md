@@ -63,4 +63,4 @@ La verdad yo lo soluciono diciendo que los bolis son un engendro del demonio y q
 
 Este año quiero experimentar con una pluma que se recargue por otro método que no sean los típicos cartuchos, usar el bote de tinta, ensuciarse las manos. Hay una [TWSBI](https://www.twsbi.com), bastante barata (menos de  40€), el modelo **Eco** que va perfecto para ello. Lleva un tipo de mecanismo integrado de pistón y ahí puedes cargar directamente en el depósito de la pluma tinta que quieras. Esto mola porque la duración de la pluma se multipica (en el depósito caben varios cartuchos incluso del tamaño largo, que es el que tengo en las Lamy).
 
-También son interesantes las Kaweco, tienen dos modelos, la lilliput (que destaca por ser realmente pequeña) y la Sport (con multitud de acabados) que estarían bien para expandir horizont
+También son interesantes las [Kaweco](https://www.kaweco-pen.com), tienen dos modelos, la Lilliput (que destaca por ser realmente pequeña) y la Sport (con multitud de acabados) que estarían bien para expandir horizontes, pero bueno, el futuro en fin, Jobs proveerá.
