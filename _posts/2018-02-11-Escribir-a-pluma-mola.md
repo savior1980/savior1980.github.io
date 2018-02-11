@@ -47,7 +47,7 @@ Otra opción son los anchos de la punta, desde la EF o extra fina a la B de Broa
 
 ### Más papel
 
-Hay algo de cierto y es que no todos los papeles valen para escribir bien o tener una experiencia buena. Es necesario que la libreta en la que escribas tenga un mínimo de grosor. Cualquier Moleskine por ejemplo absorberá mucho mejor la tinta que cualquier papel conglomerado barato. Huye del que es más satinado.
+Hay algo de cierto en el tema de que resulta caro escribir a pluma y es que no todos los papeles valen para escribir bien o tener una experiencia buena escribiendo a pluma. Es necesario que la libreta en la que escribas tenga un mínimo de grosor. Cualquier Moleskine por ejemplo absorberá mucho mejor la tinta que cualquier papel conglomerado barato. Huye del que es más satinado.
 
 Hay tres factores interesantes en el tema del papel y que se basan en la absorción de la tinta: si traspasá o no al otro lado, el efecto "toalla mojada" o cómo la tinta se escapa o se explande por hebras en el papel impidiendo que la escritura sea recta y uniforme y la posibilidad de emborronarse al más mínimo movimiento antes de que se seque (vaya la capacidad de secado de la tinta, sin más). Esto lo tienes igual si escribes con bolígrafo o sobretodo con Pilot, pero al escribir a pluma se acentúa mucho estas cualidades del papel sobre el que escribes.
 
@@ -63,4 +63,4 @@ La verdad yo lo soluciono diciendo que los bolis son un engendro del demonio y q
 
 Este año quiero experimentar con una pluma que se recargue por otro método que no sean los típicos cartuchos, usar el bote de tinta, ensuciarse las manos. Hay una TWSBI, bastante barata (menos de  40€), el modelo **Eco** que va perfecto para ello. Lleva un tipo de mecanismo integrado de pistón y ahí puedes cargar direcatmente en el depósito de la pluma tinta que quieras. Esto mola porque la duración de la pluma se multipica (en el depósito caben varios cartuchos incluso del tamaño largo, que es el que tengo en las Lamy).
 
-También son interesantes las Kaweco, tienen dos modelos, la lilliput (que destaca por ser realmente pequeña) y la Sport (con multitud de acabados) que estarían bien para expandir horizontes
+También son interesantes las Kaweco, tienen dos modelos, la lilliput (que destaca por ser realmente pequeña) y la Sport (con multitud de acabados) que estarían bien para expandir horizonte
