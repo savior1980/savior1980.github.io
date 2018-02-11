@@ -51,7 +51,7 @@ Hay algo de cierto en el tema de que resulta caro escribir a pluma y es que no t
 
 Hay tres factores interesantes en el tema del papel y que se basan en la absorción de la tinta: si traspasa o no al otro lado del papel en la otra cara, el efecto "toalla mojada" o cómo la tinta se escapa o se explande por hebras en el papel impidiendo que la escritura sea recta y uniforme y la posibilidad de emborronarse al más mínimo movimiento antes de que se seque (vaya la capacidad de secado de la tinta, sin más). Esto lo tienes igual si escribes con bolígrafo o sobretodo con Pilot, pero al escribir a pluma se acentúan mucho estas cualidades del papel sobre el que escribes.
 
-Actualmente uso dos libretas: una [Chameleonlike](http://www.chameleonlike.com/) y una Moleskine, y con esas estoy satisfecho, pero estoy pensando en adquirir una Rhodia, que dicen que se nota mucho la diferencia al escribir a pluma poruqe usan un papel más grueso y que minimiza los efectos descritos anteriormente.
+Actualmente uso dos libretas: una [Chameleonlike](http://www.chameleonlike.com/) y una Moleskine, y con esas estoy satisfecho, pero estoy pensando en adquirir una Rhodia, que dicen que se nota mucho la diferencia al escribir a pluma porque usan un papel más grueso y que minimiza los efectos descritos anteriormente.
 
 ### El factor "Enjoy the feeling"
 
