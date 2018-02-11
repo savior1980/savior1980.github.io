@@ -9,7 +9,7 @@ permalink: 2018/02/18/Escribir-a-pluma-mola/
 
 Una de mis pasiones recientes, a parte de los teclados mecánicos y escribir con una disposición de teclas un poco rara ([Colemak](http://www.resistancefutile.com/2017/05/06/Transicionando-a-Colemak/)), que si leéis mis últimas entradas ya os habréis hartado de ellas, es escribir con pluma estilográfica.
 
-¿Pero por qué? ¡Absurdo! Eso está desfasado, pero y ¿Cómo es posible que en 2018 nos estés diciendo esto?. Bueno pues, sí, todo eso si lo analizamos bien son clichés. ¿Qué es lo que define a uno a la hora de elegir herramientas de escribir? Bueno pues básicamente que sea cómodo. Un poco como elegir teclado o elegir ratón. Si quieres entender un poco las razones por las que me he decantado por los _fountain pen_, dame la mano y vayamos a verlas en detenimiento en la entrada completa.
+¿Pero por qué? ¡Absurdo! Eso está desfasado, pero y ¿Cómo es posible que en 2018 nos estés diciendo esto?. Bueno pues, sí, todo eso si lo analizamos bien son clichés. ¿Qué es lo que rige a uno a la hora de elegir herramientas de escribir? Bueno pues básicamente que sea cómodo, vaya digo yo. Aquí es un poco como elegir teclado o elegir ratón. Si quieres entender un poco las razones por las que me he decantado por los _fountain pen_, dame la mano y vayamos a verlas en detenimiento en la entrada completa.
 
 <!--more-->
 
