@@ -43,7 +43,7 @@ Otra opción interesante de escribir con estilográfica, es que hay multitud de 
 
 A la larga, una pluma, evidentemente si se cuida tendrá una duración muy larga, mayor que un bolígrafo convencional, claro por eso también es más cara, eso es evidente, comparar una pluma con un pilot, no es ser justo, deberíamos establecer la comparativa con un paquete de varios bolígrafos baratos, lo que vengo a decir es que una pluma la puedes recargar múltiples veces. Y las posibilidades de renovar la escritura y/o adaptarla a otra tinta son enormes. Simplemente hay que limpiar bien la zona inferior y el depósito si lo tuviere (y nada elaborado, metiéndola bajo  el grifo un rato es suficiente), y cargarla con nueva tinta, al cabo de un rato, ya escribes con un color distinto, voilà.
 
-Otra opción son los anchos de la punta, desde la EF o exta fina a la B de Broad o incluso a las que llevan punta plana, enfocadas a la caligrafía. Múltiples posibilidades de adaptarlo a lo que se ajuste más. Yo tengo dos M (las dos Lamy) pero me gustaria probar con una F, creo que se notará la diferencia.
+Otra opción son los anchos de la punta, desde la EF o extra fina a la B de Broad o incluso a las que llevan punta plana, enfocadas a la caligrafía. Múltiples posibilidades de adaptarlo a lo que se ajuste más a tu manera de escribir. Yo tengo dos M (las dos Lamy) pero me gustaria probar con una F, creo que se notará la diferencia.
 
 ### Más papel
 
@@ -63,4 +63,4 @@ La verdad yo lo soluciono diciendo que los bolis son un engendro del demonio y q
 
 Este año quiero experimentar con una pluma que se recargue por otro método que no sean los típicos cartuchos, usar el bote de tinta, ensuciarse las manos. Hay una TWSBI, bastante barata (menos de  40€), el modelo **Eco** que va perfecto para ello. Lleva un tipo de mecanismo integrado de pistón y ahí puedes cargar direcatmente en el depósito de la pluma tinta que quieras. Esto mola porque la duración de la pluma se multipica (en el depósito caben varios cartuchos incluso del tamaño largo, que es el que tengo en las Lamy).
 
-También son interesantes las Kaweco, tienen dos modelos, la lilliput (que destaca por ser realmente pequeña) y la Sport (con multitud de acabados) que estarían bien para expandir horizontes.
+También son interesantes las Kaweco, tienen dos modelos, la lilliput (que destaca por ser realmente pequeña) y la Sport (con multitud de acabados) que estarían bien para expandir horizontes
