@@ -7,7 +7,7 @@ comments: true
 permalink: 2020/12/13/Mi-nuevo-MacBook
 ---
 
-Más de un año después de escribir mi último post en el que os hablaba de mi nuevo teclado [Planck EZ](https://ergodox-ez.com/pages/planck), estoy de vuelta por aquí para explicar mi experiencia con el objeto de deseo de todo maquero estos días, un MacBook Pro con el nuevo y flamante chipset de Apple, los M1 con los que los señores de Cupertino inician la transición de Intel a sus propios chips. Pero primero deciros que en cuanto a teclados me he quedado definitivamente en el Planck EZ, mi [Vortex Pok3r](http://www.resistancefutile.com/2015/04/26/y-por-que-me-he-comprado-un-teclado-mecanico-nordico-y-sin-teclas-de-cursor/) lo tengo en un cajón en casa y mi Filco en un cajón en la oficina). Y ahora sí, vamos con todo lo que me ha pasado con el MacBook pro, y cómo he llegado hasta la configuración que tengo actualmente.
+Más de un año después de escribir mi último post en el que os hablaba de mi nuevo teclado [Planck EZ](https://ergodox-ez.com/pages/planck), estoy de vuelta por aquí para explicar mi experiencia con el objeto de deseo de todo maquero estos días, un MacBook Pro con el nuevo y flamante chipset de Apple, los M1 con los que los señores de Cupertino inician la transición de Intel a sus propios chips. Pero primero deciros que en cuanto a teclados me he quedado definitivamente en el Planck EZ, mi [Vortex Pok3r](http://www.resistancefutile.com/2015/04/26/y-por-que-me-he-comprado-un-teclado-mecanico-nordico-y-sin-teclas-de-cursor/) lo tengo en un cajón en casa y mi Filco en un cajón en la oficina). Y ahora sí, vamos con todo lo que me ha pasado con el MacBook Pro, y cómo he llegado hasta la configuración que tengo actualmente.
 
 ## Hace 5 años
 
