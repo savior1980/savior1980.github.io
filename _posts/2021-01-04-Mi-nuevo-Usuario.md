@@ -11,8 +11,7 @@ Os contaba hace unos días sobre mi odisea con el Macbook Pro. Desde 2015 hasta 
 
 El tema es que como comenté, tenía problemas con mi cuenta de iCloud: funcionaba bien iCloud drive, Photos, Music, las apps de la Mac App Store, etc. pero no funcionaban ni Mensajes, ni Facetime, tampoco el handoff de iPhone/iPad, ni de coña el portapapeles universal y la opción de desbloquear con el Apple Watch simplemente había desaparecido. Y bueno tras enredar con el servicio técnico de Apple varios días, he tenido que crear un usuario nuevo en el MacBook y enlazar mi iCloud de nuevo, y ahora todo funciona. 
 
+Hay cosas que cuestan que vuelvan a la normalidad... por ejemplo _homebrew_ (gestor de paquetes para el terminal) y _jekyll_ (CMS basando en estáticos con markdown) no han sido sencillos de recuperar pero ahora que os escribo estas líneas, me doy por satisfecho porque he conseguido que vuelvan a funcionar decentemente y eso que el soporte para M1 de homebrew es un poco... rarito por decirlo de alguna forma. Si alguien está interesado o tiene problemas con ello, que me deje un comentario e intento explicarle las movidas que he tenido y cómo lo he solucionado.
 
 
-## Dentro de 1 semana
 
-Espero que el problema se solucione con el servicio técnico, ellos me han dicho que confíe y que a las malas siempre está la posibilidad de empezar de cero. Y si no tengo suerte, pues tendré que resignarme y con calma ir migrando aplicaciones y carpetas en un usuario nuevo. A parte de esto debería devolver el MacBook de la touchbar borracha, e iniciar un periodo de merecidas vacaciones navideñas hasta el año que viene, que aprovecharé para bueno intentar desconectar un poco y enfocar varios proyectos importantes a nivel laboral.
