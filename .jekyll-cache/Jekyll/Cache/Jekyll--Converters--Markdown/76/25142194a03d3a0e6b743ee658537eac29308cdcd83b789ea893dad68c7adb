@@ -1,0 +1,11 @@
+I"^<p><img src="/assets/zz1743ca7c.jpg" alt="Gmail en formato iPad " title="Gmail en formato iPad " width="500" height="332" class="centro" />Si queréis tener el <em>look</em> que ofrecerá <em>Gmail en su versión para el iPad en vuestro Mac</em>, aquí os enseño un truco para hacerlo.</p>
+
+<p>Como veréis en la captura que acompaña el post o si directamente lo probáis, la versión de Gmail para el iPad se <em>estructura en formato doble panel</em>, donde en el lado izquierdo de la pantalla tenemos la interfaz del correo tal como la vemos en un iPhone y en el lado derecho vemos directamente el correo o la conversación que tengamos seleccionada.</p>
+
+<p>Poner esta interfaz en <em>en Safari es un juego de niños</em>: Basta con ir a las opciones y en la pestaña avanzado clicar el botón “Mostrar el menú de Desarrollo en la barra de menús”. Heho esto accedemos al menú de Desarrollo y ahí,  vamos a Agente de usuario, seleccionamos “Otra…” y ponemos el siguiente texto:</p>
+
+<p><code>Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10</code></p>
+
+<p>Listo, <em>accedemos a Gmail y podemos ver el resultado</em>. En la entrada extendida tenéis el proceso para el resto de navegadores y los enlances a la fuente original donde explica todo el proceso.</p>
+
+:ET

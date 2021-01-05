@@ -1,0 +1,6 @@
+I"7<p><a href="http://seiryu.home.comcast.net/diskspy.html"><img style="float:right; margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://www.macupdate.com/images/icons/9389.png" border="0" alt="" /></a>Una de las cosas que son muy estéticas pero poco prácticas (y un poco molestas) de Apple es que no incluyen ningún LED que muestre las operaciones de lectura/escritura en disco. Además los sonidos que emiten sus discos son bastante tenues, con lo que uno a veces no sabe si realmente “el ordenador trabaja” o no.</p>
+
+<p>Para echarnos una mano está <a href="http://seiryu.home.comcast.net/diskspy.html">DiskSpy</a>, es un software gratuito que dispondrá en el menú dos leds que nos mostrarán las operaciones de lectura y escritura del disco. No obstante Warning: consume ciclos adicionales de CPU contínuamente, con lo que no es una buena idea tenerlo activado en casos que queramos un alto rendimiento de CPU ni cuando se nos esté agotando la batería del portátil :P</p>
+
+<p>(Vía <a href="http://www.macupdate.com/info.php/id/9389">MacUpdate</a>)</p>
+:ET
