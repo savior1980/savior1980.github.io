@@ -30,6 +30,3 @@ Más cosas que tengo que contar y que no me da tiempo ahora mismo: **Vim y Macro
 Más y mejor en el próximo post... que como os podéis imaginar no será pronto (si veis la frecuencia con la que escribo desde hace tiempo... ya os hacéis una idea).
 
 
-
-
-
