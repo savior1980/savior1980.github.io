@@ -47,3 +47,7 @@ Esto es lo más sencillo porque vim existe en múltiples versiones y para todas 
 
 Hay multitud de gente que publica su configuración en github, sus "dotfiles" y yo he ido picando un poco de aquí y un poco de allí. Yo he ido tuneando un poco ese vim y luego con las lecciones aprendidas he adaptado también neovim que es como una evolución de vim y que quizás dé para otro post. Mi configuración ha evolucionado de MacVim (básico sin nada, con vim a pelo), luego instalé VimBox y experimenté un poco con los plugins principales que lleva (desinstalé mogollón que no me servían de nada) y las configuraciones más básicas y más avanzadas, y este vim ya adaptado lo mantengo y todavía lo uso. Y además tengo neovim, con el que estoy escribiendo esto y que lo he adaptado totalmente con las lecciones aprendidas de vim. Uso [dracula](https://draculatheme.com) como theme. 
 
+## Resumen TL;DR
+
+Vim es una herramienta tremenda para editar textos y tocar código. Ocupa poquísimos recursos y sus posibilidades de configuración son infinitas. No vale para todo el mundo, y tiene una curva de aprendizaje muy empinada. Hay mucha documentación y ayudas para que entrar en su uso no sea un calvario. Creo que merece mucho la pena darle una oportunidad.
+
