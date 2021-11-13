@@ -28,7 +28,7 @@ Pues bueno tengo una sesión con varias herramientas que describo a continuació
 [tmux](https://github.com/tmux/tmux)
 
 ## Neovim
-**Neovim** que es una especie de fork de vim hecho en Lua, que añade bastantes opciones al ecosistema de plugins de Vim y que de alguna manera se está volviendo un IDE en toda regla con soporte a los LSP (language server protocol), que sirven para controlar sintoxis y para autocompletar código, de forma similar a como hace pues Visual Studio, o Pycharm o (ponga usted aquí el IDE que más le guste o que conozca).
+**Neovim** que es una especie de fork de vim hecho en Lua, que añade bastantes opciones al ecosistema de plugins de Vim y que de alguna manera se está volviendo un IDE en toda regla con soporte a los LSP (language server protocol), que sirven para controlar sintaxis/coloreado, dar algunas advertencias (linter) y sobretodo para autocompletar código, de forma similar a como hace pues Visual Studio, o Pycharm o (ponga usted aquí el IDE que más le guste o que conozca).
 
 Neovim **es ultraligero, y permanece en una sesión de terminal, es retrocompatible con todo lo que funcione sobre vim y tiene numerosos nuevos plugins** que por lo general (aunque en algunos casos es discutible) mejoran los que hay disponibles para vim. Por ejemplo, Telescope sin ir más lejos es una mejora, almenos para mí vaya y creo que objetivamente es mejor a FZF para búsquedas relativas o _fuzzy_ dentro de un proyecto/directorio. 
 
@@ -46,14 +46,14 @@ Mutt (y su reversión Neomutt más moderna pero basada en el original, un poco c
 Van razonablemente bien, tienen posibilidades de configuración, permiten definir shortcuts y personalización con _themes_.
 
 ### ¿Para qué lo uso?
-**Tener un cliente de correo en el terminal, pues qué queréis que os diga, a mí me funciona bien pero no lo uso como herramienta principal**. Sí lo tengo abierto en la segunda pestaña de mi sesión tmux y lo consulto principalmente para no salir del terminal e ir más rápido con algunos correos que sean o de respuesta muy sencilla o algo muy puntual. También lo uso para borrar correos y clasificar algunos. Pero mi cliente de correo principal sigue siendo [Mailmate](https://freron.com/).
+**Tener un cliente de correo en el terminal, pues qué queréis que os diga, a mí me funciona bien pero no lo uso como herramienta principal**. Sí lo tengo abierto en la segunda pestaña de mi sesión tmux y lo consulto principalmente para no salir del terminal e ir más rápido con algunos correos que sean o de respuesta muy sencilla o algo muy puntual. También lo uso para borrar algunos correos que llegan de forma rápida y clasificar algunos otros rápidamente. Pero, vaya, mi cliente de correo principal sigue siendo [Mailmate](https://freron.com/), no obstante mutt se convierte como en una extensión de este en la consola, cosa que no está nada mal.
 
 ### Enlace oficial
 [Neomutt](https://neomutt.org/) 
 [mutt](http://www.mutt.org/)
 
 ## lf
-**lf es un gestor de archivos que vive en el terminal**. Nace de ranger, otro clásico (bastado en python) y muy similar. **lf** es como una reversión también del programa clásico y más moderno y ligero. Tiene los mismo atajos, bebe de la filosofía vim para los atajos más comunes pero permite configurarlo hasta la saciedad. Y tiene también ofrece soporte para varias herramientas añadidas con las que podrás visualizar detalles de los archivos o tener una previsualización de ellos directamente en el terminal, cosa que nunca está de más. Ahora sí, eso requiere ponerle un poco de cariño a la configuración de la herramienta, no obstante, de saque oye pues ya tienes bastante terreno cubierto y quizás no necesites más. 
+**lf es un gestor de archivos que vive en el terminal**. Nace de ranger, otro clásico (bastado en python) y muy similar. **lf** es como una reversión también del programa clásico y más moderno y ligero. Tiene los mismo atajos, bebe de la filosofía vim para los atajos más comunes pero permite configurarlo hasta la saciedad. Y también ofrece soporte para varias herramientas añadidas con las que podrás visualizar detalles de los archivos o tener una previsualización de ellos directamente en el terminal, cosa que nunca está de más. Ahora sí, eso requiere ponerle un poco de cariño a la configuración de la herramienta, no obstante, de saque oye pues ya tienes bastante terreno cubierto y quizás no necesites más. 
 
 Claro como todo buen gestor de archivos, permite todas las operaciones básicas, como copiar, cortar, pegar, navegar rápidamente, crear carpetas, borrarlas, renombrar archivos... ofrece también selección múltiple y puede lanzar lo que el sistema tenga predefinido para abrir ese archivo. Y, evidentemente, permite usar tu editor de texto favorito dentro del mismo terminal (otra vez Neovim) para abrir y editar los archivos de tipo texto o código. 
 
@@ -81,7 +81,9 @@ Cuando tengo que conectarme a las herramientas o entornos de desarrollo que requ
 ### Enlace al proyecto en github
 [openfortivpn](https://github.com/adrienverge/openfortivpn)
 
-Y hasta aquí las herramientas que más uso en el terminal, y cómo he redescubierto la belleza de usar la consola del sistema y las posibilidades que hay ahí se esconden. Otro día, podemos hacer un poco una revisión de los temas y colores que uso en el terminal, porque no, no se todo en blanco y negro... hay un mundo de color ahí también y grandes posibilidades de personalización en todas estas herramientas, ya sea a través del soporte que ellas mismas ofrecen (caso Neovim o Neomutt por ejemplo) o bien con la integración en la consola y el control que ejerce sobre ella iTerm2. 
+Y hasta aquí las herramientas que más uso en el terminal, y cómo he redescubierto la belleza de usar la consola del sistema y las posibilidades que ahí se esconden. Otro día, podemos hacer un poco una revisión de los temas y colores que uso en el terminal, porque no, no se todo en blanco y negro... hay un mundo de color ahí también y grandes posibilidades de personalización en todas estas herramientas, ya sea a través del soporte que ellas mismas ofrecen (caso Neovim o Neomutt por ejemplo) o bien con la integración en la consola y el control que ejerce sobre ella iTerm2. 
+
+Si usáis el terminal en vuestro día a día, seguro que ya conocíais la mayoría de estas herramientas (y si usáis alguna más compartidla!) y hay muchas más que no he destacado (bat, neofetch, ranger, lynx, pandoc, exa, ...), pero si no, échale un vistazo a lo que te estás perdiendo, igual no sirven para tu día a día, o igual sí, quién sabe, no se pierde nada por probarlo.
 
 
 
