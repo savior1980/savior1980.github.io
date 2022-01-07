@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "iSH app, un Linux en tu iPad"
-date: 2022-01-07 08:280:43 +0100
+date: 2022-01-07 08:28:43 +0100
 categories: paranoia personal
 comments: true
 permalink: 2022/01/07/ish-app-un-inux-en-tu-ipad
