@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resucita por Halloween"
+title: "Mi iPod Photo resucita por Halloween"
 date: 2026-10-31 18:48:43 +0100
 categories: paranoia personal, Apple
 comments: true
